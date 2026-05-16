@@ -1,0 +1,15 @@
+# 1870 - Province1870
+
+# County Title
+title = c_province1870
+
+# Settlements
+max_settlements = 1
+b_barony1870` = tribal
+b_barony1870a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,0 +1,14 @@
+human = {	# This culture group is temporary, just until we can figure out how to subdivide things
+	graphical_cultures = { westerngfx }
+	
+	uncultured_swine = {
+		color = { 1 1 1 }
+		
+		male_names = {
+			Adam
+		}
+		female_names = {
+			Eve
+		}
+	}
+}

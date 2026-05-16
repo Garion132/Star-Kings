@@ -1,0 +1,15 @@
+# 1934 - Province1934
+
+# County Title
+title = c_province1934
+
+# Settlements
+max_settlements = 5
+b_barony1934` = tribal
+b_barony1934a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

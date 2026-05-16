@@ -1,0 +1,2 @@
+Re-export the map in the proper format!
+Grey-ish space is caused by fog that we have to find a way to remove

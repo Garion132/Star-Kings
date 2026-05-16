@@ -1,0 +1,15 @@
+# 1827 - Province1827
+
+# County Title
+title = c_province1827
+
+# Settlements
+max_settlements = 5
+b_barony1827` = tribal
+b_barony1827a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

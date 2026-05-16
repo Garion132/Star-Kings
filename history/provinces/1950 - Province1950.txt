@@ -1,0 +1,15 @@
+# 1950 - Province1950
+
+# County Title
+title = c_province1950
+
+# Settlements
+max_settlements = 6
+b_barony1950` = tribal
+b_barony1950a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

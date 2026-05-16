@@ -1,0 +1,15 @@
+# 1863 - Province1863
+
+# County Title
+title = c_province1863
+
+# Settlements
+max_settlements = 5
+b_barony1863` = tribal
+b_barony1863a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

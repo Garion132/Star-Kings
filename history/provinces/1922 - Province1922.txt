@@ -1,0 +1,15 @@
+# 1922 - Province1922
+
+# County Title
+title = c_province1922
+
+# Settlements
+max_settlements = 5
+b_barony1922` = tribal
+b_barony1922a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

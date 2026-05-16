@@ -1,0 +1,15 @@
+# 1490 - Province1490
+
+# County Title
+title = c_province1490
+
+# Settlements
+max_settlements = 4
+b_barony1490` = tribal
+b_barony1490a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

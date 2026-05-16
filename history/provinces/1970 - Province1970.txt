@@ -1,0 +1,15 @@
+# 1970 - Province1970
+
+# County Title
+title = c_province1970
+
+# Settlements
+max_settlements = 6
+b_barony1970` = tribal
+b_barony1970a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

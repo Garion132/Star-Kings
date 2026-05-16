@@ -1,0 +1,15 @@
+# 1924 - Province1924
+
+# County Title
+title = c_province1924
+
+# Settlements
+max_settlements = 5
+b_barony1924` = tribal
+b_barony1924a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1607 - Province1607
+
+# County Title
+title = c_province1607
+
+# Settlements
+max_settlements = 4
+b_barony1607` = tribal
+b_barony1607a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

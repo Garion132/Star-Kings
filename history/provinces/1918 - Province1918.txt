@@ -1,0 +1,15 @@
+# 1918 - Province1918
+
+# County Title
+title = c_province1918
+
+# Settlements
+max_settlements = 5
+b_barony1918` = tribal
+b_barony1918a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

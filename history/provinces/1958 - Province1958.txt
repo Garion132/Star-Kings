@@ -1,0 +1,15 @@
+# 1958 - Province1958
+
+# County Title
+title = c_province1958
+
+# Settlements
+max_settlements = 6
+b_barony1958` = tribal
+b_barony1958a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

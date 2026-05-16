@@ -1,0 +1,15 @@
+# 1940 - Province1940
+
+# County Title
+title = c_province1940
+
+# Settlements
+max_settlements = 5
+b_barony1940` = tribal
+b_barony1940a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

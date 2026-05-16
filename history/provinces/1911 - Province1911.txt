@@ -1,0 +1,15 @@
+# 1911 - Province1911
+
+# County Title
+title = c_province1911
+
+# Settlements
+max_settlements = 5
+b_barony1911` = tribal
+b_barony1911a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

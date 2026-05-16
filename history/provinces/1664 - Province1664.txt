@@ -1,0 +1,15 @@
+# 1664 - Province1664
+
+# County Title
+title = c_province1664
+
+# Settlements
+max_settlements = 5
+b_barony1664` = tribal
+b_barony1664a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1954 - Province1954
+
+# County Title
+title = c_province1954
+
+# Settlements
+max_settlements = 6
+b_barony1954` = tribal
+b_barony1954a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

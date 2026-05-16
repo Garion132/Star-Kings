@@ -1,6 +1,0 @@
-1.1.1={
-	liege = k_arkanis_regency
-}
-965.1.1={
-	holder = 51000
-}

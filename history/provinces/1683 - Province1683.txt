@@ -1,0 +1,15 @@
+# 1683 - Province1683
+
+# County Title
+title = c_province1683
+
+# Settlements
+max_settlements = 5
+b_barony1683` = tribal
+b_barony1683a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

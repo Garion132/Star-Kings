@@ -1,0 +1,15 @@
+# 2029 - Province2029
+
+# County Title
+title = c_province2029
+
+# Settlements
+max_settlements = 7
+b_barony2029` = tribal
+b_barony2029a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

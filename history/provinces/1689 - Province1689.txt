@@ -1,0 +1,15 @@
+# 1689 - Province1689
+
+# County Title
+title = c_province1689
+
+# Settlements
+max_settlements = 5
+b_barony1689` = tribal
+b_barony1689a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1433 - Province1433
+
+# County Title
+title = c_province1433
+
+# Settlements
+max_settlements = 4
+b_barony1433` = tribal
+b_barony1433a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

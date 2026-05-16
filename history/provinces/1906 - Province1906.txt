@@ -1,0 +1,15 @@
+# 1906 - Province1906
+
+# County Title
+title = c_province1906
+
+# Settlements
+max_settlements = 5
+b_barony1906` = tribal
+b_barony1906a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

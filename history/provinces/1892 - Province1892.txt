@@ -1,0 +1,15 @@
+# 1892 - Province1892
+
+# County Title
+title = c_province1892
+
+# Settlements
+max_settlements = 5
+b_barony1892` = tribal
+b_barony1892a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

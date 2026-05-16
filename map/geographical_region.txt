@@ -1,12 +1,12331 @@
 # Geographical regions
-# Regions can be declared with one or more of the following fields:
-#	duchies = { }, takes duchy title names declared in landed_titles.txt
-#	counties = { }, takes county title names declared in landed_titles.txt
-#	provinces = { }, takes province id numbers declared in /history/provinces
-#	regions = { }, a region can also include other regions, however the subregions needs to be declared before the parent region. 
-#		E.g. If the region world_europe contains the region world_europe_west then world_europe_west needs to be declared as a region before (i.e. higher up in this file) world_europe.
-
-###########################################################################
-# World Regions
-#	These groups are mutually exclusive on the same tier
-###########################################################################
+world_empire0001 = {
+	duchies = {
+		# k_kingdom0001
+		d_duchy0001 
+	}
+}
+world_empire0002 = {
+	duchies = {
+		# k_kingdom0002
+		d_duchy0002 
+	}
+}
+world_empire0003 = {
+	duchies = {
+		# k_kingdom0003
+		d_duchy0003 
+	}
+}
+world_empire0004 = {
+	duchies = {
+		# k_kingdom0004
+		d_duchy0004 
+	}
+}
+world_empire0005 = {
+	duchies = {
+		# k_kingdom0005
+		d_duchy0005 
+	}
+}
+world_empire0006 = {
+	duchies = {
+		# k_kingdom0006
+		d_duchy0006 
+	}
+}
+world_empire0007 = {
+	duchies = {
+		# k_kingdom0007
+		d_duchy0007 
+	}
+}
+world_empire0008 = {
+	duchies = {
+		# k_kingdom0008
+		d_duchy0008 
+	}
+}
+world_empire0009 = {
+	duchies = {
+		# k_kingdom0009
+		d_duchy0009 
+	}
+}
+world_empire0010 = {
+	duchies = {
+		# k_kingdom0010
+		d_duchy0010 
+	}
+}
+world_empire0011 = {
+	duchies = {
+		# k_kingdom0011
+		d_duchy0011 
+	}
+}
+world_empire0012 = {
+	duchies = {
+		# k_kingdom0012
+		d_duchy0012 
+	}
+}
+world_empire0013 = {
+	duchies = {
+		# k_kingdom0013
+		d_duchy0013 
+	}
+}
+world_empire0014 = {
+	duchies = {
+		# k_kingdom0014
+		d_duchy0014 
+	}
+}
+world_empire0015 = {
+	duchies = {
+		# k_kingdom0015
+		d_duchy0015 
+	}
+}
+world_empire0016 = {
+	duchies = {
+		# k_kingdom0016
+		d_duchy0016 
+	}
+}
+world_empire0017 = {
+	duchies = {
+		# k_kingdom0017
+		d_duchy0017 
+	}
+}
+world_empire0018 = {
+	duchies = {
+		# k_kingdom0018
+		d_duchy0018 
+	}
+}
+world_empire0019 = {
+	duchies = {
+		# k_kingdom0019
+		d_duchy0019 
+	}
+}
+world_empire0020 = {
+	duchies = {
+		# k_kingdom0020
+		d_duchy0020 
+	}
+}
+world_empire0021 = {
+	duchies = {
+		# k_kingdom0021
+		d_duchy0021 
+	}
+}
+world_empire0022 = {
+	duchies = {
+		# k_kingdom0022
+		d_duchy0022 
+	}
+}
+world_empire0023 = {
+	duchies = {
+		# k_kingdom0023
+		d_duchy0023 
+	}
+}
+world_empire0024 = {
+	duchies = {
+		# k_kingdom0024
+		d_duchy0024 
+	}
+}
+world_empire0025 = {
+	duchies = {
+		# k_kingdom0025
+		d_duchy0025 
+	}
+}
+world_empire0026 = {
+	duchies = {
+		# k_kingdom0026
+		d_duchy0026 
+	}
+}
+world_empire0027 = {
+	duchies = {
+		# k_kingdom0027
+		d_duchy0027 
+	}
+}
+world_empire0028 = {
+	duchies = {
+		# k_kingdom0028
+		d_duchy0028 
+	}
+}
+world_empire0029 = {
+	duchies = {
+		# k_kingdom0029
+		d_duchy0029 
+	}
+}
+world_empire0030 = {
+	duchies = {
+		# k_kingdom0030
+		d_duchy0030 
+	}
+}
+world_empire0031 = {
+	duchies = {
+		# k_kingdom0031
+		d_duchy0031 
+	}
+}
+world_empire0032 = {
+	duchies = {
+		# k_kingdom0032
+		d_duchy0032 
+	}
+}
+world_empire0033 = {
+	duchies = {
+		# k_kingdom0033
+		d_duchy0033 
+	}
+}
+world_empire0034 = {
+	duchies = {
+		# k_kingdom0034
+		d_duchy0034 
+	}
+}
+world_empire0035 = {
+	duchies = {
+		# k_kingdom0035
+		d_duchy0035 
+	}
+}
+world_empire0036 = {
+	duchies = {
+		# k_kingdom0036
+		d_duchy0036 
+	}
+}
+world_empire0037 = {
+	duchies = {
+		# k_kingdom0037
+		d_duchy0037 
+	}
+}
+world_empire0038 = {
+	duchies = {
+		# k_kingdom0038
+		d_duchy0038 
+	}
+}
+world_empire0039 = {
+	duchies = {
+		# k_kingdom0039
+		d_duchy0039 
+	}
+}
+world_empire0040 = {
+	duchies = {
+		# k_kingdom0040
+		d_duchy0040 
+	}
+}
+world_empire0041 = {
+	duchies = {
+		# k_kingdom0041
+		d_duchy0041 
+	}
+}
+world_empire0042 = {
+	duchies = {
+		# k_kingdom0042
+		d_duchy0042 
+	}
+}
+world_empire0043 = {
+	duchies = {
+		# k_kingdom0043
+		d_duchy0043 
+	}
+}
+world_empire0044 = {
+	duchies = {
+		# k_kingdom0044
+		d_duchy0044 
+	}
+}
+world_empire0045 = {
+	duchies = {
+		# k_kingdom0045
+		d_duchy0045 
+	}
+}
+world_empire0046 = {
+	duchies = {
+		# k_kingdom0046
+		d_duchy0046 
+	}
+}
+world_empire0047 = {
+	duchies = {
+		# k_kingdom0047
+		d_duchy0047 
+	}
+}
+world_empire0048 = {
+	duchies = {
+		# k_kingdom0048
+		d_duchy0048 
+	}
+}
+world_empire0049 = {
+	duchies = {
+		# k_kingdom0049
+		d_duchy0049 
+	}
+}
+world_empire0050 = {
+	duchies = {
+		# k_kingdom0050
+		d_duchy0050 
+	}
+}
+world_empire0051 = {
+	duchies = {
+		# k_kingdom0051
+		d_duchy0051 
+	}
+}
+world_empire0052 = {
+	duchies = {
+		# k_kingdom0052
+		d_duchy0052 
+	}
+}
+world_empire0053 = {
+	duchies = {
+		# k_kingdom0053
+		d_duchy0053 
+	}
+}
+world_empire0054 = {
+	duchies = {
+		# k_kingdom0054
+		d_duchy0054 
+	}
+}
+world_empire0055 = {
+	duchies = {
+		# k_kingdom0055
+		d_duchy0055 
+	}
+}
+world_empire0056 = {
+	duchies = {
+		# k_kingdom0056
+		d_duchy0056 
+	}
+}
+world_empire0057 = {
+	duchies = {
+		# k_kingdom0057
+		d_duchy0057 
+	}
+}
+world_empire0058 = {
+	duchies = {
+		# k_kingdom0058
+		d_duchy0058 
+	}
+}
+world_empire0059 = {
+	duchies = {
+		# k_kingdom0059
+		d_duchy0059 
+	}
+}
+world_empire0060 = {
+	duchies = {
+		# k_kingdom0060
+		d_duchy0060 
+	}
+}
+world_empire0061 = {
+	duchies = {
+		# k_kingdom0061
+		d_duchy0061 
+	}
+}
+world_empire0062 = {
+	duchies = {
+		# k_kingdom0062
+		d_duchy0062 
+	}
+}
+world_empire0063 = {
+	duchies = {
+		# k_kingdom0063
+		d_duchy0063 
+	}
+}
+world_empire0064 = {
+	duchies = {
+		# k_kingdom0064
+		d_duchy0064 
+	}
+}
+world_empire0065 = {
+	duchies = {
+		# k_kingdom0065
+		d_duchy0065 
+	}
+}
+world_empire0066 = {
+	duchies = {
+		# k_kingdom0066
+		d_duchy0066 
+	}
+}
+world_empire0067 = {
+	duchies = {
+		# k_kingdom0067
+		d_duchy0067 
+	}
+}
+world_empire0068 = {
+	duchies = {
+		# k_kingdom0068
+		d_duchy0068 
+	}
+}
+world_empire0069 = {
+	duchies = {
+		# k_kingdom0069
+		d_duchy0069 
+	}
+}
+world_empire0070 = {
+	duchies = {
+		# k_kingdom0070
+		d_duchy0070 
+	}
+}
+world_empire0071 = {
+	duchies = {
+		# k_kingdom0071
+		d_duchy0071 
+	}
+}
+world_empire0072 = {
+	duchies = {
+		# k_kingdom0072
+		d_duchy0072 
+	}
+}
+world_empire0073 = {
+	duchies = {
+		# k_kingdom0073
+		d_duchy0073 
+	}
+}
+world_empire0074 = {
+	duchies = {
+		# k_kingdom0074
+		d_duchy0074 
+	}
+}
+world_empire0075 = {
+	duchies = {
+		# k_kingdom0075
+		d_duchy0075 
+	}
+}
+world_empire0076 = {
+	duchies = {
+		# k_kingdom0076
+		d_duchy0076 
+	}
+}
+world_empire0077 = {
+	duchies = {
+		# k_kingdom0077
+		d_duchy0077 
+	}
+}
+world_empire0078 = {
+	duchies = {
+		# k_kingdom0078
+		d_duchy0078 
+	}
+}
+world_empire0079 = {
+	duchies = {
+		# k_kingdom0079
+		d_duchy0079 
+	}
+}
+world_empire0080 = {
+	duchies = {
+		# k_kingdom0080
+		d_duchy0080 
+	}
+}
+world_empire0081 = {
+	duchies = {
+		# k_kingdom0081
+		d_duchy0081 
+	}
+}
+world_empire0082 = {
+	duchies = {
+		# k_kingdom0082
+		d_duchy0082 
+	}
+}
+world_empire0083 = {
+	duchies = {
+		# k_kingdom0083
+		d_duchy0083 
+	}
+}
+world_empire0084 = {
+	duchies = {
+		# k_kingdom0084
+		d_duchy0084 
+	}
+}
+world_empire0085 = {
+	duchies = {
+		# k_kingdom0085
+		d_duchy0085 
+	}
+}
+world_empire0086 = {
+	duchies = {
+		# k_kingdom0086
+		d_duchy0086 
+	}
+}
+world_empire0087 = {
+	duchies = {
+		# k_kingdom0087
+		d_duchy0087 
+	}
+}
+world_empire0088 = {
+	duchies = {
+		# k_kingdom0088
+		d_duchy0088 
+	}
+}
+world_empire0089 = {
+	duchies = {
+		# k_kingdom0089
+		d_duchy0089 
+	}
+}
+world_empire0090 = {
+	duchies = {
+		# k_kingdom0090
+		d_duchy0090 
+	}
+}
+world_empire0091 = {
+	duchies = {
+		# k_kingdom0091
+		d_duchy0091 
+	}
+}
+world_empire0092 = {
+	duchies = {
+		# k_kingdom0092
+		d_duchy0092 
+	}
+}
+world_empire0093 = {
+	duchies = {
+		# k_kingdom0093
+		d_duchy0093 
+	}
+}
+world_empire0094 = {
+	duchies = {
+		# k_kingdom0094
+		d_duchy0094 
+	}
+}
+world_empire0095 = {
+	duchies = {
+		# k_kingdom0095
+		d_duchy0095 
+	}
+}
+world_empire0096 = {
+	duchies = {
+		# k_kingdom0096
+		d_duchy0096 
+	}
+}
+world_empire0097 = {
+	duchies = {
+		# k_kingdom0097
+		d_duchy0097 
+	}
+}
+world_empire0098 = {
+	duchies = {
+		# k_kingdom0098
+		d_duchy0098 
+	}
+}
+world_empire0099 = {
+	duchies = {
+		# k_kingdom0099
+		d_duchy0099 
+	}
+}
+world_empire0100 = {
+	duchies = {
+		# k_kingdom0100
+		d_duchy0100 
+	}
+}
+world_empire0101 = {
+	duchies = {
+		# k_kingdom0101
+		d_duchy0101 
+	}
+}
+world_empire0102 = {
+	duchies = {
+		# k_kingdom0102
+		d_duchy0102 
+	}
+}
+world_empire0103 = {
+	duchies = {
+		# k_kingdom0103
+		d_duchy0103 
+	}
+}
+world_empire0104 = {
+	duchies = {
+		# k_kingdom0104
+		d_duchy0104 
+	}
+}
+world_empire0105 = {
+	duchies = {
+		# k_kingdom0105
+		d_duchy0105 
+	}
+}
+world_empire0106 = {
+	duchies = {
+		# k_kingdom0106
+		d_duchy0106 
+	}
+}
+world_empire0107 = {
+	duchies = {
+		# k_kingdom0107
+		d_duchy0107 
+	}
+}
+world_empire0108 = {
+	duchies = {
+		# k_kingdom0108
+		d_duchy0108 
+	}
+}
+world_empire0109 = {
+	duchies = {
+		# k_kingdom0109
+		d_duchy0109 
+	}
+}
+world_empire0110 = {
+	duchies = {
+		# k_kingdom0110
+		d_duchy0110 
+	}
+}
+world_empire0111 = {
+	duchies = {
+		# k_kingdom0111
+		d_duchy0111 
+	}
+}
+world_empire0112 = {
+	duchies = {
+		# k_kingdom0112
+		d_duchy0112 
+	}
+}
+world_empire0113 = {
+	duchies = {
+		# k_kingdom0113
+		d_duchy0113 
+	}
+}
+world_empire0114 = {
+	duchies = {
+		# k_kingdom0114
+		d_duchy0114 
+	}
+}
+world_empire0115 = {
+	duchies = {
+		# k_kingdom0115
+		d_duchy0115 
+	}
+}
+world_empire0116 = {
+	duchies = {
+		# k_kingdom0116
+		d_duchy0116 
+	}
+}
+world_empire0117 = {
+	duchies = {
+		# k_kingdom0117
+		d_duchy0117 
+	}
+}
+world_empire0118 = {
+	duchies = {
+		# k_kingdom0118
+		d_duchy0118 
+	}
+}
+world_empire0119 = {
+	duchies = {
+		# k_kingdom0119
+		d_duchy0119 
+	}
+}
+world_empire0120 = {
+	duchies = {
+		# k_kingdom0120
+		d_duchy0120 
+	}
+}
+world_empire0121 = {
+	duchies = {
+		# k_kingdom0121
+		d_duchy0121 
+	}
+}
+world_empire0122 = {
+	duchies = {
+		# k_kingdom0122
+		d_duchy0122 
+	}
+}
+world_empire0123 = {
+	duchies = {
+		# k_kingdom0123
+		d_duchy0123 
+	}
+}
+world_empire0124 = {
+	duchies = {
+		# k_kingdom0124
+		d_duchy0124 
+	}
+}
+world_empire0125 = {
+	duchies = {
+		# k_kingdom0125
+		d_duchy0125 
+	}
+}
+world_empire0126 = {
+	duchies = {
+		# k_kingdom0126
+		d_duchy0126 
+	}
+}
+world_empire0127 = {
+	duchies = {
+		# k_kingdom0127
+		d_duchy0127 
+	}
+}
+world_empire0128 = {
+	duchies = {
+		# k_kingdom0128
+		d_duchy0128 
+	}
+}
+world_empire0129 = {
+	duchies = {
+		# k_kingdom0129
+		d_duchy0129 
+	}
+}
+world_empire0130 = {
+	duchies = {
+		# k_kingdom0130
+		d_duchy0130 
+	}
+}
+world_empire0131 = {
+	duchies = {
+		# k_kingdom0131
+		d_duchy0131 
+	}
+}
+world_empire0132 = {
+	duchies = {
+		# k_kingdom0132
+		d_duchy0132 
+	}
+}
+world_empire0133 = {
+	duchies = {
+		# k_kingdom0133
+		d_duchy0133 
+	}
+}
+world_empire0134 = {
+	duchies = {
+		# k_kingdom0134
+		d_duchy0134 
+	}
+}
+world_empire0135 = {
+	duchies = {
+		# k_kingdom0135
+		d_duchy0135 
+	}
+}
+world_empire0136 = {
+	duchies = {
+		# k_kingdom0136
+		d_duchy0136 
+	}
+}
+world_empire0137 = {
+	duchies = {
+		# k_kingdom0137
+		d_duchy0137 
+	}
+}
+world_empire0138 = {
+	duchies = {
+		# k_kingdom0138
+		d_duchy0138 
+	}
+}
+world_empire0139 = {
+	duchies = {
+		# k_kingdom0139
+		d_duchy0139 
+	}
+}
+world_empire0140 = {
+	duchies = {
+		# k_kingdom0140
+		d_duchy0140 
+	}
+}
+world_empire0141 = {
+	duchies = {
+		# k_kingdom0141
+		d_duchy0141 
+	}
+}
+world_empire0142 = {
+	duchies = {
+		# k_kingdom0142
+		d_duchy0142 
+	}
+}
+world_empire0143 = {
+	duchies = {
+		# k_kingdom0143
+		d_duchy0143 
+	}
+}
+world_empire0144 = {
+	duchies = {
+		# k_kingdom0144
+		d_duchy0144 
+	}
+}
+world_empire0145 = {
+	duchies = {
+		# k_kingdom0145
+		d_duchy0145 
+	}
+}
+world_empire0146 = {
+	duchies = {
+		# k_kingdom0146
+		d_duchy0146 
+	}
+}
+world_empire0147 = {
+	duchies = {
+		# k_kingdom0147
+		d_duchy0147 
+	}
+}
+world_empire0148 = {
+	duchies = {
+		# k_kingdom0148
+		d_duchy0148 
+	}
+}
+world_empire0149 = {
+	duchies = {
+		# k_kingdom0149
+		d_duchy0149 
+	}
+}
+world_empire0150 = {
+	duchies = {
+		# k_kingdom0150
+		d_duchy0150 
+	}
+}
+world_empire0151 = {
+	duchies = {
+		# k_kingdom0151
+		d_duchy0151 
+	}
+}
+world_empire0152 = {
+	duchies = {
+		# k_kingdom0152
+		d_duchy0152 
+	}
+}
+world_empire0153 = {
+	duchies = {
+		# k_kingdom0153
+		d_duchy0153 
+	}
+}
+world_empire0154 = {
+	duchies = {
+		# k_kingdom0154
+		d_duchy0154 
+	}
+}
+world_empire0155 = {
+	duchies = {
+		# k_kingdom0155
+		d_duchy0155 
+	}
+}
+world_empire0156 = {
+	duchies = {
+		# k_kingdom0156
+		d_duchy0156 
+	}
+}
+world_empire0157 = {
+	duchies = {
+		# k_kingdom0157
+		d_duchy0157 
+	}
+}
+world_empire0158 = {
+	duchies = {
+		# k_kingdom0158
+		d_duchy0158 
+	}
+}
+world_empire0159 = {
+	duchies = {
+		# k_kingdom0159
+		d_duchy0159 
+	}
+}
+world_empire0160 = {
+	duchies = {
+		# k_kingdom0160
+		d_duchy0160 
+	}
+}
+world_empire0161 = {
+	duchies = {
+		# k_kingdom0161
+		d_duchy0161 
+	}
+}
+world_empire0162 = {
+	duchies = {
+		# k_kingdom0162
+		d_duchy0162 
+	}
+}
+world_empire0163 = {
+	duchies = {
+		# k_kingdom0163
+		d_duchy0163 
+	}
+}
+world_empire0164 = {
+	duchies = {
+		# k_kingdom0164
+		d_duchy0164 
+	}
+}
+world_empire0165 = {
+	duchies = {
+		# k_kingdom0165
+		d_duchy0165 
+	}
+}
+world_empire0166 = {
+	duchies = {
+		# k_kingdom0166
+		d_duchy0166 
+	}
+}
+world_empire0167 = {
+	duchies = {
+		# k_kingdom0167
+		d_duchy0167 
+	}
+}
+world_empire0168 = {
+	duchies = {
+		# k_kingdom0168
+		d_duchy0168 
+	}
+}
+world_empire0169 = {
+	duchies = {
+		# k_kingdom0169
+		d_duchy0169 
+	}
+}
+world_empire0170 = {
+	duchies = {
+		# k_kingdom0170
+		d_duchy0170 
+	}
+}
+world_empire0171 = {
+	duchies = {
+		# k_kingdom0171
+		d_duchy0171 
+	}
+}
+world_empire0172 = {
+	duchies = {
+		# k_kingdom0172
+		d_duchy0172 
+	}
+}
+world_empire0173 = {
+	duchies = {
+		# k_kingdom0173
+		d_duchy0173 
+	}
+}
+world_empire0174 = {
+	duchies = {
+		# k_kingdom0174
+		d_duchy0174 
+	}
+}
+world_empire0175 = {
+	duchies = {
+		# k_kingdom0175
+		d_duchy0175 
+	}
+}
+world_empire0176 = {
+	duchies = {
+		# k_kingdom0176
+		d_duchy0176 
+	}
+}
+world_empire0177 = {
+	duchies = {
+		# k_kingdom0177
+		d_duchy0177 
+	}
+}
+world_empire0178 = {
+	duchies = {
+		# k_kingdom0178
+		d_duchy0178 
+	}
+}
+world_empire0179 = {
+	duchies = {
+		# k_kingdom0179
+		d_duchy0179 
+	}
+}
+world_empire0180 = {
+	duchies = {
+		# k_kingdom0180
+		d_duchy0180 
+	}
+}
+world_empire0181 = {
+	duchies = {
+		# k_kingdom0181
+		d_duchy0181 
+	}
+}
+world_empire0182 = {
+	duchies = {
+		# k_kingdom0182
+		d_duchy0182 
+	}
+}
+world_empire0183 = {
+	duchies = {
+		# k_kingdom0183
+		d_duchy0183 
+	}
+}
+world_empire0184 = {
+	duchies = {
+		# k_kingdom0184
+		d_duchy0184 
+	}
+}
+world_empire0185 = {
+	duchies = {
+		# k_kingdom0185
+		d_duchy0185 
+	}
+}
+world_empire0186 = {
+	duchies = {
+		# k_kingdom0186
+		d_duchy0186 
+	}
+}
+world_empire0187 = {
+	duchies = {
+		# k_kingdom0187
+		d_duchy0187 
+	}
+}
+world_empire0188 = {
+	duchies = {
+		# k_kingdom0188
+		d_duchy0188 
+	}
+}
+world_empire0189 = {
+	duchies = {
+		# k_kingdom0189
+		d_duchy0189 
+	}
+}
+world_empire0190 = {
+	duchies = {
+		# k_kingdom0190
+		d_duchy0190 
+	}
+}
+world_empire0191 = {
+	duchies = {
+		# k_kingdom0191
+		d_duchy0191 
+	}
+}
+world_empire0192 = {
+	duchies = {
+		# k_kingdom0192
+		d_duchy0192 
+	}
+}
+world_empire0193 = {
+	duchies = {
+		# k_kingdom0193
+		d_duchy0193 
+	}
+}
+world_empire0194 = {
+	duchies = {
+		# k_kingdom0194
+		d_duchy0194 
+	}
+}
+world_empire0195 = {
+	duchies = {
+		# k_kingdom0195
+		d_duchy0195 
+	}
+}
+world_empire0196 = {
+	duchies = {
+		# k_kingdom0196
+		d_duchy0196 
+	}
+}
+world_empire0197 = {
+	duchies = {
+		# k_kingdom0197
+		d_duchy0197 
+	}
+}
+world_empire0198 = {
+	duchies = {
+		# k_kingdom0198
+		d_duchy0198 
+	}
+}
+world_empire0199 = {
+	duchies = {
+		# k_kingdom0199
+		d_duchy0199 
+	}
+}
+world_empire0200 = {
+	duchies = {
+		# k_kingdom0200
+		d_duchy0200 
+	}
+}
+world_empire0201 = {
+	duchies = {
+		# k_kingdom0201
+		d_duchy0201 
+	}
+}
+world_empire0202 = {
+	duchies = {
+		# k_kingdom0202
+		d_duchy0202 
+	}
+}
+world_empire0203 = {
+	duchies = {
+		# k_kingdom0203
+		d_duchy0203 
+	}
+}
+world_empire0204 = {
+	duchies = {
+		# k_kingdom0204
+		d_duchy0204 
+	}
+}
+world_empire0205 = {
+	duchies = {
+		# k_kingdom0205
+		d_duchy0205 
+	}
+}
+world_empire0206 = {
+	duchies = {
+		# k_kingdom0206
+		d_duchy0206 
+	}
+}
+world_empire0207 = {
+	duchies = {
+		# k_kingdom0207
+		d_duchy0207 
+	}
+}
+world_empire0208 = {
+	duchies = {
+		# k_kingdom0208
+		d_duchy0208 
+	}
+}
+world_empire0209 = {
+	duchies = {
+		# k_kingdom0209
+		d_duchy0209 
+	}
+}
+world_empire0210 = {
+	duchies = {
+		# k_kingdom0210
+		d_duchy0210 
+	}
+}
+world_empire0211 = {
+	duchies = {
+		# k_kingdom0211
+		d_duchy0211 
+	}
+}
+world_empire0212 = {
+	duchies = {
+		# k_kingdom0212
+		d_duchy0212 
+	}
+}
+world_empire0213 = {
+	duchies = {
+		# k_kingdom0213
+		d_duchy0213 
+	}
+}
+world_empire0214 = {
+	duchies = {
+		# k_kingdom0214
+		d_duchy0214 
+	}
+}
+world_empire0215 = {
+	duchies = {
+		# k_kingdom0215
+		d_duchy0215 
+	}
+}
+world_empire0216 = {
+	duchies = {
+		# k_kingdom0216
+		d_duchy0216 
+	}
+}
+world_empire0217 = {
+	duchies = {
+		# k_kingdom0217
+		d_duchy0217 
+	}
+}
+world_empire0218 = {
+	duchies = {
+		# k_kingdom0218
+		d_duchy0218 
+	}
+}
+world_empire0219 = {
+	duchies = {
+		# k_kingdom0219
+		d_duchy0219 
+	}
+}
+world_empire0220 = {
+	duchies = {
+		# k_kingdom0220
+		d_duchy0220 
+	}
+}
+world_empire0221 = {
+	duchies = {
+		# k_kingdom0221
+		d_duchy0221 
+	}
+}
+world_empire0222 = {
+	duchies = {
+		# k_kingdom0222
+		d_duchy0222 
+	}
+}
+world_empire0223 = {
+	duchies = {
+		# k_kingdom0223
+		d_duchy0223 
+	}
+}
+world_empire0224 = {
+	duchies = {
+		# k_kingdom0224
+		d_duchy0224 
+	}
+}
+world_empire0225 = {
+	duchies = {
+		# k_kingdom0225
+		d_duchy0225 
+	}
+}
+world_empire0226 = {
+	duchies = {
+		# k_kingdom0226
+		d_duchy0226 
+	}
+}
+world_empire0227 = {
+	duchies = {
+		# k_kingdom0227
+		d_duchy0227 
+	}
+}
+world_empire0228 = {
+	duchies = {
+		# k_kingdom0228
+		d_duchy0228 
+	}
+}
+world_empire0229 = {
+	duchies = {
+		# k_kingdom0229
+		d_duchy0229 
+	}
+}
+world_empire0230 = {
+	duchies = {
+		# k_kingdom0230
+		d_duchy0230 
+	}
+}
+world_empire0231 = {
+	duchies = {
+		# k_kingdom0231
+		d_duchy0231 
+	}
+}
+world_empire0232 = {
+	duchies = {
+		# k_kingdom0232
+		d_duchy0232 
+	}
+}
+world_empire0233 = {
+	duchies = {
+		# k_kingdom0233
+		d_duchy0233 
+	}
+}
+world_empire0234 = {
+	duchies = {
+		# k_kingdom0234
+		d_duchy0234 
+	}
+}
+world_empire0235 = {
+	duchies = {
+		# k_kingdom0235
+		d_duchy0235 
+	}
+}
+world_empire0236 = {
+	duchies = {
+		# k_kingdom0236
+		d_duchy0236 
+	}
+}
+world_empire0237 = {
+	duchies = {
+		# k_kingdom0237
+		d_duchy0237 
+	}
+}
+world_empire0238 = {
+	duchies = {
+		# k_kingdom0238
+		d_duchy0238 
+	}
+}
+world_empire0239 = {
+	duchies = {
+		# k_kingdom0239
+		d_duchy0239 
+	}
+}
+world_empire0240 = {
+	duchies = {
+		# k_kingdom0240
+		d_duchy0240 
+	}
+}
+world_empire0241 = {
+	duchies = {
+		# k_kingdom0241
+		d_duchy0241 
+	}
+}
+world_empire0242 = {
+	duchies = {
+		# k_kingdom0242
+		d_duchy0242 
+	}
+}
+world_empire0243 = {
+	duchies = {
+		# k_kingdom0243
+		d_duchy0243 
+	}
+}
+world_empire0244 = {
+	duchies = {
+		# k_kingdom0244
+		d_duchy0244 
+	}
+}
+world_empire0245 = {
+	duchies = {
+		# k_kingdom0245
+		d_duchy0245 
+	}
+}
+world_empire0246 = {
+	duchies = {
+		# k_kingdom0246
+		d_duchy0246 
+	}
+}
+world_empire0247 = {
+	duchies = {
+		# k_kingdom0247
+		d_duchy0247 
+	}
+}
+world_empire0248 = {
+	duchies = {
+		# k_kingdom0248
+		d_duchy0248 
+	}
+}
+world_empire0249 = {
+	duchies = {
+		# k_kingdom0249
+		d_duchy0249 
+	}
+}
+world_empire0250 = {
+	duchies = {
+		# k_kingdom0250
+		d_duchy0250 
+	}
+}
+world_empire0251 = {
+	duchies = {
+		# k_kingdom0251
+		d_duchy0251 
+	}
+}
+world_empire0252 = {
+	duchies = {
+		# k_kingdom0252
+		d_duchy0252 
+	}
+}
+world_empire0253 = {
+	duchies = {
+		# k_kingdom0253
+		d_duchy0253 
+	}
+}
+world_empire0254 = {
+	duchies = {
+		# k_kingdom0254
+		d_duchy0254 
+	}
+}
+world_empire0255 = {
+	duchies = {
+		# k_kingdom0255
+		d_duchy0255 
+	}
+}
+world_empire0256 = {
+	duchies = {
+		# k_kingdom0256
+		d_duchy0256 
+	}
+}
+world_empire0257 = {
+	duchies = {
+		# k_kingdom0257
+		d_duchy0257 
+	}
+}
+world_empire0258 = {
+	duchies = {
+		# k_kingdom0258
+		d_duchy0258 
+	}
+}
+world_empire0259 = {
+	duchies = {
+		# k_kingdom0259
+		d_duchy0259 
+	}
+}
+world_empire0260 = {
+	duchies = {
+		# k_kingdom0260
+		d_duchy0260 
+	}
+}
+world_empire0261 = {
+	duchies = {
+		# k_kingdom0261
+		d_duchy0261 
+	}
+}
+world_empire0262 = {
+	duchies = {
+		# k_kingdom0262
+		d_duchy0262 
+	}
+}
+world_empire0263 = {
+	duchies = {
+		# k_kingdom0263
+		d_duchy0263 
+	}
+}
+world_empire0264 = {
+	duchies = {
+		# k_kingdom0264
+		d_duchy0264 
+	}
+}
+world_empire0265 = {
+	duchies = {
+		# k_kingdom0265
+		d_duchy0265 
+	}
+}
+world_empire0266 = {
+	duchies = {
+		# k_kingdom0266
+		d_duchy0266 
+	}
+}
+world_empire0267 = {
+	duchies = {
+		# k_kingdom0267
+		d_duchy0267 
+	}
+}
+world_empire0268 = {
+	duchies = {
+		# k_kingdom0268
+		d_duchy0268 
+	}
+}
+world_empire0269 = {
+	duchies = {
+		# k_kingdom0269
+		d_duchy0269 
+	}
+}
+world_empire0270 = {
+	duchies = {
+		# k_kingdom0270
+		d_duchy0270 
+	}
+}
+world_empire0271 = {
+	duchies = {
+		# k_kingdom0271
+		d_duchy0271 
+	}
+}
+world_empire0272 = {
+	duchies = {
+		# k_kingdom0272
+		d_duchy0272 
+	}
+}
+world_empire0273 = {
+	duchies = {
+		# k_kingdom0273
+		d_duchy0273 
+	}
+}
+world_empire0274 = {
+	duchies = {
+		# k_kingdom0274
+		d_duchy0274 
+	}
+}
+world_empire0275 = {
+	duchies = {
+		# k_kingdom0275
+		d_duchy0275 
+	}
+}
+world_empire0276 = {
+	duchies = {
+		# k_kingdom0276
+		d_duchy0276 
+	}
+}
+world_empire0277 = {
+	duchies = {
+		# k_kingdom0277
+		d_duchy0277 
+	}
+}
+world_empire0278 = {
+	duchies = {
+		# k_kingdom0278
+		d_duchy0278 
+	}
+}
+world_empire0279 = {
+	duchies = {
+		# k_kingdom0279
+		d_duchy0279 
+	}
+}
+world_empire0280 = {
+	duchies = {
+		# k_kingdom0280
+		d_duchy0280 
+	}
+}
+world_empire0281 = {
+	duchies = {
+		# k_kingdom0281
+		d_duchy0281 
+	}
+}
+world_empire0282 = {
+	duchies = {
+		# k_kingdom0282
+		d_duchy0282 
+	}
+}
+world_empire0283 = {
+	duchies = {
+		# k_kingdom0283
+		d_duchy0283 
+	}
+}
+world_empire0284 = {
+	duchies = {
+		# k_kingdom0284
+		d_duchy0284 
+	}
+}
+world_empire0285 = {
+	duchies = {
+		# k_kingdom0285
+		d_duchy0285 
+	}
+}
+world_empire0286 = {
+	duchies = {
+		# k_kingdom0286
+		d_duchy0286 
+	}
+}
+world_empire0287 = {
+	duchies = {
+		# k_kingdom0287
+		d_duchy0287 
+	}
+}
+world_empire0288 = {
+	duchies = {
+		# k_kingdom0288
+		d_duchy0288 
+	}
+}
+world_empire0289 = {
+	duchies = {
+		# k_kingdom0289
+		d_duchy0289 
+	}
+}
+world_empire0290 = {
+	duchies = {
+		# k_kingdom0290
+		d_duchy0290 
+	}
+}
+world_empire0291 = {
+	duchies = {
+		# k_kingdom0291
+		d_duchy0291 
+	}
+}
+world_empire0292 = {
+	duchies = {
+		# k_kingdom0292
+		d_duchy0292 
+	}
+}
+world_empire0293 = {
+	duchies = {
+		# k_kingdom0293
+		d_duchy0293 
+	}
+}
+world_empire0294 = {
+	duchies = {
+		# k_kingdom0294
+		d_duchy0294 
+	}
+}
+world_empire0295 = {
+	duchies = {
+		# k_kingdom0295
+		d_duchy0295 
+	}
+}
+world_empire0296 = {
+	duchies = {
+		# k_kingdom0296
+		d_duchy0296 
+	}
+}
+world_empire0297 = {
+	duchies = {
+		# k_kingdom0297
+		d_duchy0297 
+	}
+}
+world_empire0298 = {
+	duchies = {
+		# k_kingdom0298
+		d_duchy0298 
+	}
+}
+world_empire0299 = {
+	duchies = {
+		# k_kingdom0299
+		d_duchy0299 
+	}
+}
+world_empire0300 = {
+	duchies = {
+		# k_kingdom0300
+		d_duchy0300 
+	}
+}
+world_empire0301 = {
+	duchies = {
+		# k_kingdom0301
+		d_duchy0301 
+	}
+}
+world_empire0302 = {
+	duchies = {
+		# k_kingdom0302
+		d_duchy0302 
+	}
+}
+world_empire0303 = {
+	duchies = {
+		# k_kingdom0303
+		d_duchy0303 
+	}
+}
+world_empire0304 = {
+	duchies = {
+		# k_kingdom0304
+		d_duchy0304 
+	}
+}
+world_empire0305 = {
+	duchies = {
+		# k_kingdom0305
+		d_duchy0305 
+	}
+}
+world_empire0306 = {
+	duchies = {
+		# k_kingdom0306
+		d_duchy0306 
+	}
+}
+world_empire0307 = {
+	duchies = {
+		# k_kingdom0307
+		d_duchy0307 
+	}
+}
+world_empire0308 = {
+	duchies = {
+		# k_kingdom0308
+		d_duchy0308 
+	}
+}
+world_empire0309 = {
+	duchies = {
+		# k_kingdom0309
+		d_duchy0309 
+	}
+}
+world_empire0310 = {
+	duchies = {
+		# k_kingdom0310
+		d_duchy0310 
+	}
+}
+world_empire0311 = {
+	duchies = {
+		# k_kingdom0311
+		d_duchy0311 
+	}
+}
+world_empire0312 = {
+	duchies = {
+		# k_kingdom0312
+		d_duchy0312 
+	}
+}
+world_empire0313 = {
+	duchies = {
+		# k_kingdom0313
+		d_duchy0313 
+	}
+}
+world_empire0314 = {
+	duchies = {
+		# k_kingdom0314
+		d_duchy0314 
+	}
+}
+world_empire0315 = {
+	duchies = {
+		# k_kingdom0315
+		d_duchy0315 
+	}
+}
+world_empire0316 = {
+	duchies = {
+		# k_kingdom0316
+		d_duchy0316 
+	}
+}
+world_empire0317 = {
+	duchies = {
+		# k_kingdom0317
+		d_duchy0317 
+	}
+}
+world_empire0318 = {
+	duchies = {
+		# k_kingdom0318
+		d_duchy0318 
+	}
+}
+world_empire0319 = {
+	duchies = {
+		# k_kingdom0319
+		d_duchy0319 
+	}
+}
+world_empire0320 = {
+	duchies = {
+		# k_kingdom0320
+		d_duchy0320 
+	}
+}
+world_empire0321 = {
+	duchies = {
+		# k_kingdom0321
+		d_duchy0321 
+	}
+}
+world_empire0322 = {
+	duchies = {
+		# k_kingdom0322
+		d_duchy0322 
+	}
+}
+world_empire0323 = {
+	duchies = {
+		# k_kingdom0323
+		d_duchy0323 
+	}
+}
+world_empire0324 = {
+	duchies = {
+		# k_kingdom0324
+		d_duchy0324 
+	}
+}
+world_empire0325 = {
+	duchies = {
+		# k_kingdom0325
+		d_duchy0325 
+	}
+}
+world_empire0326 = {
+	duchies = {
+		# k_kingdom0326
+		d_duchy0326 
+	}
+}
+world_empire0327 = {
+	duchies = {
+		# k_kingdom0327
+		d_duchy0327 
+	}
+}
+world_empire0328 = {
+	duchies = {
+		# k_kingdom0328
+		d_duchy0328 
+	}
+}
+world_empire0329 = {
+	duchies = {
+		# k_kingdom0329
+		d_duchy0329 
+	}
+}
+world_empire0330 = {
+	duchies = {
+		# k_kingdom0330
+		d_duchy0330 
+	}
+}
+world_empire0331 = {
+	duchies = {
+		# k_kingdom0331
+		d_duchy0331 
+	}
+}
+world_empire0332 = {
+	duchies = {
+		# k_kingdom0332
+		d_duchy0332 
+	}
+}
+world_empire0333 = {
+	duchies = {
+		# k_kingdom0333
+		d_duchy0333 
+	}
+}
+world_empire0334 = {
+	duchies = {
+		# k_kingdom0334
+		d_duchy0334 
+	}
+}
+world_empire0335 = {
+	duchies = {
+		# k_kingdom0335
+		d_duchy0335 
+	}
+}
+world_empire0336 = {
+	duchies = {
+		# k_kingdom0336
+		d_duchy0336 
+	}
+}
+world_empire0337 = {
+	duchies = {
+		# k_kingdom0337
+		d_duchy0337 
+	}
+}
+world_empire0338 = {
+	duchies = {
+		# k_kingdom0338
+		d_duchy0338 
+	}
+}
+world_empire0339 = {
+	duchies = {
+		# k_kingdom0339
+		d_duchy0339 
+	}
+}
+world_empire0340 = {
+	duchies = {
+		# k_kingdom0340
+		d_duchy0340 
+	}
+}
+world_empire0341 = {
+	duchies = {
+		# k_kingdom0341
+		d_duchy0341 
+	}
+}
+world_empire0342 = {
+	duchies = {
+		# k_kingdom0342
+		d_duchy0342 
+	}
+}
+world_empire0343 = {
+	duchies = {
+		# k_kingdom0343
+		d_duchy0343 
+	}
+}
+world_empire0344 = {
+	duchies = {
+		# k_kingdom0344
+		d_duchy0344 
+	}
+}
+world_empire0345 = {
+	duchies = {
+		# k_kingdom0345
+		d_duchy0345 
+	}
+}
+world_empire0346 = {
+	duchies = {
+		# k_kingdom0346
+		d_duchy0346 
+	}
+}
+world_empire0347 = {
+	duchies = {
+		# k_kingdom0347
+		d_duchy0347 
+	}
+}
+world_empire0348 = {
+	duchies = {
+		# k_kingdom0348
+		d_duchy0348 
+	}
+}
+world_empire0349 = {
+	duchies = {
+		# k_kingdom0349
+		d_duchy0349 
+	}
+}
+world_empire0350 = {
+	duchies = {
+		# k_kingdom0350
+		d_duchy0350 
+	}
+}
+world_empire0351 = {
+	duchies = {
+		# k_kingdom0351
+		d_duchy0351 
+	}
+}
+world_empire0352 = {
+	duchies = {
+		# k_kingdom0352
+		d_duchy0352 
+	}
+}
+world_empire0353 = {
+	duchies = {
+		# k_kingdom0353
+		d_duchy0353 
+	}
+}
+world_empire0354 = {
+	duchies = {
+		# k_kingdom0354
+		d_duchy0354 
+	}
+}
+world_empire0355 = {
+	duchies = {
+		# k_kingdom0355
+		d_duchy0355 
+	}
+}
+world_empire0356 = {
+	duchies = {
+		# k_kingdom0356
+		d_duchy0356 
+	}
+}
+world_empire0357 = {
+	duchies = {
+		# k_kingdom0357
+		d_duchy0357 
+	}
+}
+world_empire0358 = {
+	duchies = {
+		# k_kingdom0358
+		d_duchy0358 
+	}
+}
+world_empire0359 = {
+	duchies = {
+		# k_kingdom0359
+		d_duchy0359 
+	}
+}
+world_empire0360 = {
+	duchies = {
+		# k_kingdom0360
+		d_duchy0360 
+	}
+}
+world_empire0361 = {
+	duchies = {
+		# k_kingdom0361
+		d_duchy0361 
+	}
+}
+world_empire0362 = {
+	duchies = {
+		# k_kingdom0362
+		d_duchy0362 
+	}
+}
+world_empire0363 = {
+	duchies = {
+		# k_kingdom0363
+		d_duchy0363 
+	}
+}
+world_empire0364 = {
+	duchies = {
+		# k_kingdom0364
+		d_duchy0364 
+	}
+}
+world_empire0365 = {
+	duchies = {
+		# k_kingdom0365
+		d_duchy0365 
+	}
+}
+world_empire0366 = {
+	duchies = {
+		# k_kingdom0366
+		d_duchy0366 
+	}
+}
+world_empire0367 = {
+	duchies = {
+		# k_kingdom0367
+		d_duchy0367 
+	}
+}
+world_empire0368 = {
+	duchies = {
+		# k_kingdom0368
+		d_duchy0368 
+	}
+}
+world_empire0369 = {
+	duchies = {
+		# k_kingdom0369
+		d_duchy0369 
+	}
+}
+world_empire0370 = {
+	duchies = {
+		# k_kingdom0370
+		d_duchy0370 
+	}
+}
+world_empire0371 = {
+	duchies = {
+		# k_kingdom0371
+		d_duchy0371 
+	}
+}
+world_empire0372 = {
+	duchies = {
+		# k_kingdom0372
+		d_duchy0372 
+	}
+}
+world_empire0373 = {
+	duchies = {
+		# k_kingdom0373
+		d_duchy0373 
+	}
+}
+world_empire0374 = {
+	duchies = {
+		# k_kingdom0374
+		d_duchy0374 
+	}
+}
+world_empire0375 = {
+	duchies = {
+		# k_kingdom0375
+		d_duchy0375 
+	}
+}
+world_empire0376 = {
+	duchies = {
+		# k_kingdom0376
+		d_duchy0376 
+	}
+}
+world_empire0377 = {
+	duchies = {
+		# k_kingdom0377
+		d_duchy0377 
+	}
+}
+world_empire0378 = {
+	duchies = {
+		# k_kingdom0378
+		d_duchy0378 
+	}
+}
+world_empire0379 = {
+	duchies = {
+		# k_kingdom0379
+		d_duchy0379 
+	}
+}
+world_empire0380 = {
+	duchies = {
+		# k_kingdom0380
+		d_duchy0380 
+	}
+}
+world_empire0381 = {
+	duchies = {
+		# k_kingdom0381
+		d_duchy0381 
+	}
+}
+world_empire0382 = {
+	duchies = {
+		# k_kingdom0382
+		d_duchy0382 
+	}
+}
+world_empire0383 = {
+	duchies = {
+		# k_kingdom0383
+		d_duchy0383 
+	}
+}
+world_empire0384 = {
+	duchies = {
+		# k_kingdom0384
+		d_duchy0384 
+	}
+}
+world_empire0385 = {
+	duchies = {
+		# k_kingdom0385
+		d_duchy0385 
+	}
+}
+world_empire0386 = {
+	duchies = {
+		# k_kingdom0386
+		d_duchy0386 
+	}
+}
+world_empire0387 = {
+	duchies = {
+		# k_kingdom0387
+		d_duchy0387 
+	}
+}
+world_empire0388 = {
+	duchies = {
+		# k_kingdom0388
+		d_duchy0388 
+	}
+}
+world_empire0389 = {
+	duchies = {
+		# k_kingdom0389
+		d_duchy0389 
+	}
+}
+world_empire0390 = {
+	duchies = {
+		# k_kingdom0390
+		d_duchy0390 
+	}
+}
+world_empire0391 = {
+	duchies = {
+		# k_kingdom0391
+		d_duchy0391 
+	}
+}
+world_empire0392 = {
+	duchies = {
+		# k_kingdom0392
+		d_duchy0392 
+	}
+}
+world_empire0393 = {
+	duchies = {
+		# k_kingdom0393
+		d_duchy0393 
+	}
+}
+world_empire0394 = {
+	duchies = {
+		# k_kingdom0394
+		d_duchy0394 
+	}
+}
+world_empire0395 = {
+	duchies = {
+		# k_kingdom0395
+		d_duchy0395 
+	}
+}
+world_empire0396 = {
+	duchies = {
+		# k_kingdom0396
+		d_duchy0396 
+	}
+}
+world_empire0397 = {
+	duchies = {
+		# k_kingdom0397
+		d_duchy0397 
+	}
+}
+world_empire0398 = {
+	duchies = {
+		# k_kingdom0398
+		d_duchy0398 
+	}
+}
+world_empire0399 = {
+	duchies = {
+		# k_kingdom0399
+		d_duchy0399 
+	}
+}
+world_empire0400 = {
+	duchies = {
+		# k_kingdom0400
+		d_duchy0400 
+	}
+}
+world_empire0401 = {
+	duchies = {
+		# k_kingdom0401
+		d_duchy0401 
+	}
+}
+world_empire0402 = {
+	duchies = {
+		# k_kingdom0402
+		d_duchy0402 
+	}
+}
+world_empire0403 = {
+	duchies = {
+		# k_kingdom0403
+		d_duchy0403 
+	}
+}
+world_empire0404 = {
+	duchies = {
+		# k_kingdom0404
+		d_duchy0404 
+	}
+}
+world_empire0405 = {
+	duchies = {
+		# k_kingdom0405
+		d_duchy0405 
+	}
+}
+world_empire0406 = {
+	duchies = {
+		# k_kingdom0406
+		d_duchy0406 
+	}
+}
+world_empire0407 = {
+	duchies = {
+		# k_kingdom0407
+		d_duchy0407 
+	}
+}
+world_empire0408 = {
+	duchies = {
+		# k_kingdom0408
+		d_duchy0408 
+	}
+}
+world_empire0409 = {
+	duchies = {
+		# k_kingdom0409
+		d_duchy0409 
+	}
+}
+world_empire0410 = {
+	duchies = {
+		# k_kingdom0410
+		d_duchy0410 
+	}
+}
+world_empire0411 = {
+	duchies = {
+		# k_kingdom0411
+		d_duchy0411 
+	}
+}
+world_empire0412 = {
+	duchies = {
+		# k_kingdom0412
+		d_duchy0412 
+	}
+}
+world_empire0413 = {
+	duchies = {
+		# k_kingdom0413
+		d_duchy0413 
+	}
+}
+world_empire0414 = {
+	duchies = {
+		# k_kingdom0414
+		d_duchy0414 
+	}
+}
+world_empire0415 = {
+	duchies = {
+		# k_kingdom0415
+		d_duchy0415 
+	}
+}
+world_empire0416 = {
+	duchies = {
+		# k_kingdom0416
+		d_duchy0416 
+	}
+}
+world_empire0417 = {
+	duchies = {
+		# k_kingdom0417
+		d_duchy0417 
+	}
+}
+world_empire0418 = {
+	duchies = {
+		# k_kingdom0418
+		d_duchy0418 
+	}
+}
+world_empire0419 = {
+	duchies = {
+		# k_kingdom0419
+		d_duchy0419 
+	}
+}
+world_empire0420 = {
+	duchies = {
+		# k_kingdom0420
+		d_duchy0420 
+	}
+}
+world_empire0421 = {
+	duchies = {
+		# k_kingdom0421
+		d_duchy0421 
+	}
+}
+world_empire0422 = {
+	duchies = {
+		# k_kingdom0422
+		d_duchy0422 
+	}
+}
+world_empire0423 = {
+	duchies = {
+		# k_kingdom0423
+		d_duchy0423 
+	}
+}
+world_empire0424 = {
+	duchies = {
+		# k_kingdom0424
+		d_duchy0424 
+	}
+}
+world_empire0425 = {
+	duchies = {
+		# k_kingdom0425
+		d_duchy0425 
+	}
+}
+world_empire0426 = {
+	duchies = {
+		# k_kingdom0426
+		d_duchy0426 
+	}
+}
+world_empire0427 = {
+	duchies = {
+		# k_kingdom0427
+		d_duchy0427 
+	}
+}
+world_empire0428 = {
+	duchies = {
+		# k_kingdom0428
+		d_duchy0428 
+	}
+}
+world_empire0429 = {
+	duchies = {
+		# k_kingdom0429
+		d_duchy0429 
+	}
+}
+world_empire0430 = {
+	duchies = {
+		# k_kingdom0430
+		d_duchy0430 
+	}
+}
+world_empire0431 = {
+	duchies = {
+		# k_kingdom0431
+		d_duchy0431 
+	}
+}
+world_empire0432 = {
+	duchies = {
+		# k_kingdom0432
+		d_duchy0432 
+	}
+}
+world_empire0433 = {
+	duchies = {
+		# k_kingdom0433
+		d_duchy0433 
+	}
+}
+world_empire0434 = {
+	duchies = {
+		# k_kingdom0434
+		d_duchy0434 
+	}
+}
+world_empire0435 = {
+	duchies = {
+		# k_kingdom0435
+		d_duchy0435 
+	}
+}
+world_empire0436 = {
+	duchies = {
+		# k_kingdom0436
+		d_duchy0436 
+	}
+}
+world_empire0437 = {
+	duchies = {
+		# k_kingdom0437
+		d_duchy0437 
+	}
+}
+world_empire0438 = {
+	duchies = {
+		# k_kingdom0438
+		d_duchy0438 
+	}
+}
+world_empire0439 = {
+	duchies = {
+		# k_kingdom0439
+		d_duchy0439 
+	}
+}
+world_empire0440 = {
+	duchies = {
+		# k_kingdom0440
+		d_duchy0440 
+	}
+}
+world_empire0441 = {
+	duchies = {
+		# k_kingdom0441
+		d_duchy0441 
+	}
+}
+world_empire0442 = {
+	duchies = {
+		# k_kingdom0442
+		d_duchy0442 
+	}
+}
+world_empire0443 = {
+	duchies = {
+		# k_kingdom0443
+		d_duchy0443 
+	}
+}
+world_empire0444 = {
+	duchies = {
+		# k_kingdom0444
+		d_duchy0444 
+	}
+}
+world_empire0445 = {
+	duchies = {
+		# k_kingdom0445
+		d_duchy0445 
+	}
+}
+world_empire0446 = {
+	duchies = {
+		# k_kingdom0446
+		d_duchy0446 
+	}
+}
+world_empire0447 = {
+	duchies = {
+		# k_kingdom0447
+		d_duchy0447 
+	}
+}
+world_empire0448 = {
+	duchies = {
+		# k_kingdom0448
+		d_duchy0448 
+	}
+}
+world_empire0449 = {
+	duchies = {
+		# k_kingdom0449
+		d_duchy0449 
+	}
+}
+world_empire0450 = {
+	duchies = {
+		# k_kingdom0450
+		d_duchy0450 
+	}
+}
+world_empire0451 = {
+	duchies = {
+		# k_kingdom0451
+		d_duchy0451 
+	}
+}
+world_empire0452 = {
+	duchies = {
+		# k_kingdom0452
+		d_duchy0452 
+	}
+}
+world_empire0453 = {
+	duchies = {
+		# k_kingdom0453
+		d_duchy0453 
+	}
+}
+world_empire0454 = {
+	duchies = {
+		# k_kingdom0454
+		d_duchy0454 
+	}
+}
+world_empire0455 = {
+	duchies = {
+		# k_kingdom0455
+		d_duchy0455 
+	}
+}
+world_empire0456 = {
+	duchies = {
+		# k_kingdom0456
+		d_duchy0456 
+	}
+}
+world_empire0457 = {
+	duchies = {
+		# k_kingdom0457
+		d_duchy0457 
+	}
+}
+world_empire0458 = {
+	duchies = {
+		# k_kingdom0458
+		d_duchy0458 
+	}
+}
+world_empire0459 = {
+	duchies = {
+		# k_kingdom0459
+		d_duchy0459 
+	}
+}
+world_empire0460 = {
+	duchies = {
+		# k_kingdom0460
+		d_duchy0460 
+	}
+}
+world_empire0461 = {
+	duchies = {
+		# k_kingdom0461
+		d_duchy0461 
+	}
+}
+world_empire0462 = {
+	duchies = {
+		# k_kingdom0462
+		d_duchy0462 
+	}
+}
+world_empire0463 = {
+	duchies = {
+		# k_kingdom0463
+		d_duchy0463 
+	}
+}
+world_empire0464 = {
+	duchies = {
+		# k_kingdom0464
+		d_duchy0464 
+	}
+}
+world_empire0465 = {
+	duchies = {
+		# k_kingdom0465
+		d_duchy0465 
+	}
+}
+world_empire0466 = {
+	duchies = {
+		# k_kingdom0466
+		d_duchy0466 
+	}
+}
+world_empire0467 = {
+	duchies = {
+		# k_kingdom0467
+		d_duchy0467 
+	}
+}
+world_empire0468 = {
+	duchies = {
+		# k_kingdom0468
+		d_duchy0468 
+	}
+}
+world_empire0469 = {
+	duchies = {
+		# k_kingdom0469
+		d_duchy0469 
+	}
+}
+world_empire0470 = {
+	duchies = {
+		# k_kingdom0470
+		d_duchy0470 
+	}
+}
+world_empire0471 = {
+	duchies = {
+		# k_kingdom0471
+		d_duchy0471 
+	}
+}
+world_empire0472 = {
+	duchies = {
+		# k_kingdom0472
+		d_duchy0472 
+	}
+}
+world_empire0473 = {
+	duchies = {
+		# k_kingdom0473
+		d_duchy0473 
+	}
+}
+world_empire0474 = {
+	duchies = {
+		# k_kingdom0474
+		d_duchy0474 
+	}
+}
+world_empire0475 = {
+	duchies = {
+		# k_kingdom0475
+		d_duchy0475 
+	}
+}
+world_empire0476 = {
+	duchies = {
+		# k_kingdom0476
+		d_duchy0476 
+	}
+}
+world_empire0477 = {
+	duchies = {
+		# k_kingdom0477
+		d_duchy0477 
+	}
+}
+world_empire0478 = {
+	duchies = {
+		# k_kingdom0478
+		d_duchy0478 
+	}
+}
+world_empire0479 = {
+	duchies = {
+		# k_kingdom0479
+		d_duchy0479 
+	}
+}
+world_empire0480 = {
+	duchies = {
+		# k_kingdom0480
+		d_duchy0480 
+	}
+}
+world_empire0481 = {
+	duchies = {
+		# k_kingdom0481
+		d_duchy0481 
+	}
+}
+world_empire0482 = {
+	duchies = {
+		# k_kingdom0482
+		d_duchy0482 
+	}
+}
+world_empire0483 = {
+	duchies = {
+		# k_kingdom0483
+		d_duchy0483 
+	}
+}
+world_empire0484 = {
+	duchies = {
+		# k_kingdom0484
+		d_duchy0484 
+	}
+}
+world_empire0485 = {
+	duchies = {
+		# k_kingdom0485
+		d_duchy0485 
+	}
+}
+world_empire0486 = {
+	duchies = {
+		# k_kingdom0486
+		d_duchy0486 
+	}
+}
+world_empire0487 = {
+	duchies = {
+		# k_kingdom0487
+		d_duchy0487 
+	}
+}
+world_empire0488 = {
+	duchies = {
+		# k_kingdom0488
+		d_duchy0488 
+	}
+}
+world_empire0489 = {
+	duchies = {
+		# k_kingdom0489
+		d_duchy0489 
+	}
+}
+world_empire0490 = {
+	duchies = {
+		# k_kingdom0490
+		d_duchy0490 
+	}
+}
+world_empire0491 = {
+	duchies = {
+		# k_kingdom0491
+		d_duchy0491 
+	}
+}
+world_empire0492 = {
+	duchies = {
+		# k_kingdom0492
+		d_duchy0492 
+	}
+}
+world_empire0493 = {
+	duchies = {
+		# k_kingdom0493
+		d_duchy0493 
+	}
+}
+world_empire0494 = {
+	duchies = {
+		# k_kingdom0494
+		d_duchy0494 
+	}
+}
+world_empire0495 = {
+	duchies = {
+		# k_kingdom0495
+		d_duchy0495 
+	}
+}
+world_empire0496 = {
+	duchies = {
+		# k_kingdom0496
+		d_duchy0496 
+	}
+}
+world_empire0497 = {
+	duchies = {
+		# k_kingdom0497
+		d_duchy0497 
+	}
+}
+world_empire0498 = {
+	duchies = {
+		# k_kingdom0498
+		d_duchy0498 
+	}
+}
+world_empire0499 = {
+	duchies = {
+		# k_kingdom0499
+		d_duchy0499 
+	}
+}
+world_empire0500 = {
+	duchies = {
+		# k_kingdom0500
+		d_duchy0500 
+	}
+}
+world_empire0501 = {
+	duchies = {
+		# k_kingdom0501
+		d_duchy0501 
+	}
+}
+world_empire0502 = {
+	duchies = {
+		# k_kingdom0502
+		d_duchy0502 
+	}
+}
+world_empire0503 = {
+	duchies = {
+		# k_kingdom0503
+		d_duchy0503 
+	}
+}
+world_empire0504 = {
+	duchies = {
+		# k_kingdom0504
+		d_duchy0504 
+	}
+}
+world_empire0505 = {
+	duchies = {
+		# k_kingdom0505
+		d_duchy0505 
+	}
+}
+world_empire0506 = {
+	duchies = {
+		# k_kingdom0506
+		d_duchy0506 
+	}
+}
+world_empire0507 = {
+	duchies = {
+		# k_kingdom0507
+		d_duchy0507 
+	}
+}
+world_empire0508 = {
+	duchies = {
+		# k_kingdom0508
+		d_duchy0508 
+	}
+}
+world_empire0509 = {
+	duchies = {
+		# k_kingdom0509
+		d_duchy0509 
+	}
+}
+world_empire0510 = {
+	duchies = {
+		# k_kingdom0510
+		d_duchy0510 
+	}
+}
+world_empire0511 = {
+	duchies = {
+		# k_kingdom0511
+		d_duchy0511 
+	}
+}
+world_empire0512 = {
+	duchies = {
+		# k_kingdom0512
+		d_duchy0512 
+	}
+}
+world_empire0513 = {
+	duchies = {
+		# k_kingdom0513
+		d_duchy0513 
+	}
+}
+world_empire0514 = {
+	duchies = {
+		# k_kingdom0514
+		d_duchy0514 
+	}
+}
+world_empire0515 = {
+	duchies = {
+		# k_kingdom0515
+		d_duchy0515 
+	}
+}
+world_empire0516 = {
+	duchies = {
+		# k_kingdom0516
+		d_duchy0516 
+	}
+}
+world_empire0517 = {
+	duchies = {
+		# k_kingdom0517
+		d_duchy0517 
+	}
+}
+world_empire0518 = {
+	duchies = {
+		# k_kingdom0518
+		d_duchy0518 
+	}
+}
+world_empire0519 = {
+	duchies = {
+		# k_kingdom0519
+		d_duchy0519 
+	}
+}
+world_empire0520 = {
+	duchies = {
+		# k_kingdom0520
+		d_duchy0520 
+	}
+}
+world_empire0521 = {
+	duchies = {
+		# k_kingdom0521
+		d_duchy0521 
+	}
+}
+world_empire0522 = {
+	duchies = {
+		# k_kingdom0522
+		d_duchy0522 
+	}
+}
+world_empire0523 = {
+	duchies = {
+		# k_kingdom0523
+		d_duchy0523 
+	}
+}
+world_empire0524 = {
+	duchies = {
+		# k_kingdom0524
+		d_duchy0524 
+	}
+}
+world_empire0525 = {
+	duchies = {
+		# k_kingdom0525
+		d_duchy0525 
+	}
+}
+world_empire0526 = {
+	duchies = {
+		# k_kingdom0526
+		d_duchy0526 
+	}
+}
+world_empire0527 = {
+	duchies = {
+		# k_kingdom0527
+		d_duchy0527 
+	}
+}
+world_empire0528 = {
+	duchies = {
+		# k_kingdom0528
+		d_duchy0528 
+	}
+}
+world_empire0529 = {
+	duchies = {
+		# k_kingdom0529
+		d_duchy0529 
+	}
+}
+world_empire0530 = {
+	duchies = {
+		# k_kingdom0530
+		d_duchy0530 
+	}
+}
+world_empire0531 = {
+	duchies = {
+		# k_kingdom0531
+		d_duchy0531 
+	}
+}
+world_empire0532 = {
+	duchies = {
+		# k_kingdom0532
+		d_duchy0532 
+	}
+}
+world_empire0533 = {
+	duchies = {
+		# k_kingdom0533
+		d_duchy0533 
+	}
+}
+world_empire0534 = {
+	duchies = {
+		# k_kingdom0534
+		d_duchy0534 
+	}
+}
+world_empire0535 = {
+	duchies = {
+		# k_kingdom0535
+		d_duchy0535 
+	}
+}
+world_empire0536 = {
+	duchies = {
+		# k_kingdom0536
+		d_duchy0536 
+	}
+}
+world_empire0537 = {
+	duchies = {
+		# k_kingdom0537
+		d_duchy0537 
+	}
+}
+world_empire0538 = {
+	duchies = {
+		# k_kingdom0538
+		d_duchy0538 
+	}
+}
+world_empire0539 = {
+	duchies = {
+		# k_kingdom0539
+		d_duchy0539 
+	}
+}
+world_empire0540 = {
+	duchies = {
+		# k_kingdom0540
+		d_duchy0540 
+	}
+}
+world_empire0541 = {
+	duchies = {
+		# k_kingdom0541
+		d_duchy0541 
+	}
+}
+world_empire0542 = {
+	duchies = {
+		# k_kingdom0542
+		d_duchy0542 
+	}
+}
+world_empire0543 = {
+	duchies = {
+		# k_kingdom0543
+		d_duchy0543 
+	}
+}
+world_empire0544 = {
+	duchies = {
+		# k_kingdom0544
+		d_duchy0544 
+	}
+}
+world_empire0545 = {
+	duchies = {
+		# k_kingdom0545
+		d_duchy0545 
+	}
+}
+world_empire0546 = {
+	duchies = {
+		# k_kingdom0546
+		d_duchy0546 
+	}
+}
+world_empire0547 = {
+	duchies = {
+		# k_kingdom0547
+		d_duchy0547 
+	}
+}
+world_empire0548 = {
+	duchies = {
+		# k_kingdom0548
+		d_duchy0548 
+	}
+}
+world_empire0549 = {
+	duchies = {
+		# k_kingdom0549
+		d_duchy0549 
+	}
+}
+world_empire0550 = {
+	duchies = {
+		# k_kingdom0550
+		d_duchy0550 
+	}
+}
+world_empire0551 = {
+	duchies = {
+		# k_kingdom0551
+		d_duchy0551 
+	}
+}
+world_empire0552 = {
+	duchies = {
+		# k_kingdom0552
+		d_duchy0552 
+	}
+}
+world_empire0553 = {
+	duchies = {
+		# k_kingdom0553
+		d_duchy0553 
+	}
+}
+world_empire0554 = {
+	duchies = {
+		# k_kingdom0554
+		d_duchy0554 
+	}
+}
+world_empire0555 = {
+	duchies = {
+		# k_kingdom0555
+		d_duchy0555 
+	}
+}
+world_empire0556 = {
+	duchies = {
+		# k_kingdom0556
+		d_duchy0556 
+	}
+}
+world_empire0557 = {
+	duchies = {
+		# k_kingdom0557
+		d_duchy0557 
+	}
+}
+world_empire0558 = {
+	duchies = {
+		# k_kingdom0558
+		d_duchy0558 
+	}
+}
+world_empire0559 = {
+	duchies = {
+		# k_kingdom0559
+		d_duchy0559 
+	}
+}
+world_empire0560 = {
+	duchies = {
+		# k_kingdom0560
+		d_duchy0560 
+	}
+}
+world_empire0561 = {
+	duchies = {
+		# k_kingdom0561
+		d_duchy0561 
+	}
+}
+world_empire0562 = {
+	duchies = {
+		# k_kingdom0562
+		d_duchy0562 
+	}
+}
+world_empire0563 = {
+	duchies = {
+		# k_kingdom0563
+		d_duchy0563 
+	}
+}
+world_empire0564 = {
+	duchies = {
+		# k_kingdom0564
+		d_duchy0564 
+	}
+}
+world_empire0565 = {
+	duchies = {
+		# k_kingdom0565
+		d_duchy0565 
+	}
+}
+world_empire0566 = {
+	duchies = {
+		# k_kingdom0566
+		d_duchy0566 
+	}
+}
+world_empire0567 = {
+	duchies = {
+		# k_kingdom0567
+		d_duchy0567 
+	}
+}
+world_empire0568 = {
+	duchies = {
+		# k_kingdom0568
+		d_duchy0568 
+	}
+}
+world_empire0569 = {
+	duchies = {
+		# k_kingdom0569
+		d_duchy0569 
+	}
+}
+world_empire0570 = {
+	duchies = {
+		# k_kingdom0570
+		d_duchy0570 
+	}
+}
+world_empire0571 = {
+	duchies = {
+		# k_kingdom0571
+		d_duchy0571 
+	}
+}
+world_empire0572 = {
+	duchies = {
+		# k_kingdom0572
+		d_duchy0572 
+	}
+}
+world_empire0573 = {
+	duchies = {
+		# k_kingdom0573
+		d_duchy0573 
+	}
+}
+world_empire0574 = {
+	duchies = {
+		# k_kingdom0574
+		d_duchy0574 
+	}
+}
+world_empire0575 = {
+	duchies = {
+		# k_kingdom0575
+		d_duchy0575 
+	}
+}
+world_empire0576 = {
+	duchies = {
+		# k_kingdom0576
+		d_duchy0576 
+	}
+}
+world_empire0577 = {
+	duchies = {
+		# k_kingdom0577
+		d_duchy0577 
+	}
+}
+world_empire0578 = {
+	duchies = {
+		# k_kingdom0578
+		d_duchy0578 
+	}
+}
+world_empire0579 = {
+	duchies = {
+		# k_kingdom0579
+		d_duchy0579 
+	}
+}
+world_empire0580 = {
+	duchies = {
+		# k_kingdom0580
+		d_duchy0580 
+	}
+}
+world_empire0581 = {
+	duchies = {
+		# k_kingdom0581
+		d_duchy0581 
+	}
+}
+world_empire0582 = {
+	duchies = {
+		# k_kingdom0582
+		d_duchy0582 
+	}
+}
+world_empire0583 = {
+	duchies = {
+		# k_kingdom0583
+		d_duchy0583 
+	}
+}
+world_empire0584 = {
+	duchies = {
+		# k_kingdom0584
+		d_duchy0584 
+	}
+}
+world_empire0585 = {
+	duchies = {
+		# k_kingdom0585
+		d_duchy0585 
+	}
+}
+world_empire0586 = {
+	duchies = {
+		# k_kingdom0586
+		d_duchy0586 
+	}
+}
+world_empire0587 = {
+	duchies = {
+		# k_kingdom0587
+		d_duchy0587 
+	}
+}
+world_empire0588 = {
+	duchies = {
+		# k_kingdom0588
+		d_duchy0588 
+	}
+}
+world_empire0589 = {
+	duchies = {
+		# k_kingdom0589
+		d_duchy0589 
+	}
+}
+world_empire0590 = {
+	duchies = {
+		# k_kingdom0590
+		d_duchy0590 
+	}
+}
+world_empire0591 = {
+	duchies = {
+		# k_kingdom0591
+		d_duchy0591 
+	}
+}
+world_empire0592 = {
+	duchies = {
+		# k_kingdom0592
+		d_duchy0592 
+	}
+}
+world_empire0593 = {
+	duchies = {
+		# k_kingdom0593
+		d_duchy0593 
+	}
+}
+world_empire0594 = {
+	duchies = {
+		# k_kingdom0594
+		d_duchy0594 
+	}
+}
+world_empire0595 = {
+	duchies = {
+		# k_kingdom0595
+		d_duchy0595 
+	}
+}
+world_empire0596 = {
+	duchies = {
+		# k_kingdom0596
+		d_duchy0596 
+	}
+}
+world_empire0597 = {
+	duchies = {
+		# k_kingdom0597
+		d_duchy0597 
+	}
+}
+world_empire0598 = {
+	duchies = {
+		# k_kingdom0598
+		d_duchy0598 
+	}
+}
+world_empire0599 = {
+	duchies = {
+		# k_kingdom0599
+		d_duchy0599 
+	}
+}
+world_empire0600 = {
+	duchies = {
+		# k_kingdom0600
+		d_duchy0600 
+	}
+}
+world_empire0601 = {
+	duchies = {
+		# k_kingdom0601
+		d_duchy0601 
+	}
+}
+world_empire0602 = {
+	duchies = {
+		# k_kingdom0602
+		d_duchy0602 
+	}
+}
+world_empire0603 = {
+	duchies = {
+		# k_kingdom0603
+		d_duchy0603 
+	}
+}
+world_empire0604 = {
+	duchies = {
+		# k_kingdom0604
+		d_duchy0604 
+	}
+}
+world_empire0605 = {
+	duchies = {
+		# k_kingdom0605
+		d_duchy0605 
+	}
+}
+world_empire0606 = {
+	duchies = {
+		# k_kingdom0606
+		d_duchy0606 
+	}
+}
+world_empire0607 = {
+	duchies = {
+		# k_kingdom0607
+		d_duchy0607 
+	}
+}
+world_empire0608 = {
+	duchies = {
+		# k_kingdom0608
+		d_duchy0608 
+	}
+}
+world_empire0609 = {
+	duchies = {
+		# k_kingdom0609
+		d_duchy0609 
+	}
+}
+world_empire0610 = {
+	duchies = {
+		# k_kingdom0610
+		d_duchy0610 
+	}
+}
+world_empire0611 = {
+	duchies = {
+		# k_kingdom0611
+		d_duchy0611 
+	}
+}
+world_empire0612 = {
+	duchies = {
+		# k_kingdom0612
+		d_duchy0612 
+	}
+}
+world_empire0613 = {
+	duchies = {
+		# k_kingdom0613
+		d_duchy0613 
+	}
+}
+world_empire0614 = {
+	duchies = {
+		# k_kingdom0614
+		d_duchy0614 
+	}
+}
+world_empire0615 = {
+	duchies = {
+		# k_kingdom0615
+		d_duchy0615 
+	}
+}
+world_empire0616 = {
+	duchies = {
+		# k_kingdom0616
+		d_duchy0616 
+	}
+}
+world_empire0617 = {
+	duchies = {
+		# k_kingdom0617
+		d_duchy0617 
+	}
+}
+world_empire0618 = {
+	duchies = {
+		# k_kingdom0618
+		d_duchy0618 
+	}
+}
+world_empire0619 = {
+	duchies = {
+		# k_kingdom0619
+		d_duchy0619 
+	}
+}
+world_empire0620 = {
+	duchies = {
+		# k_kingdom0620
+		d_duchy0620 
+	}
+}
+world_empire0621 = {
+	duchies = {
+		# k_kingdom0621
+		d_duchy0621 
+	}
+}
+world_empire0622 = {
+	duchies = {
+		# k_kingdom0622
+		d_duchy0622 
+	}
+}
+world_empire0623 = {
+	duchies = {
+		# k_kingdom0623
+		d_duchy0623 
+	}
+}
+world_empire0624 = {
+	duchies = {
+		# k_kingdom0624
+		d_duchy0624 
+	}
+}
+world_empire0625 = {
+	duchies = {
+		# k_kingdom0625
+		d_duchy0625 
+	}
+}
+world_empire0626 = {
+	duchies = {
+		# k_kingdom0626
+		d_duchy0626 
+	}
+}
+world_empire0627 = {
+	duchies = {
+		# k_kingdom0627
+		d_duchy0627 
+	}
+}
+world_empire0628 = {
+	duchies = {
+		# k_kingdom0628
+		d_duchy0628 
+	}
+}
+world_empire0629 = {
+	duchies = {
+		# k_kingdom0629
+		d_duchy0629 
+	}
+}
+world_empire0630 = {
+	duchies = {
+		# k_kingdom0630
+		d_duchy0630 
+	}
+}
+world_empire0631 = {
+	duchies = {
+		# k_kingdom0631
+		d_duchy0631 
+	}
+}
+world_empire0632 = {
+	duchies = {
+		# k_kingdom0632
+		d_duchy0632 
+	}
+}
+world_empire0633 = {
+	duchies = {
+		# k_kingdom0633
+		d_duchy0633 
+	}
+}
+world_empire0634 = {
+	duchies = {
+		# k_kingdom0634
+		d_duchy0634 
+	}
+}
+world_empire0635 = {
+	duchies = {
+		# k_kingdom0635
+		d_duchy0635 
+	}
+}
+world_empire0636 = {
+	duchies = {
+		# k_kingdom0636
+		d_duchy0636 
+	}
+}
+world_empire0637 = {
+	duchies = {
+		# k_kingdom0637
+		d_duchy0637 
+	}
+}
+world_empire0638 = {
+	duchies = {
+		# k_kingdom0638
+		d_duchy0638 
+	}
+}
+world_empire0639 = {
+	duchies = {
+		# k_kingdom0639
+		d_duchy0639 
+	}
+}
+world_empire0640 = {
+	duchies = {
+		# k_kingdom0640
+		d_duchy0640 
+	}
+}
+world_empire0641 = {
+	duchies = {
+		# k_kingdom0641
+		d_duchy0641 
+	}
+}
+world_empire0642 = {
+	duchies = {
+		# k_kingdom0642
+		d_duchy0642 
+	}
+}
+world_empire0643 = {
+	duchies = {
+		# k_kingdom0643
+		d_duchy0643 
+	}
+}
+world_empire0644 = {
+	duchies = {
+		# k_kingdom0644
+		d_duchy0644 
+	}
+}
+world_empire0645 = {
+	duchies = {
+		# k_kingdom0645
+		d_duchy0645 
+	}
+}
+world_empire0646 = {
+	duchies = {
+		# k_kingdom0646
+		d_duchy0646 
+	}
+}
+world_empire0647 = {
+	duchies = {
+		# k_kingdom0647
+		d_duchy0647 
+	}
+}
+world_empire0648 = {
+	duchies = {
+		# k_kingdom0648
+		d_duchy0648 
+	}
+}
+world_empire0649 = {
+	duchies = {
+		# k_kingdom0649
+		d_duchy0649 
+	}
+}
+world_empire0650 = {
+	duchies = {
+		# k_kingdom0650
+		d_duchy0650 
+	}
+}
+world_empire0651 = {
+	duchies = {
+		# k_kingdom0651
+		d_duchy0651 
+	}
+}
+world_empire0652 = {
+	duchies = {
+		# k_kingdom0652
+		d_duchy0652 
+	}
+}
+world_empire0653 = {
+	duchies = {
+		# k_kingdom0653
+		d_duchy0653 
+	}
+}
+world_empire0654 = {
+	duchies = {
+		# k_kingdom0654
+		d_duchy0654 
+	}
+}
+world_empire0655 = {
+	duchies = {
+		# k_kingdom0655
+		d_duchy0655 
+	}
+}
+world_empire0656 = {
+	duchies = {
+		# k_kingdom0656
+		d_duchy0656 
+	}
+}
+world_empire0657 = {
+	duchies = {
+		# k_kingdom0657
+		d_duchy0657 
+	}
+}
+world_empire0658 = {
+	duchies = {
+		# k_kingdom0658
+		d_duchy0658 
+	}
+}
+world_empire0659 = {
+	duchies = {
+		# k_kingdom0659
+		d_duchy0659 
+	}
+}
+world_empire0660 = {
+	duchies = {
+		# k_kingdom0660
+		d_duchy0660 
+	}
+}
+world_empire0661 = {
+	duchies = {
+		# k_kingdom0661
+		d_duchy0661 
+	}
+}
+world_empire0662 = {
+	duchies = {
+		# k_kingdom0662
+		d_duchy0662 
+	}
+}
+world_empire0663 = {
+	duchies = {
+		# k_kingdom0663
+		d_duchy0663 
+	}
+}
+world_empire0664 = {
+	duchies = {
+		# k_kingdom0664
+		d_duchy0664 
+	}
+}
+world_empire0665 = {
+	duchies = {
+		# k_kingdom0665
+		d_duchy0665 
+	}
+}
+world_empire0666 = {
+	duchies = {
+		# k_kingdom0666
+		d_duchy0666 
+	}
+}
+world_empire0667 = {
+	duchies = {
+		# k_kingdom0667
+		d_duchy0667 
+	}
+}
+world_empire0668 = {
+	duchies = {
+		# k_kingdom0668
+		d_duchy0668 
+	}
+}
+world_empire0669 = {
+	duchies = {
+		# k_kingdom0669
+		d_duchy0669 
+	}
+}
+world_empire0670 = {
+	duchies = {
+		# k_kingdom0670
+		d_duchy0670 
+	}
+}
+world_empire0671 = {
+	duchies = {
+		# k_kingdom0671
+		d_duchy0671 
+	}
+}
+world_empire0672 = {
+	duchies = {
+		# k_kingdom0672
+		d_duchy0672 
+	}
+}
+world_empire0673 = {
+	duchies = {
+		# k_kingdom0673
+		d_duchy0673 
+	}
+}
+world_empire0674 = {
+	duchies = {
+		# k_kingdom0674
+		d_duchy0674 
+	}
+}
+world_empire0675 = {
+	duchies = {
+		# k_kingdom0675
+		d_duchy0675 
+	}
+}
+world_empire0676 = {
+	duchies = {
+		# k_kingdom0676
+		d_duchy0676 
+	}
+}
+world_empire0677 = {
+	duchies = {
+		# k_kingdom0677
+		d_duchy0677 
+	}
+}
+world_empire0678 = {
+	duchies = {
+		# k_kingdom0678
+		d_duchy0678 
+	}
+}
+world_empire0679 = {
+	duchies = {
+		# k_kingdom0679
+		d_duchy0679 
+	}
+}
+world_empire0680 = {
+	duchies = {
+		# k_kingdom0680
+		d_duchy0680 
+	}
+}
+world_empire0681 = {
+	duchies = {
+		# k_kingdom0681
+		d_duchy0681 
+	}
+}
+world_empire0682 = {
+	duchies = {
+		# k_kingdom0682
+		d_duchy0682 
+	}
+}
+world_empire0683 = {
+	duchies = {
+		# k_kingdom0683
+		d_duchy0683 
+	}
+}
+world_empire0684 = {
+	duchies = {
+		# k_kingdom0684
+		d_duchy0684 
+	}
+}
+world_empire0685 = {
+	duchies = {
+		# k_kingdom0685
+		d_duchy0685 
+	}
+}
+world_empire0686 = {
+	duchies = {
+		# k_kingdom0686
+		d_duchy0686 
+	}
+}
+world_empire0687 = {
+	duchies = {
+		# k_kingdom0687
+		d_duchy0687 
+	}
+}
+world_empire0688 = {
+	duchies = {
+		# k_kingdom0688
+		d_duchy0688 
+	}
+}
+world_empire0689 = {
+	duchies = {
+		# k_kingdom0689
+		d_duchy0689 
+	}
+}
+world_empire0690 = {
+	duchies = {
+		# k_kingdom0690
+		d_duchy0690 
+	}
+}
+world_empire0691 = {
+	duchies = {
+		# k_kingdom0691
+		d_duchy0691 
+	}
+}
+world_empire0692 = {
+	duchies = {
+		# k_kingdom0692
+		d_duchy0692 
+	}
+}
+world_empire0693 = {
+	duchies = {
+		# k_kingdom0693
+		d_duchy0693 
+	}
+}
+world_empire0694 = {
+	duchies = {
+		# k_kingdom0694
+		d_duchy0694 
+	}
+}
+world_empire0695 = {
+	duchies = {
+		# k_kingdom0695
+		d_duchy0695 
+	}
+}
+world_empire0696 = {
+	duchies = {
+		# k_kingdom0696
+		d_duchy0696 
+	}
+}
+world_empire0697 = {
+	duchies = {
+		# k_kingdom0697
+		d_duchy0697 
+	}
+}
+world_empire0698 = {
+	duchies = {
+		# k_kingdom0698
+		d_duchy0698 
+	}
+}
+world_empire0699 = {
+	duchies = {
+		# k_kingdom0699
+		d_duchy0699 
+	}
+}
+world_empire0700 = {
+	duchies = {
+		# k_kingdom0700
+		d_duchy0700 
+	}
+}
+world_empire0701 = {
+	duchies = {
+		# k_kingdom0701
+		d_duchy0701 
+	}
+}
+world_empire0702 = {
+	duchies = {
+		# k_kingdom0702
+		d_duchy0702 
+	}
+}
+world_empire0703 = {
+	duchies = {
+		# k_kingdom0703
+		d_duchy0703 
+	}
+}
+world_empire0704 = {
+	duchies = {
+		# k_kingdom0704
+		d_duchy0704 
+	}
+}
+world_empire0705 = {
+	duchies = {
+		# k_kingdom0705
+		d_duchy0705 
+	}
+}
+world_empire0706 = {
+	duchies = {
+		# k_kingdom0706
+		d_duchy0706 
+	}
+}
+world_empire0707 = {
+	duchies = {
+		# k_kingdom0707
+		d_duchy0707 
+	}
+}
+world_empire0708 = {
+	duchies = {
+		# k_kingdom0708
+		d_duchy0708 
+	}
+}
+world_empire0709 = {
+	duchies = {
+		# k_kingdom0709
+		d_duchy0709 
+	}
+}
+world_empire0710 = {
+	duchies = {
+		# k_kingdom0710
+		d_duchy0710 
+	}
+}
+world_empire0711 = {
+	duchies = {
+		# k_kingdom0711
+		d_duchy0711 
+	}
+}
+world_empire0712 = {
+	duchies = {
+		# k_kingdom0712
+		d_duchy0712 
+	}
+}
+world_empire0713 = {
+	duchies = {
+		# k_kingdom0713
+		d_duchy0713 
+	}
+}
+world_empire0714 = {
+	duchies = {
+		# k_kingdom0714
+		d_duchy0714 
+	}
+}
+world_empire0715 = {
+	duchies = {
+		# k_kingdom0715
+		d_duchy0715 
+	}
+}
+world_empire0716 = {
+	duchies = {
+		# k_kingdom0716
+		d_duchy0716 
+	}
+}
+world_empire0717 = {
+	duchies = {
+		# k_kingdom0717
+		d_duchy0717 
+	}
+}
+world_empire0718 = {
+	duchies = {
+		# k_kingdom0718
+		d_duchy0718 
+	}
+}
+world_empire0719 = {
+	duchies = {
+		# k_kingdom0719
+		d_duchy0719 
+	}
+}
+world_empire0720 = {
+	duchies = {
+		# k_kingdom0720
+		d_duchy0720 
+	}
+}
+world_empire0721 = {
+	duchies = {
+		# k_kingdom0721
+		d_duchy0721 
+	}
+}
+world_empire0722 = {
+	duchies = {
+		# k_kingdom0722
+		d_duchy0722 
+	}
+}
+world_empire0723 = {
+	duchies = {
+		# k_kingdom0723
+		d_duchy0723 
+	}
+}
+world_empire0724 = {
+	duchies = {
+		# k_kingdom0724
+		d_duchy0724 
+	}
+}
+world_empire0725 = {
+	duchies = {
+		# k_kingdom0725
+		d_duchy0725 
+	}
+}
+world_empire0726 = {
+	duchies = {
+		# k_kingdom0726
+		d_duchy0726 
+	}
+}
+world_empire0727 = {
+	duchies = {
+		# k_kingdom0727
+		d_duchy0727 
+	}
+}
+world_empire0728 = {
+	duchies = {
+		# k_kingdom0728
+		d_duchy0728 
+	}
+}
+world_empire0729 = {
+	duchies = {
+		# k_kingdom0729
+		d_duchy0729 
+	}
+}
+world_empire0730 = {
+	duchies = {
+		# k_kingdom0730
+		d_duchy0730 
+	}
+}
+world_empire0731 = {
+	duchies = {
+		# k_kingdom0731
+		d_duchy0731 
+	}
+}
+world_empire0732 = {
+	duchies = {
+		# k_kingdom0732
+		d_duchy0732 
+	}
+}
+world_empire0733 = {
+	duchies = {
+		# k_kingdom0733
+		d_duchy0733 
+	}
+}
+world_empire0734 = {
+	duchies = {
+		# k_kingdom0734
+		d_duchy0734 
+	}
+}
+world_empire0735 = {
+	duchies = {
+		# k_kingdom0735
+		d_duchy0735 
+	}
+}
+world_empire0736 = {
+	duchies = {
+		# k_kingdom0736
+		d_duchy0736 
+	}
+}
+world_empire0737 = {
+	duchies = {
+		# k_kingdom0737
+		d_duchy0737 
+	}
+}
+world_empire0738 = {
+	duchies = {
+		# k_kingdom0738
+		d_duchy0738 
+	}
+}
+world_empire0739 = {
+	duchies = {
+		# k_kingdom0739
+		d_duchy0739 
+	}
+}
+world_empire0740 = {
+	duchies = {
+		# k_kingdom0740
+		d_duchy0740 
+	}
+}
+world_empire0741 = {
+	duchies = {
+		# k_kingdom0741
+		d_duchy0741 
+	}
+}
+world_empire0742 = {
+	duchies = {
+		# k_kingdom0742
+		d_duchy0742 
+	}
+}
+world_empire0743 = {
+	duchies = {
+		# k_kingdom0743
+		d_duchy0743 
+	}
+}
+world_empire0744 = {
+	duchies = {
+		# k_kingdom0744
+		d_duchy0744 
+	}
+}
+world_empire0745 = {
+	duchies = {
+		# k_kingdom0745
+		d_duchy0745 
+	}
+}
+world_empire0746 = {
+	duchies = {
+		# k_kingdom0746
+		d_duchy0746 
+	}
+}
+world_empire0747 = {
+	duchies = {
+		# k_kingdom0747
+		d_duchy0747 
+	}
+}
+world_empire0748 = {
+	duchies = {
+		# k_kingdom0748
+		d_duchy0748 
+	}
+}
+world_empire0749 = {
+	duchies = {
+		# k_kingdom0749
+		d_duchy0749 
+	}
+}
+world_empire0750 = {
+	duchies = {
+		# k_kingdom0750
+		d_duchy0750 
+	}
+}
+world_empire0751 = {
+	duchies = {
+		# k_kingdom0751
+		d_duchy0751 
+	}
+}
+world_empire0752 = {
+	duchies = {
+		# k_kingdom0752
+		d_duchy0752 
+	}
+}
+world_empire0753 = {
+	duchies = {
+		# k_kingdom0753
+		d_duchy0753 
+	}
+}
+world_empire0754 = {
+	duchies = {
+		# k_kingdom0754
+		d_duchy0754 
+	}
+}
+world_empire0755 = {
+	duchies = {
+		# k_kingdom0755
+		d_duchy0755 
+	}
+}
+world_empire0756 = {
+	duchies = {
+		# k_kingdom0756
+		d_duchy0756 
+	}
+}
+world_empire0757 = {
+	duchies = {
+		# k_kingdom0757
+		d_duchy0757 
+	}
+}
+world_empire0758 = {
+	duchies = {
+		# k_kingdom0758
+		d_duchy0758 
+	}
+}
+world_empire0759 = {
+	duchies = {
+		# k_kingdom0759
+		d_duchy0759 
+	}
+}
+world_empire0760 = {
+	duchies = {
+		# k_kingdom0760
+		d_duchy0760 
+	}
+}
+world_empire0761 = {
+	duchies = {
+		# k_kingdom0761
+		d_duchy0761 
+	}
+}
+world_empire0762 = {
+	duchies = {
+		# k_kingdom0762
+		d_duchy0762 
+	}
+}
+world_empire0763 = {
+	duchies = {
+		# k_kingdom0763
+		d_duchy0763 
+	}
+}
+world_empire0764 = {
+	duchies = {
+		# k_kingdom0764
+		d_duchy0764 
+	}
+}
+world_empire0765 = {
+	duchies = {
+		# k_kingdom0765
+		d_duchy0765 
+	}
+}
+world_empire0766 = {
+	duchies = {
+		# k_kingdom0766
+		d_duchy0766 
+	}
+}
+world_empire0767 = {
+	duchies = {
+		# k_kingdom0767
+		d_duchy0767 
+	}
+}
+world_empire0768 = {
+	duchies = {
+		# k_kingdom0768
+		d_duchy0768 
+	}
+}
+world_empire0769 = {
+	duchies = {
+		# k_kingdom0769
+		d_duchy0769 
+	}
+}
+world_empire0770 = {
+	duchies = {
+		# k_kingdom0770
+		d_duchy0770 
+	}
+}
+world_empire0771 = {
+	duchies = {
+		# k_kingdom0771
+		d_duchy0771 
+	}
+}
+world_empire0772 = {
+	duchies = {
+		# k_kingdom0772
+		d_duchy0772 
+	}
+}
+world_empire0773 = {
+	duchies = {
+		# k_kingdom0773
+		d_duchy0773 
+	}
+}
+world_empire0774 = {
+	duchies = {
+		# k_kingdom0774
+		d_duchy0774 
+	}
+}
+world_empire0775 = {
+	duchies = {
+		# k_kingdom0775
+		d_duchy0775 
+	}
+}
+world_empire0776 = {
+	duchies = {
+		# k_kingdom0776
+		d_duchy0776 
+	}
+}
+world_empire0777 = {
+	duchies = {
+		# k_kingdom0777
+		d_duchy0777 
+	}
+}
+world_empire0778 = {
+	duchies = {
+		# k_kingdom0778
+		d_duchy0778 
+	}
+}
+world_empire0779 = {
+	duchies = {
+		# k_kingdom0779
+		d_duchy0779 
+	}
+}
+world_empire0780 = {
+	duchies = {
+		# k_kingdom0780
+		d_duchy0780 
+	}
+}
+world_empire0781 = {
+	duchies = {
+		# k_kingdom0781
+		d_duchy0781 
+	}
+}
+world_empire0782 = {
+	duchies = {
+		# k_kingdom0782
+		d_duchy0782 
+	}
+}
+world_empire0783 = {
+	duchies = {
+		# k_kingdom0783
+		d_duchy0783 
+	}
+}
+world_empire0784 = {
+	duchies = {
+		# k_kingdom0784
+		d_duchy0784 
+	}
+}
+world_empire0785 = {
+	duchies = {
+		# k_kingdom0785
+		d_duchy0785 
+	}
+}
+world_empire0786 = {
+	duchies = {
+		# k_kingdom0786
+		d_duchy0786 
+	}
+}
+world_empire0787 = {
+	duchies = {
+		# k_kingdom0787
+		d_duchy0787 
+	}
+}
+world_empire0788 = {
+	duchies = {
+		# k_kingdom0788
+		d_duchy0788 
+	}
+}
+world_empire0789 = {
+	duchies = {
+		# k_kingdom0789
+		d_duchy0789 
+	}
+}
+world_empire0790 = {
+	duchies = {
+		# k_kingdom0790
+		d_duchy0790 
+	}
+}
+world_empire0791 = {
+	duchies = {
+		# k_kingdom0791
+		d_duchy0791 
+	}
+}
+world_empire0792 = {
+	duchies = {
+		# k_kingdom0792
+		d_duchy0792 
+	}
+}
+world_empire0793 = {
+	duchies = {
+		# k_kingdom0793
+		d_duchy0793 
+	}
+}
+world_empire0794 = {
+	duchies = {
+		# k_kingdom0794
+		d_duchy0794 
+	}
+}
+world_empire0795 = {
+	duchies = {
+		# k_kingdom0795
+		d_duchy0795 
+	}
+}
+world_empire0796 = {
+	duchies = {
+		# k_kingdom0796
+		d_duchy0796 
+	}
+}
+world_empire0797 = {
+	duchies = {
+		# k_kingdom0797
+		d_duchy0797 
+	}
+}
+world_empire0798 = {
+	duchies = {
+		# k_kingdom0798
+		d_duchy0798 
+	}
+}
+world_empire0799 = {
+	duchies = {
+		# k_kingdom0799
+		d_duchy0799 
+	}
+}
+world_empire0800 = {
+	duchies = {
+		# k_kingdom0800
+		d_duchy0800 
+	}
+}
+world_empire0801 = {
+	duchies = {
+		# k_kingdom0801
+		d_duchy0801 
+	}
+}
+world_empire0802 = {
+	duchies = {
+		# k_kingdom0802
+		d_duchy0802 
+	}
+}
+world_empire0803 = {
+	duchies = {
+		# k_kingdom0803
+		d_duchy0803 
+	}
+}
+world_empire0804 = {
+	duchies = {
+		# k_kingdom0804
+		d_duchy0804 
+	}
+}
+world_empire0805 = {
+	duchies = {
+		# k_kingdom0805
+		d_duchy0805 
+	}
+}
+world_empire0806 = {
+	duchies = {
+		# k_kingdom0806
+		d_duchy0806 
+	}
+}
+world_empire0807 = {
+	duchies = {
+		# k_kingdom0807
+		d_duchy0807 
+	}
+}
+world_empire0808 = {
+	duchies = {
+		# k_kingdom0808
+		d_duchy0808 
+	}
+}
+world_empire0809 = {
+	duchies = {
+		# k_kingdom0809
+		d_duchy0809 
+	}
+}
+world_empire0810 = {
+	duchies = {
+		# k_kingdom0810
+		d_duchy0810 
+	}
+}
+world_empire0811 = {
+	duchies = {
+		# k_kingdom0811
+		d_duchy0811 
+	}
+}
+world_empire0812 = {
+	duchies = {
+		# k_kingdom0812
+		d_duchy0812 
+	}
+}
+world_empire0813 = {
+	duchies = {
+		# k_kingdom0813
+		d_duchy0813 
+	}
+}
+world_empire0814 = {
+	duchies = {
+		# k_kingdom0814
+		d_duchy0814 
+	}
+}
+world_empire0815 = {
+	duchies = {
+		# k_kingdom0815
+		d_duchy0815 
+	}
+}
+world_empire0816 = {
+	duchies = {
+		# k_kingdom0816
+		d_duchy0816 
+	}
+}
+world_empire0817 = {
+	duchies = {
+		# k_kingdom0817
+		d_duchy0817 
+	}
+}
+world_empire0818 = {
+	duchies = {
+		# k_kingdom0818
+		d_duchy0818 
+	}
+}
+world_empire0819 = {
+	duchies = {
+		# k_kingdom0819
+		d_duchy0819 
+	}
+}
+world_empire0820 = {
+	duchies = {
+		# k_kingdom0820
+		d_duchy0820 
+	}
+}
+world_empire0821 = {
+	duchies = {
+		# k_kingdom0821
+		d_duchy0821 
+	}
+}
+world_empire0822 = {
+	duchies = {
+		# k_kingdom0822
+		d_duchy0822 
+	}
+}
+world_empire0823 = {
+	duchies = {
+		# k_kingdom0823
+		d_duchy0823 
+	}
+}
+world_empire0824 = {
+	duchies = {
+		# k_kingdom0824
+		d_duchy0824 
+	}
+}
+world_empire0825 = {
+	duchies = {
+		# k_kingdom0825
+		d_duchy0825 
+	}
+}
+world_empire0826 = {
+	duchies = {
+		# k_kingdom0826
+		d_duchy0826 
+	}
+}
+world_empire0827 = {
+	duchies = {
+		# k_kingdom0827
+		d_duchy0827 
+	}
+}
+world_empire0828 = {
+	duchies = {
+		# k_kingdom0828
+		d_duchy0828 
+	}
+}
+world_empire0829 = {
+	duchies = {
+		# k_kingdom0829
+		d_duchy0829 
+	}
+}
+world_empire0830 = {
+	duchies = {
+		# k_kingdom0830
+		d_duchy0830 
+	}
+}
+world_empire0831 = {
+	duchies = {
+		# k_kingdom0831
+		d_duchy0831 
+	}
+}
+world_empire0832 = {
+	duchies = {
+		# k_kingdom0832
+		d_duchy0832 
+	}
+}
+world_empire0833 = {
+	duchies = {
+		# k_kingdom0833
+		d_duchy0833 
+	}
+}
+world_empire0834 = {
+	duchies = {
+		# k_kingdom0834
+		d_duchy0834 
+	}
+}
+world_empire0835 = {
+	duchies = {
+		# k_kingdom0835
+		d_duchy0835 
+	}
+}
+world_empire0836 = {
+	duchies = {
+		# k_kingdom0836
+		d_duchy0836 
+	}
+}
+world_empire0837 = {
+	duchies = {
+		# k_kingdom0837
+		d_duchy0837 
+	}
+}
+world_empire0838 = {
+	duchies = {
+		# k_kingdom0838
+		d_duchy0838 
+	}
+}
+world_empire0839 = {
+	duchies = {
+		# k_kingdom0839
+		d_duchy0839 
+	}
+}
+world_empire0840 = {
+	duchies = {
+		# k_kingdom0840
+		d_duchy0840 
+	}
+}
+world_empire0841 = {
+	duchies = {
+		# k_kingdom0841
+		d_duchy0841 
+	}
+}
+world_empire0842 = {
+	duchies = {
+		# k_kingdom0842
+		d_duchy0842 
+	}
+}
+world_empire0843 = {
+	duchies = {
+		# k_kingdom0843
+		d_duchy0843 
+	}
+}
+world_empire0844 = {
+	duchies = {
+		# k_kingdom0844
+		d_duchy0844 
+	}
+}
+world_empire0845 = {
+	duchies = {
+		# k_kingdom0845
+		d_duchy0845 
+	}
+}
+world_empire0846 = {
+	duchies = {
+		# k_kingdom0846
+		d_duchy0846 
+	}
+}
+world_empire0847 = {
+	duchies = {
+		# k_kingdom0847
+		d_duchy0847 
+	}
+}
+world_empire0848 = {
+	duchies = {
+		# k_kingdom0848
+		d_duchy0848 
+	}
+}
+world_empire0849 = {
+	duchies = {
+		# k_kingdom0849
+		d_duchy0849 
+	}
+}
+world_empire0850 = {
+	duchies = {
+		# k_kingdom0850
+		d_duchy0850 
+	}
+}
+world_empire0851 = {
+	duchies = {
+		# k_kingdom0851
+		d_duchy0851 
+	}
+}
+world_empire0852 = {
+	duchies = {
+		# k_kingdom0852
+		d_duchy0852 
+	}
+}
+world_empire0853 = {
+	duchies = {
+		# k_kingdom0853
+		d_duchy0853 
+	}
+}
+world_empire0854 = {
+	duchies = {
+		# k_kingdom0854
+		d_duchy0854 
+	}
+}
+world_empire0855 = {
+	duchies = {
+		# k_kingdom0855
+		d_duchy0855 
+	}
+}
+world_empire0856 = {
+	duchies = {
+		# k_kingdom0856
+		d_duchy0856 
+	}
+}
+world_empire0857 = {
+	duchies = {
+		# k_kingdom0857
+		d_duchy0857 
+	}
+}
+world_empire0858 = {
+	duchies = {
+		# k_kingdom0858
+		d_duchy0858 
+	}
+}
+world_empire0859 = {
+	duchies = {
+		# k_kingdom0859
+		d_duchy0859 
+	}
+}
+world_empire0860 = {
+	duchies = {
+		# k_kingdom0860
+		d_duchy0860 
+	}
+}
+world_empire0861 = {
+	duchies = {
+		# k_kingdom0861
+		d_duchy0861 
+	}
+}
+world_empire0862 = {
+	duchies = {
+		# k_kingdom0862
+		d_duchy0862 
+	}
+}
+world_empire0863 = {
+	duchies = {
+		# k_kingdom0863
+		d_duchy0863 
+	}
+}
+world_empire0864 = {
+	duchies = {
+		# k_kingdom0864
+		d_duchy0864 
+	}
+}
+world_empire0865 = {
+	duchies = {
+		# k_kingdom0865
+		d_duchy0865 
+	}
+}
+world_empire0866 = {
+	duchies = {
+		# k_kingdom0866
+		d_duchy0866 
+	}
+}
+world_empire0867 = {
+	duchies = {
+		# k_kingdom0867
+		d_duchy0867 
+	}
+}
+world_empire0868 = {
+	duchies = {
+		# k_kingdom0868
+		d_duchy0868 
+	}
+}
+world_empire0869 = {
+	duchies = {
+		# k_kingdom0869
+		d_duchy0869 
+	}
+}
+world_empire0870 = {
+	duchies = {
+		# k_kingdom0870
+		d_duchy0870 
+	}
+}
+world_empire0871 = {
+	duchies = {
+		# k_kingdom0871
+		d_duchy0871 
+	}
+}
+world_empire0872 = {
+	duchies = {
+		# k_kingdom0872
+		d_duchy0872 
+	}
+}
+world_empire0873 = {
+	duchies = {
+		# k_kingdom0873
+		d_duchy0873 
+	}
+}
+world_empire0874 = {
+	duchies = {
+		# k_kingdom0874
+		d_duchy0874 
+	}
+}
+world_empire0875 = {
+	duchies = {
+		# k_kingdom0875
+		d_duchy0875 
+	}
+}
+world_empire0876 = {
+	duchies = {
+		# k_kingdom0876
+		d_duchy0876 
+	}
+}
+world_empire0877 = {
+	duchies = {
+		# k_kingdom0877
+		d_duchy0877 
+	}
+}
+world_empire0878 = {
+	duchies = {
+		# k_kingdom0878
+		d_duchy0878 
+	}
+}
+world_empire0879 = {
+	duchies = {
+		# k_kingdom0879
+		d_duchy0879 
+	}
+}
+world_empire0880 = {
+	duchies = {
+		# k_kingdom0880
+		d_duchy0880 
+	}
+}
+world_empire0881 = {
+	duchies = {
+		# k_kingdom0881
+		d_duchy0881 
+	}
+}
+world_empire0882 = {
+	duchies = {
+		# k_kingdom0882
+		d_duchy0882 
+	}
+}
+world_empire0883 = {
+	duchies = {
+		# k_kingdom0883
+		d_duchy0883 
+	}
+}
+world_empire0884 = {
+	duchies = {
+		# k_kingdom0884
+		d_duchy0884 
+	}
+}
+world_empire0885 = {
+	duchies = {
+		# k_kingdom0885
+		d_duchy0885 
+	}
+}
+world_empire0886 = {
+	duchies = {
+		# k_kingdom0886
+		d_duchy0886 
+	}
+}
+world_empire0887 = {
+	duchies = {
+		# k_kingdom0887
+		d_duchy0887 
+	}
+}
+world_empire0888 = {
+	duchies = {
+		# k_kingdom0888
+		d_duchy0888 
+	}
+}
+world_empire0889 = {
+	duchies = {
+		# k_kingdom0889
+		d_duchy0889 
+	}
+}
+world_empire0890 = {
+	duchies = {
+		# k_kingdom0890
+		d_duchy0890 
+	}
+}
+world_empire0891 = {
+	duchies = {
+		# k_kingdom0891
+		d_duchy0891 
+	}
+}
+world_empire0892 = {
+	duchies = {
+		# k_kingdom0892
+		d_duchy0892 
+	}
+}
+world_empire0893 = {
+	duchies = {
+		# k_kingdom0893
+		d_duchy0893 
+	}
+}
+world_empire0894 = {
+	duchies = {
+		# k_kingdom0894
+		d_duchy0894 
+	}
+}
+world_empire0895 = {
+	duchies = {
+		# k_kingdom0895
+		d_duchy0895 
+	}
+}
+world_empire0896 = {
+	duchies = {
+		# k_kingdom0896
+		d_duchy0896 
+	}
+}
+world_empire0897 = {
+	duchies = {
+		# k_kingdom0897
+		d_duchy0897 
+	}
+}
+world_empire0898 = {
+	duchies = {
+		# k_kingdom0898
+		d_duchy0898 
+	}
+}
+world_empire0899 = {
+	duchies = {
+		# k_kingdom0899
+		d_duchy0899 
+	}
+}
+world_empire0900 = {
+	duchies = {
+		# k_kingdom0900
+		d_duchy0900 
+	}
+}
+world_empire0901 = {
+	duchies = {
+		# k_kingdom0901
+		d_duchy0901 
+	}
+}
+world_empire0902 = {
+	duchies = {
+		# k_kingdom0902
+		d_duchy0902 
+	}
+}
+world_empire0903 = {
+	duchies = {
+		# k_kingdom0903
+		d_duchy0903 
+	}
+}
+world_empire0904 = {
+	duchies = {
+		# k_kingdom0904
+		d_duchy0904 
+	}
+}
+world_empire0905 = {
+	duchies = {
+		# k_kingdom0905
+		d_duchy0905 
+	}
+}
+world_empire0906 = {
+	duchies = {
+		# k_kingdom0906
+		d_duchy0906 
+	}
+}
+world_empire0907 = {
+	duchies = {
+		# k_kingdom0907
+		d_duchy0907 
+	}
+}
+world_empire0908 = {
+	duchies = {
+		# k_kingdom0908
+		d_duchy0908 
+	}
+}
+world_empire0909 = {
+	duchies = {
+		# k_kingdom0909
+		d_duchy0909 
+	}
+}
+world_empire0910 = {
+	duchies = {
+		# k_kingdom0910
+		d_duchy0910 
+	}
+}
+world_empire0911 = {
+	duchies = {
+		# k_kingdom0911
+		d_duchy0911 
+	}
+}
+world_empire0912 = {
+	duchies = {
+		# k_kingdom0912
+		d_duchy0912 
+	}
+}
+world_empire0913 = {
+	duchies = {
+		# k_kingdom0913
+		d_duchy0913 
+	}
+}
+world_empire0914 = {
+	duchies = {
+		# k_kingdom0914
+		d_duchy0914 
+	}
+}
+world_empire0915 = {
+	duchies = {
+		# k_kingdom0915
+		d_duchy0915 
+	}
+}
+world_empire0916 = {
+	duchies = {
+		# k_kingdom0916
+		d_duchy0916 
+	}
+}
+world_empire0917 = {
+	duchies = {
+		# k_kingdom0917
+		d_duchy0917 
+	}
+}
+world_empire0918 = {
+	duchies = {
+		# k_kingdom0918
+		d_duchy0918 
+	}
+}
+world_empire0919 = {
+	duchies = {
+		# k_kingdom0919
+		d_duchy0919 
+	}
+}
+world_empire0920 = {
+	duchies = {
+		# k_kingdom0920
+		d_duchy0920 
+	}
+}
+world_empire0921 = {
+	duchies = {
+		# k_kingdom0921
+		d_duchy0921 
+	}
+}
+world_empire0922 = {
+	duchies = {
+		# k_kingdom0922
+		d_duchy0922 
+	}
+}
+world_empire0923 = {
+	duchies = {
+		# k_kingdom0923
+		d_duchy0923 
+	}
+}
+world_empire0924 = {
+	duchies = {
+		# k_kingdom0924
+		d_duchy0924 
+	}
+}
+world_empire0925 = {
+	duchies = {
+		# k_kingdom0925
+		d_duchy0925 
+	}
+}
+world_empire0926 = {
+	duchies = {
+		# k_kingdom0926
+		d_duchy0926 
+	}
+}
+world_empire0927 = {
+	duchies = {
+		# k_kingdom0927
+		d_duchy0927 
+	}
+}
+world_empire0928 = {
+	duchies = {
+		# k_kingdom0928
+		d_duchy0928 
+	}
+}
+world_empire0929 = {
+	duchies = {
+		# k_kingdom0929
+		d_duchy0929 
+	}
+}
+world_empire0930 = {
+	duchies = {
+		# k_kingdom0930
+		d_duchy0930 
+	}
+}
+world_empire0931 = {
+	duchies = {
+		# k_kingdom0931
+		d_duchy0931 
+	}
+}
+world_empire0932 = {
+	duchies = {
+		# k_kingdom0932
+		d_duchy0932 
+	}
+}
+world_empire0933 = {
+	duchies = {
+		# k_kingdom0933
+		d_duchy0933 
+	}
+}
+world_empire0934 = {
+	duchies = {
+		# k_kingdom0934
+		d_duchy0934 
+	}
+}
+world_empire0935 = {
+	duchies = {
+		# k_kingdom0935
+		d_duchy0935 
+	}
+}
+world_empire0936 = {
+	duchies = {
+		# k_kingdom0936
+		d_duchy0936 
+	}
+}
+world_empire0937 = {
+	duchies = {
+		# k_kingdom0937
+		d_duchy0937 
+	}
+}
+world_empire0938 = {
+	duchies = {
+		# k_kingdom0938
+		d_duchy0938 
+	}
+}
+world_empire0939 = {
+	duchies = {
+		# k_kingdom0939
+		d_duchy0939 
+	}
+}
+world_empire0940 = {
+	duchies = {
+		# k_kingdom0940
+		d_duchy0940 
+	}
+}
+world_empire0941 = {
+	duchies = {
+		# k_kingdom0941
+		d_duchy0941 
+	}
+}
+world_empire0942 = {
+	duchies = {
+		# k_kingdom0942
+		d_duchy0942 
+	}
+}
+world_empire0943 = {
+	duchies = {
+		# k_kingdom0943
+		d_duchy0943 
+	}
+}
+world_empire0944 = {
+	duchies = {
+		# k_kingdom0944
+		d_duchy0944 
+	}
+}
+world_empire0945 = {
+	duchies = {
+		# k_kingdom0945
+		d_duchy0945 
+	}
+}
+world_empire0946 = {
+	duchies = {
+		# k_kingdom0946
+		d_duchy0946 
+	}
+}
+world_empire0947 = {
+	duchies = {
+		# k_kingdom0947
+		d_duchy0947 
+	}
+}
+world_empire0948 = {
+	duchies = {
+		# k_kingdom0948
+		d_duchy0948 
+	}
+}
+world_empire0949 = {
+	duchies = {
+		# k_kingdom0949
+		d_duchy0949 
+	}
+}
+world_empire0950 = {
+	duchies = {
+		# k_kingdom0950
+		d_duchy0950 
+	}
+}
+world_empire0951 = {
+	duchies = {
+		# k_kingdom0951
+		d_duchy0951 
+	}
+}
+world_empire0952 = {
+	duchies = {
+		# k_kingdom0952
+		d_duchy0952 
+	}
+}
+world_empire0953 = {
+	duchies = {
+		# k_kingdom0953
+		d_duchy0953 
+	}
+}
+world_empire0954 = {
+	duchies = {
+		# k_kingdom0954
+		d_duchy0954 
+	}
+}
+world_empire0955 = {
+	duchies = {
+		# k_kingdom0955
+		d_duchy0955 
+	}
+}
+world_empire0956 = {
+	duchies = {
+		# k_kingdom0956
+		d_duchy0956 
+	}
+}
+world_empire0957 = {
+	duchies = {
+		# k_kingdom0957
+		d_duchy0957 
+	}
+}
+world_empire0958 = {
+	duchies = {
+		# k_kingdom0958
+		d_duchy0958 
+	}
+}
+world_empire0959 = {
+	duchies = {
+		# k_kingdom0959
+		d_duchy0959 
+	}
+}
+world_empire0960 = {
+	duchies = {
+		# k_kingdom0960
+		d_duchy0960 
+	}
+}
+world_empire0961 = {
+	duchies = {
+		# k_kingdom0961
+		d_duchy0961 
+	}
+}
+world_empire0962 = {
+	duchies = {
+		# k_kingdom0962
+		d_duchy0962 
+	}
+}
+world_empire0963 = {
+	duchies = {
+		# k_kingdom0963
+		d_duchy0963 
+	}
+}
+world_empire0964 = {
+	duchies = {
+		# k_kingdom0964
+		d_duchy0964 
+	}
+}
+world_empire0965 = {
+	duchies = {
+		# k_kingdom0965
+		d_duchy0965 
+	}
+}
+world_empire0966 = {
+	duchies = {
+		# k_kingdom0966
+		d_duchy0966 
+	}
+}
+world_empire0967 = {
+	duchies = {
+		# k_kingdom0967
+		d_duchy0967 
+	}
+}
+world_empire0968 = {
+	duchies = {
+		# k_kingdom0968
+		d_duchy0968 
+	}
+}
+world_empire0969 = {
+	duchies = {
+		# k_kingdom0969
+		d_duchy0969 
+	}
+}
+world_empire0970 = {
+	duchies = {
+		# k_kingdom0970
+		d_duchy0970 
+	}
+}
+world_empire0971 = {
+	duchies = {
+		# k_kingdom0971
+		d_duchy0971 
+	}
+}
+world_empire0972 = {
+	duchies = {
+		# k_kingdom0972
+		d_duchy0972 
+	}
+}
+world_empire0973 = {
+	duchies = {
+		# k_kingdom0973
+		d_duchy0973 
+	}
+}
+world_empire0974 = {
+	duchies = {
+		# k_kingdom0974
+		d_duchy0974 
+	}
+}
+world_empire0975 = {
+	duchies = {
+		# k_kingdom0975
+		d_duchy0975 
+	}
+}
+world_empire0976 = {
+	duchies = {
+		# k_kingdom0976
+		d_duchy0976 
+	}
+}
+world_empire0977 = {
+	duchies = {
+		# k_kingdom0977
+		d_duchy0977 
+	}
+}
+world_empire0978 = {
+	duchies = {
+		# k_kingdom0978
+		d_duchy0978 
+	}
+}
+world_empire0979 = {
+	duchies = {
+		# k_kingdom0979
+		d_duchy0979 
+	}
+}
+world_empire0980 = {
+	duchies = {
+		# k_kingdom0980
+		d_duchy0980 
+	}
+}
+world_empire0981 = {
+	duchies = {
+		# k_kingdom0981
+		d_duchy0981 
+	}
+}
+world_empire0982 = {
+	duchies = {
+		# k_kingdom0982
+		d_duchy0982 
+	}
+}
+world_empire0983 = {
+	duchies = {
+		# k_kingdom0983
+		d_duchy0983 
+	}
+}
+world_empire0984 = {
+	duchies = {
+		# k_kingdom0984
+		d_duchy0984 
+	}
+}
+world_empire0985 = {
+	duchies = {
+		# k_kingdom0985
+		d_duchy0985 
+	}
+}
+world_empire0986 = {
+	duchies = {
+		# k_kingdom0986
+		d_duchy0986 
+	}
+}
+world_empire0987 = {
+	duchies = {
+		# k_kingdom0987
+		d_duchy0987 
+	}
+}
+world_empire0988 = {
+	duchies = {
+		# k_kingdom0988
+		d_duchy0988 
+	}
+}
+world_empire0989 = {
+	duchies = {
+		# k_kingdom0989
+		d_duchy0989 
+	}
+}
+world_empire0990 = {
+	duchies = {
+		# k_kingdom0990
+		d_duchy0990 
+	}
+}
+world_empire0991 = {
+	duchies = {
+		# k_kingdom0991
+		d_duchy0991 
+	}
+}
+world_empire0992 = {
+	duchies = {
+		# k_kingdom0992
+		d_duchy0992 
+	}
+}
+world_empire0993 = {
+	duchies = {
+		# k_kingdom0993
+		d_duchy0993 
+	}
+}
+world_empire0994 = {
+	duchies = {
+		# k_kingdom0994
+		d_duchy0994 
+	}
+}
+world_empire0995 = {
+	duchies = {
+		# k_kingdom0995
+		d_duchy0995 
+	}
+}
+world_empire0996 = {
+	duchies = {
+		# k_kingdom0996
+		d_duchy0996 
+	}
+}
+world_empire0997 = {
+	duchies = {
+		# k_kingdom0997
+		d_duchy0997 
+	}
+}
+world_empire0998 = {
+	duchies = {
+		# k_kingdom0998
+		d_duchy0998 
+	}
+}
+world_empire0999 = {
+	duchies = {
+		# k_kingdom0999
+		d_duchy0999 
+	}
+}
+world_empire1000 = {
+	duchies = {
+		# k_kingdom1000
+		d_duchy1000 
+	}
+}
+world_empire1001 = {
+	duchies = {
+		# k_kingdom1001
+		d_duchy1001 
+	}
+}
+world_empire1002 = {
+	duchies = {
+		# k_kingdom1002
+		d_duchy1002 
+	}
+}
+world_empire1003 = {
+	duchies = {
+		# k_kingdom1003
+		d_duchy1003 
+	}
+}
+world_empire1004 = {
+	duchies = {
+		# k_kingdom1004
+		d_duchy1004 
+	}
+}
+world_empire1005 = {
+	duchies = {
+		# k_kingdom1005
+		d_duchy1005 
+	}
+}
+world_empire1006 = {
+	duchies = {
+		# k_kingdom1006
+		d_duchy1006 
+	}
+}
+world_empire1007 = {
+	duchies = {
+		# k_kingdom1007
+		d_duchy1007 
+	}
+}
+world_empire1008 = {
+	duchies = {
+		# k_kingdom1008
+		d_duchy1008 
+	}
+}
+world_empire1009 = {
+	duchies = {
+		# k_kingdom1009
+		d_duchy1009 
+	}
+}
+world_empire1010 = {
+	duchies = {
+		# k_kingdom1010
+		d_duchy1010 
+	}
+}
+world_empire1011 = {
+	duchies = {
+		# k_kingdom1011
+		d_duchy1011 
+	}
+}
+world_empire1012 = {
+	duchies = {
+		# k_kingdom1012
+		d_duchy1012 
+	}
+}
+world_empire1013 = {
+	duchies = {
+		# k_kingdom1013
+		d_duchy1013 
+	}
+}
+world_empire1014 = {
+	duchies = {
+		# k_kingdom1014
+		d_duchy1014 
+	}
+}
+world_empire1015 = {
+	duchies = {
+		# k_kingdom1015
+		d_duchy1015 
+	}
+}
+world_empire1016 = {
+	duchies = {
+		# k_kingdom1016
+		d_duchy1016 
+	}
+}
+world_empire1017 = {
+	duchies = {
+		# k_kingdom1017
+		d_duchy1017 
+	}
+}
+world_empire1018 = {
+	duchies = {
+		# k_kingdom1018
+		d_duchy1018 
+	}
+}
+world_empire1019 = {
+	duchies = {
+		# k_kingdom1019
+		d_duchy1019 
+	}
+}
+world_empire1020 = {
+	duchies = {
+		# k_kingdom1020
+		d_duchy1020 
+	}
+}
+world_empire1021 = {
+	duchies = {
+		# k_kingdom1021
+		d_duchy1021 
+	}
+}
+world_empire1022 = {
+	duchies = {
+		# k_kingdom1022
+		d_duchy1022 
+	}
+}
+world_empire1023 = {
+	duchies = {
+		# k_kingdom1023
+		d_duchy1023 
+	}
+}
+world_empire1024 = {
+	duchies = {
+		# k_kingdom1024
+		d_duchy1024 
+	}
+}
+world_empire1025 = {
+	duchies = {
+		# k_kingdom1025
+		d_duchy1025 
+	}
+}
+world_empire1026 = {
+	duchies = {
+		# k_kingdom1026
+		d_duchy1026 
+	}
+}
+world_empire1027 = {
+	duchies = {
+		# k_kingdom1027
+		d_duchy1027 
+	}
+}
+world_empire1028 = {
+	duchies = {
+		# k_kingdom1028
+		d_duchy1028 
+	}
+}
+world_empire1029 = {
+	duchies = {
+		# k_kingdom1029
+		d_duchy1029 
+	}
+}
+world_empire1030 = {
+	duchies = {
+		# k_kingdom1030
+		d_duchy1030 
+	}
+}
+world_empire1031 = {
+	duchies = {
+		# k_kingdom1031
+		d_duchy1031 
+	}
+}
+world_empire1032 = {
+	duchies = {
+		# k_kingdom1032
+		d_duchy1032 
+	}
+}
+world_empire1033 = {
+	duchies = {
+		# k_kingdom1033
+		d_duchy1033 
+	}
+}
+world_empire1034 = {
+	duchies = {
+		# k_kingdom1034
+		d_duchy1034 
+	}
+}
+world_empire1035 = {
+	duchies = {
+		# k_kingdom1035
+		d_duchy1035 
+	}
+}
+world_empire1036 = {
+	duchies = {
+		# k_kingdom1036
+		d_duchy1036 
+	}
+}
+world_empire1037 = {
+	duchies = {
+		# k_kingdom1037
+		d_duchy1037 
+	}
+}
+world_empire1038 = {
+	duchies = {
+		# k_kingdom1038
+		d_duchy1038 
+	}
+}
+world_empire1039 = {
+	duchies = {
+		# k_kingdom1039
+		d_duchy1039 
+	}
+}
+world_empire1040 = {
+	duchies = {
+		# k_kingdom1040
+		d_duchy1040 
+	}
+}
+world_empire1041 = {
+	duchies = {
+		# k_kingdom1041
+		d_duchy1041 
+	}
+}
+world_empire1042 = {
+	duchies = {
+		# k_kingdom1042
+		d_duchy1042 
+	}
+}
+world_empire1043 = {
+	duchies = {
+		# k_kingdom1043
+		d_duchy1043 
+	}
+}
+world_empire1044 = {
+	duchies = {
+		# k_kingdom1044
+		d_duchy1044 
+	}
+}
+world_empire1045 = {
+	duchies = {
+		# k_kingdom1045
+		d_duchy1045 
+	}
+}
+world_empire1046 = {
+	duchies = {
+		# k_kingdom1046
+		d_duchy1046 
+	}
+}
+world_empire1047 = {
+	duchies = {
+		# k_kingdom1047
+		d_duchy1047 
+	}
+}
+world_empire1048 = {
+	duchies = {
+		# k_kingdom1048
+		d_duchy1048 
+	}
+}
+world_empire1049 = {
+	duchies = {
+		# k_kingdom1049
+		d_duchy1049 
+	}
+}
+world_empire1050 = {
+	duchies = {
+		# k_kingdom1050
+		d_duchy1050 
+	}
+}
+world_empire1051 = {
+	duchies = {
+		# k_kingdom1051
+		d_duchy1051 
+	}
+}
+world_empire1052 = {
+	duchies = {
+		# k_kingdom1052
+		d_duchy1052 
+	}
+}
+world_empire1053 = {
+	duchies = {
+		# k_kingdom1053
+		d_duchy1053 
+	}
+}
+world_empire1054 = {
+	duchies = {
+		# k_kingdom1054
+		d_duchy1054 
+	}
+}
+world_empire1055 = {
+	duchies = {
+		# k_kingdom1055
+		d_duchy1055 
+	}
+}
+world_empire1056 = {
+	duchies = {
+		# k_kingdom1056
+		d_duchy1056 
+	}
+}
+world_empire1057 = {
+	duchies = {
+		# k_kingdom1057
+		d_duchy1057 
+	}
+}
+world_empire1058 = {
+	duchies = {
+		# k_kingdom1058
+		d_duchy1058 
+	}
+}
+world_empire1059 = {
+	duchies = {
+		# k_kingdom1059
+		d_duchy1059 
+	}
+}
+world_empire1060 = {
+	duchies = {
+		# k_kingdom1060
+		d_duchy1060 
+	}
+}
+world_empire1061 = {
+	duchies = {
+		# k_kingdom1061
+		d_duchy1061 
+	}
+}
+world_empire1062 = {
+	duchies = {
+		# k_kingdom1062
+		d_duchy1062 
+	}
+}
+world_empire1063 = {
+	duchies = {
+		# k_kingdom1063
+		d_duchy1063 
+	}
+}
+world_empire1064 = {
+	duchies = {
+		# k_kingdom1064
+		d_duchy1064 
+	}
+}
+world_empire1065 = {
+	duchies = {
+		# k_kingdom1065
+		d_duchy1065 
+	}
+}
+world_empire1066 = {
+	duchies = {
+		# k_kingdom1066
+		d_duchy1066 
+	}
+}
+world_empire1067 = {
+	duchies = {
+		# k_kingdom1067
+		d_duchy1067 
+	}
+}
+world_empire1068 = {
+	duchies = {
+		# k_kingdom1068
+		d_duchy1068 
+	}
+}
+world_empire1069 = {
+	duchies = {
+		# k_kingdom1069
+		d_duchy1069 
+	}
+}
+world_empire1070 = {
+	duchies = {
+		# k_kingdom1070
+		d_duchy1070 
+	}
+}
+world_empire1071 = {
+	duchies = {
+		# k_kingdom1071
+		d_duchy1071 
+	}
+}
+world_empire1072 = {
+	duchies = {
+		# k_kingdom1072
+		d_duchy1072 
+	}
+}
+world_empire1073 = {
+	duchies = {
+		# k_kingdom1073
+		d_duchy1073 
+	}
+}
+world_empire1074 = {
+	duchies = {
+		# k_kingdom1074
+		d_duchy1074 
+	}
+}
+world_empire1075 = {
+	duchies = {
+		# k_kingdom1075
+		d_duchy1075 
+	}
+}
+world_empire1076 = {
+	duchies = {
+		# k_kingdom1076
+		d_duchy1076 
+	}
+}
+world_empire1077 = {
+	duchies = {
+		# k_kingdom1077
+		d_duchy1077 
+	}
+}
+world_empire1078 = {
+	duchies = {
+		# k_kingdom1078
+		d_duchy1078 
+	}
+}
+world_empire1079 = {
+	duchies = {
+		# k_kingdom1079
+		d_duchy1079 
+	}
+}
+world_empire1080 = {
+	duchies = {
+		# k_kingdom1080
+		d_duchy1080 
+	}
+}
+world_empire1081 = {
+	duchies = {
+		# k_kingdom1081
+		d_duchy1081 
+	}
+}
+world_empire1082 = {
+	duchies = {
+		# k_kingdom1082
+		d_duchy1082 
+	}
+}
+world_empire1083 = {
+	duchies = {
+		# k_kingdom1083
+		d_duchy1083 
+	}
+}
+world_empire1084 = {
+	duchies = {
+		# k_kingdom1084
+		d_duchy1084 
+	}
+}
+world_empire1085 = {
+	duchies = {
+		# k_kingdom1085
+		d_duchy1085 
+	}
+}
+world_empire1086 = {
+	duchies = {
+		# k_kingdom1086
+		d_duchy1086 
+	}
+}
+world_empire1087 = {
+	duchies = {
+		# k_kingdom1087
+		d_duchy1087 
+	}
+}
+world_empire1088 = {
+	duchies = {
+		# k_kingdom1088
+		d_duchy1088 
+	}
+}
+world_empire1089 = {
+	duchies = {
+		# k_kingdom1089
+		d_duchy1089 
+	}
+}
+world_empire1090 = {
+	duchies = {
+		# k_kingdom1090
+		d_duchy1090 
+	}
+}
+world_empire1091 = {
+	duchies = {
+		# k_kingdom1091
+		d_duchy1091 
+	}
+}
+world_empire1092 = {
+	duchies = {
+		# k_kingdom1092
+		d_duchy1092 
+	}
+}
+world_empire1093 = {
+	duchies = {
+		# k_kingdom1093
+		d_duchy1093 
+	}
+}
+world_empire1094 = {
+	duchies = {
+		# k_kingdom1094
+		d_duchy1094 
+	}
+}
+world_empire1095 = {
+	duchies = {
+		# k_kingdom1095
+		d_duchy1095 
+	}
+}
+world_empire1096 = {
+	duchies = {
+		# k_kingdom1096
+		d_duchy1096 
+	}
+}
+world_empire1097 = {
+	duchies = {
+		# k_kingdom1097
+		d_duchy1097 
+	}
+}
+world_empire1098 = {
+	duchies = {
+		# k_kingdom1098
+		d_duchy1098 
+	}
+}
+world_empire1099 = {
+	duchies = {
+		# k_kingdom1099
+		d_duchy1099 
+	}
+}
+world_empire1100 = {
+	duchies = {
+		# k_kingdom1100
+		d_duchy1100 
+	}
+}
+world_empire1101 = {
+	duchies = {
+		# k_kingdom1101
+		d_duchy1101 
+	}
+}
+world_empire1102 = {
+	duchies = {
+		# k_kingdom1102
+		d_duchy1102 
+	}
+}
+world_empire1103 = {
+	duchies = {
+		# k_kingdom1103
+		d_duchy1103 
+	}
+}
+world_empire1104 = {
+	duchies = {
+		# k_kingdom1104
+		d_duchy1104 
+	}
+}
+world_empire1105 = {
+	duchies = {
+		# k_kingdom1105
+		d_duchy1105 
+	}
+}
+world_empire1106 = {
+	duchies = {
+		# k_kingdom1106
+		d_duchy1106 
+	}
+}
+world_empire1107 = {
+	duchies = {
+		# k_kingdom1107
+		d_duchy1107 
+	}
+}
+world_empire1108 = {
+	duchies = {
+		# k_kingdom1108
+		d_duchy1108 
+	}
+}
+world_empire1109 = {
+	duchies = {
+		# k_kingdom1109
+		d_duchy1109 
+	}
+}
+world_empire1110 = {
+	duchies = {
+		# k_kingdom1110
+		d_duchy1110 
+	}
+}
+world_empire1111 = {
+	duchies = {
+		# k_kingdom1111
+		d_duchy1111 
+	}
+}
+world_empire1112 = {
+	duchies = {
+		# k_kingdom1112
+		d_duchy1112 
+	}
+}
+world_empire1113 = {
+	duchies = {
+		# k_kingdom1113
+		d_duchy1113 
+	}
+}
+world_empire1114 = {
+	duchies = {
+		# k_kingdom1114
+		d_duchy1114 
+	}
+}
+world_empire1115 = {
+	duchies = {
+		# k_kingdom1115
+		d_duchy1115 
+	}
+}
+world_empire1116 = {
+	duchies = {
+		# k_kingdom1116
+		d_duchy1116 
+	}
+}
+world_empire1117 = {
+	duchies = {
+		# k_kingdom1117
+		d_duchy1117 
+	}
+}
+world_empire1118 = {
+	duchies = {
+		# k_kingdom1118
+		d_duchy1118 
+	}
+}
+world_empire1119 = {
+	duchies = {
+		# k_kingdom1119
+		d_duchy1119 
+	}
+}
+world_empire1120 = {
+	duchies = {
+		# k_kingdom1120
+		d_duchy1120 
+	}
+}
+world_empire1121 = {
+	duchies = {
+		# k_kingdom1121
+		d_duchy1121 
+	}
+}
+world_empire1122 = {
+	duchies = {
+		# k_kingdom1122
+		d_duchy1122 
+	}
+}
+world_empire1123 = {
+	duchies = {
+		# k_kingdom1123
+		d_duchy1123 
+	}
+}
+world_empire1124 = {
+	duchies = {
+		# k_kingdom1124
+		d_duchy1124 
+	}
+}
+world_empire1125 = {
+	duchies = {
+		# k_kingdom1125
+		d_duchy1125 
+	}
+}
+world_empire1126 = {
+	duchies = {
+		# k_kingdom1126
+		d_duchy1126 
+	}
+}
+world_empire1127 = {
+	duchies = {
+		# k_kingdom1127
+		d_duchy1127 
+	}
+}
+world_empire1128 = {
+	duchies = {
+		# k_kingdom1128
+		d_duchy1128 
+	}
+}
+world_empire1129 = {
+	duchies = {
+		# k_kingdom1129
+		d_duchy1129 
+	}
+}
+world_empire1130 = {
+	duchies = {
+		# k_kingdom1130
+		d_duchy1130 
+	}
+}
+world_empire1131 = {
+	duchies = {
+		# k_kingdom1131
+		d_duchy1131 
+	}
+}
+world_empire1132 = {
+	duchies = {
+		# k_kingdom1132
+		d_duchy1132 
+	}
+}
+world_empire1133 = {
+	duchies = {
+		# k_kingdom1133
+		d_duchy1133 
+	}
+}
+world_empire1134 = {
+	duchies = {
+		# k_kingdom1134
+		d_duchy1134 
+	}
+}
+world_empire1135 = {
+	duchies = {
+		# k_kingdom1135
+		d_duchy1135 
+	}
+}
+world_empire1136 = {
+	duchies = {
+		# k_kingdom1136
+		d_duchy1136 
+	}
+}
+world_empire1137 = {
+	duchies = {
+		# k_kingdom1137
+		d_duchy1137 
+	}
+}
+world_empire1138 = {
+	duchies = {
+		# k_kingdom1138
+		d_duchy1138 
+	}
+}
+world_empire1139 = {
+	duchies = {
+		# k_kingdom1139
+		d_duchy1139 
+	}
+}
+world_empire1140 = {
+	duchies = {
+		# k_kingdom1140
+		d_duchy1140 
+	}
+}
+world_empire1141 = {
+	duchies = {
+		# k_kingdom1141
+		d_duchy1141 
+	}
+}
+world_empire1142 = {
+	duchies = {
+		# k_kingdom1142
+		d_duchy1142 
+	}
+}
+world_empire1143 = {
+	duchies = {
+		# k_kingdom1143
+		d_duchy1143 
+	}
+}
+world_empire1144 = {
+	duchies = {
+		# k_kingdom1144
+		d_duchy1144 
+	}
+}
+world_empire1145 = {
+	duchies = {
+		# k_kingdom1145
+		d_duchy1145 
+	}
+}
+world_empire1146 = {
+	duchies = {
+		# k_kingdom1146
+		d_duchy1146 
+	}
+}
+world_empire1147 = {
+	duchies = {
+		# k_kingdom1147
+		d_duchy1147 
+	}
+}
+world_empire1148 = {
+	duchies = {
+		# k_kingdom1148
+		d_duchy1148 
+	}
+}
+world_empire1149 = {
+	duchies = {
+		# k_kingdom1149
+		d_duchy1149 
+	}
+}
+world_empire1150 = {
+	duchies = {
+		# k_kingdom1150
+		d_duchy1150 
+	}
+}
+world_empire1151 = {
+	duchies = {
+		# k_kingdom1151
+		d_duchy1151 
+	}
+}
+world_empire1152 = {
+	duchies = {
+		# k_kingdom1152
+		d_duchy1152 
+	}
+}
+world_empire1153 = {
+	duchies = {
+		# k_kingdom1153
+		d_duchy1153 
+	}
+}
+world_empire1154 = {
+	duchies = {
+		# k_kingdom1154
+		d_duchy1154 
+	}
+}
+world_empire1155 = {
+	duchies = {
+		# k_kingdom1155
+		d_duchy1155 
+	}
+}
+world_empire1156 = {
+	duchies = {
+		# k_kingdom1156
+		d_duchy1156 
+	}
+}
+world_empire1157 = {
+	duchies = {
+		# k_kingdom1157
+		d_duchy1157 
+	}
+}
+world_empire1158 = {
+	duchies = {
+		# k_kingdom1158
+		d_duchy1158 
+	}
+}
+world_empire1159 = {
+	duchies = {
+		# k_kingdom1159
+		d_duchy1159 
+	}
+}
+world_empire1160 = {
+	duchies = {
+		# k_kingdom1160
+		d_duchy1160 
+	}
+}
+world_empire1161 = {
+	duchies = {
+		# k_kingdom1161
+		d_duchy1161 
+	}
+}
+world_empire1162 = {
+	duchies = {
+		# k_kingdom1162
+		d_duchy1162 
+	}
+}
+world_empire1163 = {
+	duchies = {
+		# k_kingdom1163
+		d_duchy1163 
+	}
+}
+world_empire1164 = {
+	duchies = {
+		# k_kingdom1164
+		d_duchy1164 
+	}
+}
+world_empire1165 = {
+	duchies = {
+		# k_kingdom1165
+		d_duchy1165 
+	}
+}
+world_empire1166 = {
+	duchies = {
+		# k_kingdom1166
+		d_duchy1166 
+	}
+}
+world_empire1167 = {
+	duchies = {
+		# k_kingdom1167
+		d_duchy1167 
+	}
+}
+world_empire1168 = {
+	duchies = {
+		# k_kingdom1168
+		d_duchy1168 
+	}
+}
+world_empire1169 = {
+	duchies = {
+		# k_kingdom1169
+		d_duchy1169 
+	}
+}
+world_empire1170 = {
+	duchies = {
+		# k_kingdom1170
+		d_duchy1170 
+	}
+}
+world_empire1171 = {
+	duchies = {
+		# k_kingdom1171
+		d_duchy1171 
+	}
+}
+world_empire1172 = {
+	duchies = {
+		# k_kingdom1172
+		d_duchy1172 
+	}
+}
+world_empire1173 = {
+	duchies = {
+		# k_kingdom1173
+		d_duchy1173 
+	}
+}
+world_empire1174 = {
+	duchies = {
+		# k_kingdom1174
+		d_duchy1174 
+	}
+}
+world_empire1175 = {
+	duchies = {
+		# k_kingdom1175
+		d_duchy1175 
+	}
+}
+world_empire1176 = {
+	duchies = {
+		# k_kingdom1176
+		d_duchy1176 
+	}
+}
+world_empire1177 = {
+	duchies = {
+		# k_kingdom1177
+		d_duchy1177 
+	}
+}
+world_empire1178 = {
+	duchies = {
+		# k_kingdom1178
+		d_duchy1178 
+	}
+}
+world_empire1179 = {
+	duchies = {
+		# k_kingdom1179
+		d_duchy1179 
+	}
+}
+world_empire1180 = {
+	duchies = {
+		# k_kingdom1180
+		d_duchy1180 
+	}
+}
+world_empire1181 = {
+	duchies = {
+		# k_kingdom1181
+		d_duchy1181 
+	}
+}
+world_empire1182 = {
+	duchies = {
+		# k_kingdom1182
+		d_duchy1182 
+	}
+}
+world_empire1183 = {
+	duchies = {
+		# k_kingdom1183
+		d_duchy1183 
+	}
+}
+world_empire1184 = {
+	duchies = {
+		# k_kingdom1184
+		d_duchy1184 
+	}
+}
+world_empire1185 = {
+	duchies = {
+		# k_kingdom1185
+		d_duchy1185 
+	}
+}
+world_empire1186 = {
+	duchies = {
+		# k_kingdom1186
+		d_duchy1186 
+	}
+}
+world_empire1187 = {
+	duchies = {
+		# k_kingdom1187
+		d_duchy1187 
+	}
+}
+world_empire1188 = {
+	duchies = {
+		# k_kingdom1188
+		d_duchy1188 
+	}
+}
+world_empire1189 = {
+	duchies = {
+		# k_kingdom1189
+		d_duchy1189 
+	}
+}
+world_empire1190 = {
+	duchies = {
+		# k_kingdom1190
+		d_duchy1190 
+	}
+}
+world_empire1191 = {
+	duchies = {
+		# k_kingdom1191
+		d_duchy1191 
+	}
+}
+world_empire1192 = {
+	duchies = {
+		# k_kingdom1192
+		d_duchy1192 
+	}
+}
+world_empire1193 = {
+	duchies = {
+		# k_kingdom1193
+		d_duchy1193 
+	}
+}
+world_empire1194 = {
+	duchies = {
+		# k_kingdom1194
+		d_duchy1194 
+	}
+}
+world_empire1195 = {
+	duchies = {
+		# k_kingdom1195
+		d_duchy1195 
+	}
+}
+world_empire1196 = {
+	duchies = {
+		# k_kingdom1196
+		d_duchy1196 
+	}
+}
+world_empire1197 = {
+	duchies = {
+		# k_kingdom1197
+		d_duchy1197 
+	}
+}
+world_empire1198 = {
+	duchies = {
+		# k_kingdom1198
+		d_duchy1198 
+	}
+}
+world_empire1199 = {
+	duchies = {
+		# k_kingdom1199
+		d_duchy1199 
+	}
+}
+world_empire1200 = {
+	duchies = {
+		# k_kingdom1200
+		d_duchy1200 
+	}
+}
+world_empire1201 = {
+	duchies = {
+		# k_kingdom1201
+		d_duchy1201 
+	}
+}
+world_empire1202 = {
+	duchies = {
+		# k_kingdom1202
+		d_duchy1202 
+	}
+}
+world_empire1203 = {
+	duchies = {
+		# k_kingdom1203
+		d_duchy1203 
+	}
+}
+world_empire1204 = {
+	duchies = {
+		# k_kingdom1204
+		d_duchy1204 
+	}
+}
+world_empire1205 = {
+	duchies = {
+		# k_kingdom1205
+		d_duchy1205 
+	}
+}
+world_empire1206 = {
+	duchies = {
+		# k_kingdom1206
+		d_duchy1206 
+	}
+}
+world_empire1207 = {
+	duchies = {
+		# k_kingdom1207
+		d_duchy1207 
+	}
+}
+world_empire1208 = {
+	duchies = {
+		# k_kingdom1208
+		d_duchy1208 
+	}
+}
+world_empire1209 = {
+	duchies = {
+		# k_kingdom1209
+		d_duchy1209 
+	}
+}
+world_empire1210 = {
+	duchies = {
+		# k_kingdom1210
+		d_duchy1210 
+	}
+}
+world_empire1211 = {
+	duchies = {
+		# k_kingdom1211
+		d_duchy1211 
+	}
+}
+world_empire1212 = {
+	duchies = {
+		# k_kingdom1212
+		d_duchy1212 
+	}
+}
+world_empire1213 = {
+	duchies = {
+		# k_kingdom1213
+		d_duchy1213 
+	}
+}
+world_empire1214 = {
+	duchies = {
+		# k_kingdom1214
+		d_duchy1214 
+	}
+}
+world_empire1215 = {
+	duchies = {
+		# k_kingdom1215
+		d_duchy1215 
+	}
+}
+world_empire1216 = {
+	duchies = {
+		# k_kingdom1216
+		d_duchy1216 
+	}
+}
+world_empire1217 = {
+	duchies = {
+		# k_kingdom1217
+		d_duchy1217 
+	}
+}
+world_empire1218 = {
+	duchies = {
+		# k_kingdom1218
+		d_duchy1218 
+	}
+}
+world_empire1219 = {
+	duchies = {
+		# k_kingdom1219
+		d_duchy1219 
+	}
+}
+world_empire1220 = {
+	duchies = {
+		# k_kingdom1220
+		d_duchy1220 
+	}
+}
+world_empire1221 = {
+	duchies = {
+		# k_kingdom1221
+		d_duchy1221 
+	}
+}
+world_empire1222 = {
+	duchies = {
+		# k_kingdom1222
+		d_duchy1222 
+	}
+}
+world_empire1223 = {
+	duchies = {
+		# k_kingdom1223
+		d_duchy1223 
+	}
+}
+world_empire1224 = {
+	duchies = {
+		# k_kingdom1224
+		d_duchy1224 
+	}
+}
+world_empire1225 = {
+	duchies = {
+		# k_kingdom1225
+		d_duchy1225 
+	}
+}
+world_empire1226 = {
+	duchies = {
+		# k_kingdom1226
+		d_duchy1226 
+	}
+}
+world_empire1227 = {
+	duchies = {
+		# k_kingdom1227
+		d_duchy1227 
+	}
+}
+world_empire1228 = {
+	duchies = {
+		# k_kingdom1228
+		d_duchy1228 
+	}
+}
+world_empire1229 = {
+	duchies = {
+		# k_kingdom1229
+		d_duchy1229 
+	}
+}
+world_empire1230 = {
+	duchies = {
+		# k_kingdom1230
+		d_duchy1230 
+	}
+}
+world_empire1231 = {
+	duchies = {
+		# k_kingdom1231
+		d_duchy1231 
+	}
+}
+world_empire1232 = {
+	duchies = {
+		# k_kingdom1232
+		d_duchy1232 
+	}
+}
+world_empire1233 = {
+	duchies = {
+		# k_kingdom1233
+		d_duchy1233 
+	}
+}
+world_empire1234 = {
+	duchies = {
+		# k_kingdom1234
+		d_duchy1234 
+	}
+}
+world_empire1235 = {
+	duchies = {
+		# k_kingdom1235
+		d_duchy1235 
+	}
+}
+world_empire1236 = {
+	duchies = {
+		# k_kingdom1236
+		d_duchy1236 
+	}
+}
+world_empire1237 = {
+	duchies = {
+		# k_kingdom1237
+		d_duchy1237 
+	}
+}
+world_empire1238 = {
+	duchies = {
+		# k_kingdom1238
+		d_duchy1238 
+	}
+}
+world_empire1239 = {
+	duchies = {
+		# k_kingdom1239
+		d_duchy1239 
+	}
+}
+world_empire1240 = {
+	duchies = {
+		# k_kingdom1240
+		d_duchy1240 
+	}
+}
+world_empire1241 = {
+	duchies = {
+		# k_kingdom1241
+		d_duchy1241 
+	}
+}
+world_empire1242 = {
+	duchies = {
+		# k_kingdom1242
+		d_duchy1242 
+	}
+}
+world_empire1243 = {
+	duchies = {
+		# k_kingdom1243
+		d_duchy1243 
+	}
+}
+world_empire1244 = {
+	duchies = {
+		# k_kingdom1244
+		d_duchy1244 
+	}
+}
+world_empire1245 = {
+	duchies = {
+		# k_kingdom1245
+		d_duchy1245 
+	}
+}
+world_empire1246 = {
+	duchies = {
+		# k_kingdom1246
+		d_duchy1246 
+	}
+}
+world_empire1247 = {
+	duchies = {
+		# k_kingdom1247
+		d_duchy1247 
+	}
+}
+world_empire1248 = {
+	duchies = {
+		# k_kingdom1248
+		d_duchy1248 
+	}
+}
+world_empire1249 = {
+	duchies = {
+		# k_kingdom1249
+		d_duchy1249 
+	}
+}
+world_empire1250 = {
+	duchies = {
+		# k_kingdom1250
+		d_duchy1250 
+	}
+}
+world_empire1251 = {
+	duchies = {
+		# k_kingdom1251
+		d_duchy1251 
+	}
+}
+world_empire1252 = {
+	duchies = {
+		# k_kingdom1252
+		d_duchy1252 
+	}
+}
+world_empire1253 = {
+	duchies = {
+		# k_kingdom1253
+		d_duchy1253 
+	}
+}
+world_empire1254 = {
+	duchies = {
+		# k_kingdom1254
+		d_duchy1254 
+	}
+}
+world_empire1255 = {
+	duchies = {
+		# k_kingdom1255
+		d_duchy1255 
+	}
+}
+world_empire1256 = {
+	duchies = {
+		# k_kingdom1256
+		d_duchy1256 
+	}
+}
+world_empire1257 = {
+	duchies = {
+		# k_kingdom1257
+		d_duchy1257 
+	}
+}
+world_empire1258 = {
+	duchies = {
+		# k_kingdom1258
+		d_duchy1258 
+	}
+}
+world_empire1259 = {
+	duchies = {
+		# k_kingdom1259
+		d_duchy1259 
+	}
+}
+world_empire1260 = {
+	duchies = {
+		# k_kingdom1260
+		d_duchy1260 
+	}
+}
+world_empire1261 = {
+	duchies = {
+		# k_kingdom1261
+		d_duchy1261 
+	}
+}
+world_empire1262 = {
+	duchies = {
+		# k_kingdom1262
+		d_duchy1262 
+	}
+}
+world_empire1263 = {
+	duchies = {
+		# k_kingdom1263
+		d_duchy1263 
+	}
+}
+world_empire1264 = {
+	duchies = {
+		# k_kingdom1264
+		d_duchy1264 
+	}
+}
+world_empire1265 = {
+	duchies = {
+		# k_kingdom1265
+		d_duchy1265 
+	}
+}
+world_empire1266 = {
+	duchies = {
+		# k_kingdom1266
+		d_duchy1266 
+	}
+}
+world_empire1267 = {
+	duchies = {
+		# k_kingdom1267
+		d_duchy1267 
+	}
+}
+world_empire1268 = {
+	duchies = {
+		# k_kingdom1268
+		d_duchy1268 
+	}
+}
+world_empire1269 = {
+	duchies = {
+		# k_kingdom1269
+		d_duchy1269 
+	}
+}
+world_empire1270 = {
+	duchies = {
+		# k_kingdom1270
+		d_duchy1270 
+	}
+}
+world_empire1271 = {
+	duchies = {
+		# k_kingdom1271
+		d_duchy1271 
+	}
+}
+world_empire1272 = {
+	duchies = {
+		# k_kingdom1272
+		d_duchy1272 
+	}
+}
+world_empire1273 = {
+	duchies = {
+		# k_kingdom1273
+		d_duchy1273 
+	}
+}
+world_empire1274 = {
+	duchies = {
+		# k_kingdom1274
+		d_duchy1274 
+	}
+}
+world_empire1275 = {
+	duchies = {
+		# k_kingdom1275
+		d_duchy1275 
+	}
+}
+world_empire1276 = {
+	duchies = {
+		# k_kingdom1276
+		d_duchy1276 
+	}
+}
+world_empire1277 = {
+	duchies = {
+		# k_kingdom1277
+		d_duchy1277 
+	}
+}
+world_empire1278 = {
+	duchies = {
+		# k_kingdom1278
+		d_duchy1278 
+	}
+}
+world_empire1279 = {
+	duchies = {
+		# k_kingdom1279
+		d_duchy1279 
+	}
+}
+world_empire1280 = {
+	duchies = {
+		# k_kingdom1280
+		d_duchy1280 
+	}
+}
+world_empire1281 = {
+	duchies = {
+		# k_kingdom1281
+		d_duchy1281 
+	}
+}
+world_empire1282 = {
+	duchies = {
+		# k_kingdom1282
+		d_duchy1282 
+	}
+}
+world_empire1283 = {
+	duchies = {
+		# k_kingdom1283
+		d_duchy1283 
+	}
+}
+world_empire1284 = {
+	duchies = {
+		# k_kingdom1284
+		d_duchy1284 
+	}
+}
+world_empire1285 = {
+	duchies = {
+		# k_kingdom1285
+		d_duchy1285 
+	}
+}
+world_empire1286 = {
+	duchies = {
+		# k_kingdom1286
+		d_duchy1286 
+	}
+}
+world_empire1287 = {
+	duchies = {
+		# k_kingdom1287
+		d_duchy1287 
+	}
+}
+world_empire1288 = {
+	duchies = {
+		# k_kingdom1288
+		d_duchy1288 
+	}
+}
+world_empire1289 = {
+	duchies = {
+		# k_kingdom1289
+		d_duchy1289 
+	}
+}
+world_empire1290 = {
+	duchies = {
+		# k_kingdom1290
+		d_duchy1290 
+	}
+}
+world_empire1291 = {
+	duchies = {
+		# k_kingdom1291
+		d_duchy1291 
+	}
+}
+world_empire1292 = {
+	duchies = {
+		# k_kingdom1292
+		d_duchy1292 
+	}
+}
+world_empire1293 = {
+	duchies = {
+		# k_kingdom1293
+		d_duchy1293 
+	}
+}
+world_empire1294 = {
+	duchies = {
+		# k_kingdom1294
+		d_duchy1294 
+	}
+}
+world_empire1295 = {
+	duchies = {
+		# k_kingdom1295
+		d_duchy1295 
+	}
+}
+world_empire1296 = {
+	duchies = {
+		# k_kingdom1296
+		d_duchy1296 
+	}
+}
+world_empire1297 = {
+	duchies = {
+		# k_kingdom1297
+		d_duchy1297 
+	}
+}
+world_empire1298 = {
+	duchies = {
+		# k_kingdom1298
+		d_duchy1298 
+	}
+}
+world_empire1299 = {
+	duchies = {
+		# k_kingdom1299
+		d_duchy1299 
+	}
+}
+world_empire1300 = {
+	duchies = {
+		# k_kingdom1300
+		d_duchy1300 
+	}
+}
+world_empire1301 = {
+	duchies = {
+		# k_kingdom1301
+		d_duchy1301 
+	}
+}
+world_empire1302 = {
+	duchies = {
+		# k_kingdom1302
+		d_duchy1302 
+	}
+}
+world_empire1303 = {
+	duchies = {
+		# k_kingdom1303
+		d_duchy1303 
+	}
+}
+world_empire1304 = {
+	duchies = {
+		# k_kingdom1304
+		d_duchy1304 
+	}
+}
+world_empire1305 = {
+	duchies = {
+		# k_kingdom1305
+		d_duchy1305 
+	}
+}
+world_empire1306 = {
+	duchies = {
+		# k_kingdom1306
+		d_duchy1306 
+	}
+}
+world_empire1307 = {
+	duchies = {
+		# k_kingdom1307
+		d_duchy1307 
+	}
+}
+world_empire1308 = {
+	duchies = {
+		# k_kingdom1308
+		d_duchy1308 
+	}
+}
+world_empire1309 = {
+	duchies = {
+		# k_kingdom1309
+		d_duchy1309 
+	}
+}
+world_empire1310 = {
+	duchies = {
+		# k_kingdom1310
+		d_duchy1310 
+	}
+}
+world_empire1311 = {
+	duchies = {
+		# k_kingdom1311
+		d_duchy1311 
+	}
+}
+world_empire1312 = {
+	duchies = {
+		# k_kingdom1312
+		d_duchy1312 
+	}
+}
+world_empire1313 = {
+	duchies = {
+		# k_kingdom1313
+		d_duchy1313 
+	}
+}
+world_empire1314 = {
+	duchies = {
+		# k_kingdom1314
+		d_duchy1314 
+	}
+}
+world_empire1315 = {
+	duchies = {
+		# k_kingdom1315
+		d_duchy1315 
+	}
+}
+world_empire1316 = {
+	duchies = {
+		# k_kingdom1316
+		d_duchy1316 
+	}
+}
+world_empire1317 = {
+	duchies = {
+		# k_kingdom1317
+		d_duchy1317 
+	}
+}
+world_empire1318 = {
+	duchies = {
+		# k_kingdom1318
+		d_duchy1318 
+	}
+}
+world_empire1319 = {
+	duchies = {
+		# k_kingdom1319
+		d_duchy1319 
+	}
+}
+world_empire1320 = {
+	duchies = {
+		# k_kingdom1320
+		d_duchy1320 
+	}
+}
+world_empire1321 = {
+	duchies = {
+		# k_kingdom1321
+		d_duchy1321 
+	}
+}
+world_empire1322 = {
+	duchies = {
+		# k_kingdom1322
+		d_duchy1322 
+	}
+}
+world_empire1323 = {
+	duchies = {
+		# k_kingdom1323
+		d_duchy1323 
+	}
+}
+world_empire1324 = {
+	duchies = {
+		# k_kingdom1324
+		d_duchy1324 
+	}
+}
+world_empire1325 = {
+	duchies = {
+		# k_kingdom1325
+		d_duchy1325 
+	}
+}
+world_empire1326 = {
+	duchies = {
+		# k_kingdom1326
+		d_duchy1326 
+	}
+}
+world_empire1327 = {
+	duchies = {
+		# k_kingdom1327
+		d_duchy1327 
+	}
+}
+world_empire1328 = {
+	duchies = {
+		# k_kingdom1328
+		d_duchy1328 
+	}
+}
+world_empire1329 = {
+	duchies = {
+		# k_kingdom1329
+		d_duchy1329 
+	}
+}
+world_empire1330 = {
+	duchies = {
+		# k_kingdom1330
+		d_duchy1330 
+	}
+}
+world_empire1331 = {
+	duchies = {
+		# k_kingdom1331
+		d_duchy1331 
+	}
+}
+world_empire1332 = {
+	duchies = {
+		# k_kingdom1332
+		d_duchy1332 
+	}
+}
+world_empire1333 = {
+	duchies = {
+		# k_kingdom1333
+		d_duchy1333 
+	}
+}
+world_empire1334 = {
+	duchies = {
+		# k_kingdom1334
+		d_duchy1334 
+	}
+}
+world_empire1335 = {
+	duchies = {
+		# k_kingdom1335
+		d_duchy1335 
+	}
+}
+world_empire1336 = {
+	duchies = {
+		# k_kingdom1336
+		d_duchy1336 
+	}
+}
+world_empire1337 = {
+	duchies = {
+		# k_kingdom1337
+		d_duchy1337 
+	}
+}
+world_empire1338 = {
+	duchies = {
+		# k_kingdom1338
+		d_duchy1338 
+	}
+}
+world_empire1339 = {
+	duchies = {
+		# k_kingdom1339
+		d_duchy1339 
+	}
+}
+world_empire1340 = {
+	duchies = {
+		# k_kingdom1340
+		d_duchy1340 
+	}
+}
+world_empire1341 = {
+	duchies = {
+		# k_kingdom1341
+		d_duchy1341 
+	}
+}
+world_empire1342 = {
+	duchies = {
+		# k_kingdom1342
+		d_duchy1342 
+	}
+}
+world_empire1343 = {
+	duchies = {
+		# k_kingdom1343
+		d_duchy1343 
+	}
+}
+world_empire1344 = {
+	duchies = {
+		# k_kingdom1344
+		d_duchy1344 
+	}
+}
+world_empire1345 = {
+	duchies = {
+		# k_kingdom1345
+		d_duchy1345 
+	}
+}
+world_empire1346 = {
+	duchies = {
+		# k_kingdom1346
+		d_duchy1346 
+	}
+}
+world_empire1347 = {
+	duchies = {
+		# k_kingdom1347
+		d_duchy1347 
+	}
+}
+world_empire1348 = {
+	duchies = {
+		# k_kingdom1348
+		d_duchy1348 
+	}
+}
+world_empire1349 = {
+	duchies = {
+		# k_kingdom1349
+		d_duchy1349 
+	}
+}
+world_empire1350 = {
+	duchies = {
+		# k_kingdom1350
+		d_duchy1350 
+	}
+}
+world_empire1351 = {
+	duchies = {
+		# k_kingdom1351
+		d_duchy1351 
+	}
+}
+world_empire1352 = {
+	duchies = {
+		# k_kingdom1352
+		d_duchy1352 
+	}
+}
+world_empire1353 = {
+	duchies = {
+		# k_kingdom1353
+		d_duchy1353 
+	}
+}
+world_empire1354 = {
+	duchies = {
+		# k_kingdom1354
+		d_duchy1354 
+	}
+}
+world_empire1355 = {
+	duchies = {
+		# k_kingdom1355
+		d_duchy1355 
+	}
+}
+world_empire1356 = {
+	duchies = {
+		# k_kingdom1356
+		d_duchy1356 
+	}
+}
+world_empire1357 = {
+	duchies = {
+		# k_kingdom1357
+		d_duchy1357 
+	}
+}
+world_empire1358 = {
+	duchies = {
+		# k_kingdom1358
+		d_duchy1358 
+	}
+}
+world_empire1359 = {
+	duchies = {
+		# k_kingdom1359
+		d_duchy1359 
+	}
+}
+world_empire1360 = {
+	duchies = {
+		# k_kingdom1360
+		d_duchy1360 
+	}
+}
+world_empire1361 = {
+	duchies = {
+		# k_kingdom1361
+		d_duchy1361 
+	}
+}
+world_empire1362 = {
+	duchies = {
+		# k_kingdom1362
+		d_duchy1362 
+	}
+}
+world_empire1363 = {
+	duchies = {
+		# k_kingdom1363
+		d_duchy1363 
+	}
+}
+world_empire1364 = {
+	duchies = {
+		# k_kingdom1364
+		d_duchy1364 
+	}
+}
+world_empire1365 = {
+	duchies = {
+		# k_kingdom1365
+		d_duchy1365 
+	}
+}
+world_empire1366 = {
+	duchies = {
+		# k_kingdom1366
+		d_duchy1366 
+	}
+}
+world_empire1367 = {
+	duchies = {
+		# k_kingdom1367
+		d_duchy1367 
+	}
+}
+world_empire1368 = {
+	duchies = {
+		# k_kingdom1368
+		d_duchy1368 
+	}
+}
+world_empire1369 = {
+	duchies = {
+		# k_kingdom1369
+		d_duchy1369 
+	}
+}
+world_empire1370 = {
+	duchies = {
+		# k_kingdom1370
+		d_duchy1370 
+	}
+}
+world_empire1371 = {
+	duchies = {
+		# k_kingdom1371
+		d_duchy1371 
+	}
+}
+world_empire1372 = {
+	duchies = {
+		# k_kingdom1372
+		d_duchy1372 
+	}
+}
+world_empire1373 = {
+	duchies = {
+		# k_kingdom1373
+		d_duchy1373 
+	}
+}
+world_empire1374 = {
+	duchies = {
+		# k_kingdom1374
+		d_duchy1374 
+	}
+}
+world_empire1375 = {
+	duchies = {
+		# k_kingdom1375
+		d_duchy1375 
+	}
+}
+world_empire1376 = {
+	duchies = {
+		# k_kingdom1376
+		d_duchy1376 
+	}
+}
+world_empire1377 = {
+	duchies = {
+		# k_kingdom1377
+		d_duchy1377 
+	}
+}
+world_empire1378 = {
+	duchies = {
+		# k_kingdom1378
+		d_duchy1378 
+	}
+}
+world_empire1379 = {
+	duchies = {
+		# k_kingdom1379
+		d_duchy1379 
+	}
+}
+world_empire1380 = {
+	duchies = {
+		# k_kingdom1380
+		d_duchy1380 
+	}
+}
+world_empire1381 = {
+	duchies = {
+		# k_kingdom1381
+		d_duchy1381 
+	}
+}
+world_empire1382 = {
+	duchies = {
+		# k_kingdom1382
+		d_duchy1382 
+	}
+}
+world_empire1383 = {
+	duchies = {
+		# k_kingdom1383
+		d_duchy1383 
+	}
+}
+world_empire1384 = {
+	duchies = {
+		# k_kingdom1384
+		d_duchy1384 
+	}
+}
+world_empire1385 = {
+	duchies = {
+		# k_kingdom1385
+		d_duchy1385 
+	}
+}
+world_empire1386 = {
+	duchies = {
+		# k_kingdom1386
+		d_duchy1386 
+	}
+}
+world_empire1387 = {
+	duchies = {
+		# k_kingdom1387
+		d_duchy1387 
+	}
+}
+world_empire1388 = {
+	duchies = {
+		# k_kingdom1388
+		d_duchy1388 
+	}
+}
+world_empire1389 = {
+	duchies = {
+		# k_kingdom1389
+		d_duchy1389 
+	}
+}
+world_empire1390 = {
+	duchies = {
+		# k_kingdom1390
+		d_duchy1390 
+	}
+}
+world_empire1391 = {
+	duchies = {
+		# k_kingdom1391
+		d_duchy1391 
+	}
+}
+world_empire1392 = {
+	duchies = {
+		# k_kingdom1392
+		d_duchy1392 
+	}
+}
+world_empire1393 = {
+	duchies = {
+		# k_kingdom1393
+		d_duchy1393 
+	}
+}
+world_empire1394 = {
+	duchies = {
+		# k_kingdom1394
+		d_duchy1394 
+	}
+}
+world_empire1395 = {
+	duchies = {
+		# k_kingdom1395
+		d_duchy1395 
+	}
+}
+world_empire1396 = {
+	duchies = {
+		# k_kingdom1396
+		d_duchy1396 
+	}
+}
+world_empire1397 = {
+	duchies = {
+		# k_kingdom1397
+		d_duchy1397 
+	}
+}
+world_empire1398 = {
+	duchies = {
+		# k_kingdom1398
+		d_duchy1398 
+	}
+}
+world_empire1399 = {
+	duchies = {
+		# k_kingdom1399
+		d_duchy1399 
+	}
+}
+world_empire1400 = {
+	duchies = {
+		# k_kingdom1400
+		d_duchy1400 
+	}
+}
+world_empire1401 = {
+	duchies = {
+		# k_kingdom1401
+		d_duchy1401 
+	}
+}
+world_empire1402 = {
+	duchies = {
+		# k_kingdom1402
+		d_duchy1402 
+	}
+}
+world_empire1403 = {
+	duchies = {
+		# k_kingdom1403
+		d_duchy1403 
+	}
+}
+world_empire1404 = {
+	duchies = {
+		# k_kingdom1404
+		d_duchy1404 
+	}
+}
+world_empire1405 = {
+	duchies = {
+		# k_kingdom1405
+		d_duchy1405 
+	}
+}
+world_empire1406 = {
+	duchies = {
+		# k_kingdom1406
+		d_duchy1406 
+	}
+}
+world_empire1407 = {
+	duchies = {
+		# k_kingdom1407
+		d_duchy1407 
+	}
+}
+world_empire1408 = {
+	duchies = {
+		# k_kingdom1408
+		d_duchy1408 
+	}
+}
+world_empire1409 = {
+	duchies = {
+		# k_kingdom1409
+		d_duchy1409 
+	}
+}
+world_empire1410 = {
+	duchies = {
+		# k_kingdom1410
+		d_duchy1410 
+	}
+}
+world_empire1411 = {
+	duchies = {
+		# k_kingdom1411
+		d_duchy1411 
+	}
+}
+world_empire1412 = {
+	duchies = {
+		# k_kingdom1412
+		d_duchy1412 
+	}
+}
+world_empire1413 = {
+	duchies = {
+		# k_kingdom1413
+		d_duchy1413 
+	}
+}
+world_empire1414 = {
+	duchies = {
+		# k_kingdom1414
+		d_duchy1414 
+	}
+}
+world_empire1415 = {
+	duchies = {
+		# k_kingdom1415
+		d_duchy1415 
+	}
+}
+world_empire1416 = {
+	duchies = {
+		# k_kingdom1416
+		d_duchy1416 
+	}
+}
+world_empire1417 = {
+	duchies = {
+		# k_kingdom1417
+		d_duchy1417 
+	}
+}
+world_empire1418 = {
+	duchies = {
+		# k_kingdom1418
+		d_duchy1418 
+	}
+}
+world_empire1419 = {
+	duchies = {
+		# k_kingdom1419
+		d_duchy1419 
+	}
+}
+world_empire1420 = {
+	duchies = {
+		# k_kingdom1420
+		d_duchy1420 
+	}
+}
+world_empire1421 = {
+	duchies = {
+		# k_kingdom1421
+		d_duchy1421 
+	}
+}
+world_empire1422 = {
+	duchies = {
+		# k_kingdom1422
+		d_duchy1422 
+	}
+}
+world_empire1423 = {
+	duchies = {
+		# k_kingdom1423
+		d_duchy1423 
+	}
+}
+world_empire1424 = {
+	duchies = {
+		# k_kingdom1424
+		d_duchy1424 
+	}
+}
+world_empire1425 = {
+	duchies = {
+		# k_kingdom1425
+		d_duchy1425 
+	}
+}
+world_empire1426 = {
+	duchies = {
+		# k_kingdom1426
+		d_duchy1426 
+	}
+}
+world_empire1427 = {
+	duchies = {
+		# k_kingdom1427
+		d_duchy1427 
+	}
+}
+world_empire1428 = {
+	duchies = {
+		# k_kingdom1428
+		d_duchy1428 
+	}
+}
+world_empire1429 = {
+	duchies = {
+		# k_kingdom1429
+		d_duchy1429 
+	}
+}
+world_empire1430 = {
+	duchies = {
+		# k_kingdom1430
+		d_duchy1430 
+	}
+}
+world_empire1431 = {
+	duchies = {
+		# k_kingdom1431
+		d_duchy1431 
+	}
+}
+world_empire1432 = {
+	duchies = {
+		# k_kingdom1432
+		d_duchy1432 
+	}
+}
+world_empire1433 = {
+	duchies = {
+		# k_kingdom1433
+		d_duchy1433 
+	}
+}
+world_empire1434 = {
+	duchies = {
+		# k_kingdom1434
+		d_duchy1434 
+	}
+}
+world_empire1435 = {
+	duchies = {
+		# k_kingdom1435
+		d_duchy1435 
+	}
+}
+world_empire1436 = {
+	duchies = {
+		# k_kingdom1436
+		d_duchy1436 
+	}
+}
+world_empire1437 = {
+	duchies = {
+		# k_kingdom1437
+		d_duchy1437 
+	}
+}
+world_empire1438 = {
+	duchies = {
+		# k_kingdom1438
+		d_duchy1438 
+	}
+}
+world_empire1439 = {
+	duchies = {
+		# k_kingdom1439
+		d_duchy1439 
+	}
+}
+world_empire1440 = {
+	duchies = {
+		# k_kingdom1440
+		d_duchy1440 
+	}
+}
+world_empire1441 = {
+	duchies = {
+		# k_kingdom1441
+		d_duchy1441 
+	}
+}
+world_empire1442 = {
+	duchies = {
+		# k_kingdom1442
+		d_duchy1442 
+	}
+}
+world_empire1443 = {
+	duchies = {
+		# k_kingdom1443
+		d_duchy1443 
+	}
+}
+world_empire1444 = {
+	duchies = {
+		# k_kingdom1444
+		d_duchy1444 
+	}
+}
+world_empire1445 = {
+	duchies = {
+		# k_kingdom1445
+		d_duchy1445 
+	}
+}
+world_empire1446 = {
+	duchies = {
+		# k_kingdom1446
+		d_duchy1446 
+	}
+}
+world_empire1447 = {
+	duchies = {
+		# k_kingdom1447
+		d_duchy1447 
+	}
+}
+world_empire1448 = {
+	duchies = {
+		# k_kingdom1448
+		d_duchy1448 
+	}
+}
+world_empire1449 = {
+	duchies = {
+		# k_kingdom1449
+		d_duchy1449 
+	}
+}
+world_empire1450 = {
+	duchies = {
+		# k_kingdom1450
+		d_duchy1450 
+	}
+}
+world_empire1451 = {
+	duchies = {
+		# k_kingdom1451
+		d_duchy1451 
+	}
+}
+world_empire1452 = {
+	duchies = {
+		# k_kingdom1452
+		d_duchy1452 
+	}
+}
+world_empire1453 = {
+	duchies = {
+		# k_kingdom1453
+		d_duchy1453 
+	}
+}
+world_empire1454 = {
+	duchies = {
+		# k_kingdom1454
+		d_duchy1454 
+	}
+}
+world_empire1455 = {
+	duchies = {
+		# k_kingdom1455
+		d_duchy1455 
+	}
+}
+world_empire1456 = {
+	duchies = {
+		# k_kingdom1456
+		d_duchy1456 
+	}
+}
+world_empire1457 = {
+	duchies = {
+		# k_kingdom1457
+		d_duchy1457 
+	}
+}
+world_empire1458 = {
+	duchies = {
+		# k_kingdom1458
+		d_duchy1458 
+	}
+}
+world_empire1459 = {
+	duchies = {
+		# k_kingdom1459
+		d_duchy1459 
+	}
+}
+world_empire1460 = {
+	duchies = {
+		# k_kingdom1460
+		d_duchy1460 
+	}
+}
+world_empire1461 = {
+	duchies = {
+		# k_kingdom1461
+		d_duchy1461 
+	}
+}
+world_empire1462 = {
+	duchies = {
+		# k_kingdom1462
+		d_duchy1462 
+	}
+}
+world_empire1463 = {
+	duchies = {
+		# k_kingdom1463
+		d_duchy1463 
+	}
+}
+world_empire1464 = {
+	duchies = {
+		# k_kingdom1464
+		d_duchy1464 
+	}
+}
+world_empire1465 = {
+	duchies = {
+		# k_kingdom1465
+		d_duchy1465 
+	}
+}
+world_empire1466 = {
+	duchies = {
+		# k_kingdom1466
+		d_duchy1466 
+	}
+}
+world_empire1467 = {
+	duchies = {
+		# k_kingdom1467
+		d_duchy1467 
+	}
+}
+world_empire1468 = {
+	duchies = {
+		# k_kingdom1468
+		d_duchy1468 
+	}
+}
+world_empire1469 = {
+	duchies = {
+		# k_kingdom1469
+		d_duchy1469 
+	}
+}
+world_empire1470 = {
+	duchies = {
+		# k_kingdom1470
+		d_duchy1470 
+	}
+}
+world_empire1471 = {
+	duchies = {
+		# k_kingdom1471
+		d_duchy1471 
+	}
+}
+world_empire1472 = {
+	duchies = {
+		# k_kingdom1472
+		d_duchy1472 
+	}
+}
+world_empire1473 = {
+	duchies = {
+		# k_kingdom1473
+		d_duchy1473 
+	}
+}
+world_empire1474 = {
+	duchies = {
+		# k_kingdom1474
+		d_duchy1474 
+	}
+}
+world_empire1475 = {
+	duchies = {
+		# k_kingdom1475
+		d_duchy1475 
+	}
+}
+world_empire1476 = {
+	duchies = {
+		# k_kingdom1476
+		d_duchy1476 
+	}
+}
+world_empire1477 = {
+	duchies = {
+		# k_kingdom1477
+		d_duchy1477 
+	}
+}
+world_empire1478 = {
+	duchies = {
+		# k_kingdom1478
+		d_duchy1478 
+	}
+}
+world_empire1479 = {
+	duchies = {
+		# k_kingdom1479
+		d_duchy1479 
+	}
+}
+world_empire1480 = {
+	duchies = {
+		# k_kingdom1480
+		d_duchy1480 
+	}
+}
+world_empire1481 = {
+	duchies = {
+		# k_kingdom1481
+		d_duchy1481 
+	}
+}
+world_empire1482 = {
+	duchies = {
+		# k_kingdom1482
+		d_duchy1482 
+	}
+}
+world_empire1483 = {
+	duchies = {
+		# k_kingdom1483
+		d_duchy1483 
+	}
+}
+world_empire1484 = {
+	duchies = {
+		# k_kingdom1484
+		d_duchy1484 
+	}
+}
+world_empire1485 = {
+	duchies = {
+		# k_kingdom1485
+		d_duchy1485 
+	}
+}
+world_empire1486 = {
+	duchies = {
+		# k_kingdom1486
+		d_duchy1486 
+	}
+}
+world_empire1487 = {
+	duchies = {
+		# k_kingdom1487
+		d_duchy1487 
+	}
+}
+world_empire1488 = {
+	duchies = {
+		# k_kingdom1488
+		d_duchy1488 
+	}
+}
+world_empire1489 = {
+	duchies = {
+		# k_kingdom1489
+		d_duchy1489 
+	}
+}
+world_empire1490 = {
+	duchies = {
+		# k_kingdom1490
+		d_duchy1490 
+	}
+}
+world_empire1491 = {
+	duchies = {
+		# k_kingdom1491
+		d_duchy1491 
+	}
+}
+world_empire1492 = {
+	duchies = {
+		# k_kingdom1492
+		d_duchy1492 
+	}
+}
+world_empire1493 = {
+	duchies = {
+		# k_kingdom1493
+		d_duchy1493 
+	}
+}
+world_empire1494 = {
+	duchies = {
+		# k_kingdom1494
+		d_duchy1494 
+	}
+}
+world_empire1495 = {
+	duchies = {
+		# k_kingdom1495
+		d_duchy1495 
+	}
+}
+world_empire1496 = {
+	duchies = {
+		# k_kingdom1496
+		d_duchy1496 
+	}
+}
+world_empire1497 = {
+	duchies = {
+		# k_kingdom1497
+		d_duchy1497 
+	}
+}
+world_empire1498 = {
+	duchies = {
+		# k_kingdom1498
+		d_duchy1498 
+	}
+}
+world_empire1499 = {
+	duchies = {
+		# k_kingdom1499
+		d_duchy1499 
+	}
+}
+world_empire1500 = {
+	duchies = {
+		# k_kingdom1500
+		d_duchy1500 
+	}
+}
+world_empire1501 = {
+	duchies = {
+		# k_kingdom1501
+		d_duchy1501 
+	}
+}
+world_empire1502 = {
+	duchies = {
+		# k_kingdom1502
+		d_duchy1502 
+	}
+}
+world_empire1503 = {
+	duchies = {
+		# k_kingdom1503
+		d_duchy1503 
+	}
+}
+world_empire1504 = {
+	duchies = {
+		# k_kingdom1504
+		d_duchy1504 
+	}
+}
+world_empire1505 = {
+	duchies = {
+		# k_kingdom1505
+		d_duchy1505 
+	}
+}
+world_empire1506 = {
+	duchies = {
+		# k_kingdom1506
+		d_duchy1506 
+	}
+}
+world_empire1507 = {
+	duchies = {
+		# k_kingdom1507
+		d_duchy1507 
+	}
+}
+world_empire1508 = {
+	duchies = {
+		# k_kingdom1508
+		d_duchy1508 
+	}
+}
+world_empire1509 = {
+	duchies = {
+		# k_kingdom1509
+		d_duchy1509 
+	}
+}
+world_empire1510 = {
+	duchies = {
+		# k_kingdom1510
+		d_duchy1510 
+	}
+}
+world_empire1511 = {
+	duchies = {
+		# k_kingdom1511
+		d_duchy1511 
+	}
+}
+world_empire1512 = {
+	duchies = {
+		# k_kingdom1512
+		d_duchy1512 
+	}
+}
+world_empire1513 = {
+	duchies = {
+		# k_kingdom1513
+		d_duchy1513 
+	}
+}
+world_empire1514 = {
+	duchies = {
+		# k_kingdom1514
+		d_duchy1514 
+	}
+}
+world_empire1515 = {
+	duchies = {
+		# k_kingdom1515
+		d_duchy1515 
+	}
+}
+world_empire1516 = {
+	duchies = {
+		# k_kingdom1516
+		d_duchy1516 
+	}
+}
+world_empire1517 = {
+	duchies = {
+		# k_kingdom1517
+		d_duchy1517 
+	}
+}
+world_empire1518 = {
+	duchies = {
+		# k_kingdom1518
+		d_duchy1518 
+	}
+}
+world_empire1519 = {
+	duchies = {
+		# k_kingdom1519
+		d_duchy1519 
+	}
+}
+world_empire1520 = {
+	duchies = {
+		# k_kingdom1520
+		d_duchy1520 
+	}
+}
+world_empire1521 = {
+	duchies = {
+		# k_kingdom1521
+		d_duchy1521 
+	}
+}
+world_empire1522 = {
+	duchies = {
+		# k_kingdom1522
+		d_duchy1522 
+	}
+}
+world_empire1523 = {
+	duchies = {
+		# k_kingdom1523
+		d_duchy1523 
+	}
+}
+world_empire1524 = {
+	duchies = {
+		# k_kingdom1524
+		d_duchy1524 
+	}
+}
+world_empire1525 = {
+	duchies = {
+		# k_kingdom1525
+		d_duchy1525 
+	}
+}
+world_empire1526 = {
+	duchies = {
+		# k_kingdom1526
+		d_duchy1526 
+	}
+}
+world_empire1527 = {
+	duchies = {
+		# k_kingdom1527
+		d_duchy1527 
+	}
+}
+world_empire1528 = {
+	duchies = {
+		# k_kingdom1528
+		d_duchy1528 
+	}
+}
+world_empire1529 = {
+	duchies = {
+		# k_kingdom1529
+		d_duchy1529 
+	}
+}
+world_empire1530 = {
+	duchies = {
+		# k_kingdom1530
+		d_duchy1530 
+	}
+}
+world_empire1531 = {
+	duchies = {
+		# k_kingdom1531
+		d_duchy1531 
+	}
+}
+world_empire1532 = {
+	duchies = {
+		# k_kingdom1532
+		d_duchy1532 
+	}
+}
+world_empire1533 = {
+	duchies = {
+		# k_kingdom1533
+		d_duchy1533 
+	}
+}
+world_empire1534 = {
+	duchies = {
+		# k_kingdom1534
+		d_duchy1534 
+	}
+}
+world_empire1535 = {
+	duchies = {
+		# k_kingdom1535
+		d_duchy1535 
+	}
+}
+world_empire1536 = {
+	duchies = {
+		# k_kingdom1536
+		d_duchy1536 
+	}
+}
+world_empire1537 = {
+	duchies = {
+		# k_kingdom1537
+		d_duchy1537 
+	}
+}
+world_empire1538 = {
+	duchies = {
+		# k_kingdom1538
+		d_duchy1538 
+	}
+}
+world_empire1539 = {
+	duchies = {
+		# k_kingdom1539
+		d_duchy1539 
+	}
+}
+world_empire1540 = {
+	duchies = {
+		# k_kingdom1540
+		d_duchy1540 
+	}
+}
+world_empire1541 = {
+	duchies = {
+		# k_kingdom1541
+		d_duchy1541 
+	}
+}
+world_empire1542 = {
+	duchies = {
+		# k_kingdom1542
+		d_duchy1542 
+	}
+}
+world_empire1543 = {
+	duchies = {
+		# k_kingdom1543
+		d_duchy1543 
+	}
+}
+world_empire1544 = {
+	duchies = {
+		# k_kingdom1544
+		d_duchy1544 
+	}
+}
+world_empire1545 = {
+	duchies = {
+		# k_kingdom1545
+		d_duchy1545 
+	}
+}
+world_empire1546 = {
+	duchies = {
+		# k_kingdom1546
+		d_duchy1546 
+	}
+}
+world_empire1547 = {
+	duchies = {
+		# k_kingdom1547
+		d_duchy1547 
+	}
+}
+world_empire1548 = {
+	duchies = {
+		# k_kingdom1548
+		d_duchy1548 
+	}
+}
+world_empire1549 = {
+	duchies = {
+		# k_kingdom1549
+		d_duchy1549 
+	}
+}
+world_empire1550 = {
+	duchies = {
+		# k_kingdom1550
+		d_duchy1550 
+	}
+}
+world_empire1551 = {
+	duchies = {
+		# k_kingdom1551
+		d_duchy1551 
+	}
+}
+world_empire1552 = {
+	duchies = {
+		# k_kingdom1552
+		d_duchy1552 
+	}
+}
+world_empire1553 = {
+	duchies = {
+		# k_kingdom1553
+		d_duchy1553 
+	}
+}
+world_empire1554 = {
+	duchies = {
+		# k_kingdom1554
+		d_duchy1554 
+	}
+}
+world_empire1555 = {
+	duchies = {
+		# k_kingdom1555
+		d_duchy1555 
+	}
+}
+world_empire1556 = {
+	duchies = {
+		# k_kingdom1556
+		d_duchy1556 
+	}
+}
+world_empire1557 = {
+	duchies = {
+		# k_kingdom1557
+		d_duchy1557 
+	}
+}
+world_empire1558 = {
+	duchies = {
+		# k_kingdom1558
+		d_duchy1558 
+	}
+}
+world_empire1559 = {
+	duchies = {
+		# k_kingdom1559
+		d_duchy1559 
+	}
+}
+world_empire1560 = {
+	duchies = {
+		# k_kingdom1560
+		d_duchy1560 
+	}
+}
+world_empire1561 = {
+	duchies = {
+		# k_kingdom1561
+		d_duchy1561 
+	}
+}
+world_empire1562 = {
+	duchies = {
+		# k_kingdom1562
+		d_duchy1562 
+	}
+}
+world_empire1563 = {
+	duchies = {
+		# k_kingdom1563
+		d_duchy1563 
+	}
+}
+world_empire1564 = {
+	duchies = {
+		# k_kingdom1564
+		d_duchy1564 
+	}
+}
+world_empire1565 = {
+	duchies = {
+		# k_kingdom1565
+		d_duchy1565 
+	}
+}
+world_empire1566 = {
+	duchies = {
+		# k_kingdom1566
+		d_duchy1566 
+	}
+}
+world_empire1567 = {
+	duchies = {
+		# k_kingdom1567
+		d_duchy1567 
+	}
+}
+world_empire1568 = {
+	duchies = {
+		# k_kingdom1568
+		d_duchy1568 
+	}
+}
+world_empire1569 = {
+	duchies = {
+		# k_kingdom1569
+		d_duchy1569 
+	}
+}
+world_empire1570 = {
+	duchies = {
+		# k_kingdom1570
+		d_duchy1570 
+	}
+}
+world_empire1571 = {
+	duchies = {
+		# k_kingdom1571
+		d_duchy1571 
+	}
+}
+world_empire1572 = {
+	duchies = {
+		# k_kingdom1572
+		d_duchy1572 
+	}
+}
+world_empire1573 = {
+	duchies = {
+		# k_kingdom1573
+		d_duchy1573 
+	}
+}
+world_empire1574 = {
+	duchies = {
+		# k_kingdom1574
+		d_duchy1574 
+	}
+}
+world_empire1575 = {
+	duchies = {
+		# k_kingdom1575
+		d_duchy1575 
+	}
+}
+world_empire1576 = {
+	duchies = {
+		# k_kingdom1576
+		d_duchy1576 
+	}
+}
+world_empire1577 = {
+	duchies = {
+		# k_kingdom1577
+		d_duchy1577 
+	}
+}
+world_empire1578 = {
+	duchies = {
+		# k_kingdom1578
+		d_duchy1578 
+	}
+}
+world_empire1579 = {
+	duchies = {
+		# k_kingdom1579
+		d_duchy1579 
+	}
+}
+world_empire1580 = {
+	duchies = {
+		# k_kingdom1580
+		d_duchy1580 
+	}
+}
+world_empire1581 = {
+	duchies = {
+		# k_kingdom1581
+		d_duchy1581 
+	}
+}
+world_empire1582 = {
+	duchies = {
+		# k_kingdom1582
+		d_duchy1582 
+	}
+}
+world_empire1583 = {
+	duchies = {
+		# k_kingdom1583
+		d_duchy1583 
+	}
+}
+world_empire1584 = {
+	duchies = {
+		# k_kingdom1584
+		d_duchy1584 
+	}
+}
+world_empire1585 = {
+	duchies = {
+		# k_kingdom1585
+		d_duchy1585 
+	}
+}
+world_empire1586 = {
+	duchies = {
+		# k_kingdom1586
+		d_duchy1586 
+	}
+}
+world_empire1587 = {
+	duchies = {
+		# k_kingdom1587
+		d_duchy1587 
+	}
+}
+world_empire1588 = {
+	duchies = {
+		# k_kingdom1588
+		d_duchy1588 
+	}
+}
+world_empire1589 = {
+	duchies = {
+		# k_kingdom1589
+		d_duchy1589 
+	}
+}
+world_empire1590 = {
+	duchies = {
+		# k_kingdom1590
+		d_duchy1590 
+	}
+}
+world_empire1591 = {
+	duchies = {
+		# k_kingdom1591
+		d_duchy1591 
+	}
+}
+world_empire1592 = {
+	duchies = {
+		# k_kingdom1592
+		d_duchy1592 
+	}
+}
+world_empire1593 = {
+	duchies = {
+		# k_kingdom1593
+		d_duchy1593 
+	}
+}
+world_empire1594 = {
+	duchies = {
+		# k_kingdom1594
+		d_duchy1594 
+	}
+}
+world_empire1595 = {
+	duchies = {
+		# k_kingdom1595
+		d_duchy1595 
+	}
+}
+world_empire1596 = {
+	duchies = {
+		# k_kingdom1596
+		d_duchy1596 
+	}
+}
+world_empire1597 = {
+	duchies = {
+		# k_kingdom1597
+		d_duchy1597 
+	}
+}
+world_empire1598 = {
+	duchies = {
+		# k_kingdom1598
+		d_duchy1598 
+	}
+}
+world_empire1599 = {
+	duchies = {
+		# k_kingdom1599
+		d_duchy1599 
+	}
+}
+world_empire1600 = {
+	duchies = {
+		# k_kingdom1600
+		d_duchy1600 
+	}
+}
+world_empire1601 = {
+	duchies = {
+		# k_kingdom1601
+		d_duchy1601 
+	}
+}
+world_empire1602 = {
+	duchies = {
+		# k_kingdom1602
+		d_duchy1602 
+	}
+}
+world_empire1603 = {
+	duchies = {
+		# k_kingdom1603
+		d_duchy1603 
+	}
+}
+world_empire1604 = {
+	duchies = {
+		# k_kingdom1604
+		d_duchy1604 
+	}
+}
+world_empire1605 = {
+	duchies = {
+		# k_kingdom1605
+		d_duchy1605 
+	}
+}
+world_empire1606 = {
+	duchies = {
+		# k_kingdom1606
+		d_duchy1606 
+	}
+}
+world_empire1607 = {
+	duchies = {
+		# k_kingdom1607
+		d_duchy1607 
+	}
+}
+world_empire1608 = {
+	duchies = {
+		# k_kingdom1608
+		d_duchy1608 
+	}
+}
+world_empire1609 = {
+	duchies = {
+		# k_kingdom1609
+		d_duchy1609 
+	}
+}
+world_empire1610 = {
+	duchies = {
+		# k_kingdom1610
+		d_duchy1610 
+	}
+}
+world_empire1611 = {
+	duchies = {
+		# k_kingdom1611
+		d_duchy1611 
+	}
+}
+world_empire1612 = {
+	duchies = {
+		# k_kingdom1612
+		d_duchy1612 
+	}
+}
+world_empire1613 = {
+	duchies = {
+		# k_kingdom1613
+		d_duchy1613 
+	}
+}
+world_empire1614 = {
+	duchies = {
+		# k_kingdom1614
+		d_duchy1614 
+	}
+}
+world_empire1615 = {
+	duchies = {
+		# k_kingdom1615
+		d_duchy1615 
+	}
+}
+world_empire1616 = {
+	duchies = {
+		# k_kingdom1616
+		d_duchy1616 
+	}
+}
+world_empire1617 = {
+	duchies = {
+		# k_kingdom1617
+		d_duchy1617 
+	}
+}
+world_empire1618 = {
+	duchies = {
+		# k_kingdom1618
+		d_duchy1618 
+	}
+}
+world_empire1619 = {
+	duchies = {
+		# k_kingdom1619
+		d_duchy1619 
+	}
+}
+world_empire1620 = {
+	duchies = {
+		# k_kingdom1620
+		d_duchy1620 
+	}
+}
+world_empire1621 = {
+	duchies = {
+		# k_kingdom1621
+		d_duchy1621 
+	}
+}
+world_empire1622 = {
+	duchies = {
+		# k_kingdom1622
+		d_duchy1622 
+	}
+}
+world_empire1623 = {
+	duchies = {
+		# k_kingdom1623
+		d_duchy1623 
+	}
+}
+world_empire1624 = {
+	duchies = {
+		# k_kingdom1624
+		d_duchy1624 
+	}
+}
+world_empire1625 = {
+	duchies = {
+		# k_kingdom1625
+		d_duchy1625 
+	}
+}
+world_empire1626 = {
+	duchies = {
+		# k_kingdom1626
+		d_duchy1626 
+	}
+}
+world_empire1627 = {
+	duchies = {
+		# k_kingdom1627
+		d_duchy1627 
+	}
+}
+world_empire1628 = {
+	duchies = {
+		# k_kingdom1628
+		d_duchy1628 
+	}
+}
+world_empire1629 = {
+	duchies = {
+		# k_kingdom1629
+		d_duchy1629 
+	}
+}
+world_empire1630 = {
+	duchies = {
+		# k_kingdom1630
+		d_duchy1630 
+	}
+}
+world_empire1631 = {
+	duchies = {
+		# k_kingdom1631
+		d_duchy1631 
+	}
+}
+world_empire1632 = {
+	duchies = {
+		# k_kingdom1632
+		d_duchy1632 
+	}
+}
+world_empire1633 = {
+	duchies = {
+		# k_kingdom1633
+		d_duchy1633 
+	}
+}
+world_empire1634 = {
+	duchies = {
+		# k_kingdom1634
+		d_duchy1634 
+	}
+}
+world_empire1635 = {
+	duchies = {
+		# k_kingdom1635
+		d_duchy1635 
+	}
+}
+world_empire1636 = {
+	duchies = {
+		# k_kingdom1636
+		d_duchy1636 
+	}
+}
+world_empire1637 = {
+	duchies = {
+		# k_kingdom1637
+		d_duchy1637 
+	}
+}
+world_empire1638 = {
+	duchies = {
+		# k_kingdom1638
+		d_duchy1638 
+	}
+}
+world_empire1639 = {
+	duchies = {
+		# k_kingdom1639
+		d_duchy1639 
+	}
+}
+world_empire1640 = {
+	duchies = {
+		# k_kingdom1640
+		d_duchy1640 
+	}
+}
+world_empire1641 = {
+	duchies = {
+		# k_kingdom1641
+		d_duchy1641 
+	}
+}
+world_empire1642 = {
+	duchies = {
+		# k_kingdom1642
+		d_duchy1642 
+	}
+}
+world_empire1643 = {
+	duchies = {
+		# k_kingdom1643
+		d_duchy1643 
+	}
+}
+world_empire1644 = {
+	duchies = {
+		# k_kingdom1644
+		d_duchy1644 
+	}
+}
+world_empire1645 = {
+	duchies = {
+		# k_kingdom1645
+		d_duchy1645 
+	}
+}
+world_empire1646 = {
+	duchies = {
+		# k_kingdom1646
+		d_duchy1646 
+	}
+}
+world_empire1647 = {
+	duchies = {
+		# k_kingdom1647
+		d_duchy1647 
+	}
+}
+world_empire1648 = {
+	duchies = {
+		# k_kingdom1648
+		d_duchy1648 
+	}
+}
+world_empire1649 = {
+	duchies = {
+		# k_kingdom1649
+		d_duchy1649 
+	}
+}
+world_empire1650 = {
+	duchies = {
+		# k_kingdom1650
+		d_duchy1650 
+	}
+}
+world_empire1651 = {
+	duchies = {
+		# k_kingdom1651
+		d_duchy1651 
+	}
+}
+world_empire1652 = {
+	duchies = {
+		# k_kingdom1652
+		d_duchy1652 
+	}
+}
+world_empire1653 = {
+	duchies = {
+		# k_kingdom1653
+		d_duchy1653 
+	}
+}
+world_empire1654 = {
+	duchies = {
+		# k_kingdom1654
+		d_duchy1654 
+	}
+}
+world_empire1655 = {
+	duchies = {
+		# k_kingdom1655
+		d_duchy1655 
+	}
+}
+world_empire1656 = {
+	duchies = {
+		# k_kingdom1656
+		d_duchy1656 
+	}
+}
+world_empire1657 = {
+	duchies = {
+		# k_kingdom1657
+		d_duchy1657 
+	}
+}
+world_empire1658 = {
+	duchies = {
+		# k_kingdom1658
+		d_duchy1658 
+	}
+}
+world_empire1659 = {
+	duchies = {
+		# k_kingdom1659
+		d_duchy1659 
+	}
+}
+world_empire1660 = {
+	duchies = {
+		# k_kingdom1660
+		d_duchy1660 
+	}
+}
+world_empire1661 = {
+	duchies = {
+		# k_kingdom1661
+		d_duchy1661 
+	}
+}
+world_empire1662 = {
+	duchies = {
+		# k_kingdom1662
+		d_duchy1662 
+	}
+}
+world_empire1663 = {
+	duchies = {
+		# k_kingdom1663
+		d_duchy1663 
+	}
+}
+world_empire1664 = {
+	duchies = {
+		# k_kingdom1664
+		d_duchy1664 
+	}
+}
+world_empire1665 = {
+	duchies = {
+		# k_kingdom1665
+		d_duchy1665 
+	}
+}
+world_empire1666 = {
+	duchies = {
+		# k_kingdom1666
+		d_duchy1666 
+	}
+}
+world_empire1667 = {
+	duchies = {
+		# k_kingdom1667
+		d_duchy1667 
+	}
+}
+world_empire1668 = {
+	duchies = {
+		# k_kingdom1668
+		d_duchy1668 
+	}
+}
+world_empire1669 = {
+	duchies = {
+		# k_kingdom1669
+		d_duchy1669 
+	}
+}
+world_empire1670 = {
+	duchies = {
+		# k_kingdom1670
+		d_duchy1670 
+	}
+}
+world_empire1671 = {
+	duchies = {
+		# k_kingdom1671
+		d_duchy1671 
+	}
+}
+world_empire1672 = {
+	duchies = {
+		# k_kingdom1672
+		d_duchy1672 
+	}
+}
+world_empire1673 = {
+	duchies = {
+		# k_kingdom1673
+		d_duchy1673 
+	}
+}
+world_empire1674 = {
+	duchies = {
+		# k_kingdom1674
+		d_duchy1674 
+	}
+}
+world_empire1675 = {
+	duchies = {
+		# k_kingdom1675
+		d_duchy1675 
+	}
+}
+world_empire1676 = {
+	duchies = {
+		# k_kingdom1676
+		d_duchy1676 
+	}
+}
+world_empire1677 = {
+	duchies = {
+		# k_kingdom1677
+		d_duchy1677 
+	}
+}
+world_empire1678 = {
+	duchies = {
+		# k_kingdom1678
+		d_duchy1678 
+	}
+}
+world_empire1679 = {
+	duchies = {
+		# k_kingdom1679
+		d_duchy1679 
+	}
+}
+world_empire1680 = {
+	duchies = {
+		# k_kingdom1680
+		d_duchy1680 
+	}
+}
+world_empire1681 = {
+	duchies = {
+		# k_kingdom1681
+		d_duchy1681 
+	}
+}
+world_empire1682 = {
+	duchies = {
+		# k_kingdom1682
+		d_duchy1682 
+	}
+}
+world_empire1683 = {
+	duchies = {
+		# k_kingdom1683
+		d_duchy1683 
+	}
+}
+world_empire1684 = {
+	duchies = {
+		# k_kingdom1684
+		d_duchy1684 
+	}
+}
+world_empire1685 = {
+	duchies = {
+		# k_kingdom1685
+		d_duchy1685 
+	}
+}
+world_empire1686 = {
+	duchies = {
+		# k_kingdom1686
+		d_duchy1686 
+	}
+}
+world_empire1687 = {
+	duchies = {
+		# k_kingdom1687
+		d_duchy1687 
+	}
+}
+world_empire1688 = {
+	duchies = {
+		# k_kingdom1688
+		d_duchy1688 
+	}
+}
+world_empire1689 = {
+	duchies = {
+		# k_kingdom1689
+		d_duchy1689 
+	}
+}
+world_empire1690 = {
+	duchies = {
+		# k_kingdom1690
+		d_duchy1690 
+	}
+}
+world_empire1691 = {
+	duchies = {
+		# k_kingdom1691
+		d_duchy1691 
+	}
+}
+world_empire1692 = {
+	duchies = {
+		# k_kingdom1692
+		d_duchy1692 
+	}
+}
+world_empire1693 = {
+	duchies = {
+		# k_kingdom1693
+		d_duchy1693 
+	}
+}
+world_empire1694 = {
+	duchies = {
+		# k_kingdom1694
+		d_duchy1694 
+	}
+}
+world_empire1695 = {
+	duchies = {
+		# k_kingdom1695
+		d_duchy1695 
+	}
+}
+world_empire1696 = {
+	duchies = {
+		# k_kingdom1696
+		d_duchy1696 
+	}
+}
+world_empire1697 = {
+	duchies = {
+		# k_kingdom1697
+		d_duchy1697 
+	}
+}
+world_empire1698 = {
+	duchies = {
+		# k_kingdom1698
+		d_duchy1698 
+	}
+}
+world_empire1699 = {
+	duchies = {
+		# k_kingdom1699
+		d_duchy1699 
+	}
+}
+world_empire1700 = {
+	duchies = {
+		# k_kingdom1700
+		d_duchy1700 
+	}
+}
+world_empire1701 = {
+	duchies = {
+		# k_kingdom1701
+		d_duchy1701 
+	}
+}
+world_empire1702 = {
+	duchies = {
+		# k_kingdom1702
+		d_duchy1702 
+	}
+}
+world_empire1703 = {
+	duchies = {
+		# k_kingdom1703
+		d_duchy1703 
+	}
+}
+world_empire1704 = {
+	duchies = {
+		# k_kingdom1704
+		d_duchy1704 
+	}
+}
+world_empire1705 = {
+	duchies = {
+		# k_kingdom1705
+		d_duchy1705 
+	}
+}
+world_empire1706 = {
+	duchies = {
+		# k_kingdom1706
+		d_duchy1706 
+	}
+}
+world_empire1707 = {
+	duchies = {
+		# k_kingdom1707
+		d_duchy1707 
+	}
+}
+world_empire1708 = {
+	duchies = {
+		# k_kingdom1708
+		d_duchy1708 
+	}
+}
+world_empire1709 = {
+	duchies = {
+		# k_kingdom1709
+		d_duchy1709 
+	}
+}
+world_empire1710 = {
+	duchies = {
+		# k_kingdom1710
+		d_duchy1710 
+	}
+}
+world_empire1711 = {
+	duchies = {
+		# k_kingdom1711
+		d_duchy1711 
+	}
+}
+world_empire1712 = {
+	duchies = {
+		# k_kingdom1712
+		d_duchy1712 
+	}
+}
+world_empire1713 = {
+	duchies = {
+		# k_kingdom1713
+		d_duchy1713 
+	}
+}
+world_empire1714 = {
+	duchies = {
+		# k_kingdom1714
+		d_duchy1714 
+	}
+}
+world_empire1715 = {
+	duchies = {
+		# k_kingdom1715
+		d_duchy1715 
+	}
+}
+world_empire1716 = {
+	duchies = {
+		# k_kingdom1716
+		d_duchy1716 
+	}
+}
+world_empire1717 = {
+	duchies = {
+		# k_kingdom1717
+		d_duchy1717 
+	}
+}
+world_empire1718 = {
+	duchies = {
+		# k_kingdom1718
+		d_duchy1718 
+	}
+}
+world_empire1719 = {
+	duchies = {
+		# k_kingdom1719
+		d_duchy1719 
+	}
+}
+world_empire1720 = {
+	duchies = {
+		# k_kingdom1720
+		d_duchy1720 
+	}
+}
+world_empire1721 = {
+	duchies = {
+		# k_kingdom1721
+		d_duchy1721 
+	}
+}
+world_empire1722 = {
+	duchies = {
+		# k_kingdom1722
+		d_duchy1722 
+	}
+}
+world_empire1723 = {
+	duchies = {
+		# k_kingdom1723
+		d_duchy1723 
+	}
+}
+world_empire1724 = {
+	duchies = {
+		# k_kingdom1724
+		d_duchy1724 
+	}
+}
+world_empire1725 = {
+	duchies = {
+		# k_kingdom1725
+		d_duchy1725 
+	}
+}
+world_empire1726 = {
+	duchies = {
+		# k_kingdom1726
+		d_duchy1726 
+	}
+}
+world_empire1727 = {
+	duchies = {
+		# k_kingdom1727
+		d_duchy1727 
+	}
+}
+world_empire1728 = {
+	duchies = {
+		# k_kingdom1728
+		d_duchy1728 
+	}
+}
+world_empire1729 = {
+	duchies = {
+		# k_kingdom1729
+		d_duchy1729 
+	}
+}
+world_empire1730 = {
+	duchies = {
+		# k_kingdom1730
+		d_duchy1730 
+	}
+}
+world_empire1731 = {
+	duchies = {
+		# k_kingdom1731
+		d_duchy1731 
+	}
+}
+world_empire1732 = {
+	duchies = {
+		# k_kingdom1732
+		d_duchy1732 
+	}
+}
+world_empire1733 = {
+	duchies = {
+		# k_kingdom1733
+		d_duchy1733 
+	}
+}
+world_empire1734 = {
+	duchies = {
+		# k_kingdom1734
+		d_duchy1734 
+	}
+}
+world_empire1735 = {
+	duchies = {
+		# k_kingdom1735
+		d_duchy1735 
+	}
+}
+world_empire1736 = {
+	duchies = {
+		# k_kingdom1736
+		d_duchy1736 
+	}
+}
+world_empire1737 = {
+	duchies = {
+		# k_kingdom1737
+		d_duchy1737 
+	}
+}
+world_empire1738 = {
+	duchies = {
+		# k_kingdom1738
+		d_duchy1738 
+	}
+}
+world_empire1739 = {
+	duchies = {
+		# k_kingdom1739
+		d_duchy1739 
+	}
+}
+world_empire1740 = {
+	duchies = {
+		# k_kingdom1740
+		d_duchy1740 
+	}
+}
+world_empire1741 = {
+	duchies = {
+		# k_kingdom1741
+		d_duchy1741 
+	}
+}
+world_empire1742 = {
+	duchies = {
+		# k_kingdom1742
+		d_duchy1742 
+	}
+}
+world_empire1743 = {
+	duchies = {
+		# k_kingdom1743
+		d_duchy1743 
+	}
+}
+world_empire1744 = {
+	duchies = {
+		# k_kingdom1744
+		d_duchy1744 
+	}
+}
+world_empire1745 = {
+	duchies = {
+		# k_kingdom1745
+		d_duchy1745 
+	}
+}
+world_empire1746 = {
+	duchies = {
+		# k_kingdom1746
+		d_duchy1746 
+	}
+}
+world_empire1747 = {
+	duchies = {
+		# k_kingdom1747
+		d_duchy1747 
+	}
+}
+world_empire1748 = {
+	duchies = {
+		# k_kingdom1748
+		d_duchy1748 
+	}
+}
+world_empire1749 = {
+	duchies = {
+		# k_kingdom1749
+		d_duchy1749 
+	}
+}
+world_empire1750 = {
+	duchies = {
+		# k_kingdom1750
+		d_duchy1750 
+	}
+}
+world_empire1751 = {
+	duchies = {
+		# k_kingdom1751
+		d_duchy1751 
+	}
+}
+world_empire1752 = {
+	duchies = {
+		# k_kingdom1752
+		d_duchy1752 
+	}
+}
+world_empire1753 = {
+	duchies = {
+		# k_kingdom1753
+		d_duchy1753 
+	}
+}
+world_empire1754 = {
+	duchies = {
+		# k_kingdom1754
+		d_duchy1754 
+	}
+}
+world_empire1755 = {
+	duchies = {
+		# k_kingdom1755
+		d_duchy1755 
+	}
+}
+world_empire1756 = {
+	duchies = {
+		# k_kingdom1756
+		d_duchy1756 
+	}
+}
+world_empire1757 = {
+	duchies = {
+		# k_kingdom1757
+		d_duchy1757 
+	}
+}
+world_empire1758 = {
+	duchies = {
+		# k_kingdom1758
+		d_duchy1758 
+	}
+}
+world_empire1759 = {
+	duchies = {
+		# k_kingdom1759
+		d_duchy1759 
+	}
+}
+world_empire1760 = {
+	duchies = {
+		# k_kingdom1760
+		d_duchy1760 
+	}
+}
+world_empire1761 = {
+	duchies = {
+		# k_kingdom1761
+		d_duchy1761 
+	}
+}
+world_empire1762 = {
+	duchies = {
+		# k_kingdom1762
+		d_duchy1762 
+	}
+}
+world_empire1763 = {
+	duchies = {
+		# k_kingdom1763
+		d_duchy1763 
+	}
+}
+world_empire1764 = {
+	duchies = {
+		# k_kingdom1764
+		d_duchy1764 
+	}
+}
+world_empire1765 = {
+	duchies = {
+		# k_kingdom1765
+		d_duchy1765 
+	}
+}
+world_empire1766 = {
+	duchies = {
+		# k_kingdom1766
+		d_duchy1766 
+	}
+}
+world_empire1767 = {
+	duchies = {
+		# k_kingdom1767
+		d_duchy1767 
+	}
+}
+world_empire1768 = {
+	duchies = {
+		# k_kingdom1768
+		d_duchy1768 
+	}
+}
+world_empire1769 = {
+	duchies = {
+		# k_kingdom1769
+		d_duchy1769 
+	}
+}
+world_empire1770 = {
+	duchies = {
+		# k_kingdom1770
+		d_duchy1770 
+	}
+}
+world_empire1771 = {
+	duchies = {
+		# k_kingdom1771
+		d_duchy1771 
+	}
+}
+world_empire1772 = {
+	duchies = {
+		# k_kingdom1772
+		d_duchy1772 
+	}
+}
+world_empire1773 = {
+	duchies = {
+		# k_kingdom1773
+		d_duchy1773 
+	}
+}
+world_empire1774 = {
+	duchies = {
+		# k_kingdom1774
+		d_duchy1774 
+	}
+}
+world_empire1775 = {
+	duchies = {
+		# k_kingdom1775
+		d_duchy1775 
+	}
+}
+world_empire1776 = {
+	duchies = {
+		# k_kingdom1776
+		d_duchy1776 
+	}
+}
+world_empire1777 = {
+	duchies = {
+		# k_kingdom1777
+		d_duchy1777 
+	}
+}
+world_empire1778 = {
+	duchies = {
+		# k_kingdom1778
+		d_duchy1778 
+	}
+}
+world_empire1779 = {
+	duchies = {
+		# k_kingdom1779
+		d_duchy1779 
+	}
+}
+world_empire1780 = {
+	duchies = {
+		# k_kingdom1780
+		d_duchy1780 
+	}
+}
+world_empire1781 = {
+	duchies = {
+		# k_kingdom1781
+		d_duchy1781 
+	}
+}
+world_empire1782 = {
+	duchies = {
+		# k_kingdom1782
+		d_duchy1782 
+	}
+}
+world_empire1783 = {
+	duchies = {
+		# k_kingdom1783
+		d_duchy1783 
+	}
+}
+world_empire1784 = {
+	duchies = {
+		# k_kingdom1784
+		d_duchy1784 
+	}
+}
+world_empire1785 = {
+	duchies = {
+		# k_kingdom1785
+		d_duchy1785 
+	}
+}
+world_empire1786 = {
+	duchies = {
+		# k_kingdom1786
+		d_duchy1786 
+	}
+}
+world_empire1787 = {
+	duchies = {
+		# k_kingdom1787
+		d_duchy1787 
+	}
+}
+world_empire1788 = {
+	duchies = {
+		# k_kingdom1788
+		d_duchy1788 
+	}
+}
+world_empire1789 = {
+	duchies = {
+		# k_kingdom1789
+		d_duchy1789 
+	}
+}
+world_empire1790 = {
+	duchies = {
+		# k_kingdom1790
+		d_duchy1790 
+	}
+}
+world_empire1791 = {
+	duchies = {
+		# k_kingdom1791
+		d_duchy1791 
+	}
+}
+world_empire1792 = {
+	duchies = {
+		# k_kingdom1792
+		d_duchy1792 
+	}
+}
+world_empire1793 = {
+	duchies = {
+		# k_kingdom1793
+		d_duchy1793 
+	}
+}
+world_empire1794 = {
+	duchies = {
+		# k_kingdom1794
+		d_duchy1794 
+	}
+}
+world_empire1795 = {
+	duchies = {
+		# k_kingdom1795
+		d_duchy1795 
+	}
+}
+world_empire1796 = {
+	duchies = {
+		# k_kingdom1796
+		d_duchy1796 
+	}
+}
+world_empire1797 = {
+	duchies = {
+		# k_kingdom1797
+		d_duchy1797 
+	}
+}
+world_empire1798 = {
+	duchies = {
+		# k_kingdom1798
+		d_duchy1798 
+	}
+}
+world_empire1799 = {
+	duchies = {
+		# k_kingdom1799
+		d_duchy1799 
+	}
+}
+world_empire1800 = {
+	duchies = {
+		# k_kingdom1800
+		d_duchy1800 
+	}
+}
+world_empire1801 = {
+	duchies = {
+		# k_kingdom1801
+		d_duchy1801 
+	}
+}
+world_empire1802 = {
+	duchies = {
+		# k_kingdom1802
+		d_duchy1802 
+	}
+}
+world_empire1803 = {
+	duchies = {
+		# k_kingdom1803
+		d_duchy1803 
+	}
+}
+world_empire1804 = {
+	duchies = {
+		# k_kingdom1804
+		d_duchy1804 
+	}
+}
+world_empire1805 = {
+	duchies = {
+		# k_kingdom1805
+		d_duchy1805 
+	}
+}
+world_empire1806 = {
+	duchies = {
+		# k_kingdom1806
+		d_duchy1806 
+	}
+}
+world_empire1807 = {
+	duchies = {
+		# k_kingdom1807
+		d_duchy1807 
+	}
+}
+world_empire1808 = {
+	duchies = {
+		# k_kingdom1808
+		d_duchy1808 
+	}
+}
+world_empire1809 = {
+	duchies = {
+		# k_kingdom1809
+		d_duchy1809 
+	}
+}
+world_empire1810 = {
+	duchies = {
+		# k_kingdom1810
+		d_duchy1810 
+	}
+}
+world_empire1811 = {
+	duchies = {
+		# k_kingdom1811
+		d_duchy1811 
+	}
+}
+world_empire1812 = {
+	duchies = {
+		# k_kingdom1812
+		d_duchy1812 
+	}
+}
+world_empire1813 = {
+	duchies = {
+		# k_kingdom1813
+		d_duchy1813 
+	}
+}
+world_empire1814 = {
+	duchies = {
+		# k_kingdom1814
+		d_duchy1814 
+	}
+}
+world_empire1815 = {
+	duchies = {
+		# k_kingdom1815
+		d_duchy1815 
+	}
+}
+world_empire1816 = {
+	duchies = {
+		# k_kingdom1816
+		d_duchy1816 
+	}
+}
+world_empire1817 = {
+	duchies = {
+		# k_kingdom1817
+		d_duchy1817 
+	}
+}
+world_empire1818 = {
+	duchies = {
+		# k_kingdom1818
+		d_duchy1818 
+	}
+}
+world_empire1819 = {
+	duchies = {
+		# k_kingdom1819
+		d_duchy1819 
+	}
+}
+world_empire1820 = {
+	duchies = {
+		# k_kingdom1820
+		d_duchy1820 
+	}
+}
+world_empire1821 = {
+	duchies = {
+		# k_kingdom1821
+		d_duchy1821 
+	}
+}
+world_empire1822 = {
+	duchies = {
+		# k_kingdom1822
+		d_duchy1822 
+	}
+}
+world_empire1823 = {
+	duchies = {
+		# k_kingdom1823
+		d_duchy1823 
+	}
+}
+world_empire1824 = {
+	duchies = {
+		# k_kingdom1824
+		d_duchy1824 
+	}
+}
+world_empire1825 = {
+	duchies = {
+		# k_kingdom1825
+		d_duchy1825 
+	}
+}
+world_empire1826 = {
+	duchies = {
+		# k_kingdom1826
+		d_duchy1826 
+	}
+}
+world_empire1827 = {
+	duchies = {
+		# k_kingdom1827
+		d_duchy1827 
+	}
+}
+world_empire1828 = {
+	duchies = {
+		# k_kingdom1828
+		d_duchy1828 
+	}
+}
+world_empire1829 = {
+	duchies = {
+		# k_kingdom1829
+		d_duchy1829 
+	}
+}
+world_empire1830 = {
+	duchies = {
+		# k_kingdom1830
+		d_duchy1830 
+	}
+}
+world_empire1831 = {
+	duchies = {
+		# k_kingdom1831
+		d_duchy1831 
+	}
+}
+world_empire1832 = {
+	duchies = {
+		# k_kingdom1832
+		d_duchy1832 
+	}
+}
+world_empire1833 = {
+	duchies = {
+		# k_kingdom1833
+		d_duchy1833 
+	}
+}
+world_empire1834 = {
+	duchies = {
+		# k_kingdom1834
+		d_duchy1834 
+	}
+}
+world_empire1835 = {
+	duchies = {
+		# k_kingdom1835
+		d_duchy1835 
+	}
+}
+world_empire1836 = {
+	duchies = {
+		# k_kingdom1836
+		d_duchy1836 
+	}
+}
+world_empire1837 = {
+	duchies = {
+		# k_kingdom1837
+		d_duchy1837 
+	}
+}
+world_empire1838 = {
+	duchies = {
+		# k_kingdom1838
+		d_duchy1838 
+	}
+}
+world_empire1839 = {
+	duchies = {
+		# k_kingdom1839
+		d_duchy1839 
+	}
+}
+world_empire1840 = {
+	duchies = {
+		# k_kingdom1840
+		d_duchy1840 
+	}
+}
+world_empire1841 = {
+	duchies = {
+		# k_kingdom1841
+		d_duchy1841 
+	}
+}
+world_empire1842 = {
+	duchies = {
+		# k_kingdom1842
+		d_duchy1842 
+	}
+}
+world_empire1843 = {
+	duchies = {
+		# k_kingdom1843
+		d_duchy1843 
+	}
+}
+world_empire1844 = {
+	duchies = {
+		# k_kingdom1844
+		d_duchy1844 
+	}
+}
+world_empire1845 = {
+	duchies = {
+		# k_kingdom1845
+		d_duchy1845 
+	}
+}
+world_empire1846 = {
+	duchies = {
+		# k_kingdom1846
+		d_duchy1846 
+	}
+}
+world_empire1847 = {
+	duchies = {
+		# k_kingdom1847
+		d_duchy1847 
+	}
+}
+world_empire1848 = {
+	duchies = {
+		# k_kingdom1848
+		d_duchy1848 
+	}
+}
+world_empire1849 = {
+	duchies = {
+		# k_kingdom1849
+		d_duchy1849 
+	}
+}
+world_empire1850 = {
+	duchies = {
+		# k_kingdom1850
+		d_duchy1850 
+	}
+}
+world_empire1851 = {
+	duchies = {
+		# k_kingdom1851
+		d_duchy1851 
+	}
+}
+world_empire1852 = {
+	duchies = {
+		# k_kingdom1852
+		d_duchy1852 
+	}
+}
+world_empire1853 = {
+	duchies = {
+		# k_kingdom1853
+		d_duchy1853 
+	}
+}
+world_empire1854 = {
+	duchies = {
+		# k_kingdom1854
+		d_duchy1854 
+	}
+}
+world_empire1855 = {
+	duchies = {
+		# k_kingdom1855
+		d_duchy1855 
+	}
+}
+world_empire1856 = {
+	duchies = {
+		# k_kingdom1856
+		d_duchy1856 
+	}
+}
+world_empire1857 = {
+	duchies = {
+		# k_kingdom1857
+		d_duchy1857 
+	}
+}
+world_empire1858 = {
+	duchies = {
+		# k_kingdom1858
+		d_duchy1858 
+	}
+}
+world_empire1859 = {
+	duchies = {
+		# k_kingdom1859
+		d_duchy1859 
+	}
+}
+world_empire1860 = {
+	duchies = {
+		# k_kingdom1860
+		d_duchy1860 
+	}
+}
+world_empire1861 = {
+	duchies = {
+		# k_kingdom1861
+		d_duchy1861 
+	}
+}
+world_empire1862 = {
+	duchies = {
+		# k_kingdom1862
+		d_duchy1862 
+	}
+}
+world_empire1863 = {
+	duchies = {
+		# k_kingdom1863
+		d_duchy1863 
+	}
+}
+world_empire1864 = {
+	duchies = {
+		# k_kingdom1864
+		d_duchy1864 
+	}
+}
+world_empire1865 = {
+	duchies = {
+		# k_kingdom1865
+		d_duchy1865 
+	}
+}
+world_empire1866 = {
+	duchies = {
+		# k_kingdom1866
+		d_duchy1866 
+	}
+}
+world_empire1867 = {
+	duchies = {
+		# k_kingdom1867
+		d_duchy1867 
+	}
+}
+world_empire1868 = {
+	duchies = {
+		# k_kingdom1868
+		d_duchy1868 
+	}
+}
+world_empire1869 = {
+	duchies = {
+		# k_kingdom1869
+		d_duchy1869 
+	}
+}
+world_empire1870 = {
+	duchies = {
+		# k_kingdom1870
+		d_duchy1870 
+	}
+}
+world_empire1871 = {
+	duchies = {
+		# k_kingdom1871
+		d_duchy1871 
+	}
+}
+world_empire1872 = {
+	duchies = {
+		# k_kingdom1872
+		d_duchy1872 
+	}
+}
+world_empire1873 = {
+	duchies = {
+		# k_kingdom1873
+		d_duchy1873 
+	}
+}
+world_empire1874 = {
+	duchies = {
+		# k_kingdom1874
+		d_duchy1874 
+	}
+}
+world_empire1875 = {
+	duchies = {
+		# k_kingdom1875
+		d_duchy1875 
+	}
+}
+world_empire1876 = {
+	duchies = {
+		# k_kingdom1876
+		d_duchy1876 
+	}
+}
+world_empire1877 = {
+	duchies = {
+		# k_kingdom1877
+		d_duchy1877 
+	}
+}
+world_empire1878 = {
+	duchies = {
+		# k_kingdom1878
+		d_duchy1878 
+	}
+}
+world_empire1879 = {
+	duchies = {
+		# k_kingdom1879
+		d_duchy1879 
+	}
+}
+world_empire1880 = {
+	duchies = {
+		# k_kingdom1880
+		d_duchy1880 
+	}
+}
+world_empire1881 = {
+	duchies = {
+		# k_kingdom1881
+		d_duchy1881 
+	}
+}
+world_empire1882 = {
+	duchies = {
+		# k_kingdom1882
+		d_duchy1882 
+	}
+}
+world_empire1883 = {
+	duchies = {
+		# k_kingdom1883
+		d_duchy1883 
+	}
+}
+world_empire1884 = {
+	duchies = {
+		# k_kingdom1884
+		d_duchy1884 
+	}
+}
+world_empire1885 = {
+	duchies = {
+		# k_kingdom1885
+		d_duchy1885 
+	}
+}
+world_empire1886 = {
+	duchies = {
+		# k_kingdom1886
+		d_duchy1886 
+	}
+}
+world_empire1887 = {
+	duchies = {
+		# k_kingdom1887
+		d_duchy1887 
+	}
+}
+world_empire1888 = {
+	duchies = {
+		# k_kingdom1888
+		d_duchy1888 
+	}
+}
+world_empire1889 = {
+	duchies = {
+		# k_kingdom1889
+		d_duchy1889 
+	}
+}
+world_empire1890 = {
+	duchies = {
+		# k_kingdom1890
+		d_duchy1890 
+	}
+}
+world_empire1891 = {
+	duchies = {
+		# k_kingdom1891
+		d_duchy1891 
+	}
+}
+world_empire1892 = {
+	duchies = {
+		# k_kingdom1892
+		d_duchy1892 
+	}
+}
+world_empire1893 = {
+	duchies = {
+		# k_kingdom1893
+		d_duchy1893 
+	}
+}
+world_empire1894 = {
+	duchies = {
+		# k_kingdom1894
+		d_duchy1894 
+	}
+}
+world_empire1895 = {
+	duchies = {
+		# k_kingdom1895
+		d_duchy1895 
+	}
+}
+world_empire1896 = {
+	duchies = {
+		# k_kingdom1896
+		d_duchy1896 
+	}
+}
+world_empire1897 = {
+	duchies = {
+		# k_kingdom1897
+		d_duchy1897 
+	}
+}
+world_empire1898 = {
+	duchies = {
+		# k_kingdom1898
+		d_duchy1898 
+	}
+}
+world_empire1899 = {
+	duchies = {
+		# k_kingdom1899
+		d_duchy1899 
+	}
+}
+world_empire1900 = {
+	duchies = {
+		# k_kingdom1900
+		d_duchy1900 
+	}
+}
+world_empire1901 = {
+	duchies = {
+		# k_kingdom1901
+		d_duchy1901 
+	}
+}
+world_empire1902 = {
+	duchies = {
+		# k_kingdom1902
+		d_duchy1902 
+	}
+}
+world_empire1903 = {
+	duchies = {
+		# k_kingdom1903
+		d_duchy1903 
+	}
+}
+world_empire1904 = {
+	duchies = {
+		# k_kingdom1904
+		d_duchy1904 
+	}
+}
+world_empire1905 = {
+	duchies = {
+		# k_kingdom1905
+		d_duchy1905 
+	}
+}
+world_empire1906 = {
+	duchies = {
+		# k_kingdom1906
+		d_duchy1906 
+	}
+}
+world_empire1907 = {
+	duchies = {
+		# k_kingdom1907
+		d_duchy1907 
+	}
+}
+world_empire1908 = {
+	duchies = {
+		# k_kingdom1908
+		d_duchy1908 
+	}
+}
+world_empire1909 = {
+	duchies = {
+		# k_kingdom1909
+		d_duchy1909 
+	}
+}
+world_empire1910 = {
+	duchies = {
+		# k_kingdom1910
+		d_duchy1910 
+	}
+}
+world_empire1911 = {
+	duchies = {
+		# k_kingdom1911
+		d_duchy1911 
+	}
+}
+world_empire1912 = {
+	duchies = {
+		# k_kingdom1912
+		d_duchy1912 
+	}
+}
+world_empire1913 = {
+	duchies = {
+		# k_kingdom1913
+		d_duchy1913 
+	}
+}
+world_empire1914 = {
+	duchies = {
+		# k_kingdom1914
+		d_duchy1914 
+	}
+}
+world_empire1915 = {
+	duchies = {
+		# k_kingdom1915
+		d_duchy1915 
+	}
+}
+world_empire1916 = {
+	duchies = {
+		# k_kingdom1916
+		d_duchy1916 
+	}
+}
+world_empire1917 = {
+	duchies = {
+		# k_kingdom1917
+		d_duchy1917 
+	}
+}
+world_empire1918 = {
+	duchies = {
+		# k_kingdom1918
+		d_duchy1918 
+	}
+}
+world_empire1919 = {
+	duchies = {
+		# k_kingdom1919
+		d_duchy1919 
+	}
+}
+world_empire1920 = {
+	duchies = {
+		# k_kingdom1920
+		d_duchy1920 
+	}
+}
+world_empire1921 = {
+	duchies = {
+		# k_kingdom1921
+		d_duchy1921 
+	}
+}
+world_empire1922 = {
+	duchies = {
+		# k_kingdom1922
+		d_duchy1922 
+	}
+}
+world_empire1923 = {
+	duchies = {
+		# k_kingdom1923
+		d_duchy1923 
+	}
+}
+world_empire1924 = {
+	duchies = {
+		# k_kingdom1924
+		d_duchy1924 
+	}
+}
+world_empire1925 = {
+	duchies = {
+		# k_kingdom1925
+		d_duchy1925 
+	}
+}
+world_empire1926 = {
+	duchies = {
+		# k_kingdom1926
+		d_duchy1926 
+	}
+}
+world_empire1927 = {
+	duchies = {
+		# k_kingdom1927
+		d_duchy1927 
+	}
+}
+world_empire1928 = {
+	duchies = {
+		# k_kingdom1928
+		d_duchy1928 
+	}
+}
+world_empire1929 = {
+	duchies = {
+		# k_kingdom1929
+		d_duchy1929 
+	}
+}
+world_empire1930 = {
+	duchies = {
+		# k_kingdom1930
+		d_duchy1930 
+	}
+}
+world_empire1931 = {
+	duchies = {
+		# k_kingdom1931
+		d_duchy1931 
+	}
+}
+world_empire1932 = {
+	duchies = {
+		# k_kingdom1932
+		d_duchy1932 
+	}
+}
+world_empire1933 = {
+	duchies = {
+		# k_kingdom1933
+		d_duchy1933 
+	}
+}
+world_empire1934 = {
+	duchies = {
+		# k_kingdom1934
+		d_duchy1934 
+	}
+}
+world_empire1935 = {
+	duchies = {
+		# k_kingdom1935
+		d_duchy1935 
+	}
+}
+world_empire1936 = {
+	duchies = {
+		# k_kingdom1936
+		d_duchy1936 
+	}
+}
+world_empire1937 = {
+	duchies = {
+		# k_kingdom1937
+		d_duchy1937 
+	}
+}
+world_empire1938 = {
+	duchies = {
+		# k_kingdom1938
+		d_duchy1938 
+	}
+}
+world_empire1939 = {
+	duchies = {
+		# k_kingdom1939
+		d_duchy1939 
+	}
+}
+world_empire1940 = {
+	duchies = {
+		# k_kingdom1940
+		d_duchy1940 
+	}
+}
+world_empire1941 = {
+	duchies = {
+		# k_kingdom1941
+		d_duchy1941 
+	}
+}
+world_empire1942 = {
+	duchies = {
+		# k_kingdom1942
+		d_duchy1942 
+	}
+}
+world_empire1943 = {
+	duchies = {
+		# k_kingdom1943
+		d_duchy1943 
+	}
+}
+world_empire1944 = {
+	duchies = {
+		# k_kingdom1944
+		d_duchy1944 
+	}
+}
+world_empire1945 = {
+	duchies = {
+		# k_kingdom1945
+		d_duchy1945 
+	}
+}
+world_empire1946 = {
+	duchies = {
+		# k_kingdom1946
+		d_duchy1946 
+	}
+}
+world_empire1947 = {
+	duchies = {
+		# k_kingdom1947
+		d_duchy1947 
+	}
+}
+world_empire1948 = {
+	duchies = {
+		# k_kingdom1948
+		d_duchy1948 
+	}
+}
+world_empire1949 = {
+	duchies = {
+		# k_kingdom1949
+		d_duchy1949 
+	}
+}
+world_empire1950 = {
+	duchies = {
+		# k_kingdom1950
+		d_duchy1950 
+	}
+}
+world_empire1951 = {
+	duchies = {
+		# k_kingdom1951
+		d_duchy1951 
+	}
+}
+world_empire1952 = {
+	duchies = {
+		# k_kingdom1952
+		d_duchy1952 
+	}
+}
+world_empire1953 = {
+	duchies = {
+		# k_kingdom1953
+		d_duchy1953 
+	}
+}
+world_empire1954 = {
+	duchies = {
+		# k_kingdom1954
+		d_duchy1954 
+	}
+}
+world_empire1955 = {
+	duchies = {
+		# k_kingdom1955
+		d_duchy1955 
+	}
+}
+world_empire1956 = {
+	duchies = {
+		# k_kingdom1956
+		d_duchy1956 
+	}
+}
+world_empire1957 = {
+	duchies = {
+		# k_kingdom1957
+		d_duchy1957 
+	}
+}
+world_empire1958 = {
+	duchies = {
+		# k_kingdom1958
+		d_duchy1958 
+	}
+}
+world_empire1959 = {
+	duchies = {
+		# k_kingdom1959
+		d_duchy1959 
+	}
+}
+world_empire1960 = {
+	duchies = {
+		# k_kingdom1960
+		d_duchy1960 
+	}
+}
+world_empire1961 = {
+	duchies = {
+		# k_kingdom1961
+		d_duchy1961 
+	}
+}
+world_empire1962 = {
+	duchies = {
+		# k_kingdom1962
+		d_duchy1962 
+	}
+}
+world_empire1963 = {
+	duchies = {
+		# k_kingdom1963
+		d_duchy1963 
+	}
+}
+world_empire1964 = {
+	duchies = {
+		# k_kingdom1964
+		d_duchy1964 
+	}
+}
+world_empire1965 = {
+	duchies = {
+		# k_kingdom1965
+		d_duchy1965 
+	}
+}
+world_empire1966 = {
+	duchies = {
+		# k_kingdom1966
+		d_duchy1966 
+	}
+}
+world_empire1967 = {
+	duchies = {
+		# k_kingdom1967
+		d_duchy1967 
+	}
+}
+world_empire1968 = {
+	duchies = {
+		# k_kingdom1968
+		d_duchy1968 
+	}
+}
+world_empire1969 = {
+	duchies = {
+		# k_kingdom1969
+		d_duchy1969 
+	}
+}
+world_empire1970 = {
+	duchies = {
+		# k_kingdom1970
+		d_duchy1970 
+	}
+}
+world_empire1971 = {
+	duchies = {
+		# k_kingdom1971
+		d_duchy1971 
+	}
+}
+world_empire1972 = {
+	duchies = {
+		# k_kingdom1972
+		d_duchy1972 
+	}
+}
+world_empire1973 = {
+	duchies = {
+		# k_kingdom1973
+		d_duchy1973 
+	}
+}
+world_empire1974 = {
+	duchies = {
+		# k_kingdom1974
+		d_duchy1974 
+	}
+}
+world_empire1975 = {
+	duchies = {
+		# k_kingdom1975
+		d_duchy1975 
+	}
+}
+world_empire1976 = {
+	duchies = {
+		# k_kingdom1976
+		d_duchy1976 
+	}
+}
+world_empire1977 = {
+	duchies = {
+		# k_kingdom1977
+		d_duchy1977 
+	}
+}
+world_empire1978 = {
+	duchies = {
+		# k_kingdom1978
+		d_duchy1978 
+	}
+}
+world_empire1979 = {
+	duchies = {
+		# k_kingdom1979
+		d_duchy1979 
+	}
+}
+world_empire1980 = {
+	duchies = {
+		# k_kingdom1980
+		d_duchy1980 
+	}
+}
+world_empire1981 = {
+	duchies = {
+		# k_kingdom1981
+		d_duchy1981 
+	}
+}
+world_empire1982 = {
+	duchies = {
+		# k_kingdom1982
+		d_duchy1982 
+	}
+}
+world_empire1983 = {
+	duchies = {
+		# k_kingdom1983
+		d_duchy1983 
+	}
+}
+world_empire1984 = {
+	duchies = {
+		# k_kingdom1984
+		d_duchy1984 
+	}
+}
+world_empire1985 = {
+	duchies = {
+		# k_kingdom1985
+		d_duchy1985 
+	}
+}
+world_empire1986 = {
+	duchies = {
+		# k_kingdom1986
+		d_duchy1986 
+	}
+}
+world_empire1987 = {
+	duchies = {
+		# k_kingdom1987
+		d_duchy1987 
+	}
+}
+world_empire1988 = {
+	duchies = {
+		# k_kingdom1988
+		d_duchy1988 
+	}
+}
+world_empire1989 = {
+	duchies = {
+		# k_kingdom1989
+		d_duchy1989 
+	}
+}
+world_empire1990 = {
+	duchies = {
+		# k_kingdom1990
+		d_duchy1990 
+	}
+}
+world_empire1991 = {
+	duchies = {
+		# k_kingdom1991
+		d_duchy1991 
+	}
+}
+world_empire1992 = {
+	duchies = {
+		# k_kingdom1992
+		d_duchy1992 
+	}
+}
+world_empire1993 = {
+	duchies = {
+		# k_kingdom1993
+		d_duchy1993 
+	}
+}
+world_empire1994 = {
+	duchies = {
+		# k_kingdom1994
+		d_duchy1994 
+	}
+}
+world_empire1995 = {
+	duchies = {
+		# k_kingdom1995
+		d_duchy1995 
+	}
+}
+world_empire1996 = {
+	duchies = {
+		# k_kingdom1996
+		d_duchy1996 
+	}
+}
+world_empire1997 = {
+	duchies = {
+		# k_kingdom1997
+		d_duchy1997 
+	}
+}
+world_empire1998 = {
+	duchies = {
+		# k_kingdom1998
+		d_duchy1998 
+	}
+}
+world_empire1999 = {
+	duchies = {
+		# k_kingdom1999
+		d_duchy1999 
+	}
+}
+world_empire2000 = {
+	duchies = {
+		# k_kingdom2000
+		d_duchy2000 
+	}
+}
+world_empire2001 = {
+	duchies = {
+		# k_kingdom2001
+		d_duchy2001 
+	}
+}
+world_empire2002 = {
+	duchies = {
+		# k_kingdom2002
+		d_duchy2002 
+	}
+}
+world_empire2003 = {
+	duchies = {
+		# k_kingdom2003
+		d_duchy2003 
+	}
+}
+world_empire2004 = {
+	duchies = {
+		# k_kingdom2004
+		d_duchy2004 
+	}
+}
+world_empire2005 = {
+	duchies = {
+		# k_kingdom2005
+		d_duchy2005 
+	}
+}
+world_empire2006 = {
+	duchies = {
+		# k_kingdom2006
+		d_duchy2006 
+	}
+}
+world_empire2007 = {
+	duchies = {
+		# k_kingdom2007
+		d_duchy2007 
+	}
+}
+world_empire2008 = {
+	duchies = {
+		# k_kingdom2008
+		d_duchy2008 
+	}
+}
+world_empire2009 = {
+	duchies = {
+		# k_kingdom2009
+		d_duchy2009 
+	}
+}
+world_empire2010 = {
+	duchies = {
+		# k_kingdom2010
+		d_duchy2010 
+	}
+}
+world_empire2011 = {
+	duchies = {
+		# k_kingdom2011
+		d_duchy2011 
+	}
+}
+world_empire2012 = {
+	duchies = {
+		# k_kingdom2012
+		d_duchy2012 
+	}
+}
+world_empire2013 = {
+	duchies = {
+		# k_kingdom2013
+		d_duchy2013 
+	}
+}
+world_empire2014 = {
+	duchies = {
+		# k_kingdom2014
+		d_duchy2014 
+	}
+}
+world_empire2015 = {
+	duchies = {
+		# k_kingdom2015
+		d_duchy2015 
+	}
+}
+world_empire2016 = {
+	duchies = {
+		# k_kingdom2016
+		d_duchy2016 
+	}
+}
+world_empire2017 = {
+	duchies = {
+		# k_kingdom2017
+		d_duchy2017 
+	}
+}
+world_empire2018 = {
+	duchies = {
+		# k_kingdom2018
+		d_duchy2018 
+	}
+}
+world_empire2019 = {
+	duchies = {
+		# k_kingdom2019
+		d_duchy2019 
+	}
+}
+world_empire2020 = {
+	duchies = {
+		# k_kingdom2020
+		d_duchy2020 
+	}
+}
+world_empire2021 = {
+	duchies = {
+		# k_kingdom2021
+		d_duchy2021 
+	}
+}
+world_empire2022 = {
+	duchies = {
+		# k_kingdom2022
+		d_duchy2022 
+	}
+}
+world_empire2023 = {
+	duchies = {
+		# k_kingdom2023
+		d_duchy2023 
+	}
+}
+world_empire2024 = {
+	duchies = {
+		# k_kingdom2024
+		d_duchy2024 
+	}
+}
+world_empire2025 = {
+	duchies = {
+		# k_kingdom2025
+		d_duchy2025 
+	}
+}
+world_empire2026 = {
+	duchies = {
+		# k_kingdom2026
+		d_duchy2026 
+	}
+}
+world_empire2027 = {
+	duchies = {
+		# k_kingdom2027
+		d_duchy2027 
+	}
+}
+world_empire2028 = {
+	duchies = {
+		# k_kingdom2028
+		d_duchy2028 
+	}
+}
+world_empire2029 = {
+	duchies = {
+		# k_kingdom2029
+		d_duchy2029 
+	}
+}
+world_empire2030 = {
+	duchies = {
+		# k_kingdom2030
+		d_duchy2030 
+	}
+}
+world_empire2031 = {
+	duchies = {
+		# k_kingdom2031
+		d_duchy2031 
+	}
+}
+world_empire2032 = {
+	duchies = {
+		# k_kingdom2032
+		d_duchy2032 
+	}
+}
+world_empire2033 = {
+	duchies = {
+		# k_kingdom2033
+		d_duchy2033 
+	}
+}
+world_empire2034 = {
+	duchies = {
+		# k_kingdom2034
+		d_duchy2034 
+	}
+}
+world_empire2035 = {
+	duchies = {
+		# k_kingdom2035
+		d_duchy2035 
+	}
+}
+world_empire2036 = {
+	duchies = {
+		# k_kingdom2036
+		d_duchy2036 
+	}
+}
+world_empire2037 = {
+	duchies = {
+		# k_kingdom2037
+		d_duchy2037 
+	}
+}
+world_empire2038 = {
+	duchies = {
+		# k_kingdom2038
+		d_duchy2038 
+	}
+}
+world_empire2039 = {
+	duchies = {
+		# k_kingdom2039
+		d_duchy2039 
+	}
+}
+world_empire2040 = {
+	duchies = {
+		# k_kingdom2040
+		d_duchy2040 
+	}
+}
+world_empire2041 = {
+	duchies = {
+		# k_kingdom2041
+		d_duchy2041 
+	}
+}
+world_empire2042 = {
+	duchies = {
+		# k_kingdom2042
+		d_duchy2042 
+	}
+}
+world_empire2043 = {
+	duchies = {
+		# k_kingdom2043
+		d_duchy2043 
+	}
+}
+world_empire2044 = {
+	duchies = {
+		# k_kingdom2044
+		d_duchy2044 
+	}
+}
+world_empire2045 = {
+	duchies = {
+		# k_kingdom2045
+		d_duchy2045 
+	}
+}
+world_empire2046 = {
+	duchies = {
+		# k_kingdom2046
+		d_duchy2046 
+	}
+}
+world_empire2047 = {
+	duchies = {
+		# k_kingdom2047
+		d_duchy2047 
+	}
+}
+world_empire2048 = {
+	duchies = {
+		# k_kingdom2048
+		d_duchy2048 
+	}
+}
+world_empire2049 = {
+	duchies = {
+		# k_kingdom2049
+		d_duchy2049 
+	}
+}
+world_empire2050 = {
+	duchies = {
+		# k_kingdom2050
+		d_duchy2050 
+	}
+}
+world_empire2051 = {
+	duchies = {
+		# k_kingdom2051
+		d_duchy2051 
+	}
+}
+world_empire2052 = {
+	duchies = {
+		# k_kingdom2052
+		d_duchy2052 
+	}
+}
+world_empire2053 = {
+	duchies = {
+		# k_kingdom2053
+		d_duchy2053 
+	}
+}
+world_empire2054 = {
+	duchies = {
+		# k_kingdom2054
+		d_duchy2054 
+	}
+}
+world_empire2055 = {
+	duchies = {
+		# k_kingdom2055
+		d_duchy2055 
+	}
+}

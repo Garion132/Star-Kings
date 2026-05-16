@@ -1,0 +1,15 @@
+# 1779 - Province1779
+
+# County Title
+title = c_province1779
+
+# Settlements
+max_settlements = 5
+b_barony1779` = tribal
+b_barony1779a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

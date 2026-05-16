@@ -1,0 +1,15 @@
+# 1744 - Province1744
+
+# County Title
+title = c_province1744
+
+# Settlements
+max_settlements = 1
+b_barony1744` = tribal
+b_barony1744a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History
