@@ -1,0 +1,15 @@
+# 13 - Skako
+
+# County Title
+title = c_skako
+
+# Settlements
+max_settlements = 1
+
+b_skako = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = skakoan
+religion = catholic

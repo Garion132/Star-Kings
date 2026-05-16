@@ -1,0 +1,4 @@
+1={
+	name="Valorum"
+	culture="core_worlder"
+}

@@ -1,0 +1,10 @@
+bm_naboo_crisis = {
+	name = "BM_NABOO_CRISIS_ERA"
+	desc = "BM_NABOO_CRISIS_ERA_INFO"
+	date = 973.12.13
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+
+}

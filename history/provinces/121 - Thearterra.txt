@@ -1,0 +1,15 @@
+# 121 - Thearterra
+
+# County Title
+title = c_thearterra
+
+# Settlements
+max_settlements = 1
+
+b_thearterra = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

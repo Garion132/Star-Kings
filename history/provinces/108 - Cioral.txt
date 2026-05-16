@@ -1,0 +1,15 @@
+# 108 - Cioral
+
+# County Title
+title = c_cioral
+
+# Settlements
+max_settlements = 1
+
+b_cioral = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

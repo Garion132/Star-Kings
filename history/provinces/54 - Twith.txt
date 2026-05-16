@@ -1,0 +1,15 @@
+# 54 - Twith
+
+# County Title
+title = c_twith
+
+# Settlements
+max_settlements = 1
+
+b_twith = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

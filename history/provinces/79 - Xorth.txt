@@ -1,0 +1,15 @@
+# 79 - Xorth
+
+# County Title
+title = c_xorth
+
+# Settlements
+max_settlements = 1
+
+b_xorth = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

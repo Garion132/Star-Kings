@@ -1,0 +1,15 @@
+# 132 - Camco
+
+# County Title
+title = c_camco
+
+# Settlements
+max_settlements = 1
+
+b_camco = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

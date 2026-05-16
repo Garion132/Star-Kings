@@ -1,0 +1,15 @@
+# 68 - Boreias
+
+# County Title
+title = c_borleias
+
+# Settlements
+max_settlements = 1
+
+b_borleias = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

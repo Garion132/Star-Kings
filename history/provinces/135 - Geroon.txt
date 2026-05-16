@@ -1,0 +1,15 @@
+# 135 - Geroon
+
+# County Title
+title = c_geroon
+
+# Settlements
+max_settlements = 1
+
+b_geroon = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

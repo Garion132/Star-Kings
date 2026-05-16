@@ -1,0 +1,15 @@
+# 123 - Kinoss
+
+# County Title
+title = c_kinoss
+
+# Settlements
+max_settlements = 1
+
+b_kinoss = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

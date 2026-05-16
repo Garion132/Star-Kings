@@ -1,0 +1,15 @@
+# 115 - Rentor
+
+# County Title
+title = c_rentor
+
+# Settlements
+max_settlements = 1
+
+b_rentor = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

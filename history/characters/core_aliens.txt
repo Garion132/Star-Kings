@@ -1,0 +1,12 @@
+10000 = {
+	name= "Wat" # 
+	#dynasty = 1 #Tambor
+	religion = catholic
+	culture = skakoan
+	903.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}

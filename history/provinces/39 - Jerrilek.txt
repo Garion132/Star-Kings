@@ -1,0 +1,15 @@
+# 39 - Jerrilek
+
+# County Title
+title = c_jerrilek
+
+# Settlements
+max_settlements = 1
+
+b_jerrilek = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

@@ -1,0 +1,15 @@
+# 6 - Foerost
+
+# County Title
+title = c_foerost
+
+# Settlements
+max_settlements = 1
+
+b_foerost = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

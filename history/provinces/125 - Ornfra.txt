@@ -1,0 +1,15 @@
+# 125 - Ornfra
+
+# County Title
+title = c_ornfra
+
+# Settlements
+max_settlements = 1
+
+b_ornfra = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = chiss
+religion = catholic

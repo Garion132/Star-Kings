@@ -1,0 +1,15 @@
+# 28 - Galand
+
+# County Title
+title = c_galand
+
+# Settlements
+max_settlements = 1
+
+b_galand = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = galandans
+religion = catholic

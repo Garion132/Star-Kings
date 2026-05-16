@@ -1,0 +1,15 @@
+# 53 - Galvoni
+
+# County Title
+title = c_galvoni
+
+# Settlements
+max_settlements = 1
+
+b_galvoni = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

@@ -1,0 +1,15 @@
+# 46 - Prakith
+
+# County Title
+title = c_prakith
+
+# Settlements
+max_settlements = 1
+
+b_prakith = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

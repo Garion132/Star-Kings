@@ -1,0 +1,15 @@
+# 101 - Gorno
+
+# County Title
+title = c_gorno
+
+# Settlements
+max_settlements = 1
+
+b_gorno = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

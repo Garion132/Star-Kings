@@ -1,0 +1,5 @@
+5;0;0;255;Coruscant Sector;x#Sectors Start
+6;0;25;255;Alsakan Sector;x
+7;0;50;255;Bormea Sector;x
+8;0;75;255;Krenher sector;x
+9;0;100;255;Aagau sector;x

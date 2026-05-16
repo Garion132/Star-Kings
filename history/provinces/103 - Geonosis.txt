@@ -1,0 +1,15 @@
+# 103 - Geonosis
+
+# County Title
+title = c_geonosis
+
+# Settlements
+max_settlements = 1
+
+b_geonosis = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

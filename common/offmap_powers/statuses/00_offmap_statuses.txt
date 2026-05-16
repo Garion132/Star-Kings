@@ -1,0 +1,46 @@
+### Statuses are modifiers so they can contain the same things are other modifiers
+# however they are not applied to a character but to the offmap_power
+# they can also have flags that can be tested from the offmap_power scope
+
+european_hedgemonic = {
+	frame = 1
+}
+
+european_napoleonic_wars = {
+	frame = 2
+}
+
+european_unrest = {
+	#Note: Internal unrest restricts Colonial troops
+	frame = 3
+}
+
+european_properous = {
+	frame = 4
+}
+
+european_stable = {
+	frame = 5
+}
+
+european_crimean_war = {
+	flags = { disallow_interactions disallow_troops }
+	frame = 6
+}
+
+european_colonial_uprising = {
+	flags = { disallow_interactions disallow_troops }
+	frame = 7
+}
+
+european_occupied = {
+	#Mostly just dutch during nap and france during FPW
+	flags = { disallow_interactions disallow_troops }
+	frame = 8
+}
+
+european_civil_war = {
+	#Mostly just dutch during nap and france during FPW
+	flags = { disallow_interactions disallow_troops }
+	frame = 9
+}

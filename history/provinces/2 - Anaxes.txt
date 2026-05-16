@@ -1,0 +1,15 @@
+# 2 - Anaxes
+
+# County Title
+title = c_anaxes
+
+# Settlements
+max_settlements = 1
+
+b_anaxes = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

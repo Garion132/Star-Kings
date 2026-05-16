@@ -1,0 +1,13 @@
+51000 = {
+	name= "Leeya" # 
+	#dynasty =  #Arkanis
+	religion = catholic
+	culture = core_worlder
+	female = yes
+	941.1.1={
+		birth=yes
+	}
+	1017.1.14={
+		death=yes
+	}
+}

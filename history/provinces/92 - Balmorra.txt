@@ -1,0 +1,15 @@
+# 92 - Balmorra
+
+# County Title
+title = c_balmorra
+
+# Settlements
+max_settlements = 1
+
+b_balmorra = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

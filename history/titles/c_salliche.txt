@@ -1,0 +1,6 @@
+1.1.1={
+	liege = d_salliche
+}
+970.1.1 = {
+	holder=2000 #
+}

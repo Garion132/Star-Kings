@@ -1,0 +1,15 @@
+# 62 - Ragoon
+
+# County Title
+title = c_ragoon
+
+# Settlements
+max_settlements = 1
+
+b_ragoon = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic

@@ -1,0 +1,15 @@
+# 73 - Vakkar
+
+# County Title
+title = c_vakkar
+
+# Settlements
+max_settlements = 1
+
+b_vakkar = castle
+#b_shadysands = city
+#b_sandstone_sept = temple
+
+# Misc
+culture = core_worlder
+religion = catholic
