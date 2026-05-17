@@ -1,15 +1,14 @@
-# 62 - Province0062
+# 62 - Sharb
 
 # County Title
-title = c_province0062
+title = c_sharb
 
 # Settlements
-max_settlements = 3
-b_barony0062` = tribal
-b_barony0062a = temple
+max_settlements = 1
+b_sharb = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

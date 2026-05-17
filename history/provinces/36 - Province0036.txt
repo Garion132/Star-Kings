@@ -1,15 +1,14 @@
-# 36 - Province0036
+# 36 - Sposia
 
 # County Title
-title = c_province0036
+title = c_sposia
 
 # Settlements
-max_settlements = 3
-b_barony0036` = tribal
-b_barony0036a = temple
+max_settlements = 1
+b_sposia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

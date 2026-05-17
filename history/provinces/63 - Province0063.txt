@@ -1,15 +1,14 @@
-# 63 - Province0063
+# 63 - Yashuvhu
 
 # County Title
-title = c_province0063
+title = c_yashuvhu
 
 # Settlements
-max_settlements = 3
-b_barony0063` = tribal
-b_barony0063a = temple
+max_settlements = 1
+b_yashuvhu = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

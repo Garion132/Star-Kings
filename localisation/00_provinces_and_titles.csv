@@ -6,7 +6,7 @@ PROV5;Province0005;Province0005;Province0005;;Province0005;;;;;;;;;x
 PROV6;Province0006;Province0006;Province0006;;Province0006;;;;;;;;;x
 PROV7;Province0007;Province0007;Province0007;;Province0007;;;;;;;;;x
 PROV8;Province0008;Province0008;Province0008;;Province0008;;;;;;;;;x
-PROV9;Province0009;Province0009;Province0009;;Province0009;;;;;;;;;x
+PROV9;Lwhekk;Lwhekk;Lwhekk;;Lwhekk;;;;;;;;;x
 PROV10;Province0010;Province0010;Province0010;;Province0010;;;;;;;;;x
 PROV11;Province0011;Province0011;Province0011;;Province0011;;;;;;;;;x
 PROV12;Province0012;Province0012;Province0012;;Province0012;;;;;;;;;x
@@ -63,10 +63,10 @@ PROV62;Sharb;Sharb;Sharb;;Sharb;;;;;;;;;x
 PROV63;Yashuvhu;Yashuvhu;Yashuvhu;;Yashuvhu;;;;;;;;;x
 PROV64;Celwis;Celwis;Celwis;;Celwis;;;;;;;;;x
 PROV65;Province0065;Province0065;Province0065;;Province0065;;;;;;;;;x
-PROV66;Province0066;Province0066;Province0066;;Province0066;;;;;;;;;x
+PROV66;Zonoma Sekot;Zonoma Sekot;Zonoma Sekot;;Zonoma Sekot;;;;;;;;;x
 PROV67;Province0067;Province0067;Province0067;;Province0067;;;;;;;;;x
 PROV68;Province0068;Province0068;Province0068;;Province0068;;;;;;;;;x
-PROV69;Province0069;Province0069;Province0069;;Province0069;;;;;;;;;x
+PROV69;Rakata Prime;Rakata Prime;Rakata Prime;;Rakata Prime;;;;;;;;;x
 PROV70;Province0070;Province0070;Province0070;;Province0070;;;;;;;;;x
 PROV71;Province0071;Province0071;Province0071;;Province0071;;;;;;;;;x
 PROV72;Zahn;Zahn;Zahn;;Zahn;;;;;;;;;x # Perfavri; Not a real/canon name
@@ -76,7 +76,7 @@ PROV75;Province0075;Province0075;Province0075;;Province0075;;;;;;;;;x
 PROV76;Province0076;Province0076;Province0076;;Province0076;;;;;;;;;x
 PROV77;Province0077;Province0077;Province0077;;Province0077;;;;;;;;;x
 PROV78;Province0078;Province0078;Province0078;;Province0078;;;;;;;;;x
-PROV79;Province0079;Province0079;Province0079;;Province0079;;;;;;;;;x
+PROV79;Vagar Praxut;Vagar Praxut;Vagar Praxut;;Vagar Praxut;;;;;;;;;x
 PROV80;Province0080;Province0080;Province0080;;Province0080;;;;;;;;;x
 PROV81;Province0081;Province0081;Province0081;;Province0081;;;;;;;;;x
 PROV82;Province0082;Province0082;Province0082;;Province0082;;;;;;;;;x
@@ -100,7 +100,7 @@ PROV99;Province0099;Province0099;Province0099;;Province0099;;;;;;;;;x
 PROV100;Province0100;Province0100;Province0100;;Province0100;;;;;;;;;x
 PROV101;The Redoubt;The Redoubt;The Redoubt;;The Redoubt;;;;;;;;;x
 PROV102;Province0102;Province0102;Province0102;;Province0102;;;;;;;;;x
-PROV103;Province0103;Province0103;Province0103;;Province0103;;;;;;;;;x
+PROV103;Geroon;Geroon;Geroon;;Geroon;;;;;;;;;x
 PROV104;Province0104;Province0104;Province0104;;Province0104;;;;;;;;;x
 PROV105;Utegetu Nebula;Utegetu Nebula;Utegetu Nebula;;Utegetu Nebula;;;;;;;;;x
 PROV106;Province0106;Province0106;Province0106;;Province0106;;;;;;;;;x
@@ -210,7 +210,7 @@ PROV209;Province0209;Province0209;Province0209;;Province0209;;;;;;;;;x
 PROV210;Province0210;Province0210;Province0210;;Province0210;;;;;;;;;x
 PROV211;Province0211;Province0211;Province0211;;Province0211;;;;;;;;;x
 PROV212;Province0212;Province0212;Province0212;;Province0212;;;;;;;;;x
-PROV213;Province0213;Province0213;Province0213;;Province0213;;;;;;;;;x
+PROV213;Myomar;Myomar;Myomar;;Myomar;;;;;;;;;x
 PROV214;Province0214;Province0214;Province0214;;Province0214;;;;;;;;;x
 PROV215;Province0215;Province0215;Province0215;;Province0215;;;;;;;;;x
 PROV216;Province0216;Province0216;Province0216;;Province0216;;;;;;;;;x
@@ -228,7 +228,7 @@ PROV227;Province0227;Province0227;Province0227;;Province0227;;;;;;;;;x
 PROV228;Province0228;Province0228;Province0228;;Province0228;;;;;;;;;x
 PROV229;Province0229;Province0229;Province0229;;Province0229;;;;;;;;;x
 PROV230;Province0230;Province0230;Province0230;;Province0230;;;;;;;;;x
-PROV231;Province0231;Province0231;Province0231;;Province0231;;;;;;;;;x
+PROV231;Vicondor;Vicondor;Vicondor;;Vicondor;;;;;;;;;x
 PROV232;Bilbringi;Bilbringi;Bilbringi;;Bilbringi;;;;;;;;;x
 PROV233;Province0233;Province0233;Province0233;;Province0233;;;;;;;;;x
 PROV234;Province0234;Province0234;Province0234;;Province0234;;;;;;;;;x
@@ -2068,7 +2068,7 @@ PROV2067;Province2067;Province2067;Province2067;;Province2067;;;;;;;;;x
 PROV2068;Province2068;Province2068;Province2068;;Province2068;;;;;;;;;x
 PROV2069;Province2069;Province2069;Province2069;;Province2069;;;;;;;;;x
 PROV2070;Province2070;Province2070;Province2070;;Province2070;;;;;;;;;x
-PROV2071;Province2071;Province2071;Province2071;;Province2071;;;;;;;;;x
+PROV2071;Chiss Space;;;;;;;;;;;;;x
 PROV2072;Province2072;Province2072;Province2072;;Province2072;;;;;;;;;x
 PROV2073;Province2073;Province2073;Province2073;;Province2073;;;;;;;;;x
 PROV2074;Province2074;Province2074;Province2074;;Province2074;;;;;;;;;x

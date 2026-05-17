@@ -1,15 +1,14 @@
-# 44 - Province0044
+# 44 - Csaus
 
 # County Title
-title = c_province0044
+title = c_csaus
 
 # Settlements
 max_settlements = 3
-b_barony0044` = tribal
-b_barony0044a = temple
+b_csaus = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

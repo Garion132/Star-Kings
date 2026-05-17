@@ -1,15 +1,14 @@
-# 72 - Province0072
+# 72 - Zahn
 
 # County Title
-title = c_province0072
+title = c_zahn
 
 # Settlements
-max_settlements = 2
-b_barony0072` = tribal
-b_barony0072a = temple
+max_settlements = 1
+b_zahn = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

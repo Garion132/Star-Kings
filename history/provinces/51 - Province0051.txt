@@ -1,14 +1,14 @@
-# 51 - Province0051
+# 51 - Rrighal
 
 # County Title
-title = c_province0051
+title = c_erighal
 
 # Settlements
 max_settlements = 1
-b_barony0051` = tribal
+b_erighal = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

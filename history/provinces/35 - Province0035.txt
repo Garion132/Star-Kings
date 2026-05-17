@@ -1,14 +1,14 @@
-# 35 - Province0035
+# 35 - Csaplar
 
 # County Title
-title = c_province0035
+title = c_csaplar
 
 # Settlements
 max_settlements = 1
-b_barony0035` = tribal
+b_csaplar = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

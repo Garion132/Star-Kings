@@ -1,15 +1,14 @@
-# 41 - Province0041
+# 41 - Cioral
 
 # County Title
-title = c_province0041
+title = c_cioral
 
 # Settlements
-max_settlements = 3
-b_barony0041` = tribal
-b_barony0041a = temple
+max_settlements = 1
+b_cioral = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

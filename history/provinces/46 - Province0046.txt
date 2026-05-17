@@ -1,15 +1,14 @@
-# 46 - Province0046
+# 46 - Chaf
 
 # County Title
-title = c_province0046
+title = c_chaf
 
 # Settlements
-max_settlements = 3
-b_barony0046` = tribal
-b_barony0046a = temple
+max_settlements = 1
+b_chaf = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

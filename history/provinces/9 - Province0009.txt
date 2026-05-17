@@ -1,15 +1,14 @@
-# 9 - Province0009
+# 9 - Lwhekk
 
 # County Title
-title = c_province0009
+title = c_lwhekk
 
 # Settlements
-max_settlements = 4
-b_barony0009` = tribal
-b_barony0009a = temple
+max_settlements = 1
+b_lwhekk = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ssi_ruuk
 religion = pagan
 
 # History

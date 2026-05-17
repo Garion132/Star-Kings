@@ -1,15 +1,14 @@
-# 21 - Province0021
+# 21 - Bogo Rai
 
 # County Title
-title = c_province0021
+title = c_bogo_rai
 
 # Settlements
-max_settlements = 5
-b_barony0021` = tribal
-b_barony0021a = temple
+max_settlements = 1
+b_bogo_rai = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

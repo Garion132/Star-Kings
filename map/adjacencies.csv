@@ -25,7 +25,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0036;0037;sea;;-1;-1;-1;-1;Sposia to Csilla
 0053;0072;sea;;-1;-1;-1;-1;Schesa to Pesfavri (Zahn)
 0073;0101;sea;;-1;-1;-1;-1;Pesfavri (A'jay) to The Redoubt
-0064;0105;sea;;-1;-1;-1;-1;Celwis to Utegetu Nebula
+0059;0105;sea;;-1;-1;-1;-1;Cormit to Utegetu Nebula
+0064;0079;sea;;-1;-1;-1;-1;Celwis to Vagar Praxut
 0105;0112;sea;;-1;-1;-1;-1;Utegetu Nebula to Murgo
 0112;0115;sea;;-1;-1;-1;-1;Murgo to Rago
 0115;0126;sea;;-1;-1;-1;-1;Rago to Sinton
@@ -205,3 +206,5 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1835;1844;sea;;-1;-1;-1;-1;Ank Ki'Shor to Estaria
 1844;1852;sea;;-1;-1;-1;-1;Estaria to Makem Te
 1852;1869;sea;;-1;-1;-1;-1;Makem Te to Quermia
+0199;0213;sea;;-1;-1;-1;-1;Dorin (Dor'shan) to Myomar
+0213;0231;sea;;-1;-1;-1;-1;Myomar to Vicondor

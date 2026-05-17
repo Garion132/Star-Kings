@@ -1,15 +1,14 @@
-# 40 - Province0040
+# 40 - Cam'co
 
 # County Title
-title = c_province0040
+title = c_camco
 
 # Settlements
-max_settlements = 3
-b_barony0040` = tribal
-b_barony0040a = temple
+max_settlements = 1
+b_camco = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

@@ -1,15 +1,14 @@
-# 26 - Province0026
+# 26 - Oyokal
 
 # County Title
-title = c_province0026
+title = c_oyokal
 
 # Settlements
 max_settlements = 3
-b_barony0026` = tribal
-b_barony0026a = temple
+b_oyokal = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

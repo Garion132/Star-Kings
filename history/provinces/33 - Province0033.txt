@@ -1,15 +1,14 @@
-# 33 - Province0033
+# 33 - Rhigar
 
 # County Title
-title = c_province0033
+title = c_rhigar
 
 # Settlements
-max_settlements = 3
-b_barony0033` = tribal
-b_barony0033a = temple
+max_settlements = 1
+b_rhigar = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

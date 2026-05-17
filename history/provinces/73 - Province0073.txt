@@ -1,15 +1,14 @@
-# 73 - Province0073
+# 73 - Ajey
 
 # County Title
-title = c_province0073
+title = c_ajey
 
 # Settlements
 max_settlements = 1
-b_barony0073` = tribal
-b_barony0073a = temple
+b_ajey = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

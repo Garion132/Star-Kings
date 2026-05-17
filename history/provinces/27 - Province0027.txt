@@ -1,15 +1,14 @@
-# 27 - Province0027
+# 27 - Ool
 
 # County Title
-title = c_province0027
+title = c_ool
 
 # Settlements
-max_settlements = 3
-b_barony0027` = tribal
-b_barony0027a = temple
+max_settlements = 1
+b_ool = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

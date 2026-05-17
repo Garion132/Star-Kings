@@ -1,15 +1,14 @@
-# 55 - Province0055
+# 55 - Noris
 
 # County Title
-title = c_province0055
+title = c_noris
 
 # Settlements
-max_settlements = 3
-b_barony0055` = tribal
-b_barony0055a = temple
+max_settlements = 1
+b_noris = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

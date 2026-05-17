@@ -1,15 +1,14 @@
-# 52 - Province0052
+# 52 - Sarvchi
 
 # County Title
-title = c_province0052
+title = c_sarvchi
 
 # Settlements
-max_settlements = 3
-b_barony0052` = tribal
-b_barony0052a = temple
+max_settlements = 1
+b_sarvchi = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

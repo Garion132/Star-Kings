@@ -1,15 +1,14 @@
-# 24 - Province0024
+# 24 - Kinoss
 
 # County Title
-title = c_province0024
+title = c_kinoss
 
 # Settlements
-max_settlements = 7
-b_barony0024` = tribal
-b_barony0024a = temple
+max_settlements = 2
+b_kinoss = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

@@ -1,15 +1,14 @@
-# 31 - Province0031
+# 31 - Avidich
 
 # County Title
-title = c_province0031
+title = c_avidich
 
 # Settlements
 max_settlements = 3
-b_barony0031` = tribal
-b_barony0031a = temple
+b_avidich = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

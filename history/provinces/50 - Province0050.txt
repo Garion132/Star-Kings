@@ -1,15 +1,14 @@
-# 50 - Province0050
+# 50 - Copero City
 
 # County Title
-title = c_province0050
+title = c_copero_city
 
 # Settlements
 max_settlements = 1
-b_barony0050` = tribal
-b_barony0050a = temple
+b_copero_city = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

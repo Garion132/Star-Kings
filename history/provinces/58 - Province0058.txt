@@ -1,15 +1,14 @@
-# 58 - Province0058
+# 58 - Ornfra
 
 # County Title
-title = c_province0058
+title = c_ornfra
 
 # Settlements
-max_settlements = 3
-b_barony0058` = tribal
-b_barony0058a = temple
+max_settlements = 1
+b_ornfra = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

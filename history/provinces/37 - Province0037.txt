@@ -1,14 +1,14 @@
-# 37 - Province0037
+# 37 - Acsiel
 
 # County Title
-title = c_province0037
+title = c_acsiel
 
 # Settlements
 max_settlements = 1
-b_barony0037` = tribal
+b_acsiel = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History

@@ -27,7 +27,7 @@ e_pirates = {
 # e_gal_republic = {
 	# color={ 130 20 50 }
 	# color2={ 200 0 0 }
-	# capital = 1 #
+	# capital = 1 
 
 	# k_core = {
 		# color={ 28 134 28 }
@@ -1027,242 +1027,275 @@ e_pirates = {
 	# }
 # }
 
-# e_unknown_regions = {
-	# color={ 130 20 50 }
-	# color2={ 200 0 0 }
-	# #capital = 1 #
+e_unknown_regions = {
+	color={ 130 20 50 }
+	color2={ 200 0 0 }
+	#capital = 1 #
 
-	# k_chiss_space = {
-		# color={ 28 134 28 }
-		# color2={ 219 43 43 }
-		# assimilate = no
+	k_chiss_space = {
+		color={ 94 130 178 }
+		color2={ 219 43 43 }
+		assimilate = no
 
-		# capital = 107 #
+		capital = 34 #
 
-		# d_csilla_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
+		d_csilla_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
 			
-			# capital = 107 #
+			capital = 34 #
 
-			# c_csilla = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+			c_csillag = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_csilla = {
+				b_csillag = {
 					
-				# }
-			# }
-			# c_cioral = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_csaplar = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_cioral = {
+				b_csaplar = {
 					
-				# }
-			# }
-			# c_sarvchi = { #Chaf
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_acsiel = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_sarvchi = {
+				b_acsiel = {
 					
-				# }
-			# }
-			# c_copero = { #Mitth
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_cioral = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_copero = {
+				b_cioral = {
 					
-				# }
-			# }
-			# c_csaus = { #Inrokini
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_sarvchi = { #Chaf
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_csaus = {
+				b_sarvchi = {
 					
-				# }
-			# }
-			# c_rhigar = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_copero_city = { #Mitth
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_rhigar = {
+				b_copero_city = {
 					
-				# }
-			# }
-			# c_avidich = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_erighal = { #Mitth
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_avidich = {
+				b_erighal = {
 					
-				# }
-			# }
-			# c_cormit = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_csaus = { #Inrokini
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_cormit = {
+				b_csaus = {
 					
-				# }
-			# }
-			# c_rentor = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_rhigar = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_rentor = {
+				b_rhigar = {
 					
-				# }
-			# }
-			# c_jamiron = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_avidich = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_jamiron = {
+				b_avidich = {
 					
-				# }
-			# }
-			# c_ool = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_cormit = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_ool = {
+				b_cormit = {
 					
-				# }
-			# }
-			# c_sposia = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_rentor = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_sposia = {
+				b_rentor = {
 					
-				# }
-			# }
-			# c_shihon = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_jamiron = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_shihon = {
+				b_jamiron = {
 					
-				# }
-			# }
-			# c_oyokal = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_ool = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_oyokal = {
+				b_ool = {
 					
-				# }
-			# }
-			# c_thearterra = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_sposia = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_thearterra = {
+				b_sposia = {
 					
-				# }
-			# }
-			# c_naporar = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_shihon = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_naporar = {
+				b_shihon = {
 					
-				# }
-			# }
-			# c_kinoss = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_oyokal = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_kinoss = {
+				b_oyokal = {
 					
-				# }
-			# }
-			# c_celwis = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_thearterra = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_celwis = {
+				b_thearterra = {
 					
-				# }
-			# }
-			# c_ornfra = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_naporar = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_ornfra = {
+				b_naporar = {
 					
-				# }
-			# }
-			# c_sharb = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_kinoss = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_sharb = {
+				b_kinoss = {
 					
-				# }
-			# }
-			# c_noris = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_celwis = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_noris = {
+				b_celwis = {
 					
-				# }
-			# }
-			# c_schesa = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_ornfra = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_schesa = {
+				b_ornfra = {
 					
-				# }
-			# }
-			# c_bogo_rai = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_sharb = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_bogo_rai = {
+				b_sharb = {
 					
-				# }
-			# }
-			# c_chaf = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_noris = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_chaf = {
+				b_noris = {
 					
-				# }
-			# }
-			# c_yashuvhu = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_schesa = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_yashuvhu = {
+				b_schesa = {
 					
-				# }
-			# }
-			# c_camco = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_bogo_rai = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_camco = {
+				b_bogo_rai = {
 					
-				# }
-			# }
-			# c_pesfavri = { #
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_chaf = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_pesfavri = {
+				b_chaf = {
 					
-				# }
-			# } 
-		# }
-	# }
+				}
+			}
+			c_yashuvhu = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_yashuvhu = {
+					
+				}
+			}
+			c_camco = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_camco = {
+					
+				}
+			}
+			c_zahn = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_zahn = {
+					
+				}
+			}
+			c_ajey = { #
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ajey = {
+					
+				}
+			}
+		}
+	}
+}#
 	# k_tempered_wastes = {
 		# color={ 28 134 28 }
 		# color2={ 219 43 43 }
@@ -1323,6 +1356,38 @@ e_pirates = {
 		# }
 	# }
 # }
+e_ssi_ruuvi_imperium = {
+	color={ 252 247 66 }
+	color2={ 80 205 253 }
+	short_name = yes
+	
+	capital = 9 #
+
+	k_ssi_ruuk_star_cluster = {
+		color={ 252 247 66 }
+		color2={ 80 205 253 }
+		assimilate = no
+
+		capital = 9 #
+
+		d_lwhekk_sector = {
+			color={ 252 247 66 }
+			color2={ 80 205 253 }
+			
+			capital = 9
+
+			c_lwhekk = {
+				color={ 252 247 66 }
+				color2={ 80 205 253 }
+				
+				b_lwhekk = {
+					
+				}
+			}
+		}
+	}
+}
+
 
 k_techno_union = {
 	color = { 255 193 34 }
@@ -1334,4 +1399,8 @@ k_arkanis_regency = {
 
 d_salliche = {
 	color = { 128 163 56 }
+}
+
+e_chiss_ascendancy = {
+	color = { 94 130 178 }
 }

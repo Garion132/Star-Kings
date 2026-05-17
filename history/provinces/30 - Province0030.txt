@@ -1,15 +1,14 @@
-# 30 - Province0030
+# 30 - Shihon
 
 # County Title
-title = c_province0030
+title = c_shihon
 
 # Settlements
 max_settlements = 3
-b_barony0030` = tribal
-b_barony0030a = temple
+b_shihon = tribal
 
 # Misc
-culture = uncultured_swine
+culture = chiss
 religion = pagan
 
 # History
