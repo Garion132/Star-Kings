@@ -1,11 +1,11 @@
-# 72 - Zahn
+# 72 - Perfavri
 
 # County Title
-title = c_zahn
+title = c_perfavri
 
 # Settlements
 max_settlements = 1
-b_zahn = tribal
+b_perfavri = tribal
 
 # Misc
 culture = chiss

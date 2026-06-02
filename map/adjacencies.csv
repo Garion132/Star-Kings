@@ -5,26 +5,26 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0028;0031;sea;;-1;-1;-1;-1;Thearterra to Avidich
 0031;0027;sea;;-1;-1;-1;-1;Avidich to Ool
 0031;0034;sea;;-1;-1;-1;-1;Avidich to Csilla
-0037;0059;sea;;-1;-1;-1;-1;Csilla to Cormit
+0034;0059;sea;;-1;-1;-1;-1;Csilla to Cormit
 0059;0064;sea;;-1;-1;-1;-1;Cormit to Celwis
 0027;0030;sea;;-1;-1;-1;-1;Ool to Shihon
 0030;0026;sea;;-1;-1;-1;-1;Shihon to Oyokal
 0046;0033;sea;;-1;-1;-1;-1;Chaf to Rhigar
-0033;0035;sea;;-1;-1;-1;-1;Rhigar to Csilla
+0033;0034;sea;;-1;-1;-1;-1;Rhigar to Csilla
 0033;0044;sea;;-1;-1;-1;-1;Rhigar to Csaus
 0044;0050;sea;;-1;-1;-1;-1;Csaus to Copero
-0051;0052;sea;;-1;-1;-1;-1;Copero to Savarchi
+0050;0052;sea;;-1;-1;-1;-1;Copero to Savarchi
 0052;0041;sea;;-1;-1;-1;-1;Savarchi to Cioral
-0041;0035;sea;;-1;-1;-1;-1;Cioral to Csilla
+0041;0034;sea;;-1;-1;-1;-1;Cioral to Csilla
 0053;0055;sea;;-1;-1;-1;-1;Schesa to Noris
 0055;0062;sea;;-1;-1;-1;-1;Noris to Sharb
 0062;0058;sea;;-1;-1;-1;-1;Sharb to Ornfra
 0058;0047;sea;;-1;-1;-1;-1;Ornfra to Naporar
 0040;0047;sea;;-1;-1;-1;-1;Cam'co to Naporar
 0047;0036;sea;;-1;-1;-1;-1;Naporar to Sposia
-0036;0037;sea;;-1;-1;-1;-1;Sposia to Csilla
-0053;0072;sea;;-1;-1;-1;-1;Schesa to Pesfavri (Zahn)
-0073;0101;sea;;-1;-1;-1;-1;Pesfavri (A'jay) to The Redoubt
+0036;0034;sea;;-1;-1;-1;-1;Sposia to Csilla
+0053;0072;sea;;-1;-1;-1;-1;Schesa to Pesfavri
+0072;0101;sea;;-1;-1;-1;-1;Pesfavri to The Redoubt
 0059;0105;sea;;-1;-1;-1;-1;Cormit to Utegetu Nebula
 0064;0079;sea;;-1;-1;-1;-1;Celwis to Vagar Praxut
 0105;0112;sea;;-1;-1;-1;-1;Utegetu Nebula to Murgo
@@ -47,27 +47,27 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0285;0286;sea;;-1;-1;-1;-1;Meastrinnar to Voltare
 0286;0312;sea;;-1;-1;-1;-1;Voltare to Carratos
 0312;0341;sea;;-1;-1;-1;-1;Carratos to Sif-Uwana
-0341;0345;sea;;-1;-1;-1;-1;Sif-Uwana to Palanhi (Jung)
-0346;0378;sea;;-1;-1;-1;-1;Palanhi (Tchkelly) to Ord Miril
+0341;0346;sea;;-1;-1;-1;-1;Sif-Uwana to Palanhi
+0346;0378;sea;;-1;-1;-1;-1;Palanhi to Ord Miril
 0378;0387;sea;;-1;-1;-1;-1;Ord Miril to Borleias
 0387;0395;sea;;-1;-1;-1;-1;Borleias to Pantolomin
 0395;0416;sea;;-1;-1;-1;-1;Pantolomin to Twith
 0416;0497;sea;;-1;-1;-1;-1;Twith to Velucia
 0497;0498;sea;;-1;-1;-1;-1;Velusia to Thokos
-0498;0485;sea;;-1;-1;-1;-1;Thokos to Coruscant (Federal District)
+0498;0485;sea;;-1;-1;-1;-1;Thokos to Coruscant
 0416;0430;sea;;-1;-1;-1;-1;Twith to Galvoni
 0430;0431;sea;;-1;-1;-1;-1;Galvoni to Weerden
-0431;0454;sea;;-1;-1;-1;-1;Weerden to Tanjay (Foster)
-0463;0475;sea;;-1;-1;-1;-1;Tanjay (Stevendee) to Coruscant (Temple District)
+0431;0454;sea;;-1;-1;-1;-1;Weerden to Tanjay
+0454;0485;sea;;-1;-1;-1;-1;Tanjay to Coruscant
 0295;0317;sea;;-1;-1;-1;-1;J't'p'tan to N'Zoth
 0317;0276;sea;;-1;-1;-1;-1;N'zoth to Galantos
 0317;0331;sea;;-1;-1;-1;-1;N'zoth to Cal-Seti
 0276;0331;sea;;-1;-1;-1;-1;Galantos to Cal-Seti
 0331;0372;sea;;-1;-1;-1;-1;Cal-Seti to Alland
 0372;0406;sea;;-1;-1;-1;-1;Alland to Norkronia
-0406;0429;sea;;-1;-1;-1;-1;Norkronia to Metellos (Moridebo District)
-0441;0475;sea;;-1;-1;-1;-1;Metellos (Doyle District) to Coruscant (CoCo District)
-0490;0590;sea;;-1;-1;-1;-1;Coruscant (The Works) to Ixtlar
+0406;0434;sea;;-1;-1;-1;-1;Norkronia to Metellos
+0434;0485;sea;;-1;-1;-1;-1;Metellos to Coruscant
+0485;0590;sea;;-1;-1;-1;-1;Coruscant to Ixtlar
 0590;0625;sea;;-1;-1;-1;-1;Ixtlar to Wukkar (Iltarr)
 0632;0664;sea;;-1;-1;-1;-1;Wukkar (Marc'Thom) to Kailor
 0664;0696;sea;;-1;-1;-1;-1;Kailor to Xorth
@@ -93,15 +93,15 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0753;0730;sea;;-1;-1;-1;-1;Foless to Bestine
 0730;0706;sea;;-1;-1;-1;-1;Bestine to Mechis
 0706;0701;sea;;-1;-1;-1;-1;Mechis to Renillis
-0701;0690;sea;;-1;-1;-1;-1;Renillis to Yag'Dhul (Astackpol)
-0691;0685;sea;;-1;-1;-1;-1;Yag'Dhul (Ul'youll) to Harrin 
+0701;0690;sea;;-1;-1;-1;-1;Renillis to Yag'Dhul
+0690;0685;sea;;-1;-1;-1;-1;Yag'Dhul to Harrin 
 0685;0674;sea;;-1;-1;-1;-1;Harrin to Moorja
 0674;0655;sea;;-1;-1;-1;-1;Moorja to Calus
 0655;0635;sea;;-1;-1;-1;-1;Calus to Epica
 0635;0637;sea;;-1;-1;-1;-1;Epica to Roona
 0637;0608;sea;;-1;-1;-1;-1;Roona to Borkyne
-0608;0529;sea;;-1;-1;-1;-1;Borkyne to Kinyen (Dal)
-0530;0450;sea;;-1;-1;-1;-1;Kinyen (Aygion) to Pendari
+0608;0530;sea;;-1;-1;-1;-1;Borkyne to Kinyen
+0530;0450;sea;;-1;-1;-1;-1;Kinyen to Pendari
 0450;0399;sea;;-1;-1;-1;-1;Pendari to Tar Mordon
 0399;0389;sea;;-1;-1;-1;-1;Tar Mordon to Calonica
 0389;0351;sea;;-1;-1;-1;-1;Calonica to Bomis Koori (Terrence)
@@ -115,11 +115,11 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0339;0315;sea;;-1;-1;-1;-1;Quamar to Mugaar
 0315;0321;sea;;-1;-1;-1;-1;Mugaar to Javin
 0321;0308;sea;;-1;-1;-1;-1;Javin to Kumru (Craig'Ro)
-0304;0297;sea;;-1;-1;-1;-1;Kumru (Ecallaw) to Gerrenthum (Figg)
-0301;0299;sea;;-1;-1;-1;-1;Gerrenthum (Caspian) to Ione
+0304;0301;sea;;-1;-1;-1;-1;Kumru (Ecallaw) to Gerrenthum
+0301;0299;sea;;-1;-1;-1;-1;Gerrenthum to Ione
 0299;0288;sea;;-1;-1;-1;-1;Ione to Darlyn Boda
-0288;0300;sea;;-1;-1;-1;-1;Darlyn Boda to Isde Naha (Vallesse I)
-0298;0293;sea;;-1;-1;-1;-1;Isde Naha (Jade'Ir) to Berrol's Donn
+0288;0300;sea;;-1;-1;-1;-1;Darlyn Boda to Isde Naha
+300;0293;sea;;-1;-1;-1;-1;Isde Naha to Berrol's Donn
 0293;0294;sea;;-1;-1;-1;-1;Berrol's Donn to Sil'Lume
 0294;0305;sea;;-1;-1;-1;-1;Sil'Lume to Manpha
 0305;0319;sea;;-1;-1;-1;-1;Manpha to Terminus (Goodwin)
@@ -130,40 +130,40 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0956;0968;sea;;-1;-1;-1;-1;Byblos (Weigho) to Pencael
 0968;0991;sea;;-1;-1;-1;-1;Pencael to Havricus
 0991;1018;sea;;-1;-1;-1;-1;Havricus to Iseno (Corroney)
-1019;1025;sea;;-1;-1;-1;-1;Iseno (Paulblo) to Denon (Ffhick)
-1044;1075;sea;;-1;-1;-1;-1;Denon (Bobson) to Perithal
+1019;1025;sea;;-1;-1;-1;-1;Iseno (Paulblo) to Denon
+1025;1075;sea;;-1;-1;-1;-1;Denon to Perithal
 1075;1099;sea;;-1;-1;-1;-1;Perithal to Spirana
 1099;1134;sea;;-1;-1;-1;-1;Spirana to Rhommammool (Redhaven)
 1135;1166;sea;;-1;-1;-1;-1;Rhommammool (Rasalva) to Tlactehon
 1166;1183;sea;;-1;-1;-1;-1;Tlactehon to Allanteen (Miller)
 1191;1246;sea;;-1;-1;-1;-1;Allanteen (Gunrner) to Gamor (Toochris)
 1249;1274;sea;;-1;-1;-1;-1;Gamor (Packed Lumber) to Milagro (Cidietz)
-1275;1317;sea;;-1;-1;-1;-1;Milagro (Dorman) to Thaere (Mullins)
-1323;1386;sea;;-1;-1;-1;-1;Thaere (Pickler) to Doldur
-1386;1392;sea;;-1;-1;-1;-1;Doldur to Druckenwell (Il Avali)
-1394;1403;sea;;-1;-1;-1;-1;Druckenwell (Taggon) to Paqwepor Major
+1275;1317;sea;;-1;-1;-1;-1;Milagro (Dorman) to Thaere
+1317;1386;sea;;-1;-1;-1;-1;Thaere to Doldur
+1386;1394;sea;;-1;-1;-1;-1;Doldur to Druckenwell
+1394;1403;sea;;-1;-1;-1;-1;Druckenwell to Paqwepor Major
 1403;1437;sea;;-1;-1;-1;-1;Paqwepor Major to Kabray
 1437;1461;sea;;-1;-1;-1;-1;Kabray to Algara
 1461;1474;sea;;-1;-1;-1;-1;Algara to Andosha
 1474;1499;sea;;-1;-1;-1;-1;Andosha to Mon Gazza
 1499;1550;sea;;-1;-1;-1;-1;Mon Gazza to Herdessa
 1550;1566;sea;;-1;-1;-1;-1;Herdessa to Radnor
-1566;1613;sea;;-1;-1;-1;-1;Radnor to Arkanis (Ohlen)
-1615;1619;sea;;-1;-1;-1;-1;Arkanis (Nikcid) to Sirpar
+1566;1613;sea;;-1;-1;-1;-1;Radnor to Arkanis
+1613;1619;sea;;-1;-1;-1;-1;Arkanis to Sirpar
 1619;1630;sea;;-1;-1;-1;-1;Sirpar to Gorno
 1630;1669;sea;;-1;-1;-1;-1;Gorno to Dalchon
-1669;1704;sea;;-1;-1;-1;-1;Dalchon to Ryloth (Brightlands)
-1705;1769;sea;;-1;-1;-1;-1;Ryloth (Nightlands) to Wrea
+1669;1704;sea;;-1;-1;-1;-1;Dalchon to Ryloth
+1704;1769;sea;;-1;-1;-1;-1;Ryloth to Wrea
 1769;1804;sea;;-1;-1;-1;-1;Wrea to Smuggler's Run
-0494;0523;sea;;-1;-1;-1;-1;Coruscant (Sah'c District) to Alsakan (Archais)
-0537;0556;sea;;-1;-1;-1;-1;Alsakan (Hirken) to Grizmallt (Tasia)
-0555;0582;sea;;-1;-1;-1;-1;Grizmallt (Allenhorne) to Anaxes (Sirpar Hills)
-0584;0599;sea;;-1;-1;-1;-1;Anaxes (Axum) to Corulag (North Kallis)
-0598;0612;sea;;-1;-1;-1;-1;Corulag (Resoria) to Chandrila
+0485;0523;sea;;-1;-1;-1;-1;Coruscant to Alsakan
+0523;0555;sea;;-1;-1;-1;-1;Alsakan to Grizmallt
+0555;0584;sea;;-1;-1;-1;-1;Grizmallt to Anaxes
+0584;0599;sea;;-1;-1;-1;-1;Anaxes to Corulag
+0599;0612;sea;;-1;-1;-1;-1;Corulag to Chandrila
 0612;0640;sea;;-1;-1;-1;-1;Chandrila to Brentaal
-0640;0643;sea;;-1;-1;-1;-1;Brentaal to Esseles (Alabar)
-0652;0670;sea;;-1;-1;-1;-1;Esseles (Calamar) to Rhinnal (Rhire)
-0669;0678;sea;;-1;-1;-1;-1;Rhinnal (Austogie) to Ralltiir
+0640;0643;sea;;-1;-1;-1;-1;Brentaal to Esseles
+0643;0670;sea;;-1;-1;-1;-1;Esseles to Rhinnal
+0670;0678;sea;;-1;-1;-1;-1;Rhinnal to Ralltiir
 0678;0699;sea;;-1;-1;-1;-1;Ralltiir to Delle (Sudlow)
 0698;0741;sea;;-1;-1;-1;-1;Delle (Woldus) to Yabol Opa (Beecroft)
 0740;0765;sea;;-1;-1;-1;-1;Yabol Opa (Saxton) to Ifmix
@@ -174,12 +174,12 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0903;0941;sea;;-1;-1;-1;-1;Vurdon Ka to Joiol
 0941;0974;sea;;-1;-1;-1;-1;Joiol to Chazwa (Iritsa)
 0973;1042;sea;;-1;-1;-1;-1;Chazwa (Ching) to Relatta
-1042;1110;sea;;-1;-1;-1;-1;Relatta to Tirahnn (Great Fair)
-1113;1182;sea;;-1;-1;-1;-1;Tirahnn (Tirahnn City) to Dalcretti
-1182;1264;sea;;-1;-1;-1;-1;Dalcretti to Taanab (Pandath)
+1042;1110;sea;;-1;-1;-1;-1;Relatta to Tirahnn
+1110;1182;sea;;-1;-1;-1;-1;Tirahnn to Dalcretti
+1182;1263;sea;;-1;-1;-1;-1;Dalcretti to Taanab (Pandath)
 1263;1296;sea;;-1;-1;-1;-1;Taanab (Raffel) to Carcel
-1296;1308;sea;;-1;-1;-1;-1;Carcel to Sermeria (Cole'love)
-1307;1330;sea;;-1;-1;-1;-1;Sermeria (Tterrab) to Pirin
+1296;1307;sea;;-1;-1;-1;-1;Carcel to Sermeria
+1307;1330;sea;;-1;-1;-1;-1;Sermeria to Pirin
 1330;1360;sea;;-1;-1;-1;-1;Pirin to Gizer
 1360;1390;sea;;-1;-1;-1;-1;Gizer to Lantillies
 1390;1462;sea;;-1;-1;-1;-1;Lantillies to Rearqu 10
@@ -208,3 +208,247 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1852;1869;sea;;-1;-1;-1;-1;Makem Te to Quermia
 0199;0213;sea;;-1;-1;-1;-1;Dorin (Dor'shan) to Myomar
 0213;0231;sea;;-1;-1;-1;-1;Myomar to Vicondor
+0485;0476;sea;;-1;-1;-1;-1;Coruscant to Foerost
+0476;0469;sea;;-1;-1;-1;-1;Foerost to Ruan
+0469;0437;sea;;-1;-1;-1;-1;Ruan to Stassia
+0437;0420;sea;;-1;-1;-1;-1;Stassia to Salliche
+0420;0392;sea;;-1;-1;-1;-1;Salliche to Worru'du
+0392;0369;sea;;-1;-1;-1;-1;Worru'du to Galand 
+0369;0357;sea;;-1;-1;-1;-1;Galand to Fresia
+0357;0331;sea;;-1;-1;-1;-1;Fresia to Cal-Seti
+0416;0422;sea;;-1;-1;-1;-1;Twith to Farrfin
+0430;0422;sea;;-1;-1;-1;-1;Galvoni to Farrfin
+0497;0422;sea;;-1;-1;-1;-1;Velusia to Farrfin
+0422;0453;sea;;-1;-1;-1;-1;Farrfin to Mamendin
+0453;0505;sea;;-1;-1;-1;-1;Mamendin to Olgo
+0319;0239;sea;;-1;-1;-1;-1;Terminus to Imynusoph
+0319;0404;sea;;-1;-1;-1;-1;Terminus to Fwatna
+1613;1621;sea;;-1;-1;-1;-1;Arkanis to Issor
+1621;1639;sea;;-1;-1;-1;-1;Issor to New Ator
+1621;1640;sea;;-1;-1;-1;-1;Issor to Najiba
+1640;1647;sea;;-1;-1;-1;-1;Najiba to Vasch
+1613;1647;sea;;-1;-1;-1;-1;Arkanis to Vasch
+1704;1647;sea;;-1;-1;-1;-1;Ryloth to Vasch
+1704;1680;sea;;-1;-1;-1;-1;Ryloth to Vor Deo
+1647;1680;sea;;-1;-1;-1;-1;Vasch to Vor Deo
+1674;1680;sea;;-1;-1;-1;-1;Geonosis to Vor Deo
+1674;1646;sea;;-1;-1;-1;-1;Geonosis to Tatooine
+1639;1646;sea;;-1;-1;-1;-1;New Ator to Tatooine
+1674;1699;sea;;-1;-1;-1;-1;Geonosis to Cranan
+1699;1701;sea;;-1;-1;-1;-1;Cranan to Vactooine
+1701;1707;sea;;-1;-1;-1;-1;Cranan to Cirus
+1699;1935;sea;;-1;-1;-1;-1;Cranan to Excarga
+1674;1681;sea;;-1;-1;-1;-1;Geonosis to Ooo-temiuk
+1499;1618;sea;;-1;-1;-1;-1;Mon Gazza to Pii
+1618;1646;sea;;-1;-1;-1;-1;Pii to Tatooine
+1618;1692;sea;;-1;-1;-1;-1;Pii to Piroket
+1692;1681;sea;;-1;-1;-1;-1;Piroket to Ooo-temiuk
+0685;0716;sea;;-1;-1;-1;-1;Harrin to Wroona
+0690;0707;sea;;-1;-1;-1;-1;Yag'dhul to Sukkult
+0707;0716;sea;;-1;-1;-1;-1;Sukkult to Wroona
+0716;0744;sea;;-1;-1;-1;-1;Wroona to Tregillis
+1613;1585;sea;;-1;-1;-1;-1;Arkanis to Tythe
+1585;1575;sea;;-1;-1;-1;-1;Tythe to Nelvaan
+1575;1508;sea;;-1;-1;-1;-1;Nelvaan to Llanic
+1499;1508;sea;;-1;-1;-1;-1;Mon Gazza to Llanic
+1508;1464;sea;;-1;-1;-1;-1;Llanic to Zhar
+1508;1487;sea;;-1;-1;-1;-1;Llanic to Socorro
+0469;0514;sea;;-1;-1;-1;-1;Ruan to Jerrilek
+0514;0499;sea;;-1;-1;-1;-1;Jerrilek to Empress Teta
+0499;0464;sea;;-1;-1;-1;-1;Empress Teta to Keeara Major
+0464;0390;sea;;-1;-1;-1;-1;Keeara Major to Prakith
+0390;0333;sea;;-1;-1;-1;-1;Prakith to Odik
+0333;0381;sea;;-1;-1;-1;-1;Odik to Byss
+0640;0679;sea;;-1;-1;-1;-1;Brentaal to Skako
+0679;0750;sea;;-1;-1;-1;-1;Skako to Aldraig
+0670;0711;sea;;-1;-1;-1;-1;Rhinnal to Tepasi
+0497;0565;sea;;-1;-1;-1;-1;Velusia to Shawken 
+0565;0569;sea;;-1;-1;-1;-1;Shawken to Challon
+0569;0618;sea;;-1;-1;-1;-1;Challon to Wakeelmui
+0640;0618;sea;;-1;-1;-1;-1;Brentaal to Wakeelmui
+0618;0624;sea;;-1;-1;-1;-1;Wakeelmui to Uviuy Exen
+0346;0377;sea;;-1;-1;-1;-1;Palanhi to Noquivzor
+0346;0266;sea;;-1;-1;-1;-1;Palanhi to Vakkar
+0377;0562;sea;;-1;-1;-1;-1;Noquivzor to Ord Antalaha
+0562;0609;sea;;-1;-1;-1;-1;Ord Antalaha to Dankayo
+0416;0397;sea;;-1;-1;-1;-1;Twith to Voon 
+0397;0375;sea;;-1;-1;-1;-1;Voon to Hyabb 
+0301;0261;sea;;-1;-1;-1;-1;Gerrenthum to Mijos
+0261;0240;sea;;-1;-1;-1;-1;Mijos to Lutrillia
+0288;0240;sea;;-1;-1;-1;-1;Darlyn Boda to Lutrillia
+0288;0259;sea;;-1;-1;-1;-1;Darlyn Boda to Hoth
+0258;0259;sea;;-1;-1;-1;-1;Anoat to Hoth
+0258;0257;sea;;-1;-1;-1;-1;Anoat to Bespin
+0301;0257;sea;;-1;-1;-1;-1;Gerrenthum to Bespin
+0301;0330;sea;;-1;-1;-1;-1;Gerrenthum to Nothoiin
+0330;0340;sea;;-1;-1;-1;-1;Nothoiin to Polmanar
+0300;0340;sea;;-1;-1;-1;-1;Isde Naha to Polmanar
+0300;0201;sea;;-1;-1;-1;-1;Isde Naha to Abridon
+0171;0201;sea;;-1;-1;-1;-1;Keskin to Abridon 
+0171;0137;sea;;-1;-1;-1;-1;Keskin to Sump
+0114;0137;sea;;-1;-1;-1;-1;Virgillia to Sump
+0114;0108;sea;;-1;-1;-1;-1;Virgillia to Lipsec
+0118;0240;sea;;-1;-1;-1;-1;Ryoone to Lutrillia
+0118;0106;sea;;-1;-1;-1;-1;Ryoone to Koda Station
+0246;0240;sea;;-1;-1;-1;-1;Lorta to Lutrillia
+0246;0261;sea;;-1;-1;-1;-1;Lorta to Mijos
+0246;0249;sea;;-1;-1;-1;-1;Lorta to Quaensan Prime
+0224;0249;sea;;-1;-1;-1;-1;Elbara to Quaensan Prime
+0224;0210;sea;;-1;-1;-1;-1;Elbara to Hirsi
+0162;0210;sea;;-1;-1;-1;-1;Riflor to Hirsi
+0162;0150;sea;;-1;-1;-1;-1;Riflor to Koba
+0128;0150;sea;;-1;-1;-1;-1;Cheelit to Koba
+0128;0120;sea;;-1;-1;-1;-1;Cheelit to Cerea
+0138;0120;sea;;-1;-1;-1;-1;Chalcedon to Cerea
+0102;0120;sea;;-1;-1;-1;-1;Abbaji to Cerea
+0102;0095;sea;;-1;-1;-1;-1;Abbaji to Annaj
+0100;0095;sea;;-1;-1;-1;-1;Ovise to Annaj
+0100;0097;sea;;-1;-1;-1;-1;Ovise to Maya Kovel
+0089;0097;sea;;-1;-1;-1;-1;Firrerre to Maya Kovel
+0090;0097;sea;;-1;-1;-1;-1;Houche to Maya Kovel
+0100;0094;sea;;-1;-1;-1;-1;Ovise to Endor
+0091;0094;sea;;-1;-1;-1;-1;Sanyassa to Endor
+0075;0091;sea;;-1;-1;-1;-1;Timora to Sanyassa
+0075;0070;sea;;-1;-1;-1;-1;Timora to Bakura
+0138;0149;sea;;-1;-1;-1;-1;Chalcedon to Tashtor Seneca
+0149;0157;sea;;-1;-1;-1;-1;Tashtor Seneca to Petabys Station
+0170;0157;sea;;-1;-1;-1;-1;Halm to Petabys Station
+0170;0233;sea;;-1;-1;-1;-1;Halm to Har Binande
+0264;0233;sea;;-1;-1;-1;-1;Natalon to Har Binande
+0264;0318;sea;;-1;-1;-1;-1;Natalon to Noe'ha'on
+0411;0318;sea;;-1;-1;-1;-1;New Balosar to Noe'ha'on 
+0411;530;sea;;-1;-1;-1;-1;New Balosar to Kinyen
+0690;0665;sea;;-1;-1;-1;-1;Yag'Dhul to Tauber
+0646;0665;sea;;-1;-1;-1;-1;Thyferra to Tauber
+0646;0600;sea;;-1;-1;-1;-1;Thyferra to Vanik
+0575;0600;sea;;-1;-1;-1;-1;Ghorman to Vanik
+0575;0500;sea;;-1;-1;-1;-1;Ghorman to Giju
+0470;0500;sea;;-1;-1;-1;-1;Dentaal to Giju
+0470;0459;sea;;-1;-1;-1;-1;Dentaal to Abregado-rae
+0511;0459;sea;;-1;-1;-1;-1;Diamal to Abregado-rae
+0511;0544;sea;;-1;-1;-1;-1;Diamal to Vindalia
+0500;0544;sea;;-1;-1;-1;-1;Giju to Vindalia
+0563;0544;sea;;-1;-1;-1;-1;Fondor to Vindalia
+0563;0578;sea;;-1;-1;-1;-1;Fondor to Mrlsst
+0646;0578;sea;;-1;-1;-1;-1;Thyferra to Mrlsst
+0753;0681;sea;;-1;-1;-1;-1;Foless to Teyr
+0753;0666;sea;;-1;-1;-1;-1;Foless to Vulvarch
+0666;0681;sea;;-1;-1;-1;-1;Vulvarch to Teyr
+0638;0681;sea;;-1;-1;-1;-1;Bassadro to Teyr
+0638;0666;sea;;-1;-1;-1;-1;Bassadro to Vulvarch
+0638;0563;sea;;-1;-1;-1;-1;Bassadro to Fondor
+0500;0370;sea;;-1;-1;-1;-1;Giju to Omar
+0328;0370;sea;;-1;-1;-1;-1;Illodia to Omar
+0328;0242;sea;;-1;-1;-1;-1;Illodia to Dahrtag
+0215;0242;sea;;-1;-1;-1;-1;Hjaff to Dahrtag
+0215;0206;sea;;-1;-1;-1;-1;Hjaff to Kitel Phard
+0609;0624;sea;;-1;-1;-1;-1;Dankayo to Uviuy Exen
+0750;0777;sea;;-1;-1;-1;-1;Aldraig to Demophon
+0789;0777;sea;;-1;-1;-1;-1;Glithnos to Demophon
+0789;0817;sea;;-1;-1;-1;-1;Glithnos to Fedalle
+0857;0817;sea;;-1;-1;-1;-1;Talravin to Fedalle
+0857;0878;sea;;-1;-1;-1;-1;Talravin to Ruul
+0891;0878;sea;;-1;-1;-1;-1;Trellen to Ruul
+0891;0911;sea;;-1;-1;-1;-1;Trellen to Mawan
+0921;0911;sea;;-1;-1;-1;-1;Loretto to Mawan
+0921;0925;sea;;-1;-1;-1;-1;Loretto to Baraboo
+0936;0925;sea;;-1;-1;-1;-1;Bellassa to Baraboo
+0936;0946;sea;;-1;-1;-1;-1;Bellassa to Jaciprus
+0962;0946;sea;;-1;-1;-1;-1;Voktunma to Jaciprus
+0962;0964;sea;;-1;-1;-1;-1;Voktunma to Exodeen
+0971;0964;sea;;-1;-1;-1;-1;Boudolayz to Exodeen
+0971;0984;sea;;-1;-1;-1;-1;Boudolayz to Herzob
+0992;0984;sea;;-1;-1;-1;-1;Besnia to Herzob
+0992;1002;sea;;-1;-1;-1;-1;Besnia to Koensayr
+1014;1002;sea;;-1;-1;-1;-1;Aquilae to Koensayr
+1014;1025;sea;;-1;-1;-1;-1;Aquilae to Denon
+1766;1736;sea;;-1;-1;-1;-1;Lianna to Syngia
+0892;1736;sea;;-1;-1;-1;-1;Zygeria to Syngia
+1793;1818;sea;;-1;-1;-1;-1;Jerrist to Etti
+0892;1648;sea;;-1;-1;-1;-1;Zygeria to Gigor
+1847;1818;sea;;-1;-1;-1;-1;Bonadan to Etti
+1847;1788;sea;;-1;-1;-1;-1;Bonadan to Lythos
+1564;1648;sea;;-1;-1;-1;-1;Sikurd to Gigor
+1564;1545;sea;;-1;-1;-1;-1;Sikurd to Mirial
+1528;1545;sea;;-1;-1;-1;-1;Listehol to Mirial
+1528;1582;sea;;-1;-1;-1;-1;Listehol to Ruuria
+1528;1511;sea;;-1;-1;-1;-1;Listehol to Tanive
+1703;1582;sea;;-1;-1;-1;-1;Cadomai to Ruuria
+1703;1719;sea;;-1;-1;-1;-1;Cadomai to Reltooine
+1788;1719;sea;;-1;-1;-1;-1;Lythos to Reltooine
+1730;1719;sea;;-1;-1;-1;-1;Davirien to Reltooine
+1730;1746;sea;;-1;-1;-1;-1;Davirien to Drog
+1818;1746;sea;;-1;-1;-1;-1;Etti to Drog
+1750;1746;sea;;-1;-1;-1;-1;Craci to Drog
+1750;1730;sea;;-1;-1;-1;-1;Craci to Davirien
+1750;1793;sea;;-1;-1;-1;-1;Craci to Jerrist
+1818;1811;sea;;-1;-1;-1;-1;Etti to Ession
+1836;1811;sea;;-1;-1;-1;-1;Kalla to Ession
+1836;1793;sea;;-1;-1;-1;-1;Kalla to Jerrist
+1836;1848;sea;;-1;-1;-1;-1;Kalla to Oslumpex 
+1830;1848;sea;;-1;-1;-1;-1;Ammuud to Oslumpex
+1492;1511;sea;;-1;-1;-1;-1;Doniphon to Tanive
+1492;1480;sea;;-1;-1;-1;-1;Doniphon to Telos
+1409;1480;sea;;-1;-1;-1;-1;Praadost to Telos
+1409;1377;sea;;-1;-1;-1;-1;Praadost to Pho Ph'eah
+1359;1377;sea;;-1;-1;-1;-1;Toprawa to Pho Ph'eah
+1359;1337;sea;;-1;-1;-1;-1;Toprawa to Simpla
+1333;1337;sea;;-1;-1;-1;-1;Hynah to Simpla 
+1333;1334;sea;;-1;-1;-1;-1;Hynah to Sorrus
+1368;1488;sea;;-1;-1;-1;-1;Phindar to Maridun
+1368;1304;sea;;-1;-1;-1;-1;Phindar to Alba
+1244;1304;sea;;-1;-1;-1;-1;Botajef to Alba
+1244;1273;sea;;-1;-1;-1;-1;Botajef to Hijado
+1244;1232;sea;;-1;-1;-1;-1;Botajef to Mepha'as Prime
+1282;1273;sea;;-1;-1;-1;-1;Tierrel to Hijado
+1282;1297;sea;;-1;-1;-1;-1;Tierrel to Celanon
+1311;1297;sea;;-1;-1;-1;-1;Junction to Celanon
+1311;1334;sea;;-1;-1;-1;-1;Junction to Sorrus
+1311;1366;sea;;-1;-1;-1;-1;Junction to Selitan
+1384;1366;sea;;-1;-1;-1;-1;Pinoora to Selitan
+1282;1367;sea;;-1;-1;-1;-1;Tierrel to Presbalin
+1404;1367;sea;;-1;-1;-1;-1;Trinovat to Presbalin
+1404;1379;sea;;-1;-1;-1;-1;Trinovat to Far Indosa
+1404;1436;sea;;-1;-1;-1;-1;Trinovat to Durgens Star
+1466;1436;sea;;-1;-1;-1;-1;Povanaria to Durgens Star
+1466;1472;sea;;-1;-1;-1;-1;Povanaria to Bronsoon
+1488;1472;sea;;-1;-1;-1;-1;Maridun to Bronsoon
+1457;1472;sea;;-1;-1;-1;-1;Xochtl to Bronsoon
+1457;1481;sea;;-1;-1;-1;-1;Xochtl to Gilvitch
+1489;1481;sea;;-1;-1;-1;-1;Arkuda to Gilvitch
+1489;1449;sea;;-1;-1;-1;-1;Arkuda to Jovan
+1420;1449;sea;;-1;-1;-1;-1;Torque to Jovan
+1420;1384;sea;;-1;-1;-1;-1;Torque to Pinoora
+1420;1413;sea;;-1;-1;-1;-1;Torque to Yavin
+1460;1413;sea;;-1;-1;-1;-1;Vaal to Yavin
+1460;1449;sea;;-1;-1;-1;-1;Vaal to Jovan
+1393;1413;sea;;-1;-1;-1;-1;Krylon to Yavin
+1393;1402;sea;;-1;-1;-1;-1;Krylon to Ladarra
+1393;1384;sea;;-1;-1;-1;-1;Krylon to Pinoora
+1402;1413;sea;;-1;-1;-1;-1;Ladarra to Yavin
+1402;1375;sea;;-1;-1;-1;-1;Ladarra to Feswe Corridor
+1375;1311;sea;;-1;-1;-1;-1;Feswe Corridor to Junction
+1375;1334;sea;;-1;-1;-1;-1;Feswe Corridor to Sorrus
+1709;1568;sea;;-1;-1;-1;-1;Columex to Lucazec
+1546;1568;sea;;-1;-1;-1;-1;Vjun to Lucazec
+1546;1539;sea;;-1;-1;-1;-1;Vjun to Gala
+1368;1539;sea;;-1;-1;-1;-1;Phindar to Gala
+1218;1232;sea;;-1;-1;-1;-1;Harloen to Mepha'as Prime
+1218;1197;sea;;-1;-1;-1;-1;Harloen to Bandomeer
+1172;1197;sea;;-1;-1;-1;-1;Wrodi to Bandomeer
+1172;1097;sea;;-1;-1;-1;-1;Wrodi to Jebble
+1034;1097;sea;;-1;-1;-1;-1;Skoruppon to Jebble
+1034;0938;sea;;-1;-1;-1;-1;Skoruppon to Corsin
+0841;0938;sea;;-1;-1;-1;-1;Adin to Corsin
+0841;0808;sea;;-1;-1;-1;-1;Adin to Draria
+0768;0808;sea;;-1;-1;-1;-1;Kidriff to Draria
+0768;0748;sea;;-1;-1;-1;-1;Kidriff to Bogden
+0720;0748;sea;;-1;-1;-1;-1;Paqualis to Bogden
+0720;0703;sea;;-1;-1;-1;-1;Paqualis to Per Lupelo
+0689;0703;sea;;-1;-1;-1;-1;Drearia to Per Lupelo
+0689;0675;sea;;-1;-1;-1;-1;Drearia to Champala
+0636;0675;sea;;-1;-1;-1;-1;Nierport to Champala
+0636;0624;sea;;-1;-1;-1;-1;Nierport to Uviuy Exen 
+1793;0892;sea;;-1;-1;-1;-1;Jerrist to Zygeria
+1848;0892;sea;;-1;-1;-1;-1;Oslumpex to Zygeria
+1489;1502;sea;;-1;-1;-1;-1;Arkuda to Korphir

@@ -1,11 +1,11 @@
-# 34 - Csillag
+# 34 - Csilla
 
 # County Title
-title = c_csillag
+title = c_csilla
 
 # Settlements
 max_settlements = 2
-b_csillag = tribal
+b_csilla = tribal
 b_barony0034a = temple
 
 # Misc

@@ -24,7 +24,7 @@ e_pirates = {
 	color2={ 0 0 0 }
 }
 
-# e_gal_republic = {
+#  e_gal_republic = {
 	# color={ 130 20 50 }
 	# color2={ 200 0 0 }
 	# capital = 1 
@@ -34,13 +34,13 @@ e_pirates = {
 		# color2={ 219 43 43 }
 		# assimilate = no
 
-		# capital = 1 #
+		# capital = 1
 
 		# d_core_sector = {
 			# color={ 125 46 36 }
 			# color2={ 255 255 255 }
 			
-			# capital = 1 #
+			# capital = 1
 
 			# c_coruscant = {
 				# color={ 100 20 2 }
@@ -912,20 +912,20 @@ e_pirates = {
 # e_trailing_sectors  = {
 	# color={ 130 20 50 }
 	# color2={ 200 0 0 }
-	# #capital = 1 #
+	# #capital = 1 
 
 	# k_red_tails = {
 		# color={ 28 134 28 }
 		# color2={ 219 43 43 }
 		# assimilate = no
 
-		# #capital = 1 #
+		# #capital = 1 
 
 		# d_arkanis_sector = {
 			# color={ 125 46 36 }
 			# color2={ 255 255 255 }
 			
-			# capital = 95 #
+			# capital = 95 
 
 			# c_arkanis = {
 				# color={ 100 20 2 }
@@ -1030,7 +1030,7 @@ e_pirates = {
 e_unknown_regions = {
 	color={ 130 20 50 }
 	color2={ 200 0 0 }
-	#capital = 1 #
+	#capital = 1 
 
 	k_chiss_space = {
 		color={ 94 130 178 }
@@ -1043,29 +1043,13 @@ e_unknown_regions = {
 			color={ 125 46 36 }
 			color2={ 255 255 255 }
 			
-			capital = 34 #
+			capital = 34
 
-			c_csillag = {
+			c_csilla = {
 				color={ 100 20 2 }
 				color2={ 255 255 255 }
 				
-				b_csillag = {
-					
-				}
-			}
-			c_csaplar = {
-				color={ 100 20 2 }
-				color2={ 255 255 255 }
-				
-				b_csaplar = {
-					
-				}
-			}
-			c_acsiel = {
-				color={ 100 20 2 }
-				color2={ 255 255 255 }
-				
-				b_acsiel = {
+				b_csilla = {
 					
 				}
 			}
@@ -1085,19 +1069,11 @@ e_unknown_regions = {
 					
 				}
 			}
-			c_copero_city = { #Mitth
+			c_copero = { #Mitth
 				color={ 100 20 2 }
 				color2={ 255 255 255 }
 				
-				b_copero_city = {
-					
-				}
-			}
-			c_erighal = { #Mitth
-				color={ 100 20 2 }
-				color2={ 255 255 255 }
-				
-				b_erighal = {
+				b_copero= {
 					
 				}
 			}
@@ -1277,25 +1253,17 @@ e_unknown_regions = {
 					
 				}
 			}
-			c_zahn = { #
+			c_perfavri = { #
 				color={ 100 20 2 }
 				color2={ 255 255 255 }
 				
-				b_zahn = {
-					
-				}
-			}
-			c_ajey = { #
-				color={ 100 20 2 }
-				color2={ 255 255 255 }
-				
-				b_ajey = {
+				b_perfavri = {
 					
 				}
 			}
 		}
 	}
-}#
+}
 	# k_tempered_wastes = {
 		# color={ 28 134 28 }
 		# color2={ 219 43 43 }
@@ -1304,7 +1272,7 @@ e_unknown_regions = {
 			# color={ 125 46 36 }
 			# color2={ 255 255 255 }
 			
-			# capital = 134 #
+			# capital = 134 
 
 			# c_the_redoubt = {
 				# color={ 100 20 2 }
@@ -1319,7 +1287,7 @@ e_unknown_regions = {
 			# color={ 125 46 36 }
 			# color2={ 255 255 255 }
 			
-			# capital = 134 #
+			# capital = 134 
 
 			# c_geroon = {
 				# color={ 100 20 2 }

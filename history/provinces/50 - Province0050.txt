@@ -1,11 +1,11 @@
-# 50 - Copero City
+# 50 - Copero
 
 # County Title
-title = c_copero_city
+title = c_copero
 
 # Settlements
 max_settlements = 1
-b_copero_city = tribal
+b_copero = tribal
 
 # Misc
 culture = chiss
