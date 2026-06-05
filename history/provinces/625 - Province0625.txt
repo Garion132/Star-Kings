@@ -1,12 +1,11 @@
-# 625 - Province0625
+# 625 - Wukkar
 
 # County Title
-title = c_province0625
+title = c_wukkar
 
 # Settlements
 max_settlements = 3
-b_barony0625` = tribal
-b_barony0625a = temple
+b_wukkar = tribal
 
 # Misc
 culture = uncultured_swine

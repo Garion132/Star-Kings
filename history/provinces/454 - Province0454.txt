@@ -1,12 +1,11 @@
-# 454 - Province0454
+# 454 - Tanjay
 
 # County Title
-title = c_province0454
+title = c_tanjay
 
 # Settlements
 max_settlements = 3
-b_barony0454` = tribal
-b_barony0454a = temple
+b_tanjay = tribal
 
 # Misc
 culture = uncultured_swine

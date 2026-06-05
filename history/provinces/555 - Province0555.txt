@@ -1,12 +1,11 @@
-# 555 - Province0555
+# 555 - Grizmallt
 
 # County Title
-title = c_province0555
+title = c_grizmallt
 
 # Settlements
-max_settlements = 5
-b_barony0555` = tribal
-b_barony0555a = temple
+max_settlements = 1
+b_grizmallt = tribal
 
 # Misc
 culture = uncultured_swine

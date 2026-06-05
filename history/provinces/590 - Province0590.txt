@@ -1,12 +1,11 @@
-# 590 - Province0590
+# 590 - Ixtlar
 
 # County Title
-title = c_province0590
+title = c_ixtlar
 
 # Settlements
 max_settlements = 5
-b_barony0590` = tribal
-b_barony0590a = temple
+b_ixtlar = tribal
 
 # Misc
 culture = uncultured_swine

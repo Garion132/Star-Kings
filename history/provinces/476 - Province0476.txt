@@ -1,12 +1,11 @@
-# 476 - Province0476
+# 476 - Foerost
 
 # County Title
-title = c_province0476
+title = c_foerost
 
 # Settlements
 max_settlements = 4
-b_barony0476` = tribal
-b_barony0476a = temple
+b_foerost = tribal
 
 # Misc
 culture = uncultured_swine

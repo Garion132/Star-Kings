@@ -1,12 +1,11 @@
-# 498 - Province0498
+# 498 - Thokos
 
 # County Title
-title = c_province0498
+title = c_thokos
 
 # Settlements
 max_settlements = 4
-b_barony0498` = tribal
-b_barony0498a = temple
+b_thokos = tribal
 
 # Misc
 culture = uncultured_swine

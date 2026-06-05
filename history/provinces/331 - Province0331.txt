@@ -1,12 +1,11 @@
-# 331 - Province0331
+# 331 - Cal-Seti
 
 # County Title
-title = c_province0331
+title = c_cal-seti
 
 # Settlements
 max_settlements = 4
-b_barony0331` = tribal
-b_barony0331a = temple
+b_cal-seti = tribal
 
 # Misc
 culture = uncultured_swine

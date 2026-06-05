@@ -1,12 +1,11 @@
-# 643 - Province0643
+# 643 - Esseles
 
 # County Title
-title = c_province0643
+title = c_esseles
 
 # Settlements
 max_settlements = 2
-b_barony0643` = tribal
-b_barony0643a = temple
+b_esseles = tribal
 
 # Misc
 culture = uncultured_swine

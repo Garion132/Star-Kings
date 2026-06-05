@@ -1,15 +1,14 @@
-# 310 - Province0310
+# 310 - Muunilinst
 
 # County Title
-title = c_province0310
+title = c_muunilinst
 
 # Settlements
 max_settlements = 1
-b_barony0310` = tribal
-b_barony0310a = temple
+b_muunilinst = tribal
 
 # Misc
-culture = uncultured_swine
+culture = muun
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 670 - Province0670
+# 670 - Rhinnal
 
 # County Title
-title = c_province0670
+title = c_rhinnal
 
 # Settlements
 max_settlements = 3
-b_barony0670` = tribal
-b_barony0670a = temple
+b_rhinnal = tribal
 
 # Misc
 culture = uncultured_swine

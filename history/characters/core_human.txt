@@ -1,7 +1,7 @@
 1000 = {
 	name= "Finis" # 
 	dynasty = 1
-	religion = catholic
+	religion = pagan
 	culture = core_worlder
 	943.1.1={
 		birth=yes
@@ -13,12 +13,179 @@
 2000 = {
 	name= "Leah" # 
 	#dynasty = 1000 #Nynel
-	religion = catholic
+	religion = pagan
 	culture = core_worlder
 	943.1.1={
 		birth=yes
 	}
 	997.1.1={
+		death=yes
+	}
+}
+2010 = {
+	name= "Preedu" # 
+	dynasty = 2 #Tamban
+	religion = pagan
+	culture = core_worlder
+	901.1.1={
+		birth=yes
+	}
+	962.1.1={
+		death=yes
+	}
+}
+2011 = {
+	name= "Preedu" # 
+	dynasty = 2 #Tamban
+	religion = pagan
+	culture = core_worlder
+	father = 2010
+	927.1.1={
+		birth=yes
+	}
+	979.1.1={
+		death=yes
+	}
+}
+2012 = {
+	name= "Preedu" # 
+	dynasty = 2 #Tamban
+	religion = pagan
+	culture = core_worlder
+	father = 2011
+	951.1.1={
+		birth=yes
+	}
+	997.1.1={
+		death=yes
+	}
+}
+2020 = {
+	name= "Zafiel" # 
+	dynasty = 3 #Snopps
+	religion = pagan
+	culture = core_worlder
+	956.1.1={
+		birth=yes
+	}
+	1007.1.1={
+		death=yes
+	}
+}
+2021 = {
+	name= "Regenald Hanniper" # 
+	dynasty = 3 #Snopps
+	religion = pagan
+	culture = core_worlder
+	father = 2020
+	981.1.1={
+		birth=yes
+	}
+	1030.1.1={
+		death=yes
+	}
+}
+2030 = {
+	name= "Mon" # Yes, That Mon Mothma
+	dynasty = 4 #Mothma
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	952.1.1={
+		birth=yes
+	}
+	1024.1.1={
+		death=yes
+	}
+}
+2040 = {
+	name= "Nemrileo"
+	dynasty = 6 #irm-Drocubac
+	religion = pagan
+	culture = core_worlder
+	949.1.1={
+		birth=yes
+	}
+	978.1.1={
+		death=yes
+	}
+}
+2050 = {
+	name= "Sanya"
+	dynasty = 8 #Tagge
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	910.1.1={
+		birth=yes
+	}
+	979.1.1={
+		death=yes
+	}
+}
+2051 = {
+	name= "Orman"
+	dynasty = 8 #Tagge
+	religion = pagan
+	culture = core_worlder
+	mother = 2050
+	962.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+2052 = {
+	name= "Ulric"
+	dynasty = 8 #Tagge
+	religion = pagan
+	culture = core_worlder
+	mother = 2050
+	967.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+2053 = {
+	name= "Domina"
+	dynasty = 8 #Tagge
+	religion = pagan
+	culture = core_worlder
+	mother = 2050
+	female = yes
+	978.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}
+2060 = {
+	name= "Bail Prestor" #Yes, that Bail Organa
+	dynasty = 10 #Organa
+	religion = pagan
+	culture = core_worlder
+	mother = 2061
+	933.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+2061 = {
+	name= "Mazicia"
+	dynasty = 11 #Mandirly
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	914.1.1={
+		birth=yes
+	}
+	968.1.1={
 		death=yes
 	}
 }

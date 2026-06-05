@@ -1,12 +1,11 @@
-# 357 - Province0357
+# 357 - Fresia
 
 # County Title
-title = c_province0357
+title = c_fresia
 
 # Settlements
 max_settlements = 4
-b_barony0357` = tribal
-b_barony0357a = temple
+b_fresia = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 469 - Province0469
+# 469 - Raun
 
 # County Title
-title = c_province0469
+title = c_raun
 
 # Settlements
 max_settlements = 4
-b_barony0469` = tribal
-b_barony0469a = temple
+b_raun = tribal
 
 # Misc
 culture = uncultured_swine

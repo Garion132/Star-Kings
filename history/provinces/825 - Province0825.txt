@@ -1,12 +1,11 @@
-# 825 - Province0825
+# 825 - Tyed Kant
 
 # County Title
-title = c_province0825
+title = c_tyed_kant
 
 # Settlements
 max_settlements = 3
-b_barony0825` = tribal
-b_barony0825a = temple
+b_tyed_kant = tribal
 
 # Misc
 culture = uncultured_swine

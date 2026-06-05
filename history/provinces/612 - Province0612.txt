@@ -1,12 +1,11 @@
-# 612 - Province0612
+# 612 - Chandrila
 
 # County Title
-title = c_province0612
+title = c_chandrila
 
 # Settlements
 max_settlements = 6
-b_barony0612` = tribal
-b_barony0612a = temple
+b_chandrila = tribal
 
 # Misc
 culture = uncultured_swine

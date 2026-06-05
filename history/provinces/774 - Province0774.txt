@@ -1,15 +1,14 @@
-# 774 - Province0774
+# 774 - Caamas
 
 # County Title
-title = c_province0774
+title = c_caamas
 
 # Settlements
 max_settlements = 3
-b_barony0774` = tribal
-b_barony0774a = temple
+b_caamas = tribal
 
 # Misc
-culture = uncultured_swine
+culture = caamasi
 religion = pagan
 
 # History

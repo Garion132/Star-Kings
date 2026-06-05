@@ -1,12 +1,11 @@
-# 291 - Province0291
+# 291 - Aradia
 
 # County Title
-title = c_province0291
+title = c_aradia
 
 # Settlements
 max_settlements = 3
-b_barony0291` = tribal
-b_barony0291a = temple
+b_aradia = tribal
 
 # Misc
 culture = uncultured_swine

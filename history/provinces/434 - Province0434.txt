@@ -1,12 +1,11 @@
-# 434 - Province0434
+# 434 - Metellos
 
 # County Title
-title = c_province0434
+title = c_metellos
 
 # Settlements
 max_settlements = 4
-b_barony0434` = tribal
-b_barony0434a = temple
+b_metellos = tribal
 
 # Misc
 culture = uncultured_swine

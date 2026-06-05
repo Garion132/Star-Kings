@@ -1,12 +1,11 @@
-# 392 - Province0392
+# 392 - Worru'du
 
 # County Title
-title = c_province0392
+title = c_worru_du
 
 # Settlements
 max_settlements = 4
-b_barony0392` = tribal
-b_barony0392a = temple
+b_worru_du = tribal
 
 # Misc
 culture = uncultured_swine

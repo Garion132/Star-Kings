@@ -1,15 +1,14 @@
-# 251 - Province0251
+# 251 - Pollillus
 
 # County Title
-title = c_province0251
+title = c_pollillus
 
 # Settlements
 max_settlements = 2
-b_barony0251` = tribal
-b_barony0251a = temple
+b_pollillus = tribal
 
 # Misc
-culture = uncultured_swine
+culture = troig
 religion = pagan
 
 # History

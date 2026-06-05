@@ -1,12 +1,11 @@
-# 431 - Province0431
+# 431 - Weerden
 
 # County Title
-title = c_province0431
+title = c_weerden
 
 # Settlements
 max_settlements = 4
-b_barony0431` = tribal
-b_barony0431a = temple
+b_weerden = tribal
 
 # Misc
 culture = uncultured_swine

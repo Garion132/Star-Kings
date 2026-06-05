@@ -1,12 +1,11 @@
-# 777 - Province0777
+# 777 - Demophon
 
 # County Title
-title = c_province0777
+title = c_demophon
 
 # Settlements
 max_settlements = 1
-b_barony0777` = tribal
-b_barony0777a = temple
+b_demophon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 523 - Province0523
+# 523 - Alsakan
 
 # County Title
-title = c_province0523
+title = c_alsakan
 
 # Settlements
 max_settlements = 5
-b_barony0523` = tribal
-b_barony0523a = temple
+b_alsakan = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 372 - Province0372
+# 372 - Alland
 
 # County Title
-title = c_province0372
+title = c_alland
 
 # Settlements
 max_settlements = 4
-b_barony0372` = tribal
-b_barony0372a = temple
+b_alland = tribal
 
 # Misc
 culture = uncultured_swine

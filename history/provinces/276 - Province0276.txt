@@ -1,12 +1,11 @@
-# 276 - Province0276
+# 276 - Galantos
 
 # County Title
-title = c_province0276
+title = c_galantos
 
 # Settlements
 max_settlements = 3
-b_barony0276` = tribal
-b_barony0276a = temple
+b_galantos = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 791 - Province0791
+# 791 - Alderaan
 
 # County Title
-title = c_province0791
+title = c_alderaan
 
 # Settlements
 max_settlements = 1
-b_barony0791` = tribal
-b_barony0791a = temple
+b_alderaan = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,11 +1,11 @@
-# 265 - Province0265
+# 265 - Tamban
 
 # County Title
-title = c_province0265
+title = c_tamban
 
 # Settlements
 max_settlements = 1
-b_barony0265` = tribal
+b_tamban = tribal
 
 # Misc
 culture = uncultured_swine

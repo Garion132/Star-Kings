@@ -1,12 +1,11 @@
-# 406 - Province0406
+# 406 - Norkronia
 
 # County Title
-title = c_province0406
+title = c_norkronia
 
 # Settlements
 max_settlements = 4
-b_barony0406` = tribal
-b_barony0406a = temple
+b_norkronia = tribal
 
 # Misc
 culture = uncultured_swine

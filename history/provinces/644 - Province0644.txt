@@ -1,12 +1,11 @@
-# 644 - Province0644
+# 644 - Basilisk
 
 # County Title
-title = c_province0644
+title = c_basilisk
 
 # Settlements
 max_settlements = 3
-b_barony0644` = tribal
-b_barony0644a = temple
+b_basilisk = tribal
 
 # Misc
 culture = uncultured_swine

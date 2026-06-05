@@ -1,15 +1,14 @@
-# 497 - Province0497
+# 497 - Velusia
 
 # County Title
-title = c_province0497
+title = c_velusia
 
 # Settlements
 max_settlements = 3
-b_barony0497` = tribal
-b_barony0497a = temple
+b_velusia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = aquar
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 317 - Province0317
+# 317 - N'zoth
 
 # County Title
-title = c_province0317
+title = c_n_zoth
 
 # Settlements
 max_settlements = 3
-b_barony0317` = tribal
-b_barony0317a = temple
+b_n_zoth = tribal
 
 # Misc
 culture = uncultured_swine

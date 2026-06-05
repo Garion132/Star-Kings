@@ -1,12 +1,11 @@
-# 420 - Province0420
+# 420 - Salliche
 
 # County Title
-title = c_province0420
+title = c_salliche
 
 # Settlements
 max_settlements = 4
-b_barony0420` = tribal
-b_barony0420a = temple
+b_salliche = tribal
 
 # Misc
 culture = uncultured_swine

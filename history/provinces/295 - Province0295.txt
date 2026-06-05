@@ -1,15 +1,14 @@
-# 295 - Province0295
+# 295 - J't'p'tan
 
 # County Title
-title = c_province0295
+title = c_j_t_p_tan
 
 # Settlements
 max_settlements = 3
-b_barony0295` = tribal
-b_barony0295a = temple
+b_j_t_p_tan = temple
 
 # Misc
-culture = uncultured_swine
+culture = galandans
 religion = pagan
 
 # History

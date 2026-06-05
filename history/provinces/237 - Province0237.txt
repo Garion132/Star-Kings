@@ -1,12 +1,11 @@
-# 237 - Province0237
+# 237 - Kokash
 
 # County Title
-title = c_province0237
+title = c_kokash
 
 # Settlements
 max_settlements = 3
-b_barony0237` = tribal
-b_barony0237a = temple
+b_kokash = tribal
 
 # Misc
 culture = uncultured_swine

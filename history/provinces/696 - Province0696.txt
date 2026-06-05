@@ -1,12 +1,11 @@
-# 696 - Province0696
+# 696 - Xorth
 
 # County Title
-title = c_province0696
+title = c_xorth
 
 # Settlements
 max_settlements = 3
-b_barony0696` = tribal
-b_barony0696a = temple
+b_xorth = tribal
 
 # Misc
 culture = uncultured_swine

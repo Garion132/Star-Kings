@@ -1,8 +1,45 @@
 10000 = {
 	name= "Wat" # 
-	#dynasty = 1 #Tambor
-	religion = catholic
+	dynasty = 5 #Tambor
+	religion = pagan
 	culture = skakoan
+	903.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+10010 = {
+	name= "San" # 
+	dynasty = 7 #Hill
+	religion = pagan
+	culture = muun
+	903.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+10020 = {
+	name= "Eeshrin" # 
+	dynasty = 9 #Ot'Hyne
+	religion = pagan
+	culture = caamasi
+	903.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+10030 = {
+	name= "Shu" # 
+	dynasty = 13 #Mai
+	religion = pagan
+	culture = gossam
+	female = yes
 	903.1.1={
 		birth=yes
 	}

@@ -1,12 +1,11 @@
-# 584 - Province0584
+# 584 - Anaxes
 
 # County Title
-title = c_province0584
+title = c_anaxes
 
 # Settlements
 max_settlements = 5
-b_barony0584` = tribal
-b_barony0584a = temple
+b_anaxes = tribal
 
 # Misc
 culture = uncultured_swine

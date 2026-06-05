@@ -1,12 +1,11 @@
-# 369 - Province0369
+# 369 - Galand
 
 # County Title
-title = c_province0369
+title = c_galand
 
 # Settlements
 max_settlements = 4
-b_barony0369` = tribal
-b_barony0369a = temple
+b_galand = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,454 +1,1151 @@
 From;To;Type;Through;-1;-1;-1;-1;Comment
 2056;2056;portage;1;-1;-1;-1;-1;It will stop working if you remove this
-0021;0024;sea;;-1;-1;-1;-1;Bogo Rai to Kinoss
-0024;0031;sea;;-1;-1;-1;-1;Kinoss to Avidich
-0028;0031;sea;;-1;-1;-1;-1;Thearterra to Avidich
-0031;0027;sea;;-1;-1;-1;-1;Avidich to Ool
-0031;0034;sea;;-1;-1;-1;-1;Avidich to Csilla
-0034;0059;sea;;-1;-1;-1;-1;Csilla to Cormit
-0059;0064;sea;;-1;-1;-1;-1;Cormit to Celwis
-0027;0030;sea;;-1;-1;-1;-1;Ool to Shihon
-0030;0026;sea;;-1;-1;-1;-1;Shihon to Oyokal
-0046;0033;sea;;-1;-1;-1;-1;Chaf to Rhigar
-0033;0034;sea;;-1;-1;-1;-1;Rhigar to Csilla
-0033;0044;sea;;-1;-1;-1;-1;Rhigar to Csaus
-0044;0050;sea;;-1;-1;-1;-1;Csaus to Copero
-0050;0052;sea;;-1;-1;-1;-1;Copero to Savarchi
-0052;0041;sea;;-1;-1;-1;-1;Savarchi to Cioral
-0041;0034;sea;;-1;-1;-1;-1;Cioral to Csilla
-0053;0055;sea;;-1;-1;-1;-1;Schesa to Noris
-0055;0062;sea;;-1;-1;-1;-1;Noris to Sharb
-0062;0058;sea;;-1;-1;-1;-1;Sharb to Ornfra
-0058;0047;sea;;-1;-1;-1;-1;Ornfra to Naporar
-0040;0047;sea;;-1;-1;-1;-1;Cam'co to Naporar
-0047;0036;sea;;-1;-1;-1;-1;Naporar to Sposia
-0036;0034;sea;;-1;-1;-1;-1;Sposia to Csilla
-0053;0072;sea;;-1;-1;-1;-1;Schesa to Pesfavri
-0072;0101;sea;;-1;-1;-1;-1;Pesfavri to The Redoubt
-0059;0105;sea;;-1;-1;-1;-1;Cormit to Utegetu Nebula
-0064;0079;sea;;-1;-1;-1;-1;Celwis to Vagar Praxut
-0105;0112;sea;;-1;-1;-1;-1;Utegetu Nebula to Murgo
-0112;0115;sea;;-1;-1;-1;-1;Murgo to Rago
-0115;0126;sea;;-1;-1;-1;-1;Rago to Sinton
-0126;0134;sea;;-1;-1;-1;-1;Sinton to Gilatter
-0134;0141;sea;;-1;-1;-1;-1;Gilatter to Ansion
-0141;0173;sea;;-1;-1;-1;-1;Ansion to Keitum
-0139;0141;sea;;-1;-1;-1;-1;Namadii to Ansion
-0141;0145;sea;;-1;-1;-1;-1;Ansion to Kalaan (Kalaan City)
-0148;0154;sea;;-1;-1;-1;-1;Kalaan (Glenn) to Ord Varee
-0154;0164;sea;;-1;-1;-1;-1;Ord Varee to Glee Anselm
-0164;0174;sea;;-1;-1;-1;-1;Glee Anselm to Vaced
-0174;0199;sea;;-1;-1;-1;-1;Vaced to Dorin (Dor'shan)
-0200;0221;sea;;-1;-1;-1;-1;Dorin to Rondai (Dor'galk)
-0221;0232;sea;;-1;-1;-1;-1;Rondai to Bilbringi
-0232;0245;sea;;-1;-1;-1;-1;Bilbringi to Bengat
-0245;0270;sea;;-1;-1;-1;-1;Bengat to Aphran (Allston)
-0271;0285;sea;;-1;-1;-1;-1;Aphran to Meastrinnar
-0285;0286;sea;;-1;-1;-1;-1;Meastrinnar to Voltare
-0286;0312;sea;;-1;-1;-1;-1;Voltare to Carratos
-0312;0341;sea;;-1;-1;-1;-1;Carratos to Sif-Uwana
-0341;0346;sea;;-1;-1;-1;-1;Sif-Uwana to Palanhi
-0346;0378;sea;;-1;-1;-1;-1;Palanhi to Ord Miril
-0378;0387;sea;;-1;-1;-1;-1;Ord Miril to Borleias
-0387;0395;sea;;-1;-1;-1;-1;Borleias to Pantolomin
-0395;0416;sea;;-1;-1;-1;-1;Pantolomin to Twith
-0416;0497;sea;;-1;-1;-1;-1;Twith to Velucia
-0497;0498;sea;;-1;-1;-1;-1;Velusia to Thokos
-0498;0485;sea;;-1;-1;-1;-1;Thokos to Coruscant
-0416;0430;sea;;-1;-1;-1;-1;Twith to Galvoni
-0430;0431;sea;;-1;-1;-1;-1;Galvoni to Weerden
-0431;0454;sea;;-1;-1;-1;-1;Weerden to Tanjay
-0454;0485;sea;;-1;-1;-1;-1;Tanjay to Coruscant
-0295;0317;sea;;-1;-1;-1;-1;J't'p'tan to N'Zoth
-0317;0276;sea;;-1;-1;-1;-1;N'zoth to Galantos
-0317;0331;sea;;-1;-1;-1;-1;N'zoth to Cal-Seti
-0276;0331;sea;;-1;-1;-1;-1;Galantos to Cal-Seti
-0331;0372;sea;;-1;-1;-1;-1;Cal-Seti to Alland
-0372;0406;sea;;-1;-1;-1;-1;Alland to Norkronia
-0406;0434;sea;;-1;-1;-1;-1;Norkronia to Metellos
-0434;0485;sea;;-1;-1;-1;-1;Metellos to Coruscant
-0485;0590;sea;;-1;-1;-1;-1;Coruscant to Ixtlar
-0590;0625;sea;;-1;-1;-1;-1;Ixtlar to Wukkar (Iltarr)
-0632;0664;sea;;-1;-1;-1;-1;Wukkar (Marc'Thom) to Kailor
-0664;0696;sea;;-1;-1;-1;-1;Kailor to Xorth
-0696;0758;sea;;-1;-1;-1;-1;Xorth to Vuma
-0758;0787;sea;;-1;-1;-1;-1;Vuma to Leria Kerslsil
-0787;0801;sea;;-1;-1;-1;-1;Leria Kerslil to Perma
-0801;0815;sea;;-1;-1;-1;-1;Perma to Lolnar
-0815;0832;sea;;-1;-1;-1;-1;Lolnar to Rehemsa
-0832;0845;sea;;-1;-1;-1;-1;Rehemsa to Sedatris
-0845;0873;sea;;-1;-1;-1;-1;Sedatris to Rydonni Prime
-0873;0846;sea;;-1;-1;-1;-1;Rydonni Prime to Goorla
-0846;0885;sea;;-1;-1;-1;-1;Goorla to Corellia (The Riverlands)
-0886;0861;sea;;-1;-1;-1;-1;Corellia (Bindreg Hills) to Sacorria
-0861;0874;sea;;-1;-1;-1;-1;Sacorria to Duro (Burton)
-0870;0875;sea;;-1;-1;-1;-1;Duro (Artt) to Chasin
-0875;0855;sea;;-1;-1;-1;-1;Chasin to Condular
-0855;0826;sea;;-1;-1;-1;-1;Condular to Gandeal
-0826;0797;sea;;-1;-1;-1;-1;Gandeal to Belazura
-0797;0783;sea;;-1;-1;-1;-1;Belazra to Bryexx
-0783;0778;sea;;-1;-1;-1;-1;Bryexx to Enisca
-0778;0771;sea;;-1;-1;-1;-1;Enisca to Kelada
-0771;0753;sea;;-1;-1;-1;-1;Kelada to Foless
-0753;0730;sea;;-1;-1;-1;-1;Foless to Bestine
-0730;0706;sea;;-1;-1;-1;-1;Bestine to Mechis
-0706;0701;sea;;-1;-1;-1;-1;Mechis to Renillis
-0701;0690;sea;;-1;-1;-1;-1;Renillis to Yag'Dhul
-0690;0685;sea;;-1;-1;-1;-1;Yag'Dhul to Harrin 
-0685;0674;sea;;-1;-1;-1;-1;Harrin to Moorja
-0674;0655;sea;;-1;-1;-1;-1;Moorja to Calus
-0655;0635;sea;;-1;-1;-1;-1;Calus to Epica
-0635;0637;sea;;-1;-1;-1;-1;Epica to Roona
-0637;0608;sea;;-1;-1;-1;-1;Roona to Borkyne
-0608;0530;sea;;-1;-1;-1;-1;Borkyne to Kinyen
-0530;0450;sea;;-1;-1;-1;-1;Kinyen to Pendari
-0450;0399;sea;;-1;-1;-1;-1;Pendari to Tar Mordon
-0399;0389;sea;;-1;-1;-1;-1;Tar Mordon to Calonica
-0389;0351;sea;;-1;-1;-1;-1;Calonica to Bomis Koori (Terrence)
-0358;0359;sea;;-1;-1;-1;-1;Bomis Koori (Genndy) to Kriselist
-0359;0335;sea;;-1;-1;-1;-1;Kriselist to D'rinba
-0335;0343;sea;;-1;-1;-1;-1;D'rinba to Chibias
-0343;0332;sea;;-1;-1;-1;-1;Chibias to Kaal
-0332;0323;sea;;-1;-1;-1;-1;Kaal to Dalisor
-0323;0336;sea;;-1;-1;-1;-1;Dalisor to Jaloch (Jiroch-Saloch)
-0338;0339;sea;;-1;-1;-1;-1;Jaloch (Jaloch-Reslia) to Quamar
-0339;0315;sea;;-1;-1;-1;-1;Quamar to Mugaar
-0315;0321;sea;;-1;-1;-1;-1;Mugaar to Javin
-0321;0308;sea;;-1;-1;-1;-1;Javin to Kumru (Craig'Ro)
-0304;0301;sea;;-1;-1;-1;-1;Kumru (Ecallaw) to Gerrenthum
-0301;0299;sea;;-1;-1;-1;-1;Gerrenthum to Ione
-0299;0288;sea;;-1;-1;-1;-1;Ione to Darlyn Boda
-0288;0300;sea;;-1;-1;-1;-1;Darlyn Boda to Isde Naha
-300;0293;sea;;-1;-1;-1;-1;Isde Naha to Berrol's Donn
-0293;0294;sea;;-1;-1;-1;-1;Berrol's Donn to Sil'Lume
-0294;0305;sea;;-1;-1;-1;-1;Sil'Lume to Manpha
-0305;0319;sea;;-1;-1;-1;-1;Manpha to Terminus (Goodwin)
-0861;0901;sea;;-1;-1;-1;-1;Sacorria to Nubia
-0901;0906;sea;;-1;-1;-1;-1;Nubia to Tinnel
-0906;0933;sea;;-1;-1;-1;-1;Tinnel to Loronar (Haigh)
-0934;0952;sea;;-1;-1;-1;-1;Loronar (Klie) to Byblos (Mschwei)
-0956;0968;sea;;-1;-1;-1;-1;Byblos (Weigho) to Pencael
-0968;0991;sea;;-1;-1;-1;-1;Pencael to Havricus
-0991;1018;sea;;-1;-1;-1;-1;Havricus to Iseno (Corroney)
-1019;1025;sea;;-1;-1;-1;-1;Iseno (Paulblo) to Denon
-1025;1075;sea;;-1;-1;-1;-1;Denon to Perithal
-1075;1099;sea;;-1;-1;-1;-1;Perithal to Spirana
-1099;1134;sea;;-1;-1;-1;-1;Spirana to Rhommammool (Redhaven)
-1135;1166;sea;;-1;-1;-1;-1;Rhommammool (Rasalva) to Tlactehon
-1166;1183;sea;;-1;-1;-1;-1;Tlactehon to Allanteen (Miller)
-1191;1246;sea;;-1;-1;-1;-1;Allanteen (Gunrner) to Gamor (Toochris)
-1249;1274;sea;;-1;-1;-1;-1;Gamor (Packed Lumber) to Milagro (Cidietz)
-1275;1317;sea;;-1;-1;-1;-1;Milagro (Dorman) to Thaere
-1317;1386;sea;;-1;-1;-1;-1;Thaere to Doldur
-1386;1394;sea;;-1;-1;-1;-1;Doldur to Druckenwell
-1394;1403;sea;;-1;-1;-1;-1;Druckenwell to Paqwepor Major
-1403;1437;sea;;-1;-1;-1;-1;Paqwepor Major to Kabray
-1437;1461;sea;;-1;-1;-1;-1;Kabray to Algara
-1461;1474;sea;;-1;-1;-1;-1;Algara to Andosha
-1474;1499;sea;;-1;-1;-1;-1;Andosha to Mon Gazza
-1499;1550;sea;;-1;-1;-1;-1;Mon Gazza to Herdessa
-1550;1566;sea;;-1;-1;-1;-1;Herdessa to Radnor
-1566;1613;sea;;-1;-1;-1;-1;Radnor to Arkanis
-1613;1619;sea;;-1;-1;-1;-1;Arkanis to Sirpar
-1619;1630;sea;;-1;-1;-1;-1;Sirpar to Gorno
-1630;1669;sea;;-1;-1;-1;-1;Gorno to Dalchon
-1669;1704;sea;;-1;-1;-1;-1;Dalchon to Ryloth
-1704;1769;sea;;-1;-1;-1;-1;Ryloth to Wrea
-1769;1804;sea;;-1;-1;-1;-1;Wrea to Smuggler's Run
-0485;0523;sea;;-1;-1;-1;-1;Coruscant to Alsakan
-0523;0555;sea;;-1;-1;-1;-1;Alsakan to Grizmallt
-0555;0584;sea;;-1;-1;-1;-1;Grizmallt to Anaxes
-0584;0599;sea;;-1;-1;-1;-1;Anaxes to Corulag
-0599;0612;sea;;-1;-1;-1;-1;Corulag to Chandrila
-0612;0640;sea;;-1;-1;-1;-1;Chandrila to Brentaal
-0640;0643;sea;;-1;-1;-1;-1;Brentaal to Esseles
-0643;0670;sea;;-1;-1;-1;-1;Esseles to Rhinnal
-0670;0678;sea;;-1;-1;-1;-1;Rhinnal to Ralltiir
-0678;0699;sea;;-1;-1;-1;-1;Ralltiir to Delle (Sudlow)
-0698;0741;sea;;-1;-1;-1;-1;Delle (Woldus) to Yabol Opa (Beecroft)
-0740;0765;sea;;-1;-1;-1;-1;Yabol Opa (Saxton) to Ifmix
-0765;0786;sea;;-1;-1;-1;-1;Ifmix to Shulstine
-0786;0810;sea;;-1;-1;-1;-1;Shulstine to Castell (Hodges)
-0809;0829;sea;;-1;-1;-1;-1;Castell (Sne'luap) to Raithal
-0829;0903;sea;;-1;-1;-1;-1;Raithal to Vurdon Ka
-0903;0941;sea;;-1;-1;-1;-1;Vurdon Ka to Joiol
-0941;0974;sea;;-1;-1;-1;-1;Joiol to Chazwa (Iritsa)
-0973;1042;sea;;-1;-1;-1;-1;Chazwa (Ching) to Relatta
-1042;1110;sea;;-1;-1;-1;-1;Relatta to Tirahnn
-1110;1182;sea;;-1;-1;-1;-1;Tirahnn to Dalcretti
-1182;1263;sea;;-1;-1;-1;-1;Dalcretti to Taanab (Pandath)
-1263;1296;sea;;-1;-1;-1;-1;Taanab (Raffel) to Carcel
-1296;1307;sea;;-1;-1;-1;-1;Carcel to Sermeria
-1307;1330;sea;;-1;-1;-1;-1;Sermeria to Pirin
-1330;1360;sea;;-1;-1;-1;-1;Pirin to Gizer
-1360;1390;sea;;-1;-1;-1;-1;Gizer to Lantillies
-1390;1462;sea;;-1;-1;-1;-1;Lantillies to Rearqu 10
-1462;1496;sea;;-1;-1;-1;-1;Rearqu 10 to Jeyell
-1496;1524;sea;;-1;-1;-1;-1;Jeyell to Roche
-1524;1573;sea;;-1;-1;-1;-1;Roche to Orleon
-1573;1584;sea;;-1;-1;-1;-1;Orleon to Talcene
-1584;1597;sea;;-1;-1;-1;-1;Talcene to Salvara
-1597;1608;sea;;-1;-1;-1;-1;Salvara to Euceron (Eusebus)
-1610;1643;sea;;-1;-1;-1;-1;Euceron (Dordon) to Abhean (Vogel)
-1644;1661;sea;;-1;-1;-1;-1;Abhean (Boyd) to The Wheel
-1661;1672;sea;;-1;-1;-1;-1;The Wheel to Centares (Muracie)
-1678;1690;sea;;-1;-1;-1;-1;Centares (Old Town) to Antemeridias
-1690;1709;sea;;-1;-1;-1;-1;Antemeridias to Columex (Nardolin)
-1711;1761;sea;;-1;-1;-1;-1;Columex (Greyshade) to Arcan (Geenday)
-1762;1766;sea;;-1;-1;-1;-1;Arcan (Michelinie) to Lianna
-1766;1795;sea;;-1;-1;-1;-1;Lianna to Barseg
-1795;1789;sea;;-1;-1;-1;-1;Barseg to Lorrad
-1789;1802;sea;;-1;-1;-1;-1;Lorrad to Desevro
-1802;1794;sea;;-1;-1;-1;-1;Desevro to Livien
-1794;1810;sea;;-1;-1;-1;-1;Livien to Kanaver
-1810;1823;sea;;-1;-1;-1;-1;Kanaver to Janodral Mizar
-1823;1835;sea;;-1;-1;-1;-1;Janodral Mizar to Ank Ki'Shor
-1835;1844;sea;;-1;-1;-1;-1;Ank Ki'Shor to Estaria
-1844;1852;sea;;-1;-1;-1;-1;Estaria to Makem Te
-1852;1869;sea;;-1;-1;-1;-1;Makem Te to Quermia
-0199;0213;sea;;-1;-1;-1;-1;Dorin (Dor'shan) to Myomar
-0213;0231;sea;;-1;-1;-1;-1;Myomar to Vicondor
-0485;0476;sea;;-1;-1;-1;-1;Coruscant to Foerost
-0476;0469;sea;;-1;-1;-1;-1;Foerost to Ruan
-0469;0437;sea;;-1;-1;-1;-1;Ruan to Stassia
-0437;0420;sea;;-1;-1;-1;-1;Stassia to Salliche
-0420;0392;sea;;-1;-1;-1;-1;Salliche to Worru'du
-0392;0369;sea;;-1;-1;-1;-1;Worru'du to Galand 
-0369;0357;sea;;-1;-1;-1;-1;Galand to Fresia
-0357;0331;sea;;-1;-1;-1;-1;Fresia to Cal-Seti
-0416;0422;sea;;-1;-1;-1;-1;Twith to Farrfin
-0430;0422;sea;;-1;-1;-1;-1;Galvoni to Farrfin
-0497;0422;sea;;-1;-1;-1;-1;Velusia to Farrfin
-0422;0453;sea;;-1;-1;-1;-1;Farrfin to Mamendin
-0453;0505;sea;;-1;-1;-1;-1;Mamendin to Olgo
-0319;0239;sea;;-1;-1;-1;-1;Terminus to Imynusoph
-0319;0404;sea;;-1;-1;-1;-1;Terminus to Fwatna
-1613;1621;sea;;-1;-1;-1;-1;Arkanis to Issor
-1621;1639;sea;;-1;-1;-1;-1;Issor to New Ator
-1621;1640;sea;;-1;-1;-1;-1;Issor to Najiba
-1640;1647;sea;;-1;-1;-1;-1;Najiba to Vasch
-1613;1647;sea;;-1;-1;-1;-1;Arkanis to Vasch
-1704;1647;sea;;-1;-1;-1;-1;Ryloth to Vasch
-1704;1680;sea;;-1;-1;-1;-1;Ryloth to Vor Deo
-1647;1680;sea;;-1;-1;-1;-1;Vasch to Vor Deo
-1674;1680;sea;;-1;-1;-1;-1;Geonosis to Vor Deo
-1674;1646;sea;;-1;-1;-1;-1;Geonosis to Tatooine
-1639;1646;sea;;-1;-1;-1;-1;New Ator to Tatooine
-1674;1699;sea;;-1;-1;-1;-1;Geonosis to Cranan
-1699;1701;sea;;-1;-1;-1;-1;Cranan to Vactooine
-1701;1707;sea;;-1;-1;-1;-1;Cranan to Cirus
-1699;1935;sea;;-1;-1;-1;-1;Cranan to Excarga
-1674;1681;sea;;-1;-1;-1;-1;Geonosis to Ooo-temiuk
-1499;1618;sea;;-1;-1;-1;-1;Mon Gazza to Pii
-1618;1646;sea;;-1;-1;-1;-1;Pii to Tatooine
-1618;1692;sea;;-1;-1;-1;-1;Pii to Piroket
-1692;1681;sea;;-1;-1;-1;-1;Piroket to Ooo-temiuk
-0685;0716;sea;;-1;-1;-1;-1;Harrin to Wroona
-0690;0707;sea;;-1;-1;-1;-1;Yag'dhul to Sukkult
-0707;0716;sea;;-1;-1;-1;-1;Sukkult to Wroona
-0716;0744;sea;;-1;-1;-1;-1;Wroona to Tregillis
-1613;1585;sea;;-1;-1;-1;-1;Arkanis to Tythe
-1585;1575;sea;;-1;-1;-1;-1;Tythe to Nelvaan
-1575;1508;sea;;-1;-1;-1;-1;Nelvaan to Llanic
-1499;1508;sea;;-1;-1;-1;-1;Mon Gazza to Llanic
-1508;1464;sea;;-1;-1;-1;-1;Llanic to Zhar
-1508;1487;sea;;-1;-1;-1;-1;Llanic to Socorro
-0469;0514;sea;;-1;-1;-1;-1;Ruan to Jerrilek
-0514;0499;sea;;-1;-1;-1;-1;Jerrilek to Empress Teta
-0499;0464;sea;;-1;-1;-1;-1;Empress Teta to Keeara Major
-0464;0390;sea;;-1;-1;-1;-1;Keeara Major to Prakith
-0390;0333;sea;;-1;-1;-1;-1;Prakith to Odik
-0333;0381;sea;;-1;-1;-1;-1;Odik to Byss
-0640;0679;sea;;-1;-1;-1;-1;Brentaal to Skako
-0679;0750;sea;;-1;-1;-1;-1;Skako to Aldraig
-0670;0711;sea;;-1;-1;-1;-1;Rhinnal to Tepasi
-0497;0565;sea;;-1;-1;-1;-1;Velusia to Shawken 
-0565;0569;sea;;-1;-1;-1;-1;Shawken to Challon
-0569;0618;sea;;-1;-1;-1;-1;Challon to Wakeelmui
-0640;0618;sea;;-1;-1;-1;-1;Brentaal to Wakeelmui
-0618;0624;sea;;-1;-1;-1;-1;Wakeelmui to Uviuy Exen
-0346;0377;sea;;-1;-1;-1;-1;Palanhi to Noquivzor
-0346;0266;sea;;-1;-1;-1;-1;Palanhi to Vakkar
-0377;0562;sea;;-1;-1;-1;-1;Noquivzor to Ord Antalaha
-0562;0609;sea;;-1;-1;-1;-1;Ord Antalaha to Dankayo
-0416;0397;sea;;-1;-1;-1;-1;Twith to Voon 
-0397;0375;sea;;-1;-1;-1;-1;Voon to Hyabb 
-0301;0261;sea;;-1;-1;-1;-1;Gerrenthum to Mijos
-0261;0240;sea;;-1;-1;-1;-1;Mijos to Lutrillia
-0288;0240;sea;;-1;-1;-1;-1;Darlyn Boda to Lutrillia
-0288;0259;sea;;-1;-1;-1;-1;Darlyn Boda to Hoth
-0258;0259;sea;;-1;-1;-1;-1;Anoat to Hoth
-0258;0257;sea;;-1;-1;-1;-1;Anoat to Bespin
-0301;0257;sea;;-1;-1;-1;-1;Gerrenthum to Bespin
-0301;0330;sea;;-1;-1;-1;-1;Gerrenthum to Nothoiin
-0330;0340;sea;;-1;-1;-1;-1;Nothoiin to Polmanar
-0300;0340;sea;;-1;-1;-1;-1;Isde Naha to Polmanar
-0300;0201;sea;;-1;-1;-1;-1;Isde Naha to Abridon
-0171;0201;sea;;-1;-1;-1;-1;Keskin to Abridon 
-0171;0137;sea;;-1;-1;-1;-1;Keskin to Sump
-0114;0137;sea;;-1;-1;-1;-1;Virgillia to Sump
-0114;0108;sea;;-1;-1;-1;-1;Virgillia to Lipsec
-0118;0240;sea;;-1;-1;-1;-1;Ryoone to Lutrillia
-0118;0106;sea;;-1;-1;-1;-1;Ryoone to Koda Station
-0246;0240;sea;;-1;-1;-1;-1;Lorta to Lutrillia
-0246;0261;sea;;-1;-1;-1;-1;Lorta to Mijos
-0246;0249;sea;;-1;-1;-1;-1;Lorta to Quaensan Prime
-0224;0249;sea;;-1;-1;-1;-1;Elbara to Quaensan Prime
-0224;0210;sea;;-1;-1;-1;-1;Elbara to Hirsi
-0162;0210;sea;;-1;-1;-1;-1;Riflor to Hirsi
-0162;0150;sea;;-1;-1;-1;-1;Riflor to Koba
-0128;0150;sea;;-1;-1;-1;-1;Cheelit to Koba
-0128;0120;sea;;-1;-1;-1;-1;Cheelit to Cerea
-0138;0120;sea;;-1;-1;-1;-1;Chalcedon to Cerea
-0102;0120;sea;;-1;-1;-1;-1;Abbaji to Cerea
-0102;0095;sea;;-1;-1;-1;-1;Abbaji to Annaj
-0100;0095;sea;;-1;-1;-1;-1;Ovise to Annaj
-0100;0097;sea;;-1;-1;-1;-1;Ovise to Maya Kovel
-0089;0097;sea;;-1;-1;-1;-1;Firrerre to Maya Kovel
-0090;0097;sea;;-1;-1;-1;-1;Houche to Maya Kovel
-0100;0094;sea;;-1;-1;-1;-1;Ovise to Endor
-0091;0094;sea;;-1;-1;-1;-1;Sanyassa to Endor
-0075;0091;sea;;-1;-1;-1;-1;Timora to Sanyassa
-0075;0070;sea;;-1;-1;-1;-1;Timora to Bakura
-0138;0149;sea;;-1;-1;-1;-1;Chalcedon to Tashtor Seneca
-0149;0157;sea;;-1;-1;-1;-1;Tashtor Seneca to Petabys Station
-0170;0157;sea;;-1;-1;-1;-1;Halm to Petabys Station
-0170;0233;sea;;-1;-1;-1;-1;Halm to Har Binande
-0264;0233;sea;;-1;-1;-1;-1;Natalon to Har Binande
-0264;0318;sea;;-1;-1;-1;-1;Natalon to Noe'ha'on
-0411;0318;sea;;-1;-1;-1;-1;New Balosar to Noe'ha'on 
-0411;530;sea;;-1;-1;-1;-1;New Balosar to Kinyen
-0690;0665;sea;;-1;-1;-1;-1;Yag'Dhul to Tauber
-0646;0665;sea;;-1;-1;-1;-1;Thyferra to Tauber
-0646;0600;sea;;-1;-1;-1;-1;Thyferra to Vanik
-0575;0600;sea;;-1;-1;-1;-1;Ghorman to Vanik
-0575;0500;sea;;-1;-1;-1;-1;Ghorman to Giju
-0470;0500;sea;;-1;-1;-1;-1;Dentaal to Giju
-0470;0459;sea;;-1;-1;-1;-1;Dentaal to Abregado-rae
-0511;0459;sea;;-1;-1;-1;-1;Diamal to Abregado-rae
-0511;0544;sea;;-1;-1;-1;-1;Diamal to Vindalia
-0500;0544;sea;;-1;-1;-1;-1;Giju to Vindalia
-0563;0544;sea;;-1;-1;-1;-1;Fondor to Vindalia
-0563;0578;sea;;-1;-1;-1;-1;Fondor to Mrlsst
-0646;0578;sea;;-1;-1;-1;-1;Thyferra to Mrlsst
-0753;0681;sea;;-1;-1;-1;-1;Foless to Teyr
-0753;0666;sea;;-1;-1;-1;-1;Foless to Vulvarch
-0666;0681;sea;;-1;-1;-1;-1;Vulvarch to Teyr
-0638;0681;sea;;-1;-1;-1;-1;Bassadro to Teyr
-0638;0666;sea;;-1;-1;-1;-1;Bassadro to Vulvarch
-0638;0563;sea;;-1;-1;-1;-1;Bassadro to Fondor
-0500;0370;sea;;-1;-1;-1;-1;Giju to Omar
-0328;0370;sea;;-1;-1;-1;-1;Illodia to Omar
-0328;0242;sea;;-1;-1;-1;-1;Illodia to Dahrtag
-0215;0242;sea;;-1;-1;-1;-1;Hjaff to Dahrtag
-0215;0206;sea;;-1;-1;-1;-1;Hjaff to Kitel Phard
-0609;0624;sea;;-1;-1;-1;-1;Dankayo to Uviuy Exen
-0750;0777;sea;;-1;-1;-1;-1;Aldraig to Demophon
-0789;0777;sea;;-1;-1;-1;-1;Glithnos to Demophon
-0789;0817;sea;;-1;-1;-1;-1;Glithnos to Fedalle
-0857;0817;sea;;-1;-1;-1;-1;Talravin to Fedalle
-0857;0878;sea;;-1;-1;-1;-1;Talravin to Ruul
-0891;0878;sea;;-1;-1;-1;-1;Trellen to Ruul
-0891;0911;sea;;-1;-1;-1;-1;Trellen to Mawan
-0921;0911;sea;;-1;-1;-1;-1;Loretto to Mawan
-0921;0925;sea;;-1;-1;-1;-1;Loretto to Baraboo
-0936;0925;sea;;-1;-1;-1;-1;Bellassa to Baraboo
-0936;0946;sea;;-1;-1;-1;-1;Bellassa to Jaciprus
-0962;0946;sea;;-1;-1;-1;-1;Voktunma to Jaciprus
-0962;0964;sea;;-1;-1;-1;-1;Voktunma to Exodeen
-0971;0964;sea;;-1;-1;-1;-1;Boudolayz to Exodeen
-0971;0984;sea;;-1;-1;-1;-1;Boudolayz to Herzob
-0992;0984;sea;;-1;-1;-1;-1;Besnia to Herzob
-0992;1002;sea;;-1;-1;-1;-1;Besnia to Koensayr
-1014;1002;sea;;-1;-1;-1;-1;Aquilae to Koensayr
-1014;1025;sea;;-1;-1;-1;-1;Aquilae to Denon
-1766;1736;sea;;-1;-1;-1;-1;Lianna to Syngia
-0892;1736;sea;;-1;-1;-1;-1;Zygeria to Syngia
-1793;1818;sea;;-1;-1;-1;-1;Jerrist to Etti
-0892;1648;sea;;-1;-1;-1;-1;Zygeria to Gigor
-1847;1818;sea;;-1;-1;-1;-1;Bonadan to Etti
-1847;1788;sea;;-1;-1;-1;-1;Bonadan to Lythos
-1564;1648;sea;;-1;-1;-1;-1;Sikurd to Gigor
-1564;1545;sea;;-1;-1;-1;-1;Sikurd to Mirial
-1528;1545;sea;;-1;-1;-1;-1;Listehol to Mirial
-1528;1582;sea;;-1;-1;-1;-1;Listehol to Ruuria
-1528;1511;sea;;-1;-1;-1;-1;Listehol to Tanive
-1703;1582;sea;;-1;-1;-1;-1;Cadomai to Ruuria
-1703;1719;sea;;-1;-1;-1;-1;Cadomai to Reltooine
-1788;1719;sea;;-1;-1;-1;-1;Lythos to Reltooine
-1730;1719;sea;;-1;-1;-1;-1;Davirien to Reltooine
-1730;1746;sea;;-1;-1;-1;-1;Davirien to Drog
-1818;1746;sea;;-1;-1;-1;-1;Etti to Drog
-1750;1746;sea;;-1;-1;-1;-1;Craci to Drog
-1750;1730;sea;;-1;-1;-1;-1;Craci to Davirien
-1750;1793;sea;;-1;-1;-1;-1;Craci to Jerrist
-1818;1811;sea;;-1;-1;-1;-1;Etti to Ession
-1836;1811;sea;;-1;-1;-1;-1;Kalla to Ession
-1836;1793;sea;;-1;-1;-1;-1;Kalla to Jerrist
-1836;1848;sea;;-1;-1;-1;-1;Kalla to Oslumpex 
-1830;1848;sea;;-1;-1;-1;-1;Ammuud to Oslumpex
-1492;1511;sea;;-1;-1;-1;-1;Doniphon to Tanive
-1492;1480;sea;;-1;-1;-1;-1;Doniphon to Telos
-1409;1480;sea;;-1;-1;-1;-1;Praadost to Telos
-1409;1377;sea;;-1;-1;-1;-1;Praadost to Pho Ph'eah
-1359;1377;sea;;-1;-1;-1;-1;Toprawa to Pho Ph'eah
-1359;1337;sea;;-1;-1;-1;-1;Toprawa to Simpla
-1333;1337;sea;;-1;-1;-1;-1;Hynah to Simpla 
-1333;1334;sea;;-1;-1;-1;-1;Hynah to Sorrus
-1368;1488;sea;;-1;-1;-1;-1;Phindar to Maridun
-1368;1304;sea;;-1;-1;-1;-1;Phindar to Alba
-1244;1304;sea;;-1;-1;-1;-1;Botajef to Alba
-1244;1273;sea;;-1;-1;-1;-1;Botajef to Hijado
-1244;1232;sea;;-1;-1;-1;-1;Botajef to Mepha'as Prime
-1282;1273;sea;;-1;-1;-1;-1;Tierrel to Hijado
-1282;1297;sea;;-1;-1;-1;-1;Tierrel to Celanon
-1311;1297;sea;;-1;-1;-1;-1;Junction to Celanon
-1311;1334;sea;;-1;-1;-1;-1;Junction to Sorrus
-1311;1366;sea;;-1;-1;-1;-1;Junction to Selitan
-1384;1366;sea;;-1;-1;-1;-1;Pinoora to Selitan
-1282;1367;sea;;-1;-1;-1;-1;Tierrel to Presbalin
-1404;1367;sea;;-1;-1;-1;-1;Trinovat to Presbalin
-1404;1379;sea;;-1;-1;-1;-1;Trinovat to Far Indosa
-1404;1436;sea;;-1;-1;-1;-1;Trinovat to Durgens Star
-1466;1436;sea;;-1;-1;-1;-1;Povanaria to Durgens Star
-1466;1472;sea;;-1;-1;-1;-1;Povanaria to Bronsoon
-1488;1472;sea;;-1;-1;-1;-1;Maridun to Bronsoon
-1457;1472;sea;;-1;-1;-1;-1;Xochtl to Bronsoon
-1457;1481;sea;;-1;-1;-1;-1;Xochtl to Gilvitch
-1489;1481;sea;;-1;-1;-1;-1;Arkuda to Gilvitch
-1489;1449;sea;;-1;-1;-1;-1;Arkuda to Jovan
-1420;1449;sea;;-1;-1;-1;-1;Torque to Jovan
-1420;1384;sea;;-1;-1;-1;-1;Torque to Pinoora
-1420;1413;sea;;-1;-1;-1;-1;Torque to Yavin
-1460;1413;sea;;-1;-1;-1;-1;Vaal to Yavin
-1460;1449;sea;;-1;-1;-1;-1;Vaal to Jovan
-1393;1413;sea;;-1;-1;-1;-1;Krylon to Yavin
-1393;1402;sea;;-1;-1;-1;-1;Krylon to Ladarra
-1393;1384;sea;;-1;-1;-1;-1;Krylon to Pinoora
-1402;1413;sea;;-1;-1;-1;-1;Ladarra to Yavin
-1402;1375;sea;;-1;-1;-1;-1;Ladarra to Feswe Corridor
-1375;1311;sea;;-1;-1;-1;-1;Feswe Corridor to Junction
-1375;1334;sea;;-1;-1;-1;-1;Feswe Corridor to Sorrus
-1709;1568;sea;;-1;-1;-1;-1;Columex to Lucazec
-1546;1568;sea;;-1;-1;-1;-1;Vjun to Lucazec
-1546;1539;sea;;-1;-1;-1;-1;Vjun to Gala
-1368;1539;sea;;-1;-1;-1;-1;Phindar to Gala
-1218;1232;sea;;-1;-1;-1;-1;Harloen to Mepha'as Prime
-1218;1197;sea;;-1;-1;-1;-1;Harloen to Bandomeer
-1172;1197;sea;;-1;-1;-1;-1;Wrodi to Bandomeer
-1172;1097;sea;;-1;-1;-1;-1;Wrodi to Jebble
-1034;1097;sea;;-1;-1;-1;-1;Skoruppon to Jebble
-1034;0938;sea;;-1;-1;-1;-1;Skoruppon to Corsin
-0841;0938;sea;;-1;-1;-1;-1;Adin to Corsin
-0841;0808;sea;;-1;-1;-1;-1;Adin to Draria
-0768;0808;sea;;-1;-1;-1;-1;Kidriff to Draria
-0768;0748;sea;;-1;-1;-1;-1;Kidriff to Bogden
-0720;0748;sea;;-1;-1;-1;-1;Paqualis to Bogden
-0720;0703;sea;;-1;-1;-1;-1;Paqualis to Per Lupelo
-0689;0703;sea;;-1;-1;-1;-1;Drearia to Per Lupelo
-0689;0675;sea;;-1;-1;-1;-1;Drearia to Champala
-0636;0675;sea;;-1;-1;-1;-1;Nierport to Champala
-0636;0624;sea;;-1;-1;-1;-1;Nierport to Uviuy Exen 
-1793;0892;sea;;-1;-1;-1;-1;Jerrist to Zygeria
-1848;0892;sea;;-1;-1;-1;-1;Oslumpex to Zygeria
-1489;1502;sea;;-1;-1;-1;-1;Arkuda to Korphir
+0021;0024;major_river;;-1;-1;-1;-1;Bogo Rai to Kinoss  ###Main Routes Start
+0024;0031;major_river;;-1;-1;-1;-1;Kinoss to Avidich
+0028;0031;major_river;;-1;-1;-1;-1;Thearterra to Avidich
+0031;0027;major_river;;-1;-1;-1;-1;Avidich to Ool
+0031;0034;major_river;;-1;-1;-1;-1;Avidich to Csilla
+0034;0059;major_river;;-1;-1;-1;-1;Csilla to Cormit
+0059;0064;major_river;;-1;-1;-1;-1;Cormit to Celwis
+0027;0030;major_river;;-1;-1;-1;-1;Ool to Shihon
+0030;0026;major_river;;-1;-1;-1;-1;Shihon to Oyokal
+0046;0033;major_river;;-1;-1;-1;-1;Chaf to Rhigar
+0033;0034;major_river;;-1;-1;-1;-1;Rhigar to Csilla
+0033;0044;major_river;;-1;-1;-1;-1;Rhigar to Csaus
+0044;0050;major_river;;-1;-1;-1;-1;Csaus to Copero
+0050;0052;major_river;;-1;-1;-1;-1;Copero to Savarchi
+0052;0041;major_river;;-1;-1;-1;-1;Savarchi to Cioral
+0041;0034;major_river;;-1;-1;-1;-1;Cioral to Csilla
+0053;0055;major_river;;-1;-1;-1;-1;Schesa to Noris
+0055;0062;major_river;;-1;-1;-1;-1;Noris to Sharb
+0062;0058;major_river;;-1;-1;-1;-1;Sharb to Ornfra
+0058;0047;major_river;;-1;-1;-1;-1;Ornfra to Naporar
+0040;0047;major_river;;-1;-1;-1;-1;Cam'co to Naporar
+0047;0036;major_river;;-1;-1;-1;-1;Naporar to Sposia
+0036;0034;major_river;;-1;-1;-1;-1;Sposia to Csilla
+0053;0072;major_river;;-1;-1;-1;-1;Schesa to Pesfavri
+0072;0101;major_river;;-1;-1;-1;-1;Pesfavri to The Redoubt
+0059;0105;major_river;;-1;-1;-1;-1;Cormit to Utegetu Nebula
+0064;0079;major_river;;-1;-1;-1;-1;Celwis to Vagar Praxut
+0105;0112;major_river;;-1;-1;-1;-1;Utegetu Nebula to Murgo
+0112;0115;major_river;;-1;-1;-1;-1;Murgo to Rago
+0115;0126;major_river;;-1;-1;-1;-1;Rago to Sinton
+0126;0134;major_river;;-1;-1;-1;-1;Sinton to Gilatter
+0134;0141;major_river;;-1;-1;-1;-1;Gilatter to Ansion
+0141;0173;major_river;;-1;-1;-1;-1;Ansion to Keitum
+0139;0141;major_river;;-1;-1;-1;-1;Namadii to Ansion
+0141;0145;major_river;;-1;-1;-1;-1;Ansion to Kalaan (Kalaan City)
+0148;0154;major_river;;-1;-1;-1;-1;Kalaan (Glenn) to Ord Varee
+0154;0164;major_river;;-1;-1;-1;-1;Ord Varee to Glee Anselm
+0164;0174;major_river;;-1;-1;-1;-1;Glee Anselm to Vaced
+0174;0199;major_river;;-1;-1;-1;-1;Vaced to Dorin (Dor'shan)
+0200;0221;major_river;;-1;-1;-1;-1;Dorin to Rondai (Dor'galk)
+0221;0232;major_river;;-1;-1;-1;-1;Rondai to Bilbringi
+0232;0245;major_river;;-1;-1;-1;-1;Bilbringi to Bengat
+0245;0270;major_river;;-1;-1;-1;-1;Bengat to Aphran (Allston)
+0271;0285;major_river;;-1;-1;-1;-1;Aphran to Meastrinnar
+0285;0286;major_river;;-1;-1;-1;-1;Meastrinnar to Voltare
+0286;0312;major_river;;-1;-1;-1;-1;Voltare to Carratos
+0312;0341;major_river;;-1;-1;-1;-1;Carratos to Sif-Uwana
+0341;0346;major_river;;-1;-1;-1;-1;Sif-Uwana to Palanhi
+0346;0378;major_river;;-1;-1;-1;-1;Palanhi to Ord Miril
+0378;0387;major_river;;-1;-1;-1;-1;Ord Miril to Borleias
+0387;0395;major_river;;-1;-1;-1;-1;Borleias to Pantolomin
+0395;0416;major_river;;-1;-1;-1;-1;Pantolomin to Twith
+0416;0497;major_river;;-1;-1;-1;-1;Twith to Velucia
+0497;0498;major_river;;-1;-1;-1;-1;Velusia to Thokos
+0498;0485;major_river;;-1;-1;-1;-1;Thokos to Coruscant
+0416;0430;major_river;;-1;-1;-1;-1;Twith to Galvoni
+0430;0431;major_river;;-1;-1;-1;-1;Galvoni to Weerden
+0431;0454;major_river;;-1;-1;-1;-1;Weerden to Tanjay
+0454;0485;major_river;;-1;-1;-1;-1;Tanjay to Coruscant
+0295;0317;major_river;;-1;-1;-1;-1;J't'p'tan to N'Zoth
+0317;0276;major_river;;-1;-1;-1;-1;N'zoth to Galantos
+0317;0331;major_river;;-1;-1;-1;-1;N'zoth to Cal-Seti
+0276;0331;major_river;;-1;-1;-1;-1;Galantos to Cal-Seti
+0331;0372;major_river;;-1;-1;-1;-1;Cal-Seti to Alland
+0372;0406;major_river;;-1;-1;-1;-1;Alland to Norkronia
+0406;0434;major_river;;-1;-1;-1;-1;Norkronia to Metellos
+0434;0485;major_river;;-1;-1;-1;-1;Metellos to Coruscant
+0485;0590;major_river;;-1;-1;-1;-1;Coruscant to Ixtlar
+0590;0625;major_river;;-1;-1;-1;-1;Ixtlar to Wukkar
+0625;0664;major_river;;-1;-1;-1;-1;Wukkar to Kailor
+0664;0696;major_river;;-1;-1;-1;-1;Kailor to Xorth
+0696;0758;major_river;;-1;-1;-1;-1;Xorth to Vuma
+0758;0787;major_river;;-1;-1;-1;-1;Vuma to Leria Kerslsil
+0787;0801;major_river;;-1;-1;-1;-1;Leria Kerslil to Perma
+0801;0815;major_river;;-1;-1;-1;-1;Perma to Lolnar
+0815;0832;major_river;;-1;-1;-1;-1;Lolnar to Rehemsa
+0832;0845;major_river;;-1;-1;-1;-1;Rehemsa to Sedatris
+0845;0873;major_river;;-1;-1;-1;-1;Sedatris to Rydonni Prime
+0873;0846;major_river;;-1;-1;-1;-1;Rydonni Prime to Goorla
+0846;0885;major_river;;-1;-1;-1;-1;Goorla to Corellia
+0885;0861;major_river;;-1;-1;-1;-1;Corellia to Sacorria
+0861;0874;major_river;;-1;-1;-1;-1;Sacorria to Duro
+0874;0875;major_river;;-1;-1;-1;-1;Duro to Chasin
+0875;0855;major_river;;-1;-1;-1;-1;Chasin to Condular
+0855;0826;major_river;;-1;-1;-1;-1;Condular to Gandeal
+0826;0797;major_river;;-1;-1;-1;-1;Gandeal to Belazura
+0797;0783;major_river;;-1;-1;-1;-1;Belazra to Bryexx
+0783;0778;major_river;;-1;-1;-1;-1;Bryexx to Enisca
+0778;0771;major_river;;-1;-1;-1;-1;Enisca to Kelada
+0771;0753;major_river;;-1;-1;-1;-1;Kelada to Foless
+0753;0730;major_river;;-1;-1;-1;-1;Foless to Bestine
+0730;0706;major_river;;-1;-1;-1;-1;Bestine to Mechis
+0706;0701;major_river;;-1;-1;-1;-1;Mechis to Renillis
+0701;0690;major_river;;-1;-1;-1;-1;Renillis to Yag'Dhul
+0690;0685;major_river;;-1;-1;-1;-1;Yag'Dhul to Harrin 
+0685;0674;major_river;;-1;-1;-1;-1;Harrin to Moorja
+0674;0655;major_river;;-1;-1;-1;-1;Moorja to Calus
+0655;0635;major_river;;-1;-1;-1;-1;Calus to Epica
+0635;0637;major_river;;-1;-1;-1;-1;Epica to Roona
+0637;0608;major_river;;-1;-1;-1;-1;Roona to Borkyne
+0608;0530;major_river;;-1;-1;-1;-1;Borkyne to Kinyen
+0530;0450;major_river;;-1;-1;-1;-1;Kinyen to Pendari
+0450;0399;major_river;;-1;-1;-1;-1;Pendari to Tar Mordon
+0399;0389;major_river;;-1;-1;-1;-1;Tar Mordon to Calonica
+0389;0351;major_river;;-1;-1;-1;-1;Calonica to Bomis Koori (Terrence)
+0358;0359;major_river;;-1;-1;-1;-1;Bomis Koori (Genndy) to Kriselist
+0359;0335;major_river;;-1;-1;-1;-1;Kriselist to D'rinba
+0335;0343;major_river;;-1;-1;-1;-1;D'rinba to Chibias
+0343;0332;major_river;;-1;-1;-1;-1;Chibias to Kaal
+0332;0323;major_river;;-1;-1;-1;-1;Kaal to Dalisor
+0323;0336;major_river;;-1;-1;-1;-1;Dalisor to Jaloch (Jiroch-Saloch)
+0338;0339;major_river;;-1;-1;-1;-1;Jaloch (Jaloch-Reslia) to Quamar
+0339;0315;major_river;;-1;-1;-1;-1;Quamar to Mugaar
+0315;0321;major_river;;-1;-1;-1;-1;Mugaar to Javin
+0321;0308;major_river;;-1;-1;-1;-1;Javin to Kumru (Craig'Ro)
+0304;0301;major_river;;-1;-1;-1;-1;Kumru (Ecallaw) to Gerrenthum
+0301;0299;major_river;;-1;-1;-1;-1;Gerrenthum to Ione
+0299;0288;major_river;;-1;-1;-1;-1;Ione to Darlyn Boda
+0288;0300;major_river;;-1;-1;-1;-1;Darlyn Boda to Isde Naha
+300;0293;major_river;;-1;-1;-1;-1;Isde Naha to Berrol's Donn
+0293;0294;major_river;;-1;-1;-1;-1;Berrol's Donn to Sil'Lume
+0294;0305;major_river;;-1;-1;-1;-1;Sil'Lume to Manpha
+0305;0319;major_river;;-1;-1;-1;-1;Manpha to Terminus (Goodwin)
+0861;0901;major_river;;-1;-1;-1;-1;Sacorria to Nubia
+0901;0906;major_river;;-1;-1;-1;-1;Nubia to Tinnel
+0906;0933;major_river;;-1;-1;-1;-1;Tinnel to Loronar
+0933;0952;major_river;;-1;-1;-1;-1;Loronar  to Byblos
+0952;0968;major_river;;-1;-1;-1;-1;Byblos to Pencael
+0968;0991;major_river;;-1;-1;-1;-1;Pencael to Havricus
+0991;1018;major_river;;-1;-1;-1;-1;Havricus to Iseno (Corroney)
+1019;1025;major_river;;-1;-1;-1;-1;Iseno (Paulblo) to Denon
+1025;1075;major_river;;-1;-1;-1;-1;Denon to Perithal
+1075;1099;major_river;;-1;-1;-1;-1;Perithal to Spirana
+1099;1134;major_river;;-1;-1;-1;-1;Spirana to Rhommammool (Redhaven)
+1135;1166;major_river;;-1;-1;-1;-1;Rhommammool (Rasalva) to Tlactehon
+1166;1183;major_river;;-1;-1;-1;-1;Tlactehon to Allanteen
+1183;1246;major_river;;-1;-1;-1;-1;Allanteen to Gamor
+1246;1274;major_river;;-1;-1;-1;-1;Gamor to Milagro
+1274;1317;major_river;;-1;-1;-1;-1;Milagro to Thaere
+1317;1386;major_river;;-1;-1;-1;-1;Thaere to Doldur
+1386;1394;major_river;;-1;-1;-1;-1;Doldur to Druckenwell
+1394;1403;major_river;;-1;-1;-1;-1;Druckenwell to Paqwepor Major
+1403;1437;major_river;;-1;-1;-1;-1;Paqwepor Major to Kabray
+1437;1461;major_river;;-1;-1;-1;-1;Kabray to Algara
+1461;1474;major_river;;-1;-1;-1;-1;Algara to Andosha
+1474;1499;major_river;;-1;-1;-1;-1;Andosha to Mon Gazza
+1499;1550;major_river;;-1;-1;-1;-1;Mon Gazza to Herdessa
+1550;1566;major_river;;-1;-1;-1;-1;Herdessa to Radnor
+1566;1613;major_river;;-1;-1;-1;-1;Radnor to Arkanis
+1613;1619;major_river;;-1;-1;-1;-1;Arkanis to Sirpar
+1619;1630;major_river;;-1;-1;-1;-1;Sirpar to Gorno
+1630;1669;major_river;;-1;-1;-1;-1;Gorno to Dalchon
+1669;1704;major_river;;-1;-1;-1;-1;Dalchon to Ryloth
+1704;1769;major_river;;-1;-1;-1;-1;Ryloth to Wrea
+1769;1804;major_river;;-1;-1;-1;-1;Wrea to Smuggler's Run
+0485;0523;major_river;;-1;-1;-1;-1;Coruscant to Alsakan
+0523;0555;major_river;;-1;-1;-1;-1;Alsakan to Grizmallt
+0555;0584;major_river;;-1;-1;-1;-1;Grizmallt to Anaxes
+0584;0599;major_river;;-1;-1;-1;-1;Anaxes to Corulag
+0599;0612;major_river;;-1;-1;-1;-1;Corulag to Chandrila
+0612;0640;major_river;;-1;-1;-1;-1;Chandrila to Brentaal
+0640;0643;major_river;;-1;-1;-1;-1;Brentaal to Esseles
+0643;0670;major_river;;-1;-1;-1;-1;Esseles to Rhinnal
+0670;0678;major_river;;-1;-1;-1;-1;Rhinnal to Ralltiir
+0678;0699;major_river;;-1;-1;-1;-1;Ralltiir to Delle
+0699;0741;major_river;;-1;-1;-1;-1;Delle to Yabol Opa (Beecroft)
+0740;0765;major_river;;-1;-1;-1;-1;Yabol Opa (Saxton) to Ifmix
+0765;0786;major_river;;-1;-1;-1;-1;Ifmix to Shulstine
+0786;0810;major_river;;-1;-1;-1;-1;Shulstine to Castell (Hodges)
+0809;0829;major_river;;-1;-1;-1;-1;Castell (Sne'luap) to Raithal
+0829;0903;major_river;;-1;-1;-1;-1;Raithal to Vurdon Ka
+0903;0941;major_river;;-1;-1;-1;-1;Vurdon Ka to Joiol
+0941;0974;major_river;;-1;-1;-1;-1;Joiol to Chazwa (Iritsa)
+0973;1042;major_river;;-1;-1;-1;-1;Chazwa (Ching) to Relatta
+1042;1110;major_river;;-1;-1;-1;-1;Relatta to Tirahnn
+1110;1182;major_river;;-1;-1;-1;-1;Tirahnn to Dalcretti
+1182;1263;major_river;;-1;-1;-1;-1;Dalcretti to Taanab (Pandath)
+1263;1296;major_river;;-1;-1;-1;-1;Taanab (Raffel) to Carcel
+1296;1307;major_river;;-1;-1;-1;-1;Carcel to Sermeria
+1307;1330;major_river;;-1;-1;-1;-1;Sermeria to Pirin
+1330;1360;major_river;;-1;-1;-1;-1;Pirin to Gizer
+1360;1390;major_river;;-1;-1;-1;-1;Gizer to Lantillies
+1390;1462;major_river;;-1;-1;-1;-1;Lantillies to Rearqu 10
+1462;1496;major_river;;-1;-1;-1;-1;Rearqu 10 to Jeyell
+1496;1524;major_river;;-1;-1;-1;-1;Jeyell to Roche
+1524;1573;major_river;;-1;-1;-1;-1;Roche to Orleon
+1573;1584;major_river;;-1;-1;-1;-1;Orleon to Talcene
+1584;1597;major_river;;-1;-1;-1;-1;Talcene to Salvara
+1597;1608;major_river;;-1;-1;-1;-1;Salvara to Euceron
+1608;1643;major_river;;-1;-1;-1;-1;Euceron to Abhean (Vogel)
+1644;1661;major_river;;-1;-1;-1;-1;Abhean (Boyd) to The Wheel
+1661;1678;major_river;;-1;-1;-1;-1;The Wheel to Centares
+1678;1690;major_river;;-1;-1;-1;-1;Centares to Antemeridias
+1690;1711;major_river;;-1;-1;-1;-1;Antemeridias to Columex
+1711;1762;major_river;;-1;-1;-1;-1;Columex to Arcan
+1762;1766;major_river;;-1;-1;-1;-1;Arcan to Lianna
+1766;1795;major_river;;-1;-1;-1;-1;Lianna to Barseg
+1795;1789;major_river;;-1;-1;-1;-1;Barseg to Lorrad
+1789;1802;major_river;;-1;-1;-1;-1;Lorrad to Desevro
+1802;1794;major_river;;-1;-1;-1;-1;Desevro to Livien
+1794;1810;major_river;;-1;-1;-1;-1;Livien to Kanaver
+1810;1823;major_river;;-1;-1;-1;-1;Kanaver to Janodral Mizar
+1823;1835;major_river;;-1;-1;-1;-1;Janodral Mizar to Ank Ki'Shor
+1835;1844;major_river;;-1;-1;-1;-1;Ank Ki'Shor to Estaria
+1844;1852;major_river;;-1;-1;-1;-1;Estaria to Makem Te
+1852;1869;major_river;;-1;-1;-1;-1;Makem Te to Quermia
+0199;0213;major_river;;-1;-1;-1;-1;Dorin (Dor'shan) to Myomar
+0213;0231;major_river;;-1;-1;-1;-1;Myomar to Vicondor
+0485;0476;major_river;;-1;-1;-1;-1;Coruscant to Foerost
+0476;0469;major_river;;-1;-1;-1;-1;Foerost to Ruan
+0469;0437;major_river;;-1;-1;-1;-1;Ruan to Stassia
+0437;0420;major_river;;-1;-1;-1;-1;Stassia to Salliche
+0420;0392;major_river;;-1;-1;-1;-1;Salliche to Worru'du
+0392;0369;major_river;;-1;-1;-1;-1;Worru'du to Galand 
+0369;0357;major_river;;-1;-1;-1;-1;Galand to Fresia
+0357;0331;major_river;;-1;-1;-1;-1;Fresia to Cal-Seti
+0416;0422;major_river;;-1;-1;-1;-1;Twith to Farrfin
+0430;0422;major_river;;-1;-1;-1;-1;Galvoni to Farrfin
+0497;0422;major_river;;-1;-1;-1;-1;Velusia to Farrfin
+0422;0453;major_river;;-1;-1;-1;-1;Farrfin to Mamendin
+0453;0505;major_river;;-1;-1;-1;-1;Mamendin to Olgo
+0319;0239;major_river;;-1;-1;-1;-1;Terminus to Imynusoph
+0319;0404;major_river;;-1;-1;-1;-1;Terminus to Fwatna
+1613;1621;major_river;;-1;-1;-1;-1;Arkanis to Issor
+1621;1639;major_river;;-1;-1;-1;-1;Issor to New Ator
+1621;1640;major_river;;-1;-1;-1;-1;Issor to Najiba
+1640;1647;major_river;;-1;-1;-1;-1;Najiba to Vasch
+1613;1647;major_river;;-1;-1;-1;-1;Arkanis to Vasch
+1704;1647;major_river;;-1;-1;-1;-1;Ryloth to Vasch
+1704;1680;major_river;;-1;-1;-1;-1;Ryloth to Vor Deo
+1647;1680;major_river;;-1;-1;-1;-1;Vasch to Vor Deo
+1674;1680;major_river;;-1;-1;-1;-1;Geonosis to Vor Deo
+1674;1646;major_river;;-1;-1;-1;-1;Geonosis to Tatooine
+1639;1646;major_river;;-1;-1;-1;-1;New Ator to Tatooine
+1674;1699;major_river;;-1;-1;-1;-1;Geonosis to Cranan
+1699;1701;major_river;;-1;-1;-1;-1;Cranan to Vactooine
+1701;1707;major_river;;-1;-1;-1;-1;Cranan to Cirus
+1699;1935;major_river;;-1;-1;-1;-1;Cranan to Excarga
+1674;1681;major_river;;-1;-1;-1;-1;Geonosis to Ooo-temiuk
+1499;1618;major_river;;-1;-1;-1;-1;Mon Gazza to Pii
+1618;1646;major_river;;-1;-1;-1;-1;Pii to Tatooine
+1618;1692;major_river;;-1;-1;-1;-1;Pii to Piroket
+1692;1681;major_river;;-1;-1;-1;-1;Piroket to Ooo-temiuk
+0685;0716;major_river;;-1;-1;-1;-1;Harrin to Wroona
+0690;0707;major_river;;-1;-1;-1;-1;Yag'dhul to Sukkult
+0707;0716;major_river;;-1;-1;-1;-1;Sukkult to Wroona
+0716;0744;major_river;;-1;-1;-1;-1;Wroona to Tregillis
+1613;1585;major_river;;-1;-1;-1;-1;Arkanis to Tythe
+1585;1575;major_river;;-1;-1;-1;-1;Tythe to Nelvaan
+1575;1508;major_river;;-1;-1;-1;-1;Nelvaan to Llanic
+1499;1508;major_river;;-1;-1;-1;-1;Mon Gazza to Llanic
+1508;1464;major_river;;-1;-1;-1;-1;Llanic to Zhar
+1508;1487;major_river;;-1;-1;-1;-1;Llanic to Socorro
+0469;0514;major_river;;-1;-1;-1;-1;Ruan to Jerrilek
+0514;0499;major_river;;-1;-1;-1;-1;Jerrilek to Empress Teta
+0499;0464;major_river;;-1;-1;-1;-1;Empress Teta to Keeara Major
+0464;0390;major_river;;-1;-1;-1;-1;Keeara Major to Prakith
+0390;0333;major_river;;-1;-1;-1;-1;Prakith to Odik
+0333;0381;major_river;;-1;-1;-1;-1;Odik to Byss
+0640;0679;major_river;;-1;-1;-1;-1;Brentaal to Skako
+0679;0750;major_river;;-1;-1;-1;-1;Skako to Aldraig
+0670;0711;major_river;;-1;-1;-1;-1;Rhinnal to Tepasi
+0497;0565;major_river;;-1;-1;-1;-1;Velusia to Shawken 
+0565;0569;major_river;;-1;-1;-1;-1;Shawken to Challon
+0569;0618;major_river;;-1;-1;-1;-1;Challon to Wakeelmui
+0640;0618;major_river;;-1;-1;-1;-1;Brentaal to Wakeelmui
+0618;0624;major_river;;-1;-1;-1;-1;Wakeelmui to Uviuy Exen
+0346;0377;major_river;;-1;-1;-1;-1;Palanhi to Noquivzor
+0346;0266;major_river;;-1;-1;-1;-1;Palanhi to Vakkar
+0377;0562;major_river;;-1;-1;-1;-1;Noquivzor to Ord Antalaha
+0562;0609;major_river;;-1;-1;-1;-1;Ord Antalaha to Dankayo
+0416;0397;major_river;;-1;-1;-1;-1;Twith to Voon 
+0397;0375;major_river;;-1;-1;-1;-1;Voon to Hyabb 
+0301;0261;major_river;;-1;-1;-1;-1;Gerrenthum to Mijos
+0261;0240;major_river;;-1;-1;-1;-1;Mijos to Lutrillia
+0288;0240;major_river;;-1;-1;-1;-1;Darlyn Boda to Lutrillia
+0288;0259;major_river;;-1;-1;-1;-1;Darlyn Boda to Hoth
+0258;0259;major_river;;-1;-1;-1;-1;Anoat to Hoth
+0258;0257;major_river;;-1;-1;-1;-1;Anoat to Bespin
+0301;0257;major_river;;-1;-1;-1;-1;Gerrenthum to Bespin
+0301;0330;major_river;;-1;-1;-1;-1;Gerrenthum to Nothoiin
+0330;0340;major_river;;-1;-1;-1;-1;Nothoiin to Polmanar
+0300;0340;major_river;;-1;-1;-1;-1;Isde Naha to Polmanar
+0300;0201;major_river;;-1;-1;-1;-1;Isde Naha to Abridon
+0171;0201;major_river;;-1;-1;-1;-1;Keskin to Abridon 
+0171;0137;major_river;;-1;-1;-1;-1;Keskin to Sump
+0114;0137;major_river;;-1;-1;-1;-1;Virgillia to Sump
+0114;0108;major_river;;-1;-1;-1;-1;Virgillia to Lipsec
+0118;0240;major_river;;-1;-1;-1;-1;Ryoone to Lutrillia
+0118;0106;major_river;;-1;-1;-1;-1;Ryoone to Koda Station
+0246;0240;major_river;;-1;-1;-1;-1;Lorta to Lutrillia
+0246;0261;major_river;;-1;-1;-1;-1;Lorta to Mijos
+0246;0249;major_river;;-1;-1;-1;-1;Lorta to Quaensan Prime
+0224;0249;major_river;;-1;-1;-1;-1;Elbara to Quaensan Prime
+0224;0210;major_river;;-1;-1;-1;-1;Elbara to Hirsi
+0162;0210;major_river;;-1;-1;-1;-1;Riflor to Hirsi
+0162;0150;major_river;;-1;-1;-1;-1;Riflor to Koba
+0128;0150;major_river;;-1;-1;-1;-1;Cheelit to Koba
+0128;0120;major_river;;-1;-1;-1;-1;Cheelit to Cerea
+0138;0120;major_river;;-1;-1;-1;-1;Chalcedon to Cerea
+0102;0120;major_river;;-1;-1;-1;-1;Abbaji to Cerea
+0102;0095;major_river;;-1;-1;-1;-1;Abbaji to Annaj
+0100;0095;major_river;;-1;-1;-1;-1;Ovise to Annaj
+0100;0097;major_river;;-1;-1;-1;-1;Ovise to Maya Kovel
+0089;0097;major_river;;-1;-1;-1;-1;Firrerre to Maya Kovel
+0090;0097;major_river;;-1;-1;-1;-1;Houche to Maya Kovel
+0100;0094;major_river;;-1;-1;-1;-1;Ovise to Endor
+0091;0094;major_river;;-1;-1;-1;-1;Sanyassa to Endor
+0075;0091;major_river;;-1;-1;-1;-1;Timora to Sanyassa
+0075;0070;major_river;;-1;-1;-1;-1;Timora to Bakura
+0138;0149;major_river;;-1;-1;-1;-1;Chalcedon to Tashtor Seneca
+0149;0157;major_river;;-1;-1;-1;-1;Tashtor Seneca to Petabys Station
+0170;0157;major_river;;-1;-1;-1;-1;Halm to Petabys Station
+0170;0233;major_river;;-1;-1;-1;-1;Halm to Har Binande
+0264;0233;major_river;;-1;-1;-1;-1;Natalon to Har Binande
+0264;0318;major_river;;-1;-1;-1;-1;Natalon to Noe'ha'on
+0411;0318;major_river;;-1;-1;-1;-1;New Balosar to Noe'ha'on 
+0411;530;major_river;;-1;-1;-1;-1;New Balosar to Kinyen
+0690;0665;major_river;;-1;-1;-1;-1;Yag'Dhul to Tauber
+0646;0665;major_river;;-1;-1;-1;-1;Thyferra to Tauber
+0646;0600;major_river;;-1;-1;-1;-1;Thyferra to Vanik
+0575;0600;major_river;;-1;-1;-1;-1;Ghorman to Vanik
+0575;0500;major_river;;-1;-1;-1;-1;Ghorman to Giju
+0470;0500;major_river;;-1;-1;-1;-1;Dentaal to Giju
+0470;0459;major_river;;-1;-1;-1;-1;Dentaal to Abregado-rae
+0511;0459;major_river;;-1;-1;-1;-1;Diamal to Abregado-rae
+0511;0544;major_river;;-1;-1;-1;-1;Diamal to Vindalia
+0500;0544;major_river;;-1;-1;-1;-1;Giju to Vindalia
+0563;0544;major_river;;-1;-1;-1;-1;Fondor to Vindalia
+0563;0578;major_river;;-1;-1;-1;-1;Fondor to Mrlsst
+0646;0578;major_river;;-1;-1;-1;-1;Thyferra to Mrlsst
+0753;0681;major_river;;-1;-1;-1;-1;Foless to Teyr
+0753;0666;major_river;;-1;-1;-1;-1;Foless to Vulvarch
+0666;0681;major_river;;-1;-1;-1;-1;Vulvarch to Teyr
+0638;0681;major_river;;-1;-1;-1;-1;Bassadro to Teyr
+0638;0666;major_river;;-1;-1;-1;-1;Bassadro to Vulvarch
+0638;0563;major_river;;-1;-1;-1;-1;Bassadro to Fondor
+0500;0370;major_river;;-1;-1;-1;-1;Giju to Omar
+0328;0370;major_river;;-1;-1;-1;-1;Illodia to Omar
+0328;0242;major_river;;-1;-1;-1;-1;Illodia to Dahrtag
+0215;0242;major_river;;-1;-1;-1;-1;Hjaff to Dahrtag
+0215;0206;major_river;;-1;-1;-1;-1;Hjaff to Kitel Phard
+0609;0624;major_river;;-1;-1;-1;-1;Dankayo to Uviuy Exen
+0750;0777;major_river;;-1;-1;-1;-1;Aldraig to Demophon
+0789;0777;major_river;;-1;-1;-1;-1;Glithnos to Demophon
+0789;0817;major_river;;-1;-1;-1;-1;Glithnos to Fedalle
+0857;0817;major_river;;-1;-1;-1;-1;Talravin to Fedalle
+0857;0878;major_river;;-1;-1;-1;-1;Talravin to Ruul
+0891;0878;major_river;;-1;-1;-1;-1;Trellen to Ruul
+0891;0911;major_river;;-1;-1;-1;-1;Trellen to Mawan
+0921;0911;major_river;;-1;-1;-1;-1;Loretto to Mawan
+0921;0925;major_river;;-1;-1;-1;-1;Loretto to Baraboo
+0936;0925;major_river;;-1;-1;-1;-1;Bellassa to Baraboo
+0936;0946;major_river;;-1;-1;-1;-1;Bellassa to Jaciprus
+0962;0946;major_river;;-1;-1;-1;-1;Voktunma to Jaciprus
+0962;0964;major_river;;-1;-1;-1;-1;Voktunma to Exodeen
+0971;0964;major_river;;-1;-1;-1;-1;Boudolayz to Exodeen
+0971;0984;major_river;;-1;-1;-1;-1;Boudolayz to Herzob
+0992;0984;major_river;;-1;-1;-1;-1;Besnia to Herzob
+0992;1002;major_river;;-1;-1;-1;-1;Besnia to Koensayr
+1014;1002;major_river;;-1;-1;-1;-1;Aquilae to Koensayr
+1014;1025;major_river;;-1;-1;-1;-1;Aquilae to Denon
+1766;1736;major_river;;-1;-1;-1;-1;Lianna to Syngia
+0892;1736;major_river;;-1;-1;-1;-1;Zygeria to Syngia
+1793;1818;major_river;;-1;-1;-1;-1;Jerrist to Etti
+0892;1648;major_river;;-1;-1;-1;-1;Zygeria to Gigor
+1847;1818;major_river;;-1;-1;-1;-1;Bonadan to Etti
+1847;1788;major_river;;-1;-1;-1;-1;Bonadan to Lythos
+1564;1648;major_river;;-1;-1;-1;-1;Sikurd to Gigor
+1564;1545;major_river;;-1;-1;-1;-1;Sikurd to Mirial
+1528;1545;major_river;;-1;-1;-1;-1;Listehol to Mirial
+1528;1582;major_river;;-1;-1;-1;-1;Listehol to Ruuria
+1528;1511;major_river;;-1;-1;-1;-1;Listehol to Tanive
+1703;1582;major_river;;-1;-1;-1;-1;Cadomai to Ruuria
+1703;1719;major_river;;-1;-1;-1;-1;Cadomai to Reltooine
+1788;1719;major_river;;-1;-1;-1;-1;Lythos to Reltooine
+1730;1719;major_river;;-1;-1;-1;-1;Davirien to Reltooine
+1730;1746;major_river;;-1;-1;-1;-1;Davirien to Drog
+1818;1746;major_river;;-1;-1;-1;-1;Etti to Drog
+1750;1746;major_river;;-1;-1;-1;-1;Craci to Drog
+1750;1730;major_river;;-1;-1;-1;-1;Craci to Davirien
+1750;1793;major_river;;-1;-1;-1;-1;Craci to Jerrist
+1818;1811;major_river;;-1;-1;-1;-1;Etti to Ession
+1836;1811;major_river;;-1;-1;-1;-1;Kalla to Ession
+1836;1793;major_river;;-1;-1;-1;-1;Kalla to Jerrist
+1836;1848;major_river;;-1;-1;-1;-1;Kalla to Oslumpex 
+1830;1848;major_river;;-1;-1;-1;-1;Ammuud to Oslumpex
+1492;1511;major_river;;-1;-1;-1;-1;Doniphon to Tanive
+1492;1480;major_river;;-1;-1;-1;-1;Doniphon to Telos
+1409;1480;major_river;;-1;-1;-1;-1;Praadost to Telos
+1409;1377;major_river;;-1;-1;-1;-1;Praadost to Pho Ph'eah
+1359;1377;major_river;;-1;-1;-1;-1;Toprawa to Pho Ph'eah
+1359;1337;major_river;;-1;-1;-1;-1;Toprawa to Simpla
+1333;1337;major_river;;-1;-1;-1;-1;Hynah to Simpla 
+1333;1334;major_river;;-1;-1;-1;-1;Hynah to Sorrus
+1368;1488;major_river;;-1;-1;-1;-1;Phindar to Maridun
+1368;1304;major_river;;-1;-1;-1;-1;Phindar to Alba
+1244;1304;major_river;;-1;-1;-1;-1;Botajef to Alba
+1244;1273;major_river;;-1;-1;-1;-1;Botajef to Hijado
+1244;1232;major_river;;-1;-1;-1;-1;Botajef to Mepha'as Prime
+1282;1273;major_river;;-1;-1;-1;-1;Tierrel to Hijado
+1282;1297;major_river;;-1;-1;-1;-1;Tierrel to Celanon
+1311;1297;major_river;;-1;-1;-1;-1;Junction to Celanon
+1311;1334;major_river;;-1;-1;-1;-1;Junction to Sorrus
+1311;1366;major_river;;-1;-1;-1;-1;Junction to Selitan
+1384;1366;major_river;;-1;-1;-1;-1;Pinoora to Selitan
+1282;1367;major_river;;-1;-1;-1;-1;Tierrel to Presbalin
+1404;1367;major_river;;-1;-1;-1;-1;Trinovat to Presbalin
+1404;1379;major_river;;-1;-1;-1;-1;Trinovat to Far Indosa
+1404;1436;major_river;;-1;-1;-1;-1;Trinovat to Durgens Star
+1466;1436;major_river;;-1;-1;-1;-1;Povanaria to Durgens Star
+1466;1472;major_river;;-1;-1;-1;-1;Povanaria to Bronsoon
+1488;1472;major_river;;-1;-1;-1;-1;Maridun to Bronsoon
+1457;1472;major_river;;-1;-1;-1;-1;Xochtl to Bronsoon
+1457;1481;major_river;;-1;-1;-1;-1;Xochtl to Gilvitch
+1489;1481;major_river;;-1;-1;-1;-1;Arkuda to Gilvitch
+1489;1449;major_river;;-1;-1;-1;-1;Arkuda to Jovan
+1420;1449;major_river;;-1;-1;-1;-1;Torque to Jovan
+1420;1384;major_river;;-1;-1;-1;-1;Torque to Pinoora
+1420;1413;major_river;;-1;-1;-1;-1;Torque to Yavin
+1460;1413;major_river;;-1;-1;-1;-1;Vaal to Yavin
+1460;1449;major_river;;-1;-1;-1;-1;Vaal to Jovan
+1393;1413;major_river;;-1;-1;-1;-1;Krylon to Yavin
+1393;1402;major_river;;-1;-1;-1;-1;Krylon to Ladarra
+1393;1384;major_river;;-1;-1;-1;-1;Krylon to Pinoora
+1402;1413;major_river;;-1;-1;-1;-1;Ladarra to Yavin
+1402;1375;major_river;;-1;-1;-1;-1;Ladarra to Feswe Corridor
+1375;1311;major_river;;-1;-1;-1;-1;Feswe Corridor to Junction
+1375;1334;major_river;;-1;-1;-1;-1;Feswe Corridor to Sorrus
+1711;1568;major_river;;-1;-1;-1;-1;Columex to Lucazec
+1546;1568;major_river;;-1;-1;-1;-1;Vjun to Lucazec
+1546;1539;major_river;;-1;-1;-1;-1;Vjun to Gala
+1368;1539;major_river;;-1;-1;-1;-1;Phindar to Gala
+1218;1232;major_river;;-1;-1;-1;-1;Harloen to Mepha'as Prime
+1218;1197;major_river;;-1;-1;-1;-1;Harloen to Bandomeer
+1172;1197;major_river;;-1;-1;-1;-1;Wrodi to Bandomeer
+1172;1097;major_river;;-1;-1;-1;-1;Wrodi to Jebble
+1034;1097;major_river;;-1;-1;-1;-1;Skoruppon to Jebble
+1034;0938;major_river;;-1;-1;-1;-1;Skoruppon to Corsin
+0841;0938;major_river;;-1;-1;-1;-1;Adin to Corsin
+0841;0808;major_river;;-1;-1;-1;-1;Adin to Draria
+0768;0808;major_river;;-1;-1;-1;-1;Kidriff to Draria
+0768;0748;major_river;;-1;-1;-1;-1;Kidriff to Bogden
+0720;0748;major_river;;-1;-1;-1;-1;Paqualis to Bogden
+0720;0703;major_river;;-1;-1;-1;-1;Paqualis to Per Lupelo
+0689;0703;major_river;;-1;-1;-1;-1;Drearia to Per Lupelo
+0689;0675;major_river;;-1;-1;-1;-1;Drearia to Champala
+0636;0675;major_river;;-1;-1;-1;-1;Nierport to Champala
+0636;0624;major_river;;-1;-1;-1;-1;Nierport to Uviuy Exen 
+1793;0892;major_river;;-1;-1;-1;-1;Jerrist to Zygeria
+1848;0892;major_river;;-1;-1;-1;-1;Oslumpex to Zygeria
+1489;1502;major_river;;-1;-1;-1;-1;Arkuda to Korphir
+1317;1351;major_river;;-1;-1;-1;-1;Thaere to New Cov
+1386;1351;major_river;;-1;-1;-1;-1;Doldur to New Cov
+1317;1346;major_river;;-1;-1;-1;-1;Thaere to Kalarba
+1386;1346;major_river;;-1;-1;-1;-1;Doldur to Kalarba
+1326;1346;major_river;;-1;-1;-1;-1;Triffis to Kalarba
+1326;1327;major_river;;-1;-1;-1;-1;Triffis to Bannistar Station
+1236;1327;major_river;;-1;-1;-1;-1;Enarc to Bannistar Station
+1236;1223;major_river;;-1;-1;-1;-1;Enarc to Naboo
+1236;1175;major_river;;-1;-1;-1;-1;Enarc to Alui
+1236;1316;major_river;;-1;-1;-1;-1;Enarc to Ryndellia
+1363;1316;major_river;;-1;-1;-1;-1;Farstine to Ryndellia
+1363;1464;major_river;;-1;-1;-1;-1;Farstine to Zhar
+1223;1230;major_river;;-1;-1;-1;-1;Naboo to Alassa Major
+1210;1230;major_river;;-1;-1;-1;-1;Kalinda to Alassa Major
+1210;1167;major_river;;-1;-1;-1;-1;Kalinda to Nigel
+1147;1167;major_river;;-1;-1;-1;-1;Roldalna to Nigel
+1147;1087;major_river;;-1;-1;-1;-1;Roldalna to Ropagi
+1086;1087;major_river;;-1;-1;-1;-1;Kira to Ropagi
+1086;1085;major_river;;-1;-1;-1;-1;Kira to Lazerian
+1021;1085;major_river;;-1;-1;-1;-1;Arrgaw to Lazerian
+1022;1087;major_river;;-1;-1;-1;-1;Pax to Ropagi
+1021;1022;major_river;;-1;-1;-1;-1;Arrgaw to Pax
+1021;1032;major_river;;-1;-1;-1;-1;Arrgaw to Ramordia
+1053;1032;major_river;;-1;-1;-1;-1;Majoor to Ramordia
+1053;1038;major_river;;-1;-1;-1;-1;Majoor to Ragith
+1047;1038;major_river;;-1;-1;-1;-1;Gacerian to Ragith
+1047;1061;major_river;;-1;-1;-1;-1;Gacerian to Baroli
+1068;1061;major_river;;-1;-1;-1;-1;Shibric to Baroli
+1068;1065;major_river;;-1;-1;-1;-1;Shibric to Babbadod
+1060;1065;major_river;;-1;-1;-1;-1;Chardaan to Babbadod
+1060;1052;major_river;;-1;-1;-1;-1;Chardaan to Ronyards
+1051;1052;major_river;;-1;-1;-1;-1;Sagar to Ronyards
+1051;1025;major_river;;-1;-1;-1;-1;Sagar to Denon
+1021;0949;major_river;;-1;-1;-1;-1;Arrgaw to Jurzan
+0863;0949;major_river;;-1;-1;-1;-1;Lohopa to Jurzan
+0863;0743;major_river;;-1;-1;-1;-1;Lohopa to Droecil
+0716;0743;major_river;;-1;-1;-1;-1;Wroona to Droecil
+0753;0819;major_river;;-1;-1;-1;-1;Foless to Las Lagon
+0859;0819;major_river;;-1;-1;-1;-1;Affa to Las Lagon
+0859;0945;major_river;;-1;-1;-1;-1;Affa to Atzerri
+1060;0945;major_river;;-1;-1;-1;-1;Chardaan to Atzerri
+1060;1145;major_river;;-1;-1;-1;-1;Chardaan to Tynna
+1183;1145;major_river;;-1;-1;-1;-1;Allateen to Tynna
+1246;1270;major_river;;-1;-1;-1;-1;Gamor to Meren
+1274;1270;major_river;;-1;-1;-1;-1;Milagro to Meren
+1281;1270;major_river;;-1;-1;-1;-1;Aridus to Meren
+1281;1341;major_river;;-1;-1;-1;-1;Aridus to Charra
+0817;0900;major_river;;-1;-1;-1;-1;Fedalle to Raxxa
+0929;0900;major_river;;-1;-1;-1;-1;Kuat to Raxxa
+0953;0900;major_river;;-1;-1;-1;-1;Balmorra to Raxxa
+0953;0929;major_river;;-1;-1;-1;-1;Balmorra to Kuat
+0929;0954;major_river;;-1;-1;-1;-1;Kuat to Neimoidia
+0953;0954;major_river;;-1;-1;-1;-1;Balmorra to Neimoidia
+0977;0954;major_river;;-1;-1;-1;-1;Foundry to Neimoidia
+0977;1055;major_river;;-1;-1;-1;-1;Foundry to Commenor
+0891;0957;major_river;;-1;-1;-1;-1;Trellen to Humbarine
+1055;0957;major_river;;-1;-1;-1;-1;Commenor to Humbarine
+1055;1024;major_river;;-1;-1;-1;-1;Commenor to Damoria
+1006;1024;major_river;;-1;-1;-1;-1;Chorax to Damoria
+1006;1007;major_river;;-1;-1;-1;-1;Chorax to Vladet
+1000;1007;major_river;;-1;-1;-1;-1;Cato Neimoida to Vladet
+1000;1028;major_river;;-1;-1;-1;-1;Cato Neimoida to Hensara
+1031;1028;major_river;;-1;-1;-1;-1;Talamajor_river to Hensara
+1031;1063;major_river;;-1;-1;-1;-1;Talamajor_river to Lankashiir
+1059;1063;major_river;;-1;-1;-1;-1;Quellor to Lankashiir
+1059;0964;major_river;;-1;-1;-1;-1;Quellor to Exodeen
+1055;0985;major_river;;-1;-1;-1;-1;Commenor to Uquine
+0942;0985;major_river;;-1;-1;-1;-1;Kattada to Uquine
+0942;0910;major_river;;-1;-1;-1;-1;Kattada to Parkis
+0825;0910;major_river;;-1;-1;-1;-1;Kant to Parkis
+0825;0791;major_river;;-1;-1;-1;-1;Kant to Alderaan
+0774;0791;major_river;;-1;-1;-1;-1;Caamas to Alderaan
+0774;0749;major_river;;-1;-1;-1;-1;Caamas to Korfo
+0711;0749;major_river;;-1;-1;-1;-1;Tepasi to Korfo
+1055;1171;major_river;;-1;-1;-1;-1;Commenor to Rasterous
+1267;1171;major_river;;-1;-1;-1;-1;Zeltros to Rasterous
+1267;1299;major_river;;-1;-1;-1;-1;Zeltros to Virujansi
+1344;1299;major_river;;-1;-1;-1;-1;Umbara to Virujansi
+1344;1398;major_river;;-1;-1;-1;-1;Umbara to Quas Killam
+1429;1398;major_river;;-1;-1;-1;-1;Torn Station to Quas Killam
+1429;1441;major_river;;-1;-1;-1;-1;Torn Station to Kashyyyk
+1267;1294;major_river;;-1;-1;-1;-1;Zeltros to Merson
+1293;1294;major_river;;-1;-1;-1;-1;Taboon to Merson
+1293;1302;major_river;;-1;-1;-1;-1;Taboon to Ambria
+1267;1250;major_river;;-1;-1;-1;-1;Zeltros to Lorell
+1344;1250;major_river;;-1;-1;-1;-1;Umbara to Lorell
+1258;1250;major_river;;-1;-1;-1;-1;Hapes to Lorell
+1258;1265;major_river;;-1;-1;-1;-1;Hapes to Shedu Maad
+1263;1265;major_river;;-1;-1;-1;-1;Taanab to Shedu Maad
+1411;1441;major_river;;-1;-1;-1;-1;Uyter to Kashyyyk
+1411;1414;major_river;;-1;-1;-1;-1;Uyter to Phaseera
+1411;1443;major_river;;-1;-1;-1;-1;Uyter to Togoria
+1627;1443;major_river;;-1;-1;-1;-1;Charros to Togoria
+1627;1569;major_river;;-1;-1;-1;-1;Charros to Balamak
+1390;1414;major_river;;-1;-1;-1;-1;Lantillies to Phaseera
+1411;1380;major_river;;-1;-1;-1;-1;Uyter to Nazzri
+1336;1380;major_river;;-1;-1;-1;-1;Vena to Nazzri
+1336;1328;major_river;;-1;-1;-1;-1;Vena to Porus Vida
+1301;1328;major_river;;-1;-1;-1;-1;Onderon to Porus Vida
+1301;1302;major_river;;-1;-1;-1;-1;Onderon to Ambria
+1569;1441;major_river;;-1;-1;-1;-1;Balamak to Kashyyyk
+1274;1247;major_river;;-1;-1;-1;-1;Milagro to Nivek
+1241;1247;major_river;;-1;-1;-1;-1;Sika to Nivek
+1241;1239;major_river;;-1;-1;-1;-1;Sika to Coonee
+1225;1239;major_river;;-1;-1;-1;-1;Krann to Coonee
+1225;1217;major_river;;-1;-1;-1;-1;Krann to Momansi
+1185;1217;major_river;;-1;-1;-1;-1;Brevost to Momansi
+1185;1155;major_river;;-1;-1;-1;-1;Brevost to Cerenia
+1085;1155;major_river;;-1;-1;-1;-1;Lazerian to Cerenia
+1115;1175;major_river;;-1;-1;-1;-1;Verdanth to Alui
+1115;1016;major_river;;-1;-1;-1;-1;Verdanth to Sanrafsix
+0966;1016;major_river;;-1;-1;-1;-1;Jutrand to Sanrafsix 
+0966;0932;major_river;;-1;-1;-1;-1;Jutrand to Darknell
+0950;0932;major_river;;-1;-1;-1;-1;Aquilaris to Darknell
+0950;0959;major_river;;-1;-1;-1;-1;Aquilaris to Chryya
+0989;0959;major_river;;-1;-1;-1;-1;Malastare to Chryya
+0989;1005;major_river;;-1;-1;-1;-1;Malastare to ZeHeth
+1022;1005;major_river;;-1;-1;-1;-1;Pax to ZeHeth
+0926;0932;major_river;;-1;-1;-1;-1;Tanta Aurek to Darknell
+0926;0917;major_river;;-1;-1;-1;-1;Tanta Aurek to Cmaol Di
+0834;0917;major_river;;-1;-1;-1;-1;Eriadu to Cmaol Di
+0834;0818;major_river;;-1;-1;-1;-1;Eriadu to Averam
+0692;0818;major_river;;-1;-1;-1;-1;Shumavar to Averam
+0692;0653;major_river;;-1;-1;-1;-1;Shumavar to Atravis
+0570;0653;major_river;;-1;-1;-1;-1;Tosste to Atravis
+0570;0502;major_river;;-1;-1;-1;-1;Tosste to Rutan
+0404;0502;major_river;;-1;-1;-1;-1;Fwatna to Rutan
+0877;0868;major_river;;-1;-1;-1;-1;Kal'Shebbol to Pergitor
+0867;0868;major_river;;-1;-1;-1;-1;Karideph to Pergitor
+0867;0860;major_river;;-1;-1;-1;-1;Karideph to Adarlon
+0871;0860;major_river;;-1;-1;-1;-1;Tarabba to Adarlon
+0871;0839;major_river;;-1;-1;-1;-1;Tarabba to Denab
+0881;0839;major_river;;-1;-1;-1;-1;Sluis Van to Denab
+0881;0883;major_river;;-1;-1;-1;-1;Sluis Van to Praesitlyn
+0856;0883;major_river;;-1;-1;-1;-1;Triton to Praesitlyn
+0856;0852;major_river;;-1;-1;-1;-1;Triton to Clak'dor
+0834;0852;major_river;;-1;-1;-1;-1;Eriadu to Clak'dor
+0834;0851;major_river;;-1;-1;-1;-1;Eriadu to Sullust
+0838;0851;major_river;;-1;-1;-1;-1;Tshindral to Sullust
+0838;0837;major_river;;-1;-1;-1;-1;Tshindral to Medth
+0823;0837;major_river;;-1;-1;-1;-1;Vondarc to Medth
+0823;0814;major_river;;-1;-1;-1;-1;Vondarc to Lanthe
+0813;0814;major_river;;-1;-1;-1;-1;Alakatha to Lanthe
+0813;0798;major_river;;-1;-1;-1;-1;Alakatha to Daeman
+0780;0798;major_river;;-1;-1;-1;-1;Woostri to Daeman
+0780;0766;major_river;;-1;-1;-1;-1;Woostri to Vandelhelm
+0744;0766;major_river;;-1;-1;-1;-1;Tregillis to Vandelhelm
+1022;0939;major_river;;-1;-1;-1;-1;Pax to Opiteihr
+0899;0939;major_river;;-1;-1;-1;-1;Vogel to Opiteihr
+0899;0823;major_river;;-1;-1;-1;-1;Vogel to Vondarc
+0550;0587;major_river;;-1;-1;-1;-1;Dolla to Belsavis
+0550;0592;major_river;;-1;-1;-1;-1;Dolla to Karfeddion
+0587;0592;major_river;;-1;-1;-1;-1;Belsavis to Karfeddion
+0550;0330;major_river;;-1;-1;-1;-1;Dolla to Nothoiin
+0550;0834;major_river;;-1;-1;-1;-1;Dolla to Eriadu
+0550;0545;major_river;;-1;-1;-1;-1;Dolla to Velga
+0592;0545;major_river;;-1;-1;-1;-1;Karfeddion to Velga
+0592;0521;major_river;;-1;-1;-1;-1;Karfeddion to Ogem
+0521;0545;major_river;;-1;-1;-1;-1;Ogem to Velga
+0521;0519;major_river;;-1;-1;-1;-1;Ogem to Cyphar
+0473;0519;major_river;;-1;-1;-1;-1;Feenix to Cyphar
+0473;0440;major_river;;-1;-1;-1;-1;Feenix to Miztoc
+0359;0440;major_river;;-1;-1;-1;-1;Kriselist to Miztoc
+0300;0630;major_river;;-1;-1;-1;-1;Isde Naha to Kelrodo-Ai
+0340;0630;major_river;;-1;-1;-1;-1;Polmanar to Kelrodo-Ai
+0799;0630;major_river;;-1;-1;-1;-1;Dorvalla to Kelrodo-Ai
+0834;0799;major_river;;-1;-1;-1;-1;Eriadu to Dorvalla
+0834;0816;major_river;;-1;-1;-1;-1;Eriadu to Bortras
+0694;0816;major_river;;-1;-1;-1;-1;Eiattu to Bortras
+0694;0592;major_river;;-1;-1;-1;-1;Eiattu to Karfeddion
+1487;1435;major_river;;-1;-1;-1;-1;Socorro to Bahalian
+1428;1435;major_river;;-1;-1;-1;-1;Andalasa to Bahalian
+1428;1412;major_river;;-1;-1;-1;-1;Andalasa to Reuss
+1378;1412;major_river;;-1;-1;-1;-1;Spice Terminus to Reuss
+1378;1447;major_river;;-1;-1;-1;-1;Spice Terminus to Skynara
+1378;1314;major_river;;-1;-1;-1;-1;Spice Terminus to Elshandruu Pica
+1378;1315;major_river;;-1;-1;-1;-1;Spice Terminus to Suarbi
+1315;1314;major_river;;-1;-1;-1;-1;Suarbi to Elshandruu Pica
+1315;1261;major_river;;-1;-1;-1;-1;Suarbi to Svivren
+1300;1314;major_river;;-1;-1;-1;-1;Vohai to Elshandruu Pica
+1300;1372;major_river;;-1;-1;-1;-1;Vohai to Bajic
+1382;1372;major_river;;-1;-1;-1;-1;Vergesso to Bajic
+1382;1342;major_river;;-1;-1;-1;-1;Vergesso to Stend
+1355;1342;major_river;;-1;-1;-1;-1;Trigalis to Stend
+1355;1365;major_river;;-1;-1;-1;-1;Trigalis to Ninzam
+1363;1365;major_river;;-1;-1;-1;-1;Farstine to Ninzam
+1016;1010;major_river;;-1;-1;-1;-1;Sanrafsix to Syned
+1027;1010;major_river;;-1;-1;-1;-1;Omwat to Syned
+1027;1039;major_river;;-1;-1;-1;-1;Omwat to Kabal
+0856;1039;major_river;;-1;-1;-1;-1;Triton to Kabal
+1141;1039;major_river;;-1;-1;-1;-1;Sharlissia to Kabal
+1079;1039;major_river;;-1;-1;-1;-1;Dravian Station to Kabal
+1079;1037;major_river;;-1;-1;-1;-1;Dravian Station to Sevarcos
+1102;1037;major_river;;-1;-1;-1;-1;Kirdo to Sevarcos
+1102;1116;major_river;;-1;-1;-1;-1;Kirdo to Ma'ar Shaddam
+1117;1116;major_river;;-1;-1;-1;-1;Cotellier to Ma'ar Shaddam
+1692;1706;major_river;;-1;-1;-1;-1;Piroket to Koiogra
+1806;1706;major_river;;-1;-1;-1;-1;Molavar to Koiogra
+1806;1907;major_river;;-1;-1;-1;-1;Molavar to Lyran
+1958;1907;major_river;;-1;-1;-1;-1;Gamorr to Lyran
+1958;1951;major_river;;-1;-1;-1;-1;Gamorr to Arami
+1968;1951;major_river;;-1;-1;-1;-1;Syvris to Arami
+1968;1998;major_river;;-1;-1;-1;-1;Syvris to Dubrava
+2008;1998;major_river;;-1;-1;-1;-1;Barab to Dubrava
+2008;2017;major_river;;-1;-1;-1;-1;Barab to Clantaano
+2020;2017;major_river;;-1;-1;-1;-1;Dilbara to Clantaano
+2020;2019;major_river;;-1;-1;-1;-1;Dilbara to Rampa Minor
+2012;2019;major_river;;-1;-1;-1;-1;Teth to Rampa Minor
+2040;2012;major_river;;-1;-1;-1;-1;Aduba to Teth
+2040;2021;major_river;;-1;-1;-1;-1;Aduba to Bheriz
+2004;2021;major_river;;-1;-1;-1;-1;Formos to Bheriz
+2004;1953;major_river;;-1;-1;-1;-1;Formos to Kessel
+2004;1982;major_river;;-1;-1;-1;-1;Formos to Kubindi
+1973;1982;major_river;;-1;-1;-1;-1;Norval to Kubindi
+1973;1976;major_river;;-1;-1;-1;-1;Norval to Gestrex
+1974;1976;major_river;;-1;-1;-1;-1;Kegen to Gestrex
+1974;1920;major_river;;-1;-1;-1;-1;Kegen to Tammar
+1922;1920;major_river;;-1;-1;-1;-1;Junkfort Station to Tammar
+1922;1894;major_river;;-1;-1;-1;-1;Junkfort Station to Dennogra
+1870;1894;major_river;;-1;-1;-1;-1;Taskeed to Dennogra
+1870;1854;major_river;;-1;-1;-1;-1;Taskeed to Jabiim
+1821;1854;major_river;;-1;-1;-1;-1;Handooine to Jabiim
+1821;1752;major_river;;-1;-1;-1;-1;Handooine to Sy Mirth
+1678;1752;major_river;;-1;-1;-1;-1;Centares to Sy Mirth
+1712;1752;major_river;;-1;-1;-1;-1;Trogan to Sy Mirth
+1712;1718;major_river;;-1;-1;-1;-1;Trogan to Belderone
+1711;1718;major_river;;-1;-1;-1;-1;Columex to Belderone
+1762;1770;major_river;;-1;-1;-1;-1;Arcan to Janilis
+1800;1770;major_river;;-1;-1;-1;-1;Chandaar to Janilis
+1800;1790;major_river;;-1;-1;-1;-1;Chandaar to Oor
+1807;1790;major_river;;-1;-1;-1;-1;Soruus to Oor
+1807;1841;major_river;;-1;-1;-1;-1;Soruus to Arramanx
+1831;1841;major_river;;-1;-1;-1;-1;Kismaano to Arramanx
+1831;1813;major_river;;-1;-1;-1;-1;Kismaano to Cadinth
+1766;1799;major_river;;-1;-1;-1;-1;Lianna to Spinax
+1813;1799;major_river;;-1;-1;-1;-1;Cadinth to Spinax
+1813;1845;major_river;;-1;-1;-1;-1;Cadinth to Desargorr
+1862;1845;major_river;;-1;-1;-1;-1;Voss to Desargorr
+1862;1882;major_river;;-1;-1;-1;-1;Voss to Jaminere
+1849;1882;major_river;;-1;-1;-1;-1;Corlax to Jaminere
+1849;1840;major_river;;-1;-1;-1;-1;Corlax to Omman
+1824;1840;major_river;;-1;-1;-1;-1;Folende to Omman
+1824;1802;major_river;;-1;-1;-1;-1;Folende to Desevro
+1841;1885;major_river;;-1;-1;-1;-1;Arramanx to Derellium
+1887;1885;major_river;;-1;-1;-1;-1;Panna to Derellium
+1887;1901;major_river;;-1;-1;-1;-1;Panna to Corlass
+1882;1901;major_river;;-1;-1;-1;-1;Jaminere to Corlass
+1903;1885;major_river;;-1;-1;-1;-1;Eibon to Derellium
+1903;1914;major_river;;-1;-1;-1;-1;Eibon to Algor
+1921;1914;major_river;;-1;-1;-1;-1;Saheelindeel to Algor
+1766;1756;major_river;;-1;-1;-1;-1;Lianna to Thanium
+1739;1756;major_river;;-1;-1;-1;-1;Tharkos to Thanium
+1739;1710;major_river;;-1;-1;-1;-1;Tharkos to Tandankin
+1633;1710;major_river;;-1;-1;-1;-1;Stenos to Tandankin
+1633;1629;major_river;;-1;-1;-1;-1;Stenos to Korriban
+1633;1606;major_river;;-1;-1;-1;-1;Stenos to Spintir
+1594;1606;major_river;;-1;-1;-1;-1;Pygorix to Spintir
+1594;1580;major_river;;-1;-1;-1;-1;Pygorix to Feldwes
+1560;1580;major_river;;-1;-1;-1;-1;Arda to Feldwes
+1560;1559;major_river;;-1;-1;-1;-1;Arda to Capella
+1561;1559;major_river;;-1;-1;-1;-1;Little Capella to Capella
+1560;1553;major_river;;-1;-1;-1;-1;Arda to Kalishik
+1557;1553;major_river;;-1;-1;-1;-1;Feena to Kalishik
+1557;1549;major_river;;-1;-1;-1;-1;Feena to B'trilla
+1544;1549;major_river;;-1;-1;-1;-1;Chenowei to B'trilla
+1544;1551;major_river;;-1;-1;-1;-1;Chenowei to Elamposnia
+1544;1531;major_river;;-1;-1;-1;-1;Chenowei to Atorra
+1523;1531;major_river;;-1;-1;-1;-1;Troos to Atorra
+1557;1538;major_river;;-1;-1;-1;-1;Feena to Barison
+1518;1538;major_river;;-1;-1;-1;-1;Usta to Barison
+1518;1515;major_river;;-1;-1;-1;-1;Usta to The Cometwash
+1502;1515;major_river;;-1;-1;-1;-1;Korphir to The Cometwash
+1460;1465;major_river;;-1;-1;-1;-1;Vaal to Glade
+1493;1465;major_river;;-1;-1;-1;-1;Wetyin's Colony to Glade
+1402;1426;major_river;;-1;-1;-1;-1;Ladarra to Marrovia
+1440;1426;major_river;;-1;-1;-1;-1;Kli'aar to Marrovia
+1440;1456;major_river;;-1;-1;-1;-1;Kli'aar to Betshish
+1475;1456;major_river;;-1;-1;-1;-1;Mannova to Betshish
+1452;1456;major_river;;-1;-1;-1;-1;Mogoshyn to Betshish
+1452;1463;major_river;;-1;-1;-1;-1;Mogoshyn to Kushibah
+1616;1629;major_river;;-1;-1;-1;-1;Nicht Ka to Korriban
+1636;1629;major_river;;-1;-1;-1;-1;Bosthirda to Korriban
+1688;1629;major_river;;-1;-1;-1;-1;Rhelg to Korriban
+1636;1656;major_river;;-1;-1;-1;-1;Bosthirda to Dromund Kaas
+1670;1656;major_river;;-1;-1;-1;-1;Jaguada to Dromund Kaas
+1670;1700;major_river;;-1;-1;-1;-1;Jaguada to Khar Delba
+1688;1700;major_river;;-1;-1;-1;-1;Rhelg to Khar Delba
+1687;1700;major_river;;-1;-1;-1;-1;Krayiss to Khar Delba
+1687;1650;major_river;;-1;-1;-1;-1;Krayiss to Ch'hodos
+1670;1650;major_river;;-1;-1;-1;-1;Jaguada to Ch'hodos
+1628;1650;major_river;;-1;-1;-1;-1;Ziost to Ch'hodos
+1628;1616;major_river;;-1;-1;-1;-1;Ziost to Nicht Ka
+1628;1624;major_river;;-1;-1;-1;-1;Ziost to Athiss
+1614;1624;major_river;;-1;-1;-1;-1;Korriz to Athiss
+1677;1624;major_river;;-1;-1;-1;-1;Svolten to Athiss
+1677;1664;major_river;;-1;-1;-1;-1;Svolten to Bhargebba
+1684;1664;major_river;;-1;-1;-1;-1;Nfolgai to Bhargebba
+1557;1590;major_river;;-1;-1;-1;-1;Feena to Corbos
+1590;1629;major_river;;-1;-1;-1;-1;Corbos to Korriban
+1670;1625;major_river;;-1;-1;-1;-1;Jaguada to Begeren
+1922;1850;major_river;;-1;-1;-1;-1;Junkfort Station to Boonta
+1767;1850;major_river;;-1;-1;-1;-1;Pusat Station to Boonta
+1767;1759;major_river;;-1;-1;-1;-1;Pusat Station to Peg Shar
+1727;1759;major_river;;-1;-1;-1;-1;Bimmisaari to Peg Shar
+1727;1627;major_river;;-1;-1;-1;-1;Bimmisaari to Charros
+1776;1850;major_river;;-1;-1;-1;-1;Kile to Boonta
+1776;1752;major_river;;-1;-1;-1;-1;Kile to Sy Mirth
+1873;1850;major_river;;-1;-1;-1;-1;Lant to Boonta
+1886;1850;major_river;;-1;-1;-1;-1;Sriluur to Boonta
+1886;1897;major_river;;-1;-1;-1;-1;Sriluur to Ques
+1917;1897;major_river;;-1;-1;-1;-1;Yoribuunt to Ques
+1917;1905;major_river;;-1;-1;-1;-1;Yoribuunt to Nimia
+1888;1905;major_river;;-1;-1;-1;-1;Klatooine to Nimia
+1888;1897;major_river;;-1;-1;-1;-1;Klatooine to Ques
+1873;1859;major_river;;-1;-1;-1;-1;Lant to Dirha
+1886;1859;major_river;;-1;-1;-1;-1;Sriluur to Dirha
+1888;1880;major_river;;-1;-1;-1;-1;Klatooine to Sleheyron
+1808;1880;major_river;;-1;-1;-1;-1;Nimban to Sleheyron
+1808;1817;major_river;;-1;-1;-1;-1;Nimban to Sionia
+1832;1817;major_river;;-1;-1;-1;-1;Cyborrea to Sionia
+1832;1859;major_river;;-1;-1;-1;-1;Cyborrea to Dirha
+1892;1905;major_river;;-1;-1;-1;-1;Kafane to Nimia
+1917;1965;major_river;;-1;-1;-1;-1;Yoribuunt to Delacrix
+1974;1965;major_river;;-1;-1;-1;-1;Kegen to Delacrix
+1915;1880;major_river;;-1;-1;-1;-1;Ulmatra to Sleheyron
+1915;2004;major_river;;-1;-1;-1;-1;Ulmatra to Formos
+1915;1892;major_river;;-1;-1;-1;-1;Ulmatra to Kafane
+0034;0043;major_river;;-1;-1;-1;-1;Csilla to Jamiron
+0034;0045;major_river;;-1;-1;-1;-1;Csilla to Rentor
+0045;0043;major_river;;-1;-1;-1;-1;Rentor to Jamiron
+1297;1176;major_river;;-1;-1;-1;-1;Celanon to Axxila
+1256;1176;major_river;;-1;-1;-1;-1;Vandyne to Axxila
+1256;1272;major_river;;-1;-1;-1;-1;Vandyne to Camden
+1286;1272;major_river;;-1;-1;-1;-1;Edusa to Camden
+1286;1255;major_river;;-1;-1;-1;-1;Edusa to Tangrene
+1137;1176;major_river;;-1;-1;-1;-1;Vinsoth to Axxila
+1137;1224;major_river;;-1;-1;-1;-1;Vinsoth to Drackmar
+1244;1224;major_river;;-1;-1;-1;-1;Botajef to Drackmar
+1137;1017;major_river;;-1;-1;-1;-1;Vinsoth to Shaum Hii
+0824;1017;major_river;;-1;-1;-1;-1;Agamar to Shaum Hii
+0824;0907;major_river;;-1;-1;-1;-1;Agamar to Borgo Prime
+0914;0907;major_river;;-1;-1;-1;-1;Er'Kit to Borgo Prime
+0914;1080;major_river;;-1;-1;-1;-1;Er'Kit to G'wenee
+1152;1080;major_river;;-1;-1;-1;-1;Halmad to G'wenee
+1152;1168;major_river;;-1;-1;-1;-1;Halmad to Thomquizzar
+1172;1168;major_river;;-1;-1;-1;-1;Wrodi to Thomquizzar
+1197;1168;major_river;;-1;-1;-1;-1;Bandomeer to Thomquizzar
+0824;0800;major_river;;-1;-1;-1;-1;Agamar to Cademimu
+0773;0800;major_river;;-1;-1;-1;-1;Noonar to Cademimu
+0773;0738;major_river;;-1;-1;-1;-1;Noonar to Ithor
+0747;0738;major_river;;-1;-1;-1;-1;Genassa to Ithor
+0747;0601;major_river;;-1;-1;-1;-1;Genassa to Korvaii
+0477;0601;major_river;;-1;-1;-1;-1;Ord Mantell to Korvaii
+0477;0421;major_river;;-1;-1;-1;-1;Ord Mantell to Dohu
+0337;0421;major_river;;-1;-1;-1;-1;Nentan to Dohu
+0337;0281;major_river;;-1;-1;-1;-1;Nentan to Vortex
+0229;0281;major_river;;-1;-1;-1;-1;Station 88 to Vortex
+0229;0231;major_river;;-1;-1;-1;-1;Station 88 to Vicondor
+1137;1136;major_river;;-1;-1;-1;-1;Vinsoth to Salin
+1091;1136;major_river;;-1;-1;-1;-1;Ciutric to Salin
+1091;1090;major_river;;-1;-1;-1;-1;Ciutric to Corvis Minor 
+1089;1090;major_river;;-1;-1;-1;-1;Argazda to Corvis Minor
+1089;1058;major_river;;-1;-1;-1;-1;Argazda to Bimmiel
+0928;1058;major_river;;-1;-1;-1;-1;Birgis to Bimmiel
+0928;0772;major_river;;-1;-1;-1;-1;Birgis to Seline
+0658;0772;major_river;;-1;-1;-1;-1;Sernpidal to Seline
+0658;0589;major_river;;-1;-1;-1;-1;Sernpidal to Veragi
+0551;0589;major_river;;-1;-1;-1;-1;Trassitan to Veragi
+0551;0400;major_river;;-1;-1;-1;-1;Trassitan to Dubrillion
+0289;0400;major_river;;-1;-1;-1;-1;Bescane to Dubrillion
+0409;0400;major_river;;-1;-1;-1;-1;Ahakista to Dubrillion
+0409;0472;major_river;;-1;-1;-1;-1;Ahakista to Dantooine
+0527;0472;major_river;;-1;-1;-1;-1;Sinsang to Dantooine
+0527;0561;major_river;;-1;-1;-1;-1;Sinsang to Anx Minor
+0642;0561;major_river;;-1;-1;-1;-1;Gravlex Med to Anx Minor
+0525;0561;major_river;;-1;-1;-1;-1;Ord Trasi to Anx Minor
+0289;0277;major_river;;-1;-1;-1;-1;Bescane to Bastion
+0220;0277;major_river;;-1;-1;-1;-1;Qonto to Bastion
+0220;0194;major_river;;-1;-1;-1;-1;Qonto to Xerton
+0289;0290;major_river;;-1;-1;-1;-1;Bescane to Jaemus
+0252;0290;major_river;;-1;-1;-1;-1;Varvona to Jaemus
+0252;0230;major_river;;-1;-1;-1;-1;Varvona to Dolis
+0376;0290;major_river;;-1;-1;-1;-1;Gabredor to Jaemus
+0376;0423;major_river;;-1;-1;-1;-1;Gabredor to Angor
+0472;0423;major_river;;-1;-1;-1;-1;Dantooine to Angor
+0310;0290;major_river;;-1;-1;-1;-1;Muunilinst to Jaemus
+0310;0360;major_river;;-1;-1;-1;-1;Muunilinst to Venestria
+0396;0360;major_river;;-1;-1;-1;-1;Kwevron to Venestria
+0396;0427;major_river;;-1;-1;-1;-1;Kwevron to Fodro
+0525;0427;major_river;;-1;-1;-1;-1;Ord Trasi to Fodro
+0525;0401;major_river;;-1;-1;-1;-1;Ord Trasi to Aris
+0347;0401;major_river;;-1;-1;-1;-1;Marmoth to Aris
+0347;0327;major_river;;-1;-1;-1;-1;Marmoth to Cezith
+0360;0327;major_river;;-1;-1;-1;-1;Venestria to Cezith
+0280;0327;major_river;;-1;-1;-1;-1;Endoraan to Cezith
+0267;0310;major_river;;-1;-1;-1;-1;Bisellia to Muunilinst
+0280;0267;major_river;;-1;-1;-1;-1;Endoraan to Bisellia
+0280;0218;major_river;;-1;-1;-1;-1;Endoraan to Gelda
+0208;0218;major_river;;-1;-1;-1;-1;Delephr to Gelda
+0208;0195;major_river;;-1;-1;-1;-1;Delephr to Ord Thoden
+0280;0268;major_river;;-1;-1;-1;-1;Endoraan to Entralla
+0254;0268;major_river;;-1;-1;-1;-1;Capza to Entralla
+0234;0268;major_river;;-1;-1;-1;-1;Bextar to Entralla
+0234;0190;major_river;;-1;-1;-1;-1;Bextar to Cantras Gola
+0179;0190;major_river;;-1;-1;-1;-1;Valc to Cantras Gola
+0179;0168;major_river;;-1;-1;-1;-1;Valc to Brodo Asogi
+0160;0168;major_river;;-1;-1;-1;-1;Parshoone to Brodo Asogi
+0254;0255;major_river;;-1;-1;-1;-1;Capza to Yaga Minor
+0250;0255;major_river;;-1;-1;-1;-1;Ompersan to Yaga Minor
+0250;0274;major_river;;-1;-1;-1;-1;Ompersan to Prefsbelt
+0263;0274;major_river;;-1;-1;-1;-1;Borosk to Prefsbelt
+0263;0191;major_river;;-1;-1;-1;-1;Borosk to Marquarra
+0363;0401;major_river;;-1;-1;-1;-1;Mygeeto to Aris
+0363;0364;major_river;;-1;-1;-1;-1;Mygeeto to Minashee
+0384;0364;major_river;;-1;-1;-1;-1;Garqi to Minashee
+0384;0344;major_river;;-1;-1;-1;-1;Garqi to Monhudle
+0263;0344;major_river;;-1;-1;-1;-1;Borosk to Monhudle
+0263;0371;major_river;;-1;-1;-1;-1;Borosk to Wistril
+0417;0371;major_river;;-1;-1;-1;-1;Orinda to Wistril
+0417;0424;major_river;;-1;-1;-1;-1;Orinda to Lonnaw
+0436;0424;major_river;;-1;-1;-1;-1;Obredaan to Lonnaw
+0436;0447;major_river;;-1;-1;-1;-1;Obredaan to Gonmore
+0452;0447;major_river;;-1;-1;-1;-1;Ord Tessebok to Gonmore
+0452;0468;major_river;;-1;-1;-1;-1;Ord Tessebok to Qiilura
+0477;0468;major_river;;-1;-1;-1;-1;Ord Mantell to Qiilura
+0694;0734;major_river;;-1;-1;-1;-1;Eiattu to Starforge Nebula
+0806;0734;major_river;;-1;-1;-1;-1;Indupar to Starforge Nebula
+0806;0837;major_river;;-1;-1;-1;-1;Indupar to Medth
+1441;1446;major_river;;-1;-1;-1;-1;Kashyyyk to Tholatin
+1453;1446;major_river;;-1;-1;-1;-1;Mytaranor to Tholatin
+1453;1458;major_river;;-1;-1;-1;-1;Mytaranor to Pizilis
+1478;1458;major_river;;-1;-1;-1;-1;Rorgam to Pizilis
+1478;1497;major_river;;-1;-1;-1;-1;Rorgam to Ota
+1479;1497;major_river;;-1;-1;-1;-1;Coachelle to Ota
+1479;1459;major_river;;-1;-1;-1;-1;Coachelle to Terr'Skiar
+1459;1458;major_river;;-1;-1;-1;-1;Terr'Skiar to Pizilis
+1441;1467;major_river;;-1;-1;-1;-1;Kashyyyk to Rakhuun
+1484;1467;major_river;;-1;-1;-1;-1;Chamble to Rakhuun
+1484;1504;major_river;;-1;-1;-1;-1;Chamble to Messert
+1514;1504;major_river;;-1;-1;-1;-1;Randon to Messert
+1514;1497;major_river;;-1;-1;-1;-1;Randon to Ota
+1514;1602;major_river;;-1;-1;-1;-1;Randon to Yitabo
+1586;1602;major_river;;-1;-1;-1;-1;Durkteel to Yitabo
+1586;1565;major_river;;-1;-1;-1;-1;Durkteel to Sneeve
+1513;1565;major_river;;-1;-1;-1;-1;Kwookrr to Sneeve
+1513;1441;major_river;;-1;-1;-1;-1;Kwookrr to Kashyyyk
+1694;1602;major_river;;-1;-1;-1;-1;Chalacta to Yitabo
+1694;1722;major_river;;-1;-1;-1;-1;Chalacta to Ilos
+1748;1722;major_river;;-1;-1;-1;-1;Ilos Minor to Ilos
+1748;1786;major_river;;-1;-1;-1;-1;Ilos Minor to Nar Kreeta
+1808;1786;major_river;;-1;-1;-1;-1;Nimban to Nar Kreeta
+1740;1786;major_river;;-1;-1;-1;-1;Nar Bo Sholla to Nar Kreeta
+1740;1702;major_river;;-1;-1;-1;-1;Nar Bo Sholla to Keldooine
+1691;1702;major_river;;-1;-1;-1;-1;Kwenn to Keldooine
+1691;1607;major_river;;-1;-1;-1;-1;Kwenn to Ubrikkia
+1555;1607;major_river;;-1;-1;-1;-1;Blimph to Ubrikkia
+1555;1514;major_river;;-1;-1;-1;-1;Blimph to Randon
+1526;1514;major_river;;-1;-1;-1;-1;Deysum to Randon
+1526;1485;major_river;;-1;-1;-1;-1;Deysum to Bissillirus
+1459;1485;major_river;;-1;-1;-1;-1;Terr'Skiar to Bissillirus
+1526;1520;major_river;;-1;-1;-1;-1;Deysum to Lexrul
+1536;1520;major_river;;-1;-1;-1;-1;Uogo'cor to Lexrul
+1536;1666;major_river;;-1;-1;-1;-1;Uogo'cor to Tol Amn
+1536;1521;major_river;;-1;-1;-1;-1;Uogo'cor to Nanth'ri
+1714;1666;major_river;;-1;-1;-1;-1;Toydaria to Tol Amn
+1714;1737;major_river;;-1;-1;-1;-1;Toydaria to Kleeva
+1765;1737;major_river;;-1;-1;-1;-1;Nal Hutta to Kleeva
+1740;1772;major_river;;-1;-1;-1;-1;Nar Bo Sholla to Irith
+1787;1772;major_river;;-1;-1;-1;-1;Du Hutta to Irith
+1787;1765;major_river;;-1;-1;-1;-1;Du Hutta to Nal Hutta
+1838;1765;major_river;;-1;-1;-1;-1;Hosko to Nal Hutta
+1838;1884;major_river;;-1;-1;-1;-1;Hosko to Varl
+1860;1884;major_river;;-1;-1;-1;-1;Gos Hutta to Varl
+1860;1863;major_river;;-1;-1;-1;-1;Gos Hutta to Mulatan
+1880;1863;major_river;;-1;-1;-1;-1;Sleheyron to Mulatan
+1860;1895;major_river;;-1;-1;-1;-1;Gos Hutta to Langoona
+1923;1895;major_river;;-1;-1;-1;-1;Elgit to Langoona
+1923;1916;major_river;;-1;-1;-1;-1;Elgit to Zisia
+1915;1916;major_river;;-1;-1;-1;-1;Ulmatra to Zisia
+1923;1939;major_river;;-1;-1;-1;-1;Elgit to Usk
+1944;1939;major_river;;-1;-1;-1;-1;Moralan to Usk
+1963;1939;major_river;;-1;-1;-1;-1;Saqqar to Usk
+1963;1993;major_river;;-1;-1;-1;-1;Saqqar to Nar Haaska
+2000;1993;major_river;;-1;-1;-1;-1;Droxu to Nar Haaska
+1963;1960;major_river;;-1;-1;-1;-1;Saqqar to Tisht
+1930;1960;major_river;;-1;-1;-1;-1;M'Hanna to Tisht
+1930;1884;major_river;;-1;-1;-1;-1;M'Hanna to Varl
+1930;1919;major_river;;-1;-1;-1;-1;M'Hanna to Sakifwanna
+1923;1919;major_river;;-1;-1;-1;-1;Elgit to Sakifwanna
+1968;1956;major_river;;-1;-1;-1;-1;Syvris to Unagin
+1948;1956;major_river;;-1;-1;-1;-1;Riileb to Unagin
+1924;1956;major_river;;-1;-1;-1;-1;Tsyk to Unagin
+1924;1909;major_river;;-1;-1;-1;-1;Tsyk to Aylayl
+1867;1909;major_river;;-1;-1;-1;-1;Hollastin to Aylayl
+1867;1829;major_river;;-1;-1;-1;-1;Hollastin to Affavan
+1778;1829;major_river;;-1;-1;-1;-1;Circumtore to Affavan
+1778;1828;major_river;;-1;-1;-1;-1;Circumtore to Rorak
+1765;1828;major_river;;-1;-1;-1;-1;Nal Hutta to Rorak
+1904;1828;major_river;;-1;-1;-1;-1;Diyu to Rorak
+1904;1959;major_river;;-1;-1;-1;-1;Diyu to Ylesia
+1992;1959;major_river;;-1;-1;-1;-1;Ziugen to Ylesia
+1992;2012;major_river;;-1;-1;-1;-1;Ziugen to Teth
+1867;1857;major_river;;-1;-1;-1;-1;Hollastin to Xolu
+1874;1857;major_river;;-1;-1;-1;-1;Far Pando to Xolu
+1874;1898;major_river;;-1;-1;-1;-1;Far Pando to Near Pando
+1778;1779;major_river;;-1;-1;-1;-1;Circumtore to Carnovia
+1778;1574;major_river;;-1;-1;-1;-1;Circumtore to Daalang
+1775;1779;major_river;;-1;-1;-1;-1;Nar Kaaga to Carnovia
+1775;1734;major_river;;-1;-1;-1;-1;Nar Kaaga to Dohlban
+1673;1734;major_river;;-1;-1;-1;-1;Void Station to Dohlban
+1673;1638;major_river;;-1;-1;-1;-1;Void Station to Bothawui
+1641;1638;major_river;;-1;-1;-1;-1;Moonus Mandel to Bothawui
+1641;1620;major_river;;-1;-1;-1;-1;Moonus Mandel to Lannik
+1620;1574;major_river;;-1;-1;-1;-1;Lannik to Daalang
+1651;1638;major_river;;-1;-1;-1;-1;Kothlis to Bothawui
+1651;1665;major_river;;-1;-1;-1;-1;Kothlis to Thoran
+1695;1665;major_river;;-1;-1;-1;-1;Zygia to Thoran
+1695;1713;major_river;;-1;-1;-1;-1;Zygia to Holess
+1723;1713;major_river;;-1;-1;-1;-1;Boranda to Holess
+1723;1741;major_river;;-1;-1;-1;-1;Boranda to Manda
+1764;1741;major_river;;-1;-1;-1;-1;Dennaskar to Manda
+1764;1783;major_river;;-1;-1;-1;-1;Dennaskar to Rishi
+1803;1783;major_river;;-1;-1;-1;-1;Ukio to Rishi
+1803;1806;major_river;;-1;-1;-1;-1;Ukio to Molavar
+1592;1741;major_river;;-1;-1;-1;-1;Leritor to Manda
+1592;1529;major_river;;-1;-1;-1;-1;Leritor to Thape
+1517;1529;major_river;;-1;-1;-1;-1;Ando to Thape
+1517;1499;major_river;;-1;-1;-1;-1;Ando to Mon Gaaza
+1394;1470;major_river;;-1;-1;-1;-1;Druckenwell to Haseria
+1491;1470;major_river;;-1;-1;-1;-1;Monastery to Haseria
+1491;1540;major_river;;-1;-1;-1;-1;Monastery to Masterra
+1558;1540;major_river;;-1;-1;-1;-1;Nexus Ortai to Masterra
+1558;1592;major_river;;-1;-1;-1;-1;Nexus Ortai to Leritor
+1558;1579;major_river;;-1;-1;-1;-1;Nexus Ortai to Spirador
+1638;1579;major_river;;-1;-1;-1;-1;Bothawui to Spirador
+1558;1563;major_river;;-1;-1;-1;-1;Nexus Ortai to Bresnia
+1587;1563;major_river;;-1;-1;-1;-1;Dressel to Bresnia
+1587;1620;major_river;;-1;-1;-1;-1;Dressel to Lannik
+1556;1574;major_river;;-1;-1;-1;-1;Thokosia to Daalang
+1556;1537;major_river;;-1;-1;-1;-1;Thokosia to Shador
+1507;1537;major_river;;-1;-1;-1;-1;Chokan to Shador
+1507;1500;major_river;;-1;-1;-1;-1;Chokan to Deneba
+1482;1500;major_river;;-1;-1;-1;-1;Beris to Deneba
+1482;1468;major_river;;-1;-1;-1;-1;Beris to Hoylin
+1438;1468;major_river;;-1;-1;-1;-1;Aikhibba to Hoylin
+1438;1341;major_river;;-1;-1;-1;-1;Aikhibba to Charra
+1527;1574;major_river;;-1;-1;-1;-1;Nixor to Daalang
+1527;1521;major_river;;-1;-1;-1;-1;Nixor to Nanth'ri
+1431;1521;major_river;;-1;-1;-1;-1;Attahox to Nanth'ri
+1431;1339;major_river;;-1;-1;-1;-1;Attahox to Zaloriis
+1290;1339;major_river;;-1;-1;-1;-1;Mimban to Zaloriis
+1290;1292;major_river;;-1;-1;-1;-1;Mimban to Fabrin
+1174;1292;major_river;;-1;-1;-1;-1;Gyndine to Fabrin
+1174;1142;major_river;;-1;-1;-1;-1;Gyndine to Antar
+1059;1142;major_river;;-1;-1;-1;-1;Quellor to Antar
+1174;1216;major_river;;-1;-1;-1;-1;Gyndine to Reytha
+1259;1216;major_river;;-1;-1;-1;-1;Chanosant to Reytha
+1259;1285;major_river;;-1;-1;-1;-1;Chanosant to Trammen
+1319;1285;major_river;;-1;-1;-1;-1;Belasco to Trammen
+1319;1354;major_river;;-1;-1;-1;-1;Belasco to Zirulast
+1423;1354;major_river;;-1;-1;-1;-1;New Apsolon to Zirulast
+1423;1459;major_river;;-1;-1;-1;-1;New Apsolon to Terr'Skiar
+1360;1338;major_river;;-1;-1;-1;-1;Gizer to Contruum
+1309;1338;major_river;;-1;-1;-1;-1;Von-Alai to Contruum
+1309;1233;major_river;;-1;-1;-1;-1;Von-Alai to Gravan
+1204;1233;major_river;;-1;-1;-1;-1;Paonid to Gravan
+1204;1158;major_river;;-1;-1;-1;-1;Paonid to Obroa-skai
+1105;1158;major_river;;-1;-1;-1;-1;Levian to Obroa-skai
+1105;1072;major_river;;-1;-1;-1;-1;Levian to Kroctar
+1045;1072;major_river;;-1;-1;-1;-1;Telerath to Kroctar
+1045;1012;major_river;;-1;-1;-1;-1;Telerath to Comkin
+0938;1012;major_river;;-1;-1;-1;-1;Corsin to Comkin
+0938;1054;major_river;;-1;-1;-1;-1;Corsin to Ploo
+1070;1054;major_river;;-1;-1;-1;-1;Cathar to Ploo
+1070;1098;major_river;;-1;-1;-1;-1;Cathar to Vulta
+1097;1098;major_river;;-1;-1;-1;-1;Cathar to Jebble
+1197;1198;major_river;;-1;-1;-1;-1;Bandomeer to Gorm
+1187;1198;major_river;;-1;-1;-1;-1;Vanquo to Gorm
+1187;1172;major_river;;-1;-1;-1;-1;Vanquo to Wrodi
+1187;1199;major_river;;-1;-1;-1;-1;Vanquo to Gargon
+1187;1228;major_river;;-1;-1;-1;-1;Vanquo to Flashpoint
+1260;1228;major_river;;-1;-1;-1;-1;Ordo to Flashpoint
+1260;1279;major_river;;-1;-1;-1;-1;Ordo to Mandalore
+0824;0710;major_river;;-1;-1;-1;-1;Agamar to Ketaris
+0668;0710;major_river;;-1;-1;-1;-1;Fedje to Ketaris
+0668;0614;major_river;;-1;-1;-1;-1;Fedje to Vuchelle
+0533;0614;major_river;;-1;-1;-1;-1;Isiring to Vuchelle
+0533;0435;major_river;;-1;-1;-1;-1;Isiring to New Bakstre
+0415;0435;major_river;;-1;-1;-1;-1;Cassander to New Bakstre
+0415;0384;major_river;;-1;-1;-1;-1;Cassander to Garqi
+0415;0433;major_river;;-1;-1;-1;-1;Aris to Maelstrom Nebula
+0483;0433;major_river;;-1;-1;-1;-1;Vykos to Maelstrom Nebula
+0483;0613;major_river;;-1;-1;-1;-1;Vykos to Mantooine
+0662;0613;major_river;;-1;-1;-1;-1;Horuz to Mantooine
+0662;0695;major_river;;-1;-1;-1;-1;Horuz to Nam'ta
+0682;0695;major_river;;-1;-1;-1;-1;Markbees Star to Nam'ta
+0682;0697;major_river;;-1;-1;-1;-1;Markbees Star to Generis
+0687;0697;major_river;;-1;-1;-1;-1;Devon to Generis
+0687;0663;major_river;;-1;-1;-1;-1;Devon to Fest
+0668;0663;major_river;;-1;-1;-1;-1;Fedje to Fest
+1844;1865;major_river;;-1;-1;-1;-1;Estaria to Endregaad
+1877;1865;major_river;;-1;-1;-1;-1;Raxus Prime to Endregaad
+1877;1896;major_river;;-1;-1;-1;-1;Raxus Prime to Tion
+1906;1896;major_river;;-1;-1;-1;-1;Argoon to Tion
+1906;1913;major_river;;-1;-1;-1;-1;Argoon to Rudrig
+1957;1913;major_river;;-1;-1;-1;-1;Gbu to Rudrig
+1957;1966;major_river;;-1;-1;-1;-1;Gbu to Pakuuni
+1947;1966;major_river;;-1;-1;-1;-1;Ton-Falk to Pakuuni
+1947;1928;major_river;;-1;-1;-1;-1;Ton-Falk to Florn
+1899;1928;major_river;;-1;-1;-1;-1;Toola to Florn
+1899;1869;major_river;;-1;-1;-1;-1;Toola to Florn
+1957;1936;major_river;;-1;-1;-1;-1;Gbu to Mullan
+1932;1936;major_river;;-1;-1;-1;-1;Brigia to Mullan
+1918;1913;major_river;;-1;-1;-1;-1;Clariv to Rudrig
+1918;1925;major_river;;-1;-1;-1;-1;Clariv to Eredenn
+1932;1925;major_river;;-1;-1;-1;-1;Brigia to Eredenn
+1932;1934;major_river;;-1;-1;-1;-1;Brigia to Caluula
+1921;1934;major_river;;-1;-1;-1;-1;Saheelindeel to Caluula
+1940;1934;major_river;;-1;-1;-1;-1;Dellalt to Caluula
+1940;2007;major_river;;-1;-1;-1;-1;Dellalt to Minntooine
+1989;2007;major_river;;-1;-1;-1;-1;Eridicon to Minntooine
+2015;2007;major_river;;-1;-1;-1;-1;Dac to Minntooine
+1975;1966;major_river;;-1;-1;-1;-1;Shaylin to Pakuuni
+1975;1988;major_river;;-1;-1;-1;-1;Shaylin to Turkana
+2003;1988;major_river;;-1;-1;-1;-1;Munto Codru to Turkana
+2003;2005;major_river;;-1;-1;-1;-1;Munto Codru to Reginard
+2006;2005;major_river;;-1;-1;-1;-1;Ruisto to Reginard
+2015;2006;major_river;;-1;-1;-1;-1;Dac to Ruisto
+2015;2035;major_river;;-1;-1;-1;-1;Dac to Pinperu
+2033;2035;major_river;;-1;-1;-1;-1;Damendine to Pinperu
+2015;2025;major_river;;-1;-1;-1;-1;Dac to Pammant
+2022;2025;major_river;;-1;-1;-1;-1;Mantan to Pammant
+2022;2029;major_river;;-1;-1;-1;-1;Mantan to New Heurkea
+2033;2046;major_river;;-1;-1;-1;-1;Damendine to Krinemonen
+2053;2046;major_river;;-1;-1;-1;-1;Buchich to Krinemonen
+2050;2046;major_river;;-1;-1;-1;-1;Hinakuu to Krinemonen
+2050;2030;major_river;;-1;-1;-1;-1;Hinakuu to Sanctuary
+2029;2030;major_river;;-1;-1;-1;-1;New Heurkea to Sanctuary
+2041;2030;major_river;;-1;-1;-1;-1;Kamdon to Sanctuary
+2041;2044;major_river;;-1;-1;-1;-1;Kamdon to Dornea
+2048;2044;major_river;;-1;-1;-1;-1;Baros to Dornea
+1922;1950;major_river;;-1;-1;-1;-1;Junkfort Station to Dagelin Minor
+1964;1950;major_river;;-1;-1;-1;-1;Oseon to Dagelin Minor
+1964;1971;major_river;;-1;-1;-1;-1;Oseon to Erilnar
+1977;1971;major_river;;-1;-1;-1;-1;Scillar to Erilnar
+1977;1990;major_river;;-1;-1;-1;-1;Scillar to Lekua
+1996;1990;major_river;;-1;-1;-1;-1;Zebitrope to Lekua
+1964;1981;major_river;;-1;-1;-1;-1;Oseon to Rafa
+1987;1981;major_river;;-1;-1;-1;-1;Dela to Rafa
+1987;1990;major_river;;-1;-1;-1;-1;Dela to Lekua
+1964;1999;major_river;;-1;-1;-1;-1;Oseon to Ringneldia
+2018;1999;major_river;;-1;-1;-1;-1;Dilonexa to Ringneldia
+2018;2031;major_river;;-1;-1;-1;-1;Dilonexa to Uaua
+2042;2031;major_river;;-1;-1;-1;-1;Paulking to Uaua
+2042;2043;major_river;;-1;-1;-1;-1;Paulking to Douglas
+1796;1719;major_river;;-1;-1;-1;-1;Hiit to Reltooine
+1796;1788;major_river;;-1;-1;-1;-1;Hiit to Lythos
+1796;1834;major_river;;-1;-1;-1;-1;Hiit to Attchorb
+1847;1834;major_river;;-1;-1;-1;-1;Bonadan to Attchorb
+1871;1834;major_river;;-1;-1;-1;-1;Ocsin to Attchorb
+1871;1847;major_river;;-1;-1;-1;-1;Ocsin to Bonadan
+1871;1891;major_river;;-1;-1;-1;-1;Ocsin to Kamar
+1871;1858;major_river;;-1;-1;-1;-1;Ocsin to Issagra
+1836;1858;major_river;;-1;-1;-1;-1;Kalla to Issagra
+1864;1891;major_river;;-1;-1;-1;-1;Farana to Kamar
+1864;1855;major_river;;-1;-1;-1;-1;Farana to Hulls Star
+1827;1855;major_river;;-1;-1;-1;-1;Mytus to Hulls Star
+1805;1834;major_river;;-1;-1;-1;-1;Perin to Attchorb
+1805;1784;major_river;;-1;-1;-1;-1;Perin to Brochiib
+1745;1784;major_river;;-1;-1;-1;-1;Pypin to Brochiib
+1745;1728;major_river;;-1;-1;-1;-1;Pypin to Trian
+1823;1785;major_river;;-1;-1;-1;-1;Janodral Mizar to Sembla
+1736;1785;major_river;;-1;-1;-1;-1;Syngia to Sembla
+1877;1928;major_river;;-1;-1;-1;-1;Raxus Prime to Florn
+2009;2007;major_river;;-1;-1;-1;-1;Poseidenna to Minntooine
+0654;0696;major_river;;-1;-1;-1;-1;Broest to Xorth
+0654;0595;major_river;;-1;-1;-1;-1;Broest to Aargau
+0577;0595;major_river;;-1;-1;-1;-1;Yulant to Aargau
+0577;0538;major_river;;-1;-1;-1;-1;Yulant to Spira
+0469;0538;major_river;;-1;-1;-1;-1;Ruan to Spira
+1919;1910;major_river;;-1;-1;-1;-1;Sakifwanna to Cyax
+1860;1890;major_river;;-1;-1;-1;-1;Gos Hutta to Saki
+1873;1846;major_river;;-1;-1;-1;-1;Lant to Iotra
+1441;1610;major_river;;-1;-1;-1;-1;Kashyyyk to Trandosia
+1727;1771;major_river;;-1;-1;-1;-1;Bimmisaari to Xoman
+1781;1771;major_river;;-1;-1;-1;-1;Boz Pity to Xoman
+1781;1733;major_river;;-1;-1;-1;-1;Boz Pity to Alee
+1753;1733;major_river;;-1;-1;-1;-1;Tal Nami to Alee
+1753;1748;major_river;;-1;-1;-1;-1;Tal Nami to Ilos Minor ##Main Routes End
+0237;0251;sea;;-1;-1;-1;-1;Kokash to Pollillus ##minor Routes Start
+0251;0276;sea;;-1;-1;-1;-1;Pollillus to Galantos
+0251;0295;sea;;-1;-1;-1;-1;Pollillus to J't'p'tan
+0265;0276;sea;;-1;-1;-1;-1;Tamban to Galantos
+0265;0291;sea;;-1;-1;-1;-1;Tamban to Aradia
+0331;0291;sea;;-1;-1;-1;-1;Cal-Seti to Aradia
+0497;0531;sea;;-1;-1;-1;-1;Velusia to Thorgeld
+0679;0644;sea;;-1;-1;-1;-1;Skako to Basilisk

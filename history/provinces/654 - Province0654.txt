@@ -1,12 +1,11 @@
-# 654 - Province0654
+# 654 - Broest
 
 # County Title
-title = c_province0654
+title = c_broest
 
 # Settlements
 max_settlements = 3
-b_barony0654` = tribal
-b_barony0654a = temple
+b_broest = tribal
 
 # Misc
 culture = uncultured_swine

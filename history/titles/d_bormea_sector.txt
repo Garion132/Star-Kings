@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = e_gal_republic
+}
+972.1.1={
+	holder = 2030 ##likely Anachronistic, but if padmé can be queen at 2 years younger...
+}

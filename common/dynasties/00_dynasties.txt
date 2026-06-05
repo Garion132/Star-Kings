@@ -2,3 +2,51 @@
 	name="Valorum"
 	culture="core_worlder"
 }
+2={
+	name="Tamban"
+	culture="core_worlder"
+}
+3={
+	name="Snopps"
+	culture="core_worlder"
+}
+4={
+	name="Mothma"
+	culture="core_worlder"
+}
+5={
+	name="Tambor"
+	culture="skakoan"
+}
+6={
+	name="irm-Drocubac"
+	culture="core_worlder"
+}
+7={
+	name="Hill"
+	culture="muun"
+}
+8={
+	name="Tagge"
+	culture="core_worlder"
+}
+9={
+	name="Ot'Hyne"
+	culture="caamasi"
+}
+10={
+	name="Organa"
+	culture="core_worlder"
+}
+11={
+	name="Mandirly"
+	culture="core_worlder"
+}
+12={
+	name="Antilles"
+	culture="core_worlder"
+}
+13={
+	name="Mai"
+	culture="gossam"
+}

@@ -1,12 +1,11 @@
-# 531 - Province0531
+# 531 - Thorgeld
 
 # County Title
-title = c_province0531
+title = c_thorgeld
 
 # Settlements
 max_settlements = 5
-b_barony0531` = tribal
-b_barony0531a = temple
+b_thorgeld = tribal
 
 # Misc
 culture = uncultured_swine

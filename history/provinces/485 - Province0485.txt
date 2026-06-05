@@ -1,12 +1,12 @@
-# 485 - Province0485
+# 485 - Coruscant
 
 # County Title
-title = c_province0485
+title = c_coruscant
 
 # Settlements
 max_settlements = 4
-b_barony0485` = tribal
-b_barony0485a = temple
+b_upper_levels = tribal
+b_jedi_temple = temple
 
 # Misc
 culture = uncultured_swine

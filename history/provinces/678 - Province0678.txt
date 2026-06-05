@@ -1,12 +1,11 @@
-# 678 - Province0678
+# 678 - Ralltiir
 
 # County Title
-title = c_province0678
+title = c_ralltiir
 
 # Settlements
 max_settlements = 3
-b_barony0678` = tribal
-b_barony0678a = temple
+b_ralltiir = tribal
 
 # Misc
 culture = uncultured_swine

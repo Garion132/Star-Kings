@@ -1,12 +1,11 @@
-# 664 - Province0664
+# 664 - Kailor
 
 # County Title
-title = c_province0664
+title = c_kailor
 
 # Settlements
 max_settlements = 3
-b_barony0664` = tribal
-b_barony0664a = temple
+b_kailor = tribal
 
 # Misc
 culture = uncultured_swine

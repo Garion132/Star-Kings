@@ -1,12 +1,11 @@
-# 437 - Province0437
+# 437 - Stassia
 
 # County Title
-title = c_province0437
+title = c_stassia
 
 # Settlements
 max_settlements = 2
-b_barony0437` = tribal
-b_barony0437a = temple
+b_stassia = tribal
 
 # Misc
 culture = uncultured_swine
