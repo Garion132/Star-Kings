@@ -1,12 +1,12 @@
-# 921 - Province0921
+# 921 - Loretto
 
 # County Title
-title = c_province0921
+title = c_loretto
 
 # Settlements
 max_settlements = 3
-b_barony0921` = tribal
-b_barony0921a = temple
+b_loretto = tribal
+
 
 # Misc
 culture = uncultured_swine

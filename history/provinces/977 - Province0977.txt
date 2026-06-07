@@ -1,12 +1,11 @@
-# 977 - Province0977
+# 977 - Foundry
 
 # County Title
-title = c_province0977
+title = c_foundry
 
 # Settlements
 max_settlements = 3
-b_barony0977` = tribal
-b_barony0977a = temple
+b_foundry = tribal
 
 # Misc
 culture = uncultured_swine

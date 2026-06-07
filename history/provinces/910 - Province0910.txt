@@ -1,12 +1,11 @@
-# 910 - Province0910
+# 910 - Parkis
 
 # County Title
-title = c_province0910
+title = c_parkis
 
 # Settlements
 max_settlements = 3
-b_barony0910` = tribal
-b_barony0910a = temple
+b_parkis = tribal
 
 # Misc
 culture = uncultured_swine

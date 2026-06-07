@@ -1,12 +1,11 @@
-# 1067 - Province1067
+# 1067 - Xobome
 
 # County Title
-title = c_province1067
+title = c_xobome
 
 # Settlements
 max_settlements = 4
-b_barony1067` = tribal
-b_barony1067a = temple
+b_xobome = tribal
 
 # Misc
 culture = uncultured_swine

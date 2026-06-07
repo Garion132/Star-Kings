@@ -1,12 +1,11 @@
-# 505 - Province0505
+# 505 - Kidiet Olgo
 
 # County Title
-title = c_province0505
+title = c_kidiet_olgo
 
 # Settlements
 max_settlements = 4
-b_barony0505` = tribal
-b_barony0505a = temple
+b_kidiet_olgo = tribal
 
 # Misc
 culture = uncultured_swine

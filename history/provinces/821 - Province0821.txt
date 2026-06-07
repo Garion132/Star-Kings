@@ -1,12 +1,11 @@
-# 821 - Province0821
+# 821 - Sarapin
 
 # County Title
-title = c_province0821
+title = c_sarapin
 
 # Settlements
 max_settlements = 3
-b_barony0821` = tribal
-b_barony0821a = temple
+b_sarapin = tribal
 
 # Misc
 culture = uncultured_swine

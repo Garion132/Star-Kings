@@ -1,12 +1,11 @@
-# 758 - Province0758
+# 758 - Vuma
 
 # County Title
-title = c_province0758
+title = c_vuma
 
 # Settlements
 max_settlements = 3
-b_barony0758` = tribal
-b_barony0758a = temple
+b_vuma = tribal
 
 # Misc
 culture = uncultured_swine

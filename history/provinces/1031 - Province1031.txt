@@ -1,12 +1,11 @@
-# 1031 - Province1031
+# 1031 - Talasea
 
 # County Title
-title = c_province1031
+title = c_talasea
 
 # Settlements
 max_settlements = 4
-b_barony1031` = tribal
-b_barony1031a = temple
+b_talasea = tribal
 
 # Misc
 culture = uncultured_swine

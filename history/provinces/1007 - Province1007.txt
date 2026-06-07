@@ -1,12 +1,11 @@
-# 1007 - Province1007
+# 1007 - Vladet
 
 # County Title
-title = c_province1007
+title = c_vladet
 
 # Settlements
 max_settlements = 3
-b_barony1007` = tribal
-b_barony1007a = temple
+b_vladet = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 954 - Province0954
+# 954 - Neimoidia
 
 # County Title
-title = c_province0954
+title = c_neimoidia
 
 # Settlements
 max_settlements = 1
-b_barony0954` = tribal
-b_barony0954a = temple
+b_neimoidia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = neimoidian
 religion = pagan
 
 # History

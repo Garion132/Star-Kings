@@ -1,12 +1,11 @@
-# 920 - Province0920
+# 920 - Pria
 
 # County Title
-title = c_province0920
+title = c_pria
 
 # Settlements
 max_settlements = 3
-b_barony0920` = tribal
-b_barony0920a = temple
+b_pria = tribal
 
 # Misc
 culture = uncultured_swine

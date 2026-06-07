@@ -1,12 +1,11 @@
-# 1043 - Province1043
+# 1043 - Resht
 
 # County Title
-title = c_province1043
+title = c_resht
 
 # Settlements
 max_settlements = 4
-b_barony1043` = tribal
-b_barony1043a = temple
+b_resht = tribal
 
 # Misc
 culture = uncultured_swine

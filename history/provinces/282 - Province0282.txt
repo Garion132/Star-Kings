@@ -1,12 +1,11 @@
-# 282 - Province0282
+# 282 - Xa Fel
 
 # County Title
-title = c_province0282
+title = c_xa_fel
 
 # Settlements
 max_settlements = 3
-b_barony0282` = tribal
-b_barony0282a = temple
+b_xa_fel = tribal
 
 # Misc
 culture = uncultured_swine

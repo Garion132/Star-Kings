@@ -1,12 +1,11 @@
-# 375 - Province0375
+# 375 - Hyabb
 
 # County Title
-title = c_province0375
+title = c_hyabb
 
 # Settlements
 max_settlements = 4
-b_barony0375` = tribal
-b_barony0375a = temple
+b_hyabb = tribal
 
 # Misc
 culture = uncultured_swine

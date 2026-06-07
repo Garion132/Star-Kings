@@ -1,12 +1,11 @@
-# 787 - Province0787
+# 787 - Leria Kerlsil
 
 # County Title
-title = c_province0787
+title = c_leria_kerlsil
 
 # Settlements
 max_settlements = 2
-b_barony0787` = tribal
-b_barony0787a = temple
+b_leria_kerlsil = tribal
 
 # Misc
 culture = uncultured_swine

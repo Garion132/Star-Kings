@@ -1,12 +1,11 @@
-# 756 - Province0756
+# 756 - Shelkonwa
 
 # County Title
-title = c_province0756
+title = c_shelkonwa
 
 # Settlements
 max_settlements = 3
-b_barony0756` = tribal
-b_barony0756a = temple
+b_shelkonwa = tribal
 
 # Misc
 culture = uncultured_swine

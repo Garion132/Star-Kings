@@ -1,12 +1,11 @@
-# 953 - Province0953
+# 953 - Balmorra
 
 # County Title
-title = c_province0953
+title = c_balmorra
 
 # Settlements
 max_settlements = 2
-b_barony0953` = tribal
-b_barony0953a = temple
+b_balmorra = tribal
 
 # Misc
 culture = uncultured_swine

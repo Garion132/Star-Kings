@@ -1,12 +1,11 @@
-# 704 - Province0704
+# 704 - jatir
 
 # County Title
-title = c_province0704
+title = c_jatir
 
 # Settlements
 max_settlements = 3
-b_barony0704` = tribal
-b_barony0704a = temple
+b_jatir = tribal
 
 # Misc
 culture = uncultured_swine

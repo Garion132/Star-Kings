@@ -1,12 +1,11 @@
-# 416 - Province0416
+# 416 - Twith
 
 # County Title
-title = c_province0416
+title = c_twith
 
 # Settlements
 max_settlements = 4
-b_barony0416` = tribal
-b_barony0416a = temple
+b_twith = tribal
 
 # Misc
 culture = uncultured_swine

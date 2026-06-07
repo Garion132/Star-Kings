@@ -1,12 +1,11 @@
-# 313 - Province0313
+# 313 - Ragoon
 
 # County Title
-title = c_province0313
+title = c_ragoon
 
 # Settlements
 max_settlements = 3
-b_barony0313` = tribal
-b_barony0313a = temple
+b_ragoon = tribal
 
 # Misc
 culture = uncultured_swine

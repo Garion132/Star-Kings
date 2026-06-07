@@ -1,12 +1,11 @@
-# 1055 - Province1055
+# 1055 - Commenor
 
 # County Title
-title = c_province1055
+title = c_commenor
 
 # Settlements
 max_settlements = 2
-b_barony1055` = tribal
-b_barony1055a = temple
+b_commenor = tribal
 
 # Misc
 culture = uncultured_swine

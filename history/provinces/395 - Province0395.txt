@@ -1,12 +1,11 @@
-# 395 - Province0395
+# 395 - Pantolomin
 
 # County Title
-title = c_province0395
+title = c_pantolomin
 
 # Settlements
 max_settlements = 4
-b_barony0395` = tribal
-b_barony0395a = temple
+b_pantolomin = tribal
 
 # Misc
 culture = uncultured_swine

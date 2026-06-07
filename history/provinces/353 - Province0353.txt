@@ -1,12 +1,11 @@
-# 353 - Province0353
+# 353 - Dachat
 
 # County Title
-title = c_province0353
+title = c_dachat
 
 # Settlements
 max_settlements = 4
-b_barony0353` = tribal
-b_barony0353a = temple
+b_dachat = tribal
 
 # Misc
 culture = uncultured_swine

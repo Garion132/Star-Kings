@@ -50,3 +50,23 @@
 	name="Mai"
 	culture="gossam"
 }
+14={
+	name="Kuat"
+	culture="core_worlder"
+}
+15={
+	name="Ha'Nook"
+	culture="core_worlder"
+}
+16={
+	name="Thorm"
+	culture="core_worlder"
+}
+17={
+	name="Thara Dru"
+	culture="core_worlder"
+}
+18={
+	name="Gunray"
+	culture="neimoidian"
+}

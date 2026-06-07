@@ -1,12 +1,11 @@
-# 789 - Province0789
+# 789 - Glithnos
 
 # County Title
-title = c_province0789
+title = c_glithnos
 
 # Settlements
 max_settlements = 1
-b_barony0789` = tribal
-b_barony0789a = temple
+b_glithnos = tribal
 
 # Misc
 culture = uncultured_swine

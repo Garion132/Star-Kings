@@ -1,12 +1,11 @@
-# 453 - Province0453
+# 453 - Mamendin
 
 # County Title
-title = c_province0453
+title = c_mamendin
 
 # Settlements
 max_settlements = 1
-b_barony0453` = tribal
-b_barony0453a = temple
+b_mamendin = tribal
 
 # Misc
 culture = uncultured_swine

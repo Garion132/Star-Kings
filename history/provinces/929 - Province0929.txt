@@ -1,12 +1,11 @@
-# 929 - Province0929
+# 929 - Kuat
 
 # County Title
-title = c_province0929
+title = c_kuat
 
 # Settlements
 max_settlements = 2
-b_barony0929` = tribal
-b_barony0929a = temple
+b_kuat = tribal
 
 # Misc
 culture = uncultured_swine

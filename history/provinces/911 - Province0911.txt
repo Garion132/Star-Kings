@@ -1,12 +1,11 @@
-# 911 - Province0911
+# 911 - Mawan
 
 # County Title
-title = c_province0911
+title = c_mawan
 
 # Settlements
 max_settlements = 3
-b_barony0911` = tribal
-b_barony0911a = temple
+b_mawan = tribal
 
 # Misc
 culture = uncultured_swine

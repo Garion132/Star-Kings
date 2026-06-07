@@ -1,12 +1,11 @@
-# 752 - Province0752
+# 752 - Ator
 
 # County Title
-title = c_province0752
+title = c_ator
 
 # Settlements
 max_settlements = 3
-b_barony0752` = tribal
-b_barony0752a = temple
+b_ator = tribal
 
 # Misc
 culture = uncultured_swine

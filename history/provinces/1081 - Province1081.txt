@@ -1,12 +1,11 @@
-# 1081 - Province1081
+# 1081 - Darek
 
 # County Title
-title = c_province1081
+title = c_darek
 
 # Settlements
 max_settlements = 1
-b_barony1081` = tribal
-b_barony1081a = temple
+b_darek = tribal
 
 # Misc
 culture = uncultured_swine

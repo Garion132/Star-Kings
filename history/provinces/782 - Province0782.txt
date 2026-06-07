@@ -1,15 +1,14 @@
-# 782 - Province0782
+# 782 - Belnar
 
 # County Title
-title = c_province0782
+title = c_belnar
 
 # Settlements
 max_settlements = 3
-b_barony0782` = tribal
-b_barony0782a = temple
+b_belnar = tribal
 
 # Misc
-culture = uncultured_swine
+culture = uncultured_swine #khil
 religion = pagan
 
 # History

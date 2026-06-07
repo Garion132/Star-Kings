@@ -1,12 +1,11 @@
-# 878 - Province0878
+# 878 - Ruul
 
 # County Title
-title = c_province0878
+title = c_ruul
 
 # Settlements
 max_settlements = 3
-b_barony0878` = tribal
-b_barony0878a = temple
+b_ruul = tribal
 
 # Misc
 culture = uncultured_swine

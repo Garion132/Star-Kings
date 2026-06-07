@@ -1,12 +1,11 @@
-# 565 - Province0565
+# 565 - Shawken
 
 # County Title
-title = c_province0565
+title = c_shawken
 
 # Settlements
 max_settlements = 5
-b_barony0565` = tribal
-b_barony0565a = temple
+b_shawken = tribal
 
 # Misc
 culture = uncultured_swine

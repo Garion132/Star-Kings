@@ -1,12 +1,11 @@
-# 957 - Province0957
+# 957 - Humbarine
 
 # County Title
-title = c_province0957
+title = c_humbarine
 
 # Settlements
 max_settlements = 3
-b_barony0957` = tribal
-b_barony0957a = temple
+b_humbarine = tribal
 
 # Misc
 culture = uncultured_swine

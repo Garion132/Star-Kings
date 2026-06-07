@@ -1,12 +1,11 @@
-# 1096 - Province1096
+# 1096 - Faro
 
 # County Title
-title = c_province1096
+title = c_faro
 
 # Settlements
 max_settlements = 4
-b_barony1096` = tribal
-b_barony1096a = temple
+b_faro = tribal
 
 # Misc
 culture = uncultured_swine

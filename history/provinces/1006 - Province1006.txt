@@ -1,12 +1,11 @@
-# 1006 - Province1006
+# 1006 - Chorax
 
 # County Title
-title = c_province1006
+title = c_chorax
 
 # Settlements
 max_settlements = 3
-b_barony1006` = tribal
-b_barony1006a = temple
+b_chorax = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 422 - Province0422
+# 422 - Farrfin
 
 # County Title
-title = c_province0422
+title = c_farrfin
 
 # Settlements
 max_settlements = 4
-b_barony0422` = tribal
-b_barony0422a = temple
+b_farrfin = tribal
 
 # Misc
 culture = uncultured_swine

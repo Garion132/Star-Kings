@@ -1,12 +1,11 @@
-# 985 - Province0985
+# 985 - Uquine
 
 # County Title
-title = c_province0985
+title = c_uquine
 
 # Settlements
 max_settlements = 3
-b_barony0985` = tribal
-b_barony0985a = temple
+b_uquine = tribal
 
 # Misc
 culture = uncultured_swine

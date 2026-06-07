@@ -1,12 +1,11 @@
-# 741 - Province0741
+# 741 - Yabol Opa
 
 # County Title
-title = c_province0741
+title = c_yabol_opa
 
 # Settlements
 max_settlements = 1
-b_barony0741` = tribal
-b_barony0741a = temple
+b_yabol_opa = tribal
 
 # Misc
 culture = uncultured_swine

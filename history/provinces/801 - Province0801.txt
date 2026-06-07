@@ -1,12 +1,11 @@
-# 801 - Province0801
+# 801 - Perma
 
 # County Title
-title = c_province0801
+title = c_perma
 
 # Settlements
 max_settlements = 3
-b_barony0801` = tribal
-b_barony0801a = temple
+b_perma = tribal
 
 # Misc
 culture = uncultured_swine

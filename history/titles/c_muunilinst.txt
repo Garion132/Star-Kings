@@ -1,6 +1,6 @@
 1.1.1 = {
 	liege = k_intergalatic_banking_clan
 }
-1.1.1 = {
+950.1.1 = {
 	holder = 10010
 }

@@ -1,15 +1,14 @@
-# 1000 - Province1000
+# 1000 - Cato Neimoidia
 
 # County Title
-title = c_province1000
+title = c_cato_neimoidia
 
 # Settlements
 max_settlements = 2
-b_barony1000` = tribal
-b_barony1000a = temple
+b_cato_neimoidia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = neimoidian
 religion = pagan
 
 # History

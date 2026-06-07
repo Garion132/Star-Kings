@@ -1,12 +1,11 @@
-# 900 - Province0900
+# 900 - Raxxa
 
 # County Title
-title = c_province0900
+title = c_raxxa
 
 # Settlements
 max_settlements = 3
-b_barony0900` = tribal
-b_barony0900a = temple
+b_raxxa = tribal
 
 # Misc
 culture = uncultured_swine

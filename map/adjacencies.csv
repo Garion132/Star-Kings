@@ -165,8 +165,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0643;0670;major_river;;-1;-1;-1;-1;Esseles to Rhinnal
 0670;0678;major_river;;-1;-1;-1;-1;Rhinnal to Ralltiir
 0678;0699;major_river;;-1;-1;-1;-1;Ralltiir to Delle
-0699;0741;major_river;;-1;-1;-1;-1;Delle to Yabol Opa (Beecroft)
-0740;0765;major_river;;-1;-1;-1;-1;Yabol Opa (Saxton) to Ifmix
+0699;0741;major_river;;-1;-1;-1;-1;Delle to Yabol Opa
+0741;0765;major_river;;-1;-1;-1;-1;Yabol Opa to Ifmix
 0765;0786;major_river;;-1;-1;-1;-1;Ifmix to Shulstine
 0786;0810;major_river;;-1;-1;-1;-1;Shulstine to Castell (Hodges)
 0809;0829;major_river;;-1;-1;-1;-1;Castell (Sne'luap) to Raithal
@@ -347,8 +347,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0789;0777;major_river;;-1;-1;-1;-1;Glithnos to Demophon
 0789;0817;major_river;;-1;-1;-1;-1;Glithnos to Fedalle
 0857;0817;major_river;;-1;-1;-1;-1;Talravin to Fedalle
-0857;0878;major_river;;-1;-1;-1;-1;Talravin to Ruul
-0891;0878;major_river;;-1;-1;-1;-1;Trellen to Ruul
+0857;0821;major_river;;-1;-1;-1;-1;Talravin to Sarapin
+0891;0821;major_river;;-1;-1;-1;-1;Trellen to Sarapin
 0891;0911;major_river;;-1;-1;-1;-1;Trellen to Mawan
 0921;0911;major_river;;-1;-1;-1;-1;Loretto to Mawan
 0921;0925;major_river;;-1;-1;-1;-1;Loretto to Baraboo
@@ -1149,3 +1149,27 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0331;0291;sea;;-1;-1;-1;-1;Cal-Seti to Aradia
 0497;0531;sea;;-1;-1;-1;-1;Velusia to Thorgeld
 0679;0644;sea;;-1;-1;-1;-1;Skako to Basilisk
+0741;0782;sea;;-1;-1;-1;-1;Yabol Opa to Belnar
+0678;0704;sea;;-1;-1;-1;-1;Ralltiir to Jatir
+0728;0704;sea;;-1;-1;-1;-1;Corann to Jatir
+0729;0704;sea;;-1;-1;-1;-1;Teardrop to Jatir
+0729;0756;sea;;-1;-1;-1;-1;Teardrop to Shelkonwa
+0729;0699;sea;;-1;-1;-1;-1;Teardrop to Delle
+0035;0037;sea;;-1;-1;-1;-1;Deko Neimoidia to Koru Neimoidia
+0035;1000;sea;;-1;-1;-1;-1;Deko Neimoidia to Cato Neimoidia
+1028;1081;sea;;-1;-1;-1;-1;Hensara to Darek
+0375;353;sea;;-1;-1;-1;-1;Hyabb to Dachat
+0282;353;sea;;-1;-1;-1;-1;Xa Fel to Dachat
+0282;0313;sea;;-1;-1;-1;-1;Xa Fel to Ragoon
+1096;1055;sea;;-1;-1;-1;-1;Faro to Commenor
+0985;1043;sea;;-1;-1;-1;-1;Uquine to Resht 
+1043;1067;sea;;-1;-1;-1;-1;Resht to Xobome
+0821;0920;sea;;-1;-1;-1;-1;Sarapin to Pria
+0957;0920;sea;;-1;-1;-1;-1;Humbarine to Pria
+0821;0878;sea;;-1;-1;-1;-1;Ruul to Sarapin
+0801;0878;sea;;-1;-1;-1;-1;Ruul to Perma 
+0858;0815;sea;;-1;-1;-1;-1;Recopia to Lolnar 
+0921;0944;sea;;-1;-1;-1;-1;Loretto to Seyugi 
+0817;0758;sea;;-1;-1;-1;-1;Fedalle to Vuma 
+0752;0758;sea;;-1;-1;-1;-1;Ator to Vuma 
+0752;0787;sea;;-1;-1;-1;-1;Ator to Leria Kerlsil 

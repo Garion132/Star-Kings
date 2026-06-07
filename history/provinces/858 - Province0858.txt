@@ -1,12 +1,11 @@
-# 858 - Province0858
+# 858 - Recopia
 
 # County Title
-title = c_province0858
+title = c_recopia
 
 # Settlements
 max_settlements = 3
-b_barony0858` = tribal
-b_barony0858a = temple
+b_recopia = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 728 - Province0728
+# 728 - Corann
 
 # County Title
-title = c_province0728
+title = c_corann
 
 # Settlements
 max_settlements = 3
-b_barony0728` = tribal
-b_barony0728a = temple
+b_corann = tribal
 
 # Misc
 culture = uncultured_swine

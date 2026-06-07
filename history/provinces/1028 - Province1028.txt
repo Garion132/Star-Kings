@@ -1,12 +1,11 @@
-# 1028 - Province1028
+# 1028 - Hensara
 
 # County Title
-title = c_province1028
+title = c_hensara
 
 # Settlements
 max_settlements = 4
-b_barony1028` = tribal
-b_barony1028a = temple
+b_hensara = tribal
 
 # Misc
 culture = uncultured_swine

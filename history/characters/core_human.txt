@@ -189,3 +189,92 @@
 		death=yes
 	}
 }
+2080 = {
+	name= "Kuat"
+	dynasty = 14 #Kuat
+	religion = pagan
+	culture = core_worlder
+	914.1.1={
+		birth=yes
+	}
+	971.1.1={
+		death=yes
+	}
+}
+2081 = {
+	name= "Onara" # leader during the clone wars
+	dynasty = 14 #Kuat
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	father = 2080
+	931.1.1={
+		birth=yes
+	}
+	982.1.1={
+		death=yes
+	}
+}
+2082 = {
+	name= "Kuat"
+	dynasty = 14 #Kuat
+	religion = pagan
+	culture = core_worlder
+	father = 2080
+	933.1.1={
+		birth=yes
+	}
+	993.1.1={
+		death=yes
+	}
+}
+2083 = {
+	name= "Kuat" # Kuat of Kuat, GCW
+	dynasty = 14 #Kuat
+	religion = pagan
+	culture = core_worlder
+	father = 2082
+	952.1.1={
+		birth=yes
+	}
+	1004.1.1={
+		death=yes
+	}
+}
+2090 = {
+	name= "Jannie"
+	dynasty = 15 
+	religion = pagan
+	culture = core_worlder
+	947.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+2100 = {
+	name= "Hrekin"
+	dynasty = 16
+	religion = pagan
+	culture = core_worlder
+	953.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+2110 = {
+	name= "Dall"
+	dynasty = 17
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	953.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}

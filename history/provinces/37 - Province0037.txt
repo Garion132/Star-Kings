@@ -1,14 +1,14 @@
-# 37 - Acsiel
+# 37 - Koru Neimoidia
 
 # County Title
-title = c_acsiel
+title = c_koru_neimoidia
 
 # Settlements
 max_settlements = 1
-b_acsiel = tribal
+b_koru_neimoidia = tribal
 
 # Misc
-culture = chiss
+culture = neimoidian
 religion = pagan
 
 # History

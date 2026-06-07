@@ -1,12 +1,11 @@
-# 729 - Province0729
+# 729 - Teardrop
 
 # County Title
-title = c_province0729
+title = c_teardrop
 
 # Settlements
 max_settlements = 3
-b_barony0729` = tribal
-b_barony0729a = temple
+b_teardrop = tribal
 
 # Misc
 culture = uncultured_swine

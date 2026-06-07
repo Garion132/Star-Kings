@@ -1,12 +1,11 @@
-# 942 - Province0942
+# 942 - Kattada
 
 # County Title
-title = c_province0942
+title = c_kattada
 
 # Settlements
 max_settlements = 3
-b_barony0942` = tribal
-b_barony0942a = temple
+b_kattada = tribal
 
 # Misc
 culture = uncultured_swine

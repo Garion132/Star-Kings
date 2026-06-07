@@ -1,12 +1,11 @@
-# 857 - Province0857
+# 857 - Talravin
 
 # County Title
-title = c_province0857
+title = c_talravin
 
 # Settlements
 max_settlements = 3
-b_barony0857` = tribal
-b_barony0857a = temple
+b_talravin = tribal
 
 # Misc
 culture = uncultured_swine

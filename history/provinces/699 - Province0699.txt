@@ -1,12 +1,11 @@
-# 699 - Province0699
+# 699 - Delle
 
 # County Title
-title = c_province0699
+title = c_delle
 
 # Settlements
 max_settlements = 2
-b_barony0699` = tribal
-b_barony0699a = temple
+b_delle = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 815 - Province0815
+# 815 - Lolnar
 
 # County Title
-title = c_province0815
+title = c_lolnar
 
 # Settlements
 max_settlements = 3
-b_barony0815` = tribal
-b_barony0815a = temple
+b_lolnar = tribal
 
 # Misc
 culture = uncultured_swine
