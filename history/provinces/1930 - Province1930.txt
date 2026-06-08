@@ -1,15 +1,14 @@
-# 1930 - Province1930
+# 1930 - M'Hanna
 
 # County Title
-title = c_province1930
+title = c_m_hanna
 
 # Settlements
 max_settlements = 5
-b_barony1930` = tribal
-b_barony1930a = temple
+b_m_hanna = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

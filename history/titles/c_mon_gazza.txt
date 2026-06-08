@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_galactic_spice_mining_guild
+}
+961.1.1={
+	holder = 60000
+}

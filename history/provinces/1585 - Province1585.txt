@@ -1,12 +1,11 @@
-# 1585 - Province1585
+# 1585 - Tythe
 
 # County Title
-title = c_province1585
+title = c_tythe
 
 # Settlements
 max_settlements = 4
-b_barony1585` = tribal
-b_barony1585a = temple
+b_tythe = tribal
 
 # Misc
 culture = uncultured_swine

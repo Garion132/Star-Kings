@@ -1,12 +1,11 @@
-# 1346 - Province1346
+# 1346 - Kalarba
 
 # County Title
-title = c_province1346
+title = c_kalarba
 
 # Settlements
 max_settlements = 4
-b_barony1346` = tribal
-b_barony1346a = temple
+b_kalarba = tribal
 
 # Misc
 culture = uncultured_swine

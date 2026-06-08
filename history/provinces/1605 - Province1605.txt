@@ -1,12 +1,11 @@
-# 1605 - Province1605
+# 1605 - Orvax
 
 # County Title
-title = c_province1605
+title = c_orvax
 
 # Settlements
 max_settlements = 2
-b_barony1605` = tribal
-b_barony1605a = temple
+b_orvax = tribal
 
 # Misc
 culture = uncultured_swine

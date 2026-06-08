@@ -1,12 +1,11 @@
-# 1188 - Province1188
+# 1188 - Bovo Yagen
 
 # County Title
-title = c_province1188
+title = c_bovo_yagen
 
 # Settlements
 max_settlements = 4
-b_barony1188` = tribal
-b_barony1188a = temple
+b_bovo_yagen = tribal
 
 # Misc
 culture = uncultured_swine

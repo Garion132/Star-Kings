@@ -1,12 +1,12 @@
-# 1223 - Province1223
+# 1223 - Naboo
 
 # County Title
-title = c_province1223
+title = c_naboo
 
 # Settlements
 max_settlements = 4
-b_barony1223` = tribal
-b_barony1223a = temple
+b_theed_palace = tribal
+b_otoh_gunga = tribal
 
 # Misc
 culture = uncultured_swine

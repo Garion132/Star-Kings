@@ -1,12 +1,11 @@
-# 1804 - Province1804
+# 1804 - Smuggler's Run
 
 # County Title
-title = c_province1804
+title = c_smugglers_run
 
 # Settlements
 max_settlements = 5
-b_barony1804` = tribal
-b_barony1804a = temple
+b_smugglers_run = tribal
 
 # Misc
 culture = uncultured_swine

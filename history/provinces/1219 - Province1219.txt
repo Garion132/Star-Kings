@@ -1,12 +1,11 @@
-# 1219 - Province1219
+# 1219 - Selsor
 
 # County Title
-title = c_province1219
+title = c_selsor
 
 # Settlements
 max_settlements = 2
-b_barony1219` = tribal
-b_barony1219a = temple
+b_selsor = tribal
 
 # Misc
 culture = uncultured_swine

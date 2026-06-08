@@ -1,12 +1,11 @@
-# 1246 - Province1246
+# 1246 - Gamor
 
 # County Title
-title = c_province1246
+title = c_gamor
 
 # Settlements
 max_settlements = 4
-b_barony1246` = tribal
-b_barony1246a = temple
+b_gamor = tribal
 
 # Misc
 culture = uncultured_swine

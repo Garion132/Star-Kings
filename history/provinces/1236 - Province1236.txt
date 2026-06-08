@@ -1,12 +1,11 @@
-# 1236 - Province1236
+# 1236 - Enarc
 
 # County Title
-title = c_province1236
+title = c_enarc
 
 # Settlements
 max_settlements = 1
-b_barony1236` = tribal
-b_barony1236a = temple
+b_enarc = tribal
 
 # Misc
 culture = uncultured_swine

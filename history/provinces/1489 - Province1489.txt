@@ -1,12 +1,11 @@
-# 1489 - Province1489
+# 1489 - Ragna
 
 # County Title
-title = c_province1489
+title = c_ragna
 
 # Settlements
 max_settlements = 4
-b_barony1489` = tribal
-b_barony1489a = temple
+b_ragna = tribal
 
 # Misc
 culture = uncultured_swine

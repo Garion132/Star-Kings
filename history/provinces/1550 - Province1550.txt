@@ -1,12 +1,11 @@
-# 1550 - Province1550
+# 1550 - Herdessa
 
 # County Title
-title = c_province1550
+title = c_herdessa
 
 # Settlements
 max_settlements = 4
-b_barony1550` = tribal
-b_barony1550a = temple
+b_herdessa = tribal
 
 # Misc
 culture = uncultured_swine

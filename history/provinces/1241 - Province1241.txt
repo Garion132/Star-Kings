@@ -1,12 +1,11 @@
-# 1241 - Province1241
+# 1241 - Sika
 
 # County Title
-title = c_province1241
+title = c_sika
 
 # Settlements
 max_settlements = 4
-b_barony1241` = tribal
-b_barony1241a = temple
+b_sika = tribal
 
 # Misc
 culture = uncultured_swine

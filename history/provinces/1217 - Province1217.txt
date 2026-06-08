@@ -1,12 +1,11 @@
-# 1217 - Province1217
+# 1217 - Momansi
 
 # County Title
-title = c_province1217
+title = c_momansi
 
 # Settlements
 max_settlements = 4
-b_barony1217` = tribal
-b_barony1217a = temple
+b_momansi = tribal
 
 # Misc
 culture = uncultured_swine

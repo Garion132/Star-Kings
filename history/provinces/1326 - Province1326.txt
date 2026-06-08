@@ -1,15 +1,14 @@
-# 1326 - Province1326
+# 1326 - Triffis
 
 # County Title
-title = c_province1326
+title = c_triffis
 
 # Settlements
 max_settlements = 4
-b_barony1326` = tribal
-b_barony1326a = temple
+b_triffis = tribal
 
 # Misc
-culture = uncultured_swine
+culture = triffian
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 1201 - Province1201
+# 1201 - Tarmidia
 
 # County Title
-title = c_province1201
+title = c_tarmidia
 
 # Settlements
 max_settlements = 1
-b_barony1201` = tribal
-b_barony1201a = temple
+b_tarmidia = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 1474 - Province1474
+# 1474 - Andosha
 
 # County Title
-title = c_province1474
+title = c_andosha
 
 # Settlements
 max_settlements = 4
-b_barony1474` = tribal
-b_barony1474a = temple
+b_andosha = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ualaq
 religion = pagan
 
 # History

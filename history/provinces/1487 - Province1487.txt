@@ -1,12 +1,11 @@
-# 1487 - Province1487
+# 1487 - Socorro
 
 # County Title
-title = c_province1487
+title = c_socorro
 
 # Settlements
 max_settlements = 4
-b_barony1487` = tribal
-b_barony1487a = temple
+b_socorro = tribal
 
 # Misc
 culture = uncultured_swine

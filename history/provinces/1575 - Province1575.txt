@@ -1,12 +1,11 @@
-# 1575 - Province1575
+# 1575 - Nelvaan
 
 # County Title
-title = c_province1575
+title = c_nelvaan
 
 # Settlements
 max_settlements = 4
-b_barony1575` = tribal
-b_barony1575a = temple
+b_nelvaan = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 1740 - Province1740
+# 1740 - Nar Bo Sholla
 
 # County Title
-title = c_province1740
+title = c_nar_bo_sholla
 
 # Settlements
 max_settlements = 5
-b_barony1740` = tribal
-b_barony1740a = temple
+b_nar_bo_sholla = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

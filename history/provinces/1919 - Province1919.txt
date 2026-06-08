@@ -1,12 +1,11 @@
-# 1919 - Province1919
+# 1919 - Sakifwanna
 
 # County Title
-title = c_province1919
+title = c_sakifwanna
 
 # Settlements
 max_settlements = 5
-b_barony1919` = tribal
-b_barony1919a = temple
+b_sakifwanna = tribal
 
 # Misc
 culture = uncultured_swine

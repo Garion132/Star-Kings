@@ -1,12 +1,11 @@
-# 1461 - Province1461
+# 1461 - Algara
 
 # County Title
-title = c_province1461
+title = c_algara
 
 # Settlements
 max_settlements = 4
-b_barony1461` = tribal
-b_barony1461a = temple
+b_algara = tribal
 
 # Misc
 culture = uncultured_swine

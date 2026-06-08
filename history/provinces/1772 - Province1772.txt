@@ -1,12 +1,11 @@
-# 1772 - Province1772
+# 1772 - Irith
 
 # County Title
-title = c_province1772
+title = c_irith
 
 # Settlements
 max_settlements = 5
-b_barony1772` = tribal
-b_barony1772a = temple
+b_irith = tribal
 
 # Misc
 culture = uncultured_swine

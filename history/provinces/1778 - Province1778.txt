@@ -1,15 +1,14 @@
-# 1778 - Province1778
+# 1778 - Circumtore
 
 # County Title
-title = c_province1778
+title = c_circumtore
 
 # Settlements
 max_settlements = 5
-b_barony1778` = tribal
-b_barony1778a = temple
+b_circumtore = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

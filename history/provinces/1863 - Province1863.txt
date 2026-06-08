@@ -1,15 +1,14 @@
-# 1863 - Province1863
+# 1863 - Mulatan
 
 # County Title
-title = c_province1863
+title = c_mulatan
 
 # Settlements
 max_settlements = 5
-b_barony1863` = tribal
-b_barony1863a = temple
+b_mulatan = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

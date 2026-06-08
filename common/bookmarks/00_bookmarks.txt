@@ -1,7 +1,27 @@
 bm_naboo_crisis = {
 	name = "BM_NABOO_CRISIS_ERA"
 	desc = "BM_NABOO_CRISIS_ERA_INFO"
-	date = 973.12.13
+	date = 968.12.13
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+
+}
+bm_clone_wars = {
+	name = "BM_CLONE_WARS_ERA"
+	desc = "BM_CLONE_WARS_ERA_INFO"
+	date = 978.6.8
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+
+}
+bm_new_order = {
+	name = "BM_CLONE_WARS_ERA"
+	desc = "BM_CLONE_WARS_ERA_INFO"
+	date = 981.6.8
 	
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_1

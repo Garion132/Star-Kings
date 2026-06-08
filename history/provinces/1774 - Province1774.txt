@@ -1,12 +1,11 @@
-# 1774 - Province1774
+# 1774 - Velabri
 
 # County Title
-title = c_province1774
+title = c_velabri
 
 # Settlements
 max_settlements = 5
-b_barony1774` = tribal
-b_barony1774a = temple
+b_velabri = tribal
 
 # Misc
 culture = uncultured_swine

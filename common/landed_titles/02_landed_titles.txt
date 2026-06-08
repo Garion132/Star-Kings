@@ -831,6 +831,106 @@ e_gal_republic = {
 				}
 			}
 		}
+		d_brak_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_bacrana = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_bacrana = {
+					
+				}
+			}
+		}
+		d_chaykin_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_milagro = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_milagro = {
+					
+				}
+			}
+			c_vendaxa = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_vendaxa = {
+					
+				}
+			}
+			c_gamor = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_gamor = {
+					
+				}
+			}
+			c_merren = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_merren = {
+					
+				}
+			}
+		}
+		d_tynna_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_tynna = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_tynna = {
+					
+				}
+			}
+			c_allanteen = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_allanteen = {
+					
+				}
+			}
+		}
+		d_kailion_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_tlactehon = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_tlactehon = {
+					
+				}
+			}
+			c_tarmidia = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_tarmidia = {
+					
+				}
+			}
+			c_bovo_yagen = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_bovo_yagen = {
+					
+				}
+			}
+		}
 	}
 	k_northern_dependancies={
 		color={ 107 51 160 }
@@ -1126,747 +1226,1011 @@ e_gal_republic = {
 			}
 		}
 	}
+	k_trailing_sectors = {
+		color={ 35 104 162 }
+		color2={ 219 43 43 }
+		assimilate = no
+		
+		d_arkanis_sector = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
+			
+			capital = 1613 
+
+			c_arkanis = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_arkanis = {
+					
+				}
+			}
+			c_issor = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_issor = {
+					
+				}
+			}
+			c_new_ator = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_new_ator = {
+					
+				}
+			}
+			c_vasch = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_vasch = {
+					
+				}
+			}
+			c_najiba = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_najiba = {
+					
+				}
+			}
+			c_sirpar = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_sirpar = {
+					
+				}
+			}
+			c_gorno = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_gorno = {
+					
+				}
+			}
+			c_tatooine = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_tatooine = {
+					
+				}
+			}
+			c_geonosis = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_geonosis = {
+					
+				}
+			}
+			c_vor_deo = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_vor_deo = {
+					
+				}
+			}
+			c_ooo_temiuk = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ooo_temiuk = {
+					
+				}
+			}
+			c_piroket = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_piroket = {
+					
+				}
+			}
+			c_pii = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_pii = {
+					
+				}
+			}
+		}
+		d_lambda_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			#capital = 1613 
+
+			c_mon_gazza = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_mon_gazza = {
+					
+				}
+			}
+			c_ando = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ando = {
+					
+				}
+			}
+			c_andosha = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_andosha = {
+					
+				}
+			}
+			c_argus = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_argus = {
+					
+				}
+			}
+			c_zolan = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_zolan = {
+					
+				}
+			}
+			c_rintonne = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_rintonne = {
+					
+				}
+			}
+			c_algara = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_algara = {
+					
+				}
+			}
+		}
+		d_herdessa_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_herdessa = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_herdessa = {
+					
+				}
+			}
+			c_habassa = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_habassa = {
+					
+				}
+			}
+		}
+		d_daimar_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_retep = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_retep = {
+					
+				}
+			}
+			c_radnor = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_radnor = {
+					
+				}
+			}
+			c_ragna = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ragna = {
+					
+				}
+			}
+		}
+		d_savareen_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_rodia = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_rodia = {
+					
+				}
+			}
+			c_christophsis = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_christophsis = {
+					
+				}
+			}
+			c_savareen = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_savareen = {
+					
+				}
+			}
+			c_tythe = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_tythe = {
+					
+				}
+			}
+			c_apatros = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_apatros = {
+					
+				}
+			}
+			c_nelvaan = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_nelvaan = {
+					
+				}
+			}
+		}
+		d_dalchon_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_dalchon = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_dalchon = {
+					
+				}
+			}
+			c_shimia = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_shimia = {
+					
+				}
+			}
+			c_mynos_3 = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_mynos_3 = {
+					
+				}
+			}
+			c_orvax = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_orvax = {
+					
+				}
+			}
+		}
+		d_gaulus_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_ryloth = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ryloth = {
+					
+				}
+			}
+			c_wrea = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_wrea = {
+					
+				}
+			}
+			c_smugglers_run = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_smugglers_run = {
+					
+				}
+			}
+			c_gaulus = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_gaulus = {
+					
+				}
+			}
+			c_naos = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_naos = {
+					
+				}
+			}
+			c_lamaredd = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_lamaredd = {
+					
+				}
+			}
+			c_velabri = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_velabri = {
+					
+				}
+			}
+		}
+		d_karthakk_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_llanic = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_llanic = {
+					
+				}
+			}
+			c_lok = {
+				color={ 104 26 26 }
+				color2={ 255 255 255 }
+				
+				b_lok = {
+					
+				}
+			}
+		}
+		d_cadavine_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_zhar = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_zhar = {
+					
+				}
+			}
+			c_socorro = {
+				color={ 104 26 26 }
+				color2={ 255 255 255 }
+				
+				b_socorro = {
+					
+				}
+			}
+		}
+		d_ryndellian_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_ryndellia = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ryndellia = {
+					
+				}
+			}
+			c_farstine = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_farstine = {
+					
+				}
+			}
+			c_ninzam = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_ninzam = {
+					
+				}
+			}
+		}
+		d_alui_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_enarc = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_enarc = {
+					
+				}
+			}
+		}
+		d_chommell_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_naboo = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_theed_palace = {
+					
+				}
+				b_otoh_gunga = {
+				
+				}
+			}
+		}
+		d_hevvrol_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_bannistar_station = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_bannistar_station = {
+					
+				}
+			}
+			c_triffis = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_triffis = {
+					
+				}
+			}
+			c_kalarba = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_kalarba = {
+					
+				}
+			}
+		}
+		d_doldur_sector = {
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_doldur = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_doldur = {
+					
+				}
+			}
+			c_druckenwell = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_druckenwell = {
+					
+				}
+			}
+			c_falleen = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_falleen = {
+					
+				}
+			}
+			c_linuri = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_linuri = {
+					
+				}
+			}
+			c_monor = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_monor = {
+					
+				}
+			}
+		}
+		d_paqwepori = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_paqwepor_major = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_paqwepor_major = {
+					
+				}
+			}
+		}
+		d_corweillian_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_kabray = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_kabray = {
+					
+				}
+			}
+		}
+		d_churba_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_new_cov = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_new_cov = {
+					
+				}
+			}
+		}
+		d_thaere_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_thaere = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_thaere = {
+					
+				}
+			}
+		}
+		d_haserian_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_haseria = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_haseria = {
+					
+				}
+			}
+		}
+		d_citlik_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_nivek = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_nivek = {
+					
+				}
+			}
+		}
+		d_brevost_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_sika = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_sika = {
+					
+				}
+			}
+			c_cheku = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_cheku = {
+					
+				}
+			}
+			c_coonee = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_coonee = {
+					
+				}
+			}
+		}
+		d_var_hagen_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_krann = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_krann = {
+					
+				}
+			}
+			c_momansi = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_momansi = {
+					
+				}
+			}
+		}
+		d_zarracina_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_selsor = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_selsor = {
+					
+				}
+			}
+		}
+	}
 }
-		# d_krenher_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_thorgeld = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_thorgeld = {
-					
-				# }
-			# }
-			# c_velusia = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_velusia = {
-					
-				# }
-			# }
-			# c_galvoni = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_galvoni = {
-					
-				# }
-			# }
-			# c_twith = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_twith = {
-					
-				# }
-			# }
-			# c_voon = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_voon = {
-					
-				# }
-			# }
-			# c_hyabb = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_hyabb = {
-					
-				# }
-			# }
-		# }
-		# d_dolomar_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_pantolomin = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_pantolomin = {
-					
-				# }
-			# }
-			# c_denevar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_denevar = {
-					
-				# }
-			# }
-			# c_dachat = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_dachat = {
-					
-				# }
-			# }
-			# c_merakai = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_merakai = {
-					
-				# }
-			# }
-			# c_xa_fel = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_xa_fel = {
-					
-				# }
-			# }
-			# c_ragoon = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_ragoon = {
-					
-				# }
-			# }
-		# }
-		# d_farrfin_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_farrfin = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_farrfin = {
-					
-				# }
-			# }
-			# c_shawken = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_shawken = {
-					
-				# }
-			# }
-			# c_challon = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_challon = {
-					
-				# }
-			# }
-			# c_mamendin = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_mamendin = {
-					
-				# }
-			# }
-			# c_olgo = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_olgo = {
-					
-				# }
-			# }
-			
-		# }
-		
-		# d_koros_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_jerrilek = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_jerrilek = {
-					
-				# }
-			# }
-			# c_kuar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_kuar = {
-					
-				# }
-			# }
-			# c_iope = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_iope = {
-					
-				# }
-			# }
-			# c_empress_teta = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_empress_teta = {
-					
-				# }
-			# }
-			# c_symbia = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_symbia = {
-					
-				# }
-			# }
-			# c_keeara_major = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_keeara_major = {
-					
-				# }
-			# }
-		# }
-		# d_sector_5 = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_tython = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_tython = {
-					
-				# }
-			# }
-			# c_prakith = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_prakith = {
-					
-				# }
-			# }
-			# c_odik = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_odik = {
-					
-				# }
-			# }
-			# c_byss = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_byss = {
-					
-				# }
-			# }
-		# }
-		# d_bormea_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_corulag = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_corulag = {
-					
-				# }
-			# }
-			# c_chandrila = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_chandrila = {
-					
-				# }
-			# }
-			# c_brentaal = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_brentaal = {
-					
-				# }
-			# }
-			# c_esseles = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_esseles = {
-					
-				# }
-			# }
-			# c_rhinnal = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_rhinnal = {
-					
-				# }
-			# }
-		# }
-		# d_darpa_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_ralltiir = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_ralltiir = {
-					
-				# }
-			# }
-		# }
-		# d_tagge_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_tepasi = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_tepasi = {
-					
-				# }
-			# }
-			# c_korfo_ii = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_korfo_ii = {
-					
-				# }
-			# }
-			# c_caamas = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_caamas = {
-					
-				# }
-			# }
-		# }
-		# d_alderaan_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_alderaan = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_alderaan = {
-					
-				# }
-			# }
-			# c_tyed_kant = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_tyed_kant = {
-					
-				# }
-			# }
-			# c_parkis = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_parkis = {
-					
-				# }
-			# }
-		# }
-		# d_demophon_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_demophon = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_demophon = {
-					
-				# }
-			# }
-			# c_glithnos = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_glithnos = {
-					
-				# }
-			# }
-			# c_fedalle = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_fedalle = {
-					
-				# }
-			# }
-			# c_raxxa = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_raxxa = {
-					
-				# }
-			# }
-			# c_vuma = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_vuma = {
-					
-				# }
-			# }
-		# }
-		# d_kuat_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_kuat = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_kuat = {
-					
-				# }
-			# }
-			# c_balmorra = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_balmorra = {
-					
-				# }
-			# }
-		# }
-		# d_quellor_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_neimoidia = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_neimoidia = {
-					
-				# }
-			# }
-		# }
-		# d_eastern_core_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
-			
-			# c_ixtlar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_ixtlar = {
-					
-				# }
-			# }
-			# c_skako = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_skako = {
-					
-				# }
-			# }
-			# c_vultar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_vultar = {
-					
-				# }
-			# }
-			# c_yulant = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_yulant = {
-					
-				# }
-			# }
-			# c_spira = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_spira = {
-					
-				# }
-			# }
-			# c_wukkar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_wukkar = {
-					
-				# }
-			# }
-			# c_kailor = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_kailor = {
-					
-				# }
-			# }
-			# c_broest = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_broest = {
-					
-				# }
-			# }
-			# c_xorth = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_xorth = {
-					
-				# }
-			# }
-			# c_palawa = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_palawa = {
-					
-				# }
-			# }
-			# c_aldraig = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_aldraig = {
-					
-				# }
-			# }
-		# }
-	# }
+e_hutt_cartel = {
+	color={ 149 151 159 }
+	color2={ 200 0 0 }
+	capital = 1765
 	
-	# k_colonies = {
-		# color={ 28 134 28 }
-		# color2={ 219 43 43 }
-		# assimilate = no
+	k_hutt_space = {
+		color={ 149 151 159 }
+		color2={ 219 43 43 }
+		assimilate = no
 		
-		# d_fakir_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
+		capital = 1765 
+		
+		d_hutt_core = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
 			
-			# c_borleias = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+			capital = 1765 
+
+			c_nal_hutta = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_borleias = {
+				b_nal_hutta = {
 					
-				# }
-			# }
-			# c_venjagga = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_rorak = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_venjagga = {
+				b_rorak = {
 					
-				# }
-			# }
-			# c_mrisst = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_hosko = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_mrisst = {
+				b_hosko = {
 					
-				# }
-			# }
-			# c_ord_mirit = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_varl = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_ord_mirit = {
+				b_varl = {
 					
-				# }
-			# }
-			# c_palanhi = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_palanhi = {
-					
-				# }
-			# }
-			# c_vakkar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_vakkar = {
-					
-				# }
-			# }
-			# c_sif_uwana = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_sif_uwana = {
-					
-				# }
-			# }
-		# }
-		# d_ollonir_boundaries = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
+				}
+			}
+		}
+		d_bootana_hutta = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
 			
-			# c_thrantin = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_thrantin = {
-					
-				# }
-			# }
-			# c_batorine = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
-				
-				# b_batorine = {
-					
-				# }
-			# }
-		# }
-	# }
-# }
-# e_trailing_sectors  = {
-	# color={ 130 20 50 }
-	# color2={ 200 0 0 }
-	# #capital = 1 
-
-	# k_red_tails = {
-		# color={ 28 134 28 }
-		# color2={ 219 43 43 }
-		# assimilate = no
-
-		# #capital = 1 
-
-		# d_arkanis_sector = {
-			# color={ 125 46 36 }
-			# color2={ 255 255 255 }
+			#capital = 1765 
 			
-			# capital = 95 
+			c_gos_hutta = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_gos_hutta = {
+					
+				}
+			}
+			c_mulatan = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_mulatan = {
+					
+				}
+			}
+			c_langoona = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_langoona = {
+					
+				}
+			}
 
-			# c_arkanis = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+		}
+		d_southern_hutt_space = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
+			
+			#capital = 1765 
+			
+			c_diyu = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_arkanis = {
+				b_diyu = {
 					
-				# }
-			# }
-			# c_issor = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_ylesia = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_issor = {
+				b_ylesia = {
 					
-				# }
-			# }
-			# c_new_ator = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_circumtore = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_new_ator = {
+				b_circumtore = {
 					
-				# }
-			# }
-			# c_vasch = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_carnovia = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_vasch = {
+				b_carnovia = {
 					
-				# }
-			# }
-			# c_najiba = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_affavan = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_najiba = {
+				b_affavan = {
 					
-				# }
-			# }
-			# c_sirpar = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+		}
+		d_northern_hutt_space = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
+			
+			#capital = 1765 
+			
+			c_sleheyron = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_sirpar = {
+				b_sleheyron = {
 					
-				# }
-			# }
-			# c_gorno = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+		}
+		d_sakiyan_collective = {
+			color={ 88 53 90 }
+			color2={ 255 255 255 }
+			
+			#capital = 1765 
+			
+			c_sakifwanna = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_gorno = {
+				b_sakifwanna = {
 					
-				# }
-			# }
-			# c_tatooine = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_saki = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_tatooine = {
+				b_saki = {
 					
-				# }
-			# }
-			# c_geonosis = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+		}
+		d_dead_road = {
+			color={ 88 53 90 }
+			color2={ 255 255 255 }
+			
+			#capital = 1765 
+			
+			c_saqqar = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_geonosis = {
+				b_saqqar = {
 					
-				# }
-			# }
-			# c_vor_deo = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_tisht = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_vor_deo = {
+				b_tisht = {
 					
-				# }
-			# }
-			# c_ooo_temiuk = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_usk = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_ooo_temiuk = {
+				b_usk = {
 					
-				# }
-			# }
-			# c_piroket = {
-				# color={ 100 20 2 }
-				# color2={ 255 255 255 }
+				}
+			}
+			c_m_hanna = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
 				
-				# b_piroket = {
+				b_m_hanna = {
 					
-				# }
-			# }
-		# }
-	# }
-# }
-
+				}
+			}
+			c_elgit = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_elgit = {
+					
+				}
+			}
+			c_godsheart = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_godsheart = {
+					
+				}
+			}
+		}
+		d_ootmian_pabol = {
+			color={ 88 53 90 }
+			color2={ 255 255 255 }
+			
+			#capital = 1765 
+			
+			c_irith = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_irith = {
+					
+				}
+			}
+			c_du_hutta = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_du_hutta = {
+					
+				}
+			}
+			c_nar_bo_sholla = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_nar_bo_sholla = {
+					
+				}
+			}
+		}
+		##Hutt Kajidics
+		d_anjiliac = {
+			color = { 171 138 79 }
+			
+		}
+		d_bareesh = {
+			color = { 171 138 79 }
+		}
+		d_besadii = {
+			color = { 50 156 158 }
+			
+		}
+		d_desilijic = {
+			color = { 188 39 41 }
+		}
+		d_faljozic = { #B-Foroon
+			color = { 171 138 79 }
+		}
+		d_gejalli = { #Kor Gejalli
+			color = { 171 138 79 }
+		}
+		d_gnuda = { #Mataou
+			color = { 171 138 79 }
+		}
+		d_gorensla = { #Kor Gorensla
+			color = { 171 138 79 }
+		}
+		d_hestilic = { #Kor Hestilic, Ko Vari(Boonta)
+			color = { 171 138 79 }
+		}
+		d_hu_un = {
+			color = { 171 138 79 }
+		}
+		d_hunamma = {
+			color = { 171 138 79 }
+		}
+		d_shell_hutts = {
+			color = { 171 138 79 }
+			
+		}
+		d_qunaalac = {
+			color = { 171 138 79 }
+			
+		}
+		d_kajidier = {
+			color = { 171 138 79 }
+			
+		}
+		d_vermilic = {
+			color = { 164 138 89 }
+			
+		}
+	}
+}
 e_unknown_regions = {
 	color={ 130 20 50 }
 	color2={ 200 0 0 }
@@ -2230,4 +2594,25 @@ k_trade_federation = {
 }
 k_jedi_order = {
 	color = { 206 0 0 }
+}
+d_galactic_spice_mining_guild = {
+	color = { 171 138 79 }
+}
+d_spiverelda = {
+	color = { 171 138 79 }
+}
+d_andoan_free_colonies = {
+	color = { 171 138 79 }
+}
+d_pacithhip_protectorate = {
+	color = { 171 138 79 }
+}
+d_outer_rim_oreworks = {
+	color = { 171 138 79 }
+}
+d_lok_revenants = {
+	color = { 104 26 26 }
+}
+d_naboo = {
+	color = { 104 26 26 }
 }

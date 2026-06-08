@@ -1,12 +1,11 @@
-# 1448 - Province1448
+# 1448 - Falleen
 
 # County Title
-title = c_province1448
+title = c_falleen
 
 # Settlements
 max_settlements = 4
-b_barony1448` = tribal
-b_barony1448a = temple
+b_falleen = tribal
 
 # Misc
 culture = uncultured_swine

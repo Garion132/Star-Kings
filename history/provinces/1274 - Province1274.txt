@@ -1,12 +1,11 @@
-# 1274 - Province1274
+# 1274 - Milagro
 
 # County Title
-title = c_province1274
+title = c_milagro
 
 # Settlements
 max_settlements = 4
-b_barony1274` = tribal
-b_barony1274a = temple
+b_milagro = tribal
 
 # Misc
 culture = uncultured_swine

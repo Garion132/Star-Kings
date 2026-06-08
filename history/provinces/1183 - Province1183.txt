@@ -1,12 +1,11 @@
-# 1183 - Province1183
+# 1183 - Allanteen
 
 # County Title
-title = c_province1183
+title = c_allanteen
 
 # Settlements
 max_settlements = 4
-b_barony1183` = tribal
-b_barony1183a = temple
+b_allanteen = tribal
 
 # Misc
 culture = uncultured_swine

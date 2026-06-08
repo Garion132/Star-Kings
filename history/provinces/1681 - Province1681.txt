@@ -1,12 +1,11 @@
-# 1681 - Province1681
+# 1681 - Ooo-temiuk
 
 # County Title
-title = c_province1681
+title = c_ooo_temiuk
 
 # Settlements
 max_settlements = 5
-b_barony1681` = tribal
-b_barony1681a = temple
+b_ooo_temiuk = tribal
 
 # Misc
 culture = uncultured_swine

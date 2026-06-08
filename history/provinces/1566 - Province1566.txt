@@ -1,12 +1,11 @@
-# 1566 - Province1566
+# 1566 - Radnor
 
 # County Title
-title = c_province1566
+title = c_radnor
 
 # Settlements
 max_settlements = 4
-b_barony1566` = tribal
-b_barony1566a = temple
+b_radnor = tribal
 
 # Misc
 culture = uncultured_swine

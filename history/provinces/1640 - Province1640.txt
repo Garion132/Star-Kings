@@ -1,12 +1,11 @@
-# 1640 - Province1640
+# 1640 - Najiba
 
 # County Title
-title = c_province1640
+title = c_najiba
 
 # Settlements
 max_settlements = 2
-b_barony1640` = tribal
-b_barony1640a = temple
+b_najiba = tribal
 
 # Misc
 culture = uncultured_swine

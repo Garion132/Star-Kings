@@ -1,15 +1,14 @@
-# 1612 - Province1612
+# 1612 - Rodia
 
 # County Title
-title = c_province1612
+title = c_rodia
 
 # Settlements
 max_settlements = 4
-b_barony1612` = tribal
-b_barony1612a = temple
+b_rodia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = rodian
 religion = pagan
 
 # History

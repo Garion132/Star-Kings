@@ -1,12 +1,11 @@
-# 1630 - Province1630
+# 1630 - Gorno
 
 # County Title
-title = c_province1630
+title = c_gorno
 
 # Settlements
 max_settlements = 2
-b_barony1630` = tribal
-b_barony1630a = temple
+b_gorno = tribal
 
 # Misc
 culture = uncultured_swine

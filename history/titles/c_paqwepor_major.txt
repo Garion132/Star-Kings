@@ -1,0 +1,7 @@
+1.1.1 = {
+	liege = d_paqwepori
+}
+968.1.1 = {
+	holder = 60070
+}
+

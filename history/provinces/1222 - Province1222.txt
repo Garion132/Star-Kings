@@ -1,12 +1,11 @@
-# 1222 - Province1222
+# 1222 - Cheku
 
 # County Title
-title = c_province1222
+title = c_cheku
 
 # Settlements
 max_settlements = 1
-b_barony1222` = tribal
-b_barony1222a = temple
+b_cheku = tribal
 
 # Misc
 culture = uncultured_swine

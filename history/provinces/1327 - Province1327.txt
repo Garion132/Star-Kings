@@ -1,12 +1,11 @@
-# 1327 - Province1327
+# 1327 - Bannistar Station
 
 # County Title
-title = c_province1327
+title = c_bannistar_station
 
 # Settlements
 max_settlements = 4
-b_barony1327` = tribal
-b_barony1327a = temple
+b_bannistar_station = tribal
 
 # Misc
 culture = uncultured_swine

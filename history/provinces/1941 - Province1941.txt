@@ -1,12 +1,11 @@
-# 1941 - Province1941
+# 1941 - Godsheart
 
 # County Title
-title = c_province1941
+title = c_godsheart
 
 # Settlements
 max_settlements = 5
-b_barony1941` = tribal
-b_barony1941a = temple
+b_godsheart = tribal
 
 # Misc
 culture = uncultured_swine

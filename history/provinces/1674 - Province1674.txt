@@ -1,12 +1,11 @@
-# 1674 - Province1674
+# 1674 - Geonosis
 
 # County Title
-title = c_province1674
+title = c_geonosis
 
 # Settlements
 max_settlements = 5
-b_barony1674` = tribal
-b_barony1674a = temple
+b_geonosis = tribal
 
 # Misc
 culture = uncultured_swine

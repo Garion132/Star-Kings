@@ -1,12 +1,11 @@
-# 1669 - Province1669
+# 1669 - Dalchon
 
 # County Title
-title = c_province1669
+title = c_dalchon
 
 # Settlements
 max_settlements = 5
-b_barony1669` = tribal
-b_barony1669a = temple
+b_dalchon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1317 - Province1317
+# 1317 - Thaere
 
 # County Title
-title = c_province1317
+title = c_thaere
 
 # Settlements
 max_settlements = 4
-b_barony1317` = tribal
-b_barony1317a = temple
+b_thaere = tribal
 
 # Misc
 culture = uncultured_swine

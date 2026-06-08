@@ -1,15 +1,14 @@
-# 1779 - Province1779
+# 1779 - Carnovia
 
 # County Title
-title = c_province1779
+title = c_carnovia
 
 # Settlements
 max_settlements = 5
-b_barony1779` = tribal
-b_barony1779a = temple
+b_carnovia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

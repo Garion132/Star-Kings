@@ -1,15 +1,14 @@
-# 1663 - Province1663
+# 1663 - Shimia
 
 # County Title
-title = c_province1663
+title = c_shimia
 
 # Settlements
 max_settlements = 5
-b_barony1663` = tribal
-b_barony1663a = temple
+b_shimia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = pacithhip
 religion = pagan
 
 # History

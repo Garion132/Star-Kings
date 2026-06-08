@@ -1,12 +1,11 @@
-# 1386 - Province1386
+# 1386 - Doldur
 
 # County Title
-title = c_province1386
+title = c_doldur
 
 # Settlements
 max_settlements = 4
-b_barony1386` = tribal
-b_barony1386a = temple
+b_doldur = tribal
 
 # Misc
 culture = uncultured_swine

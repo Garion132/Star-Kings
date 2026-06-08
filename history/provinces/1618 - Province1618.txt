@@ -1,12 +1,11 @@
-# 1618 - Province1618
+# 1618 - Pii
 
 # County Title
-title = c_province1618
+title = c_pii
 
 # Settlements
 max_settlements = 4
-b_barony1618` = tribal
-b_barony1618a = temple
+b_pii = tribal
 
 # Misc
 culture = uncultured_swine

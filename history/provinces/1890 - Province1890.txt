@@ -1,12 +1,11 @@
-# 1890 - Province1890
+# 1890 - Saki
 
 # County Title
-title = c_province1890
+title = c_saki
 
 # Settlements
 max_settlements = 5
-b_barony1890` = tribal
-b_barony1890a = temple
+b_saki = tribal
 
 # Misc
 culture = uncultured_swine

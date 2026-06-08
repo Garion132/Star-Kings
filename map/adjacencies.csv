@@ -148,7 +148,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1474;1499;major_river;;-1;-1;-1;-1;Andosha to Mon Gazza
 1499;1550;major_river;;-1;-1;-1;-1;Mon Gazza to Herdessa
 1550;1566;major_river;;-1;-1;-1;-1;Herdessa to Radnor
-1566;1613;major_river;;-1;-1;-1;-1;Radnor to Arkanis
+1566;0051;major_river;;-1;-1;-1;-1;Radnor to Christophsis
+0051;0073;major_river;;-1;-1;-1;-1;Christophsis to Savareen
+0073;1613;major_river;;-1;-1;-1;-1;Savareen to Arkanis
 1613;1619;major_river;;-1;-1;-1;-1;Arkanis to Sirpar
 1619;1630;major_river;;-1;-1;-1;-1;Sirpar to Gorno
 1630;1669;major_river;;-1;-1;-1;-1;Gorno to Dalchon
@@ -1172,4 +1174,42 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0921;0944;sea;;-1;-1;-1;-1;Loretto to Seyugi 
 0817;0758;sea;;-1;-1;-1;-1;Fedalle to Vuma 
 0752;0758;sea;;-1;-1;-1;-1;Ator to Vuma 
-0752;0787;sea;;-1;-1;-1;-1;Ator to Leria Kerlsil 
+0752;0787;sea;;-1;-1;-1;-1;Ator to Leria Kerlsil  
+1474;1455;sea;;-1;-1;-1;-1;Andosha to Argus 
+1439;1455;sea;;-1;-1;-1;-1;Zolan to Argus 
+1439;1417;sea;;-1;-1;-1;-1;Zolan to Rintonne
+1550;1532;sea;;-1;-1;-1;-1;Herdessa to Habassa
+1530;1532;sea;;-1;-1;-1;-1;Retep to Habassa
+1530;1566;sea;;-1;-1;-1;-1;Retep to Radnor
+1589;1566;sea;;-1;-1;-1;-1;Ragna to Radnor
+1612;1589;sea;;-1;-1;-1;-1;Rodia to Ragan
+1612;0051;sea;;-1;-1;-1;-1;Rodia to Christophsis
+1612;1618;sea;;-1;-1;-1;-1;Rodia to Pii
+1585;0073;sea;;-1;-1;-1;-1;Tythe to Savareen
+1474;1517;sea;;-1;-1;-1;-1;Andosha to Ando 
+1669;1663;sea;;-1;-1;-1;-1;Dalchon to Shimia
+1663;0086;sea;;-1;-1;-1;-1;Shimia to Mynos III
+1605;0086;sea;;-1;-1;-1;-1;Orvax to Mynos III
+1769;1816;sea;;-1;-1;-1;-1;Wrea to Gaulus
+1804;1875;sea;;-1;-1;-1;-1;Smuggler's Run to Naos
+1804;1837;sea;;-1;-1;-1;-1;Smuggler's Run to Lamaredd
+1837;1875;sea;;-1;-1;-1;-1;Lamaredd to Naos
+1837;1774;sea;;-1;-1;-1;-1;Lamaredd to Velabri
+1575;0093;sea;;-1;-1;-1;-1;Nelvaan to Apatros
+0051;0093;sea;;-1;-1;-1;-1;Christophsis to Apatros
+1437;1448;sea;;-1;-1;-1;-1;Kabray to Falleen
+1394;1448;sea;;-1;-1;-1;-1;Druckenwell to Falleen 
+1471;1448;sea;;-1;-1;-1;-1;Linuri to Falleen
+1471;1470;sea;;-1;-1;-1;-1;Linuri to Haseria
+1508;1548;sea;;-1;-1;-1;-1;Llanic to Lok
+1394;1376;sea;;-1;-1;-1;-1;Druckenwell to Monor 
+1890;1919;sea;;-1;-1;-1;-1;Saki to Sakifwanna 
+1941;1919;sea;;-1;-1;-1;-1;Godsheart to Sakifwanna 
+1941;1963;sea;;-1;-1;-1;-1;Godsheart to Saqqar 
+1310;1317;sea;;-1;-1;-1;-1;Bacrana to Thaere 
+1222;1241;sea;;-1;-1;-1;-1;Cheku to Sika
+1222;1219;sea;;-1;-1;-1;-1;Cheku to Selsor
+1195;1246;sea;;-1;-1;-1;-1;Vendaxa to Gamor
+1195;1246;sea;;-1;-1;-1;-1;Vendaxa to Pamorjal 
+1166;1201;sea;;-1;-1;-1;-1;Tlactehon to Tarmidia
+1188;1201;sea;;-1;-1;-1;-1;Bovo Yagen to Tarmidia

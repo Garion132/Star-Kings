@@ -1,12 +1,11 @@
-# 1530 - Province1530
+# 1530 - Retep
 
 # County Title
-title = c_province1530
+title = c_retep
 
 # Settlements
 max_settlements = 1
-b_barony1530` = tribal
-b_barony1530a = temple
+b_retep = tribal
 
 # Misc
 culture = uncultured_swine

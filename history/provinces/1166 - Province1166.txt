@@ -1,12 +1,11 @@
-# 1166 - Province1166
+# 1166 - Tlactehon
 
 # County Title
-title = c_province1166
+title = c_tlactehon
 
 # Settlements
 max_settlements = 1
-b_barony1166` = tribal
-b_barony1166a = temple
+b_tlactehon = tribal
 
 # Misc
 culture = uncultured_swine

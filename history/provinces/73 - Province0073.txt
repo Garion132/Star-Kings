@@ -1,14 +1,14 @@
-# 73 - Ajey
+# 73 - Savareen
 
 # County Title
-title = c_ajey
+title = c_savareen
 
 # Settlements
 max_settlements = 1
-b_ajey = tribal
+b_savareen = tribal
 
 # Misc
-culture = chiss
+culture = uncultured_swine
 religion = pagan
 
 # History

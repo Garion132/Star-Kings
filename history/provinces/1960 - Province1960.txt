@@ -1,15 +1,14 @@
-# 1960 - Province1960
+# 1960 - Tisht
 
 # County Title
-title = c_province1960
+title = c_tisht
 
 # Settlements
 max_settlements = 6
-b_barony1960` = tribal
-b_barony1960a = temple
+b_tisht = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

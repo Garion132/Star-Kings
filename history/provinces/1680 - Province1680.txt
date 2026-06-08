@@ -1,12 +1,11 @@
-# 1680 - Province1680
+# 1680 - Vor Deo
 
 # County Title
-title = c_province1680
+title = c_vor_deo
 
 # Settlements
 max_settlements = 5
-b_barony1680` = tribal
-b_barony1680a = temple
+b_vor_deo = tribal
 
 # Misc
 culture = uncultured_swine

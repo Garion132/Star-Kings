@@ -1,12 +1,11 @@
-# 1619 - Province1619
+# 1619 - Sirpar
 
 # County Title
-title = c_province1619
+title = c_sirpar
 
 # Settlements
 max_settlements = 4
-b_barony1619` = tribal
-b_barony1619a = temple
+b_sirpar = tribal
 
 # Misc
 culture = uncultured_swine

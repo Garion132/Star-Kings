@@ -1,0 +1,123 @@
+70000 = {
+	name= "Jabba Tiure" # 
+	dynasty = 25 #Desilijic
+	religion = pagan
+	culture = hutt
+	400.1.1={
+		birth=yes
+	}
+	1004.1.14={
+		death=yes
+	}
+}
+70001 = {
+	name= "Hutt Council" # 
+	#dynasty = 25 #Desilijic
+	religion = pagan
+	culture = hutt
+	400.1.1={
+		birth=yes
+		add_trait = immortal
+	}
+	2000.1.14={
+		death=yes
+	}
+}
+70010 = {
+	name = "Gheeta" # 
+	dynasty = 30 #Shell Hutts
+	religion = pagan
+	culture = hutt
+	507.1.1={
+		birth=yes
+	}
+	1001.1.14={
+		death=yes
+	}
+}
+70020 = {
+	name = "Zietta" # 
+	dynasty = 31 #Anjiliac
+	religion = pagan
+	culture = hutt
+	female = yes
+	600.1.1={
+		birth=yes
+	}
+	1001.1.14={
+		death=yes
+	}
+}
+70030 = {
+	name = "Aruk" # 
+	dynasty = 32 #Besadii
+	religion = pagan
+	culture = hutt
+	100.1.1={
+		birth=yes
+	}
+	996.1.1={
+		death=yes
+	}
+}
+70031 = {
+	name = "Durga" # 
+	dynasty = 32 #Besadii
+	religion = pagan
+	culture = hutt
+	father = 70030
+	895.1.1={
+		birth=yes
+	}
+	1012.1.1={
+		death=yes
+	}
+}
+70040 = {
+	name = "Marlo" # 
+	dynasty = 33 #Qunaalac
+	religion = pagan
+	culture = hutt
+	370.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+70041 = {
+	name = "Troonol" # 
+	dynasty = 33 #Qunaalac
+	religion = pagan
+	culture = hutt
+	460.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+70050 = {
+	name = "Jelpel" # 
+	dynasty = 34 #Kajidier
+	religion = pagan
+	culture = hutt
+	500.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+70060 = {
+	name = "Minalod" # 
+	dynasty = 35 #Vermilic
+	religion = pagan
+	culture = hutt
+	500.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}

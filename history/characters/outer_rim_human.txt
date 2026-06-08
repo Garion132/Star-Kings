@@ -1,13 +1,63 @@
 51000 = {
 	name= "Leeya" # 
 	#dynasty =  #Arkanis
-	religion = catholic
+	religion = pagan
 	culture = core_worlder
 	female = yes
 	941.1.1={
 		birth=yes
 	}
 	1017.1.14={
+		death=yes
+	}
+}
+51010 = {
+	name= "Shea" # 
+	dynasty = 19 #Sadashassa
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	941.1.1={
+		birth=yes
+	}
+	1017.1.14={
+		death=yes
+	}
+}
+51020 = {
+	name= "Rasit" # 
+	dynasty = 20 #Brun
+	religion = pagan
+	culture = core_worlder
+	941.1.1={
+		birth=yes
+	}
+	1017.1.14={
+		death=yes
+	}
+}
+51030 = {
+	name= "Guther" # 
+	dynasty = 26 #Bartyn
+	religion = pagan
+	culture = core_worlder
+	941.1.1={
+		birth=yes
+	}
+	1017.1.14={
+		death=yes
+	}
+}
+51040 = {
+	name= "Padmé" # 
+	dynasty = 27 #Amidala
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	954.1.1={
+		birth=yes
+	}
+	981.1.14={
 		death=yes
 	}
 }

@@ -1,12 +1,11 @@
-# 1787 - Province1787
+# 1787 - Du Hutta
 
 # County Title
-title = c_province1787
+title = c_du_hutta
 
 # Settlements
 max_settlements = 5
-b_barony1787` = tribal
-b_barony1787a = temple
+b_du_hutta = tribal
 
 # Misc
 culture = uncultured_swine

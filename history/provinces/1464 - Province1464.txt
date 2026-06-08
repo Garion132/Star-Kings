@@ -1,12 +1,11 @@
-# 1464 - Province1464
+# 1464 - Zhar
 
 # County Title
-title = c_province1464
+title = c_zhar
 
 # Settlements
 max_settlements = 4
-b_barony1464` = tribal
-b_barony1464a = temple
+b_zhar = tribal
 
 # Misc
 culture = uncultured_swine

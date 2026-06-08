@@ -1,12 +1,11 @@
-# 1145 - Province1145
+# 1145 - Tynna
 
 # County Title
-title = c_province1145
+title = c_tynna
 
 # Settlements
 max_settlements = 4
-b_barony1145` = tribal
-b_barony1145a = temple
+b_tynna = tribal
 
 # Misc
 culture = uncultured_swine

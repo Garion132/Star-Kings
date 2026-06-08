@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_qunaalac
+}
+400.1.1 = {
+	holder = 70040
+}

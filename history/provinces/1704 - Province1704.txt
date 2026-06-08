@@ -1,15 +1,14 @@
-# 1704 - Province1704
+# 1704 - Ryloth
 
 # County Title
-title = c_province1704
+title = c_ryloth
 
 # Settlements
 max_settlements = 1
-b_barony1704` = tribal
-b_barony1704a = temple
+b_ryloth = tribal
 
 # Misc
-culture = uncultured_swine
+culture = twi_lek
 religion = pagan
 
 # History

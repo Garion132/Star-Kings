@@ -1,12 +1,11 @@
-# 1437 - Province1437
+# 1437 - Kabray
 
 # County Title
-title = c_province1437
+title = c_kabray
 
 # Settlements
 max_settlements = 2
-b_barony1437` = tribal
-b_barony1437a = temple
+b_kabray = tribal
 
 # Misc
 culture = uncultured_swine

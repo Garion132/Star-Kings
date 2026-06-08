@@ -1,12 +1,11 @@
-# 1270 - Province1270
+# 1270 - Merren
 
 # County Title
-title = c_province1270
+title = c_merren
 
 # Settlements
 max_settlements = 3
-b_barony1270` = tribal
-b_barony1270a = temple
+b_merren = tribal
 
 # Misc
 culture = uncultured_swine

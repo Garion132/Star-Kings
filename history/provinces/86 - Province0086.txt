@@ -1,15 +1,14 @@
-# 86 - Province0086
+# 86 - Mynos III
 
 # County Title
-title = c_province0086
+title = c_mynos_3
 
 # Settlements
 max_settlements = 1
-b_barony0086` = tribal
-b_barony0086a = temple
+b_mynos_3 = tribal
 
 # Misc
-culture = uncultured_swine
+culture = pacithhip
 religion = pagan
 
 # History

@@ -1,15 +1,14 @@
-# 1828 - Province1828
+# 1828 - Rorak
 
 # County Title
-title = c_province1828
+title = c_rorak
 
 # Settlements
 max_settlements = 5
-b_barony1828` = tribal
-b_barony1828a = temple
+b_rorak = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

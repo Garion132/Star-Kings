@@ -1,15 +1,14 @@
-# 1860 - Province1860
+# 1860 - Gos Hutta
 
 # County Title
-title = c_province1860
+title = c_gos_hutta
 
 # Settlements
 max_settlements = 5
-b_barony1860` = tribal
-b_barony1860a = temple
+b_gos_hutta = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

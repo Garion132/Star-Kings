@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_andoan_free_colonies
+}
+965.1.1 = {
+	holder = 60010
+}

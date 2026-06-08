@@ -1,12 +1,11 @@
-# 1532 - Province1532
+# 1532 - Habassa
 
 # County Title
-title = c_province1532
+title = c_habassa
 
 # Settlements
 max_settlements = 4
-b_barony1532` = tribal
-b_barony1532a = temple
+b_habassa = tribal
 
 # Misc
 culture = uncultured_swine

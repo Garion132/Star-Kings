@@ -1,12 +1,11 @@
-# 1225 - Province1225
+# 1225 - Krann
 
 # County Title
-title = c_province1225
+title = c_krann
 
 # Settlements
 max_settlements = 2
-b_barony1225` = tribal
-b_barony1225a = temple
+b_krann = tribal
 
 # Misc
 culture = uncultured_swine

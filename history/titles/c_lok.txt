@@ -1,0 +1,6 @@
+900.1.1 = {
+	liege = d_lok_revenants
+}
+956.1.1 = {
+	holder = 60050
+}

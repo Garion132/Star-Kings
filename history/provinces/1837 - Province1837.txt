@@ -1,12 +1,11 @@
-# 1837 - Province1837
+# 1837 - Lamaredd
 
 # County Title
-title = c_province1837
+title = c_lamaredd
 
 # Settlements
 max_settlements = 5
-b_barony1837` = tribal
-b_barony1837a = temple
+b_lamaredd = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_shell_hutts
+}
+1.1.1 = {
+	holder = 70010
+}

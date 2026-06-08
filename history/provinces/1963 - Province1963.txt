@@ -1,15 +1,14 @@
-# 1963 - Province1963
+# 1963 - Saqqar
 
 # County Title
-title = c_province1963
+title = c_saqqar
 
 # Settlements
 max_settlements = 1
-b_barony1963` = tribal
-b_barony1963a = temple
+b_saqqar = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

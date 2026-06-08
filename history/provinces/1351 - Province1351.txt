@@ -1,12 +1,11 @@
-# 1351 - Province1351
+# 1351 - New Cov
 
 # County Title
-title = c_province1351
+title = c_new_cov
 
 # Settlements
 max_settlements = 4
-b_barony1351` = tribal
-b_barony1351a = temple
+b_new_cov = tribal
 
 # Misc
 culture = uncultured_swine

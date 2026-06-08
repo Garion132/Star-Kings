@@ -1,12 +1,11 @@
-# 1439 - Province1439
+# 1439 - Zolan
 
 # County Title
-title = c_province1439
+title = c_zolan
 
 # Settlements
 max_settlements = 4
-b_barony1439` = tribal
-b_barony1439a = temple
+b_zolan = tribal
 
 # Misc
 culture = uncultured_swine

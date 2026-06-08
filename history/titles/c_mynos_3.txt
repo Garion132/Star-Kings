@@ -1,0 +1,15 @@
+1.1.1 = {
+	liege = d_pacithhip_protectorate
+}
+854.1.1 = {
+	holder = 116630
+}
+919.1.1 = {
+	holder = 116631
+}
+962.1.1 = {
+	holder = 116632
+}
+966.1.1 = {
+	holder = 116635
+}

@@ -1,12 +1,11 @@
-# 1548 - Province1548
+# 1548 - Lok
 
 # County Title
-title = c_province1548
+title = c_lok
 
 # Settlements
 max_settlements = 1
-b_barony1548` = tribal
-b_barony1548a = temple
+b_lok = tribal
 
 # Misc
 culture = uncultured_swine

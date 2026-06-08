@@ -1,12 +1,11 @@
-# 93 - Province0093
+# 93 - Apatros
 
 # County Title
-title = c_province0093
+title = c_apatros
 
 # Settlements
 max_settlements = 1
-b_barony0093` = tribal
-b_barony0093a = temple
+b_apatros = tribal
 
 # Misc
 culture = uncultured_swine

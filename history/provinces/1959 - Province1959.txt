@@ -1,15 +1,14 @@
-# 1959 - Province1959
+# 1959 - Ylesia
 
 # County Title
-title = c_province1959
+title = c_ylesia
 
 # Settlements
 max_settlements = 6
-b_barony1959` = tribal
-b_barony1959a = temple
+b_ylesia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

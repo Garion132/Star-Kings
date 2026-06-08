@@ -1,12 +1,11 @@
-# 1247 - Province1247
+# 1247 - Nivek
 
 # County Title
-title = c_province1247
+title = c_nivek
 
 # Settlements
 max_settlements = 4
-b_barony1247` = tribal
-b_barony1247a = temple
+b_nivek = tribal
 
 # Misc
 culture = uncultured_swine

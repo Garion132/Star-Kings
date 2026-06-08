@@ -1,15 +1,14 @@
-# 1884 - Province1884
+# 1884 - Varl
 
 # County Title
-title = c_province1884
+title = c_varl
 
 # Settlements
 max_settlements = 5
-b_barony1884` = tribal
-b_barony1884a = temple
+b_varl = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

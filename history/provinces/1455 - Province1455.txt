@@ -1,12 +1,11 @@
-# 1455 - Province1455
+# 1455 - Argus
 
 # County Title
-title = c_province1455
+title = c_argus
 
 # Settlements
 max_settlements = 4
-b_barony1455` = tribal
-b_barony1455a = temple
+b_argus = tribal
 
 # Misc
 culture = uncultured_swine

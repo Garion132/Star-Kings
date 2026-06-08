@@ -1,15 +1,14 @@
-# 1923 - Province1923
+# 1923 - Elgit
 
 # County Title
-title = c_province1923
+title = c_elgit
 
 # Settlements
 max_settlements = 5
-b_barony1923` = tribal
-b_barony1923a = temple
+b_elgit = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

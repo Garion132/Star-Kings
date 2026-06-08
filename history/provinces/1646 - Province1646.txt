@@ -1,12 +1,11 @@
-# 1646 - Province1646
+# 1646 - Tatooine
 
 # County Title
-title = c_province1646
+title = c_tatooine
 
 # Settlements
 max_settlements = 1
-b_barony1646` = tribal
-b_barony1646a = temple
+b_tatooine = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 1403 - Province1403
+# 1403 - Paqwepor Major
 
 # County Title
-title = c_province1403
+title = c_paqwepor_major
 
 # Settlements
 max_settlements = 4
-b_barony1403` = tribal
-b_barony1403a = temple
+b_paqwepor_major = tribal
 
 # Misc
-culture = uncultured_swine
+culture = paqwe
 religion = pagan
 
 # History

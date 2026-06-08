@@ -1,12 +1,11 @@
-# 1621 - Province1621
+# 1621 - Issor
 
 # County Title
-title = c_province1621
+title = c_issor
 
 # Settlements
 max_settlements = 4
-b_barony1621` = tribal
-b_barony1621a = temple
+b_issor = tribal
 
 # Misc
 culture = uncultured_swine

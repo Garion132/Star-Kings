@@ -1,15 +1,14 @@
-# 1895 - Province1895
+# 1895 - Langoona
 
 # County Title
-title = c_province1895
+title = c_langoona
 
 # Settlements
 max_settlements = 5
-b_barony1895` = tribal
-b_barony1895a = temple
+b_langoona = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 1195 - Province1195
+# 1195 - Vendaxa
 
 # County Title
-title = c_province1195
+title = c_vendaxa
 
 # Settlements
 max_settlements = 4
-b_barony1195` = tribal
-b_barony1195a = temple
+b_vendaxa = tribal
 
 # Misc
 culture = uncultured_swine

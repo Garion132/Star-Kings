@@ -1,12 +1,11 @@
-# 1875 - Province1875
+# 1875 - Naos
 
 # County Title
-title = c_province1875
+title = c_naos
 
 # Settlements
 max_settlements = 1
-b_barony1875` = tribal
-b_barony1875a = temple
+b_naos = tribal
 
 # Misc
 culture = uncultured_swine

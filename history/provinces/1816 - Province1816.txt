@@ -1,12 +1,11 @@
-# 1816 - Province1816
+# 1816 - Gaulus
 
 # County Title
-title = c_province1816
+title = c_gaulus
 
 # Settlements
 max_settlements = 5
-b_barony1816` = tribal
-b_barony1816a = temple
+b_gaulus = tribal
 
 # Misc
 culture = uncultured_swine

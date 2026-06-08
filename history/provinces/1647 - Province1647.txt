@@ -1,12 +1,11 @@
-# 1647 - Province1647
+# 1647 - Vasch
 
 # County Title
-title = c_province1647
+title = c_vasch
 
 # Settlements
 max_settlements = 2
-b_barony1647` = tribal
-b_barony1647a = temple
+b_vasch = tribal
 
 # Misc
 culture = uncultured_swine

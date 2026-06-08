@@ -1,15 +1,14 @@
-# 1376 - Province1376
+# 1376 - Monor
 
 # County Title
-title = c_province1376
+title = c_monor
 
 # Settlements
 max_settlements = 4
-b_barony1376` = tribal
-b_barony1376a = temple
+b_monor = temple
 
 # Misc
-culture = uncultured_swine
+culture = sunesi
 religion = pagan
 
 # History

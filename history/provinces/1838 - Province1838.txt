@@ -1,15 +1,14 @@
-# 1838 - Province1838
+# 1838 - Hosko
 
 # County Title
-title = c_province1838
+title = c_hosko
 
 # Settlements
 max_settlements = 5
-b_barony1838` = tribal
-b_barony1838a = temple
+b_hosko = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

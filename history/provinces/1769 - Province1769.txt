@@ -1,12 +1,11 @@
-# 1769 - Province1769
+# 1769 - Wrea
 
 # County Title
-title = c_province1769
+title = c_wrea
 
 # Settlements
 max_settlements = 5
-b_barony1769` = tribal
-b_barony1769a = temple
+b_wrea = tribal
 
 # Misc
 culture = uncultured_swine

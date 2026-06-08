@@ -1,12 +1,11 @@
-# 1365 - Province1365
+# 1365 - Ninzam
 
 # County Title
-title = c_province1365
+title = c_ninzam
 
 # Settlements
 max_settlements = 1
-b_barony1365` = tribal
-b_barony1365a = temple
+b_ninzam = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1499 - Province1499
+# 1499 - Mon Gazza
 
 # County Title
-title = c_province1499
+title = c_mon_gazza
 
 # Settlements
 max_settlements = 3
-b_barony1499` = tribal
-b_barony1499a = temple
+b_mon_gazza = tribal
 
 # Misc
 culture = uncultured_swine

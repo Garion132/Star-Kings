@@ -1,12 +1,11 @@
-# 1613 - Province1613
+# 1613 - Arkanis
 
 # County Title
-title = c_province1613
+title = c_arkanis
 
 # Settlements
 max_settlements = 4
-b_barony1613` = tribal
-b_barony1613a = temple
+b_arkanis = tribal
 
 # Misc
 culture = uncultured_swine

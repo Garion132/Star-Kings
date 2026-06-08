@@ -1,12 +1,11 @@
-# 1471 - Province1471
+# 1471 - Linuri
 
 # County Title
-title = c_province1471
+title = c_linuri
 
 # Settlements
 max_settlements = 4
-b_barony1471` = tribal
-b_barony1471a = temple
+b_linuri = tribal
 
 # Misc
 culture = uncultured_swine

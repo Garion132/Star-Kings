@@ -1,12 +1,11 @@
-# 1363 - Province1363
+# 1363 - Farstine
 
 # County Title
-title = c_province1363
+title = c_farstine
 
 # Settlements
 max_settlements = 4
-b_barony1363` = tribal
-b_barony1363a = temple
+b_farstine = tribal
 
 # Misc
 culture = uncultured_swine

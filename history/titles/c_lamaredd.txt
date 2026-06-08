@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_outer_rim_oreworks
+}
+956.1.1 = {
+	holder = 51030
+}

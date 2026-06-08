@@ -1,12 +1,11 @@
-# 1508 - Province1508
+# 1508 - Llanic
 
 # County Title
-title = c_province1508
+title = c_llanic
 
 # Settlements
 max_settlements = 4
-b_barony1508` = tribal
-b_barony1508a = temple
+b_llanic = tribal
 
 # Misc
 culture = uncultured_swine

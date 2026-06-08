@@ -70,3 +70,71 @@
 	name="Gunray"
 	culture="neimoidian"
 }
+19={
+	name="Sadashassa"
+	culture="core_worlder"
+}
+20={
+	name="Brun"
+	culture="core_worlder"
+}
+21={
+	name="Chattza"
+	culture="rodian"
+}
+22={
+	name="Taa"
+	culture="twi_lek"
+}
+23={
+	name="Vagger"
+	culture="ualaq"
+}
+24={
+	name="Nudo"
+	culture="ualaq"
+}
+25={
+	name="Desilijic"
+	culture="hutt"
+}
+26={
+	name="Bartyn"
+	culture="core_worlder"
+}
+27={
+	name="Amidala"
+	culture="core_worlder"
+}
+28={
+	name="Li"
+	culture="triffian"
+}
+29={
+	name="Paqwe"
+	culture="paqwe"
+}
+30={
+	name="Shell Hutt"
+	culture="hutt"
+}
+31={
+	name="Anjiliac"
+	culture="hutt"
+}
+32={
+	name="Besadii"
+	culture="hutt"
+}
+33={
+	name="Qunaalac"
+	culture="hutt"
+}
+34={
+	name="Kajidier"
+	culture="hutt"
+}
+35={
+	name="Vermilic"
+	culture="hutt"
+}

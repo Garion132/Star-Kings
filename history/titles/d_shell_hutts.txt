@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = e_hutt_cartel
+}
+1.1.1 = {
+	holder = 70010
+}

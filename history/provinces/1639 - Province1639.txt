@@ -1,12 +1,11 @@
-# 1639 - Province1639
+# 1639 - New Ator
 
 # County Title
-title = c_province1639
+title = c_new_ator
 
 # Settlements
 max_settlements = 1
-b_barony1639` = tribal
-b_barony1639a = temple
+b_new_ator = tribal
 
 # Misc
 culture = uncultured_swine

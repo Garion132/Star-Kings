@@ -1,12 +1,11 @@
-# 1417 - Province1417
+# 1417 - Rintonne
 
 # County Title
-title = c_province1417
+title = c_rintonne
 
 # Settlements
 max_settlements = 4
-b_barony1417` = tribal
-b_barony1417a = temple
+b_rintonne = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1470 - Province1470
+# 1470 - Haseria
 
 # County Title
-title = c_province1470
+title = c_haseria
 
 # Settlements
 max_settlements = 4
-b_barony1470` = tribal
-b_barony1470a = temple
+b_haseria = tribal
 
 # Misc
 culture = uncultured_swine

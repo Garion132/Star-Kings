@@ -1,12 +1,11 @@
-# 1316 - Province1316
+# 1316 - Ryndellia
 
 # County Title
-title = c_province1316
+title = c_ryndellia
 
 # Settlements
 max_settlements = 4
-b_barony1316` = tribal
-b_barony1316a = temple
+b_ryndellia = tribal
 
 # Misc
 culture = uncultured_swine

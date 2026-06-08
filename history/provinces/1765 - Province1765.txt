@@ -1,15 +1,14 @@
-# 1765 - Province1765
+# 1765 - Nal Hutta
 
 # County Title
-title = c_province1765
+title = c_nal_hutta
 
 # Settlements
 max_settlements = 5
-b_barony1765` = tribal
-b_barony1765a = temple
+b_nal_hutta = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History

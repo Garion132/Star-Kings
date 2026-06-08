@@ -1,15 +1,14 @@
-# 1935 - Province1935
+# 1935 - Usk
 
 # County Title
-title = c_province1935
+title = c_usk
 
 # Settlements
 max_settlements = 1
-b_barony1935` = tribal
-b_barony1935a = temple
+b_usk = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History
