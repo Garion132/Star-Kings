@@ -1,12 +1,11 @@
-# 1155 - Province1155
+# 1155 - Ruten
 
 # County Title
-title = c_province1155
+title = c_ruten
 
 # Settlements
 max_settlements = 1
-b_barony1155` = tribal
-b_barony1155a = temple
+b_ruten = tribal
 
 # Misc
 culture = uncultured_swine

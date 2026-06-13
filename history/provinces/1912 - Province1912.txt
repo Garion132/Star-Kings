@@ -1,12 +1,11 @@
-# 1912 - Province1912
+# 1912 - Nuswatta
 
 # County Title
-title = c_province1912
+title = c_nuswatta
 
 # Settlements
 max_settlements = 5
-b_barony1912` = tribal
-b_barony1912a = temple
+b_nuswatta = tribal
 
 # Misc
 culture = uncultured_swine

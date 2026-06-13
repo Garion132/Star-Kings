@@ -61,3 +61,197 @@
 		death=yes
 	}
 }
+51050 = {
+	name= "Alarik" # IX
+	dynasty = 36 #Devit
+	religion = pagan
+	culture = core_worlder
+	926.1.1={
+		birth=yes
+	}
+	979.1.1={
+		death=yes
+	}
+}
+51051 = {
+	name= "Alarik" # X
+	dynasty = 36 #Devit
+	religion = pagan
+	culture = core_worlder
+	father = 51050
+	963.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+51052 = {
+	name= "Careese" #
+	#dynasty = 36 #Devit
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	965.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}
+51053 = {
+	name= "Aereena" #
+	dynasty = 36 #Devit
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	father = 51051
+	mother = 51052
+	991.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		death=yes
+	}
+}
+51060 = {
+	name= "Tsian" #
+	#dynasty = #
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	949.1.1={
+		birth=yes
+	}
+	1024.1.1={
+		death=yes
+	}
+}
+51070 = {
+	name= "Rankwin" #
+	dynasty = 40 #Fopow
+	religion = pagan
+	culture = core_worlder
+	949.1.1={
+		birth=yes
+	}
+	1024.1.1={
+		death=yes
+	}
+}
+51080 = {
+	name= "Kerred" #
+	dynasty = 41 #Santhe
+	religion = pagan
+	culture = core_worlder
+	881.1.1={
+		birth=yes
+	}
+	934.1.1={
+		death=yes
+	}
+}
+51081 = {
+	name= "Kerred" #
+	dynasty = 41 #Santhe
+	religion = pagan
+	culture = core_worlder
+	father = 51080
+	916.1.1={
+		birth=yes
+	}
+	967.1.1={
+		death=yes
+	}
+}
+51082 = {
+	name= "Valles" #
+	dynasty = 41 #Santhe
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	father = 51081
+	941.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+51083 = {
+	name= "Phillip" #
+	dynasty = 41 #Santhe
+	religion = pagan
+	culture = core_worlder
+	mother = 51082
+	965.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+51090 = {
+	name= "Jheramahd" #
+	dynasty = 42 #Greyshade
+	religion = pagan
+	culture = core_worlder
+	931.1.1={
+		birth=yes
+	}
+	977.1.1={
+		death=yes
+	}
+}
+51091 = {
+	name= "Simon" #
+	dynasty = 42 #Greyshade
+	religion = pagan
+	culture = core_worlder
+	958.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+51100 = {
+	name= "Adonai" #
+	dynasty = 43 #Kryze
+	religion = pagan
+	culture = core_worlder
+	918.1.1={
+		birth=yes
+	}
+	959.1.1={
+		death=yes
+	}
+}
+51101 = {
+	name= "Satine" #
+	dynasty = 43 #Kryze
+	religion = pagan
+	culture = core_worlder
+	father = 51100
+	female = yes
+	940.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+51102 = {
+	name= "Bo-Katan" #
+	dynasty = 43 #Kryze
+	religion = pagan
+	culture = core_worlder
+	father = 51100
+	female = yes
+	942.1.1={
+		birth=yes
+	}
+	1009.1.1={
+		death=yes
+	}
+}

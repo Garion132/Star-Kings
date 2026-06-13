@@ -1,12 +1,11 @@
-# 1019 - Province1019
+# 1019 - Iseno
 
 # County Title
-title = c_province1019
+title = c_iseno
 
 # Settlements
 max_settlements = 3
-b_barony1019` = tribal
-b_barony1019a = temple
+b_iseno = tribal
 
 # Misc
 culture = uncultured_swine

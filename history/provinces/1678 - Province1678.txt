@@ -1,12 +1,11 @@
-# 1678 - Province1678
+# 1678 - Centares
 
 # County Title
-title = c_province1678
+title = c_centares
 
 # Settlements
 max_settlements = 5
-b_barony1678` = tribal
-b_barony1678a = temple
+b_centares = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1147 - Province1147
+# 1147 - Roldalna
 
 # County Title
-title = c_province1147
+title = c_roldalna
 
 # Settlements
 max_settlements = 4
-b_barony1147` = tribal
-b_barony1147a = temple
+b_roldalna = tribal
 
 # Misc
 culture = uncultured_swine

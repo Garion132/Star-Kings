@@ -1,12 +1,11 @@
-# 952 - Province0952
+# 952 - Byblos
 
 # County Title
-title = c_province0952
+title = c_byblos
 
 # Settlements
 max_settlements = 1
-b_barony0952` = tribal
-b_barony0952a = temple
+b_byblos = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1906 - Province1906
+# 1906 - Argoon
 
 # County Title
-title = c_province1906
+title = c_argoon
 
 # Settlements
 max_settlements = 5
-b_barony1906` = tribal
-b_barony1906a = temple
+b_argoon = tribal
 
 # Misc
 culture = uncultured_swine

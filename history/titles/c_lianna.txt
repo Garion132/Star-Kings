@@ -1,0 +1,15 @@
+1.1.1={
+	liege = k_santhe_corporation
+}
+901.1.1 = {
+	holder = 51080
+}
+934.1.1 = {
+	holder = 51081
+}
+967.1.1 = {
+	holder = 51082
+}
+1015.1.1 = {
+	holder = 51083
+}

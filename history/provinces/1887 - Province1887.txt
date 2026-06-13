@@ -1,12 +1,11 @@
-# 1887 - Province1887
+# 1887 - Panna
 
 # County Title
-title = c_province1887
+title = c_panna
 
 # Settlements
 max_settlements = 5
-b_barony1887` = tribal
-b_barony1887a = temple
+b_panna = tribal
 
 # Misc
 culture = uncultured_swine

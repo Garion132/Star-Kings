@@ -1,12 +1,11 @@
-# 1690 - Province1690
+# 1690 - Antemeridias
 
 # County Title
-title = c_province1690
+title = c_antemeridias
 
 # Settlements
 max_settlements = 2
-b_barony1690` = tribal
-b_barony1690a = temple
+b_antemeridias = tribal
 
 # Misc
 culture = uncultured_swine

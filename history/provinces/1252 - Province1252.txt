@@ -1,12 +1,11 @@
-# 1252 - Province1252
+# 1252 - Concord Dawn
 
 # County Title
-title = c_province1252
+title = c_concord_dawn
 
 # Settlements
 max_settlements = 4
-b_barony1252` = tribal
-b_barony1252a = temple
+b_concord_dawn = tribal
 
 # Misc
 culture = uncultured_swine

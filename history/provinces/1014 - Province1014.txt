@@ -1,12 +1,11 @@
-# 1014 - Province1014
+# 1014 - Aquilae
 
 # County Title
-title = c_province1014
+title = c_aquilae
 
 # Settlements
 max_settlements = 1
-b_barony1014` = tribal
-b_barony1014a = temple
+b_aquilae = tribal
 
 # Misc
 culture = uncultured_swine

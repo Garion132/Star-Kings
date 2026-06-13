@@ -1,11 +1,11 @@
-# 1175 - Province1175
+# 1175 - Alui
 
 # County Title
-title = c_province1175
+title = c_alui
 
 # Settlements
 max_settlements = 1
-b_barony1175` = tribal
+b_alui = tribal
 
 # Misc
 culture = uncultured_swine

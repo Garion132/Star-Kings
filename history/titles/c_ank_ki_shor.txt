@@ -1,0 +1,6 @@
+1.1.1={
+	liege = k_tion_hegemony
+}
+981.1.1={
+	liege = e_gal_republic
+}

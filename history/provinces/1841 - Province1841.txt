@@ -1,12 +1,11 @@
-# 1841 - Province1841
+# 1841 - Arramanx
 
 # County Title
-title = c_province1841
+title = c_arramanx
 
 # Settlements
 max_settlements = 5
-b_barony1841` = tribal
-b_barony1841a = temple
+b_arramanx = tribal
 
 # Misc
 culture = uncultured_swine

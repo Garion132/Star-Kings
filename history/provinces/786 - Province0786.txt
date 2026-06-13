@@ -1,12 +1,11 @@
-# 786 - Province0786
+# 786 - Shulstine
 
 # County Title
-title = c_province0786
+title = c_shulstine
 
 # Settlements
 max_settlements = 3
-b_barony0786` = tribal
-b_barony0786a = temple
+b_shulstine = tribal
 
 # Misc
 culture = uncultured_swine

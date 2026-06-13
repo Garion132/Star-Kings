@@ -1,12 +1,11 @@
-# 1725 - Province1725
+# 1725 - Mossak
 
 # County Title
-title = c_province1725
+title = c_mossak
 
 # Settlements
 max_settlements = 1
-b_barony1725` = tribal
-b_barony1725a = temple
+b_mossak = tribal
 
 # Misc
 culture = uncultured_swine

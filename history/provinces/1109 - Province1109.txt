@@ -1,12 +1,11 @@
-# 1109 - Province1109
+# 1109 - Umgul
 
 # County Title
-title = c_province1109
+title = c_umgul
 
 # Settlements
 max_settlements = 2
-b_barony1109` = tribal
-b_barony1109a = temple
+b_umgul = tribal
 
 # Misc
 culture = uncultured_swine

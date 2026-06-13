@@ -1,12 +1,11 @@
-# 1756 - Province1756
+# 1756 - Thanium
 
 # County Title
-title = c_province1756
+title = c_thanium
 
 # Settlements
 max_settlements = 5
-b_barony1756` = tribal
-b_barony1756a = temple
+b_thanium = tribal
 
 # Misc
 culture = uncultured_swine

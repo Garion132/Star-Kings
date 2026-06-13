@@ -1,12 +1,11 @@
-# 995 - Province0995
+# 995 - Vanjervalis
 
 # County Title
-title = c_province0995
+title = c_vanjervalis
 
 # Settlements
 max_settlements = 3
-b_barony0995` = tribal
-b_barony0995a = temple
+b_vanjervalis = tribal
 
 # Misc
 culture = uncultured_swine

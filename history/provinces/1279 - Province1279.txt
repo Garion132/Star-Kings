@@ -1,12 +1,11 @@
-# 1279 - Province1279
+# 1279 - Mandalore
 
 # County Title
-title = c_province1279
+title = c_mandalore
 
 # Settlements
 max_settlements = 1
-b_barony1279` = tribal
-b_barony1279a = temple
+b_mandalore = tribal
 
 # Misc
 culture = uncultured_swine

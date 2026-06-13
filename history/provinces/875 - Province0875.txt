@@ -1,12 +1,11 @@
-# 875 - Province0875
+# 875 - Chasin
 
 # County Title
-title = c_province0875
+title = c_chasin
 
 # Settlements
 max_settlements = 1
-b_barony0875` = tribal
-b_barony0875a = temple
+b_chasin = tribal
 
 # Misc
 culture = uncultured_swine

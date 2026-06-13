@@ -1,12 +1,11 @@
-# 1085 - Province1085
+# 1085 - Lazerian
 
 # County Title
-title = c_province1085
+title = c_lazerian
 
 # Settlements
 max_settlements = 4
-b_barony1085` = tribal
-b_barony1085a = temple
+b_lazerian = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 829 - Province0829
+# 829 - Raithal
 
 # County Title
-title = c_province0829
+title = c_raithal
 
 # Settlements
 max_settlements = 3
-b_barony0829` = tribal
-b_barony0829a = temple
+b_raithal = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1074 - Province1074
+# 1074 - Gendrah-Narvin
 
 # County Title
-title = c_province1074
+title = c_gendrah_narvin
 
 # Settlements
 max_settlements = 4
-b_barony1074` = tribal
-b_barony1074a = temple
+b_gendrah_narvin = tribal
 
 # Misc
 culture = uncultured_swine

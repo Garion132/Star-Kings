@@ -1,12 +1,11 @@
-# 1711 - Province1711
+# 1711 - Columex
 
 # County Title
-title = c_province1711
+title = c_columex
 
 # Settlements
 max_settlements = 1
-b_barony1711` = tribal
-b_barony1711a = temple
+b_columex = tribal
 
 # Misc
 culture = uncultured_swine

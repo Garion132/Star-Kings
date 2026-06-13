@@ -1,12 +1,11 @@
-# 873 - Province0873
+# 873 - Rydonni Prime
 
 # County Title
-title = c_province0873
+title = c_rydonni_prime
 
 # Settlements
 max_settlements = 3
-b_barony0873` = tribal
-b_barony0873a = temple
+b_rydonni_prime = tribal
 
 # Misc
 culture = uncultured_swine

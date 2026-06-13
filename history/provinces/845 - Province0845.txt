@@ -1,12 +1,11 @@
-# 845 - Province0845
+# 845 - Sedratis
 
 # County Title
-title = c_province0845
+title = c_sedratis
 
 # Settlements
 max_settlements = 3
-b_barony0845` = tribal
-b_barony0845a = temple
+b_sedratis = tribal
 
 # Misc
 culture = uncultured_swine

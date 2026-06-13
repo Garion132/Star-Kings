@@ -1,15 +1,14 @@
-# 810 - Province0810
+# 810 - Castell
 
 # County Title
-title = c_province0810
+title = c_castell
 
 # Settlements
 max_settlements = 3
-b_barony0810` = tribal
-b_barony0810a = temple
+b_castell = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gossam
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 933 - Province0933
+# 933 - Loronar
 
 # County Title
-title = c_province0933
+title = c_loronar
 
 # Settlements
 max_settlements = 1
-b_barony0933` = tribal
-b_barony0933a = temple
+b_loronar = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,0 +1,4 @@
+981.1.1={
+	holder = 118005
+	liege = e_gal_republic
+}

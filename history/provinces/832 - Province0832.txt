@@ -1,12 +1,11 @@
-# 832 - Province0832
+# 832 - Rehemsa
 
 # County Title
-title = c_province0832
+title = c_rehemsa
 
 # Settlements
 max_settlements = 1
-b_barony0832` = tribal
-b_barony0832a = temple
+b_rehemsa = tribal
 
 # Misc
 culture = uncultured_swine

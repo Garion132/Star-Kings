@@ -1,12 +1,11 @@
-# 1087 - Province1087
+# 1087 - Ropagi
 
 # County Title
-title = c_province1087
+title = c_ropagi
 
 # Settlements
 max_settlements = 3
-b_barony1087` = tribal
-b_barony1087a = temple
+b_ropagi = tribal
 
 # Misc
 culture = uncultured_swine

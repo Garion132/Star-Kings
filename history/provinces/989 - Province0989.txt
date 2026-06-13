@@ -1,12 +1,11 @@
-# 989 - Province0989
+# 989 - Malastare
 
 # County Title
-title = c_province0989
+title = c_malastare
 
 # Settlements
 max_settlements = 1
-b_barony0989` = tribal
-b_barony0989a = temple
+b_malastare = tribal
 
 # Misc
 culture = uncultured_swine

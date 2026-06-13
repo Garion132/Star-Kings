@@ -1,12 +1,11 @@
-# 968 - Province0968
+# 968 - Pencael
 
 # County Title
-title = c_province0968
+title = c_pencael
 
 # Settlements
 max_settlements = 1
-b_barony0968` = tribal
-b_barony0968a = temple
+b_pencael = tribal
 
 # Misc
 culture = uncultured_swine

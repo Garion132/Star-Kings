@@ -1,12 +1,11 @@
-# 1957 - Province1957
+# 1957 - Gbu
 
 # County Title
-title = c_province1957
+title = c_gbu
 
 # Settlements
 max_settlements = 6
-b_barony1957` = tribal
-b_barony1957a = temple
+b_gbu = tribal
 
 # Misc
 culture = uncultured_swine

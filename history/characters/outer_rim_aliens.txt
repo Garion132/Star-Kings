@@ -228,3 +228,27 @@
 		death=yes
 	}
 }
+60090 = {
+	name= "Aks Moe" # 
+	#dynasty = #Ask
+	religion = pagan
+	culture = gran
+	946.1.1={
+		birth=yes
+	}
+	977.1.14={
+		death=yes
+	}
+}
+60091 = {
+	name= "Ask Aak" # 
+	#dynasty = #Ask
+	religion = pagan
+	culture = gran
+	958.1.1={
+		birth=yes
+	}
+	1002.1.14={
+		death=yes
+	}
+}

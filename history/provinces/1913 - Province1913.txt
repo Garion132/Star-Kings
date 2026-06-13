@@ -1,12 +1,11 @@
-# 1913 - Province1913
+# 1913 - Rudrig
 
 # County Title
-title = c_province1913
+title = c_rudrig
 
 # Settlements
 max_settlements = 5
-b_barony1913` = tribal
-b_barony1913a = temple
+b_rudrig = tribal
 
 # Misc
 culture = uncultured_swine

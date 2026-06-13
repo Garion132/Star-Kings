@@ -1,12 +1,11 @@
-# 1205 - Province1205
+# 1205 - Karlinus
 
 # County Title
-title = c_province1205
+title = c_karlinus
 
 # Settlements
 max_settlements = 2
-b_barony1205` = tribal
-b_barony1205a = temple
+b_karlinus = tribal
 
 # Misc
 culture = uncultured_swine

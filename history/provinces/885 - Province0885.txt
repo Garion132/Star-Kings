@@ -1,12 +1,11 @@
-# 885 - Province0885
+# 885 - Corellia
 
 # County Title
-title = c_province0885
+title = c_corellia
 
 # Settlements
 max_settlements = 1
-b_barony0885` = tribal
-b_barony0885a = temple
+b_corellia = tribal
 
 # Misc
 culture = uncultured_swine

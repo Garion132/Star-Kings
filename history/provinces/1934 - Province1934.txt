@@ -1,12 +1,11 @@
-# 1934 - Province1934
+# 1934 - Caluula
 
 # County Title
-title = c_province1934
+title = c_caluula
 
 # Settlements
 max_settlements = 5
-b_barony1934` = tribal
-b_barony1934a = temple
+b_caluula = tribal
 
 # Misc
 culture = uncultured_swine

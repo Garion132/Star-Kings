@@ -1,12 +1,11 @@
-# 811 - Province0811
+# 811 - Argai Minor
 
 # County Title
-title = c_province0811
+title = c_argai_minor
 
 # Settlements
 max_settlements = 3
-b_barony0811` = tribal
-b_barony0811a = temple
+b_argai_minor = tribal
 
 # Misc
 culture = uncultured_swine

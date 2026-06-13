@@ -1,12 +1,11 @@
-# 1099 - Province1099
+# 1099 - Spirana
 
 # County Title
-title = c_province1099
+title = c_spirana
 
 # Settlements
 max_settlements = 4
-b_barony1099` = tribal
-b_barony1099a = temple
+b_spirana = tribal
 
 # Misc
 culture = uncultured_swine

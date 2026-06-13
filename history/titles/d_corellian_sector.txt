@@ -1,0 +1,9 @@
+1.1.1 = {
+	liege = e_gal_republic
+}
+964.1.1={
+	holder = 2120
+}
+1002.1.1={
+	holder = 2121
+}

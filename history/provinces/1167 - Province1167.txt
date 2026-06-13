@@ -1,12 +1,11 @@
-# 1167 - Province1167
+# 1167 - Nigel III
 
 # County Title
-title = c_province1167
+title = c_nigel_3
 
 # Settlements
 max_settlements = 4
-b_barony1167` = tribal
-b_barony1167a = temple
+b_nigel_3 = tribal
 
 # Misc
 culture = uncultured_swine

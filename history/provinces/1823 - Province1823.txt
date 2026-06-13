@@ -1,12 +1,11 @@
-# 1823 - Province1823
+# 1823 - Janodral Mizar
 
 # County Title
-title = c_province1823
+title = c_janodral_mizar
 
 # Settlements
 max_settlements = 5
-b_barony1823` = tribal
-b_barony1823a = temple
+b_janodral_mizar = tribal
 
 # Misc
 culture = uncultured_swine

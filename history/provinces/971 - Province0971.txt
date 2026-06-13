@@ -1,11 +1,11 @@
-# 971 - Province0971
+# 971 - Boudolayz
 
 # County Title
-title = c_province0971
+title = c_boudolayz
 
 # Settlements
 max_settlements = 1
-b_barony0971` = tribal
+b_boudolayz = tribal
 
 # Misc
 culture = uncultured_swine

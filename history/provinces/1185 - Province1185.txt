@@ -1,12 +1,11 @@
-# 1185 - Province1185
+# 1185 - Brevost
 
 # County Title
-title = c_province1185
+title = c_brevost
 
 # Settlements
 max_settlements = 2
-b_barony1185` = tribal
-b_barony1185a = temple
+b_brevost = tribal
 
 # Misc
 culture = uncultured_swine

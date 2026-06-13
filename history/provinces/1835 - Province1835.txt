@@ -1,12 +1,11 @@
-# 1835 - Province1835
+# 1835 - Ank Ki'shor
 
 # County Title
-title = c_province1835
+title = c_ank_ki_shor
 
 # Settlements
 max_settlements = 1
-b_barony1835` = tribal
-b_barony1835a = temple
+b_ank_ki_shor = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1862 - Province1862
+# 1862 - Voss
 
 # County Title
-title = c_province1862
+title = c_voss
 
 # Settlements
 max_settlements = 5
-b_barony1862` = tribal
-b_barony1862a = temple
+b_voss = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1210 - Province1210
+# 1210 - Kalinda
 
 # County Title
-title = c_province1210
+title = c_kalinda
 
 # Settlements
 max_settlements = 4
-b_barony1210` = tribal
-b_barony1210a = temple
+b_kalinda = tribal
 
 # Misc
 culture = uncultured_swine

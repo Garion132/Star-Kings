@@ -1,12 +1,11 @@
-# 1120 - Province1120
+# 1120 - Trevi
 
 # County Title
-title = c_province1120
+title = c_trevi
 
 # Settlements
 max_settlements = 2
-b_barony1120` = tribal
-b_barony1120a = temple
+b_trevi = tribal
 
 # Misc
 culture = uncultured_swine

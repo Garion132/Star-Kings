@@ -1,12 +1,11 @@
-# 1925 - Province1925
+# 1925 - Eredenn
 
 # County Title
-title = c_province1925
+title = c_eredenn
 
 # Settlements
 max_settlements = 5
-b_barony1925` = tribal
-b_barony1925a = temple
+b_eredenn = tribal
 
 # Misc
 culture = uncultured_swine

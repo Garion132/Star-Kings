@@ -1,12 +1,11 @@
-# 1802 - Province1802
+# 1802 - Desevro
 
 # County Title
-title = c_province1802
+title = c_desevro
 
 # Settlements
 max_settlements = 1
-b_barony1802` = tribal
-b_barony1802a = temple
+b_desevro = tribal
 
 # Misc
 culture = uncultured_swine

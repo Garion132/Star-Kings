@@ -1,12 +1,11 @@
-# 1763 - Province1763
+# 1763 - Foran Tutha
 
 # County Title
-title = c_province1763
+title = c_foran_tutha
 
 # Settlements
 max_settlements = 5
-b_barony1763` = tribal
-b_barony1763a = temple
+b_foran_tutha = tribal
 
 # Misc
 culture = uncultured_swine

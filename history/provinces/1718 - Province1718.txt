@@ -1,12 +1,11 @@
-# 1718 - Province1718
+# 1718 - Belderone
 
 # County Title
-title = c_province1718
+title = c_belderone
 
 # Settlements
 max_settlements = 5
-b_barony1718` = tribal
-b_barony1718a = temple
+b_belderone = tribal
 
 # Misc
 culture = uncultured_swine

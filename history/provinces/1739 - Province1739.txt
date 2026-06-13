@@ -1,12 +1,11 @@
-# 1739 - Province1739
+# 1739 - Tharkos
 
 # County Title
-title = c_province1739
+title = c_tharkos
 
 # Settlements
 max_settlements = 1
-b_barony1739` = tribal
-b_barony1739a = temple
+b_tharkos = tribal
 
 # Misc
 culture = uncultured_swine

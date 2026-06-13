@@ -1,12 +1,11 @@
-# 945 - Province0945
+# 945 - Atzerri
 
 # County Title
-title = c_province0945
+title = c_atzerri
 
 # Settlements
 max_settlements = 3
-b_barony0945` = tribal
-b_barony0945a = temple
+b_atzerri = tribal
 
 # Misc
 culture = uncultured_swine

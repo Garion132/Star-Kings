@@ -1,12 +1,11 @@
-# 1065 - Province1065
+# 1065 - Babbadod
 
 # County Title
-title = c_province1065
+title = c_babbadod
 
 # Settlements
 max_settlements = 4
-b_barony1065` = tribal
-b_barony1065a = temple
+b_babbadod = tribal
 
 # Misc
 culture = uncultured_swine

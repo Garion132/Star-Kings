@@ -1,12 +1,11 @@
-# 1063 - Province1063
+# 1063 - Lankashiir
 
 # County Title
-title = c_province1063
+title = c_lankashiir
 
 # Settlements
 max_settlements = 4
-b_barony1063` = tribal
-b_barony1063a = temple
+b_lankashiir = tribal
 
 # Misc
 culture = uncultured_swine

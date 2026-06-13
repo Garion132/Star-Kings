@@ -1,12 +1,11 @@
-# 896 - Province0896
+# 896 - Rendili
 
 # County Title
-title = c_province0896
+title = c_rendili
 
 # Settlements
 max_settlements = 3
-b_barony0896` = tribal
-b_barony0896a = temple
+b_rendili = tribal
 
 # Misc
 culture = uncultured_swine

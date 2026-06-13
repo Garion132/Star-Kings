@@ -1,12 +1,11 @@
-# 984 - Province0984
+# 984 - Herzob
 
 # County Title
-title = c_province0984
+title = c_herzob
 
 # Settlements
 max_settlements = 3
-b_barony0984` = tribal
-b_barony0984a = temple
+b_herzob = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1849 - Province1849
+# 1849 - Corlax
 
 # County Title
-title = c_province1849
+title = c_corlax
 
 # Settlements
 max_settlements = 1
-b_barony1849` = tribal
-b_barony1849a = temple
+b_corlax = tribal
 
 # Misc
 culture = uncultured_swine

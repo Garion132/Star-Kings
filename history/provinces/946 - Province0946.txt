@@ -1,12 +1,11 @@
-# 946 - Province0946
+# 946 - Jaciprus
 
 # County Title
-title = c_province0946
+title = c_jaciprus
 
 # Settlements
 max_settlements = 3
-b_barony0946` = tribal
-b_barony0946a = temple
+b_jaciprus = tribal
 
 # Misc
 culture = uncultured_swine

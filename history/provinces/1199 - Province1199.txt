@@ -1,12 +1,11 @@
-# 1199 - Province1199
+# 1199 - Gargon
 
 # County Title
-title = c_province1199
+title = c_gargon
 
 # Settlements
 max_settlements = 4
-b_barony1199` = tribal
-b_barony1199a = temple
+b_gargon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1926 - Province1926
+# 1926 - Orion
 
 # County Title
-title = c_province1926
+title = c_orion
 
 # Settlements
 max_settlements = 5
-b_barony1926` = tribal
-b_barony1926a = temple
+b_orion = tribal
 
 # Misc
 culture = uncultured_swine

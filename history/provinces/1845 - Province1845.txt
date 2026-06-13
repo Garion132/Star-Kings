@@ -1,12 +1,11 @@
-# 1845 - Province1845
+# 1845 - Desargorr
 
 # County Title
-title = c_province1845
+title = c_desargorr
 
 # Settlements
 max_settlements = 5
-b_barony1845` = tribal
-b_barony1845a = temple
+b_desargorr = tribal
 
 # Misc
 culture = uncultured_swine

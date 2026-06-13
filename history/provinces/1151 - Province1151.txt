@@ -1,12 +1,11 @@
-# 1151 - Province1151
+# 1151 - Seltos
 
 # County Title
-title = c_province1151
+title = c_seltos
 
 # Settlements
 max_settlements = 4
-b_barony1151` = tribal
-b_barony1151a = temple
+b_seltos = tribal
 
 # Misc
 culture = uncultured_swine

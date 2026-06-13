@@ -1,12 +1,11 @@
-# 1729 - Province1729
+# 1729 - Galidraan
 
 # County Title
-title = c_province1729
+title = c_galidraan
 
 # Settlements
 max_settlements = 5
-b_barony1729` = tribal
-b_barony1729a = temple
+b_galidraan = tribal
 
 # Misc
 culture = uncultured_swine

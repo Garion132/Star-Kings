@@ -1,12 +1,11 @@
-# 901 - Province0901
+# 901 - Nubia
 
 # County Title
-title = c_province0901
+title = c_nubia
 
 # Settlements
 max_settlements = 3
-b_barony0901` = tribal
-b_barony0901a = temple
+b_nubia = tribal
 
 # Misc
 culture = uncultured_swine

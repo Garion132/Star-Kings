@@ -1,12 +1,11 @@
-# 1083 - Province1083
+# 1083 - Genon
 
 # County Title
-title = c_province1083
+title = c_genon
 
 # Settlements
 max_settlements = 1
-b_barony1083` = tribal
-b_barony1083a = temple
+b_genon = tribal
 
 # Misc
 culture = uncultured_swine

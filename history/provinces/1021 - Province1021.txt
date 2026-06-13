@@ -1,12 +1,11 @@
-# 1021 - Province1021
+# 1021 - Arrgaw
 
 # County Title
-title = c_province1021
+title = c_arrgaw
 
 # Settlements
 max_settlements = 1
-b_barony1021` = tribal
-b_barony1021a = temple
+b_arrgaw = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1033 - Province1033
+# 1033 - Demos
 
 # County Title
-title = c_province1033
+title = c_demos
 
 # Settlements
 max_settlements = 4
-b_barony1033` = tribal
-b_barony1033a = temple
+b_demos = tribal
 
 # Misc
 culture = uncultured_swine

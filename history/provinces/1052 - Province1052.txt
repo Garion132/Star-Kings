@@ -1,12 +1,11 @@
-# 1052 - Province1052
+# 1052 - Ronyards
 
 # County Title
-title = c_province1052
+title = c_ronyards
 
 # Settlements
 max_settlements = 1
-b_barony1052` = tribal
-b_barony1052a = temple
+b_ronyards = tribal
 
 # Misc
 culture = uncultured_swine

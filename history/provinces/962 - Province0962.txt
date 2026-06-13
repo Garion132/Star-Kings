@@ -1,12 +1,11 @@
-# 962 - Province0962
+# 962 - Boudolayz
 
 # County Title
-title = c_province0962
+title = c_boudolayz
 
 # Settlements
 max_settlements = 1
-b_barony0962` = tribal
-b_barony0962a = temple
+b_boudolayz = tribal
 
 # Misc
 culture = uncultured_swine

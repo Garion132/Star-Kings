@@ -1,12 +1,11 @@
-# 1757 - Province1757
+# 1757 - Ossus
 
 # County Title
-title = c_province1757
+title = c_ossus
 
 # Settlements
 max_settlements = 5
-b_barony1757` = tribal
-b_barony1757a = temple
+b_ossus = tribal
 
 # Misc
 culture = uncultured_swine

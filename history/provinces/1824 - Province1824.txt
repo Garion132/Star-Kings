@@ -1,12 +1,11 @@
-# 1824 - Province1824
+# 1824 - Folende
 
 # County Title
-title = c_province1824
+title = c_folende
 
 # Settlements
 max_settlements = 5
-b_barony1824` = tribal
-b_barony1824a = temple
+b_folende = tribal
 
 # Misc
 culture = uncultured_swine

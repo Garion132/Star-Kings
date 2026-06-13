@@ -1,12 +1,11 @@
-# 1794 - Province1794
+# 1794 - Livien
 
 # County Title
-title = c_province1794
+title = c_livien
 
 # Settlements
 max_settlements = 5
-b_barony1794` = tribal
-b_barony1794a = temple
+b_livien = tribal
 
 # Misc
 culture = uncultured_swine

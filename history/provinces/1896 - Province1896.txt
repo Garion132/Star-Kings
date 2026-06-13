@@ -1,12 +1,11 @@
-# 1896 - Province1896
+# 1896 - Tion
 
 # County Title
-title = c_province1896
+title = c_tion
 
 # Settlements
 max_settlements = 5
-b_barony1896` = tribal
-b_barony1896a = temple
+b_tion = tribal
 
 # Misc
 culture = uncultured_swine

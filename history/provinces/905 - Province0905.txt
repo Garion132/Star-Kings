@@ -1,12 +1,11 @@
-# 905 - Province0905
+# 905 - Samaria
 
 # County Title
-title = c_province0905
+title = c_samaria
 
 # Settlements
 max_settlements = 1
-b_barony0905` = tribal
-b_barony0905a = temple
+b_samaria = tribal
 
 # Misc
 culture = uncultured_swine

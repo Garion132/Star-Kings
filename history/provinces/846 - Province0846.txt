@@ -1,11 +1,11 @@
-# 846 - Province0846
+# 846 - Goorla
 
 # County Title
-title = c_province0846
+title = c_goorla
 
 # Settlements
 max_settlements = 1
-b_barony0846` = tribal
+b_goorla = tribal
 
 # Misc
 culture = uncultured_swine

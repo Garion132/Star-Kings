@@ -1,12 +1,11 @@
-# 874 - Province0874
+# 874 - Duro
 
 # County Title
-title = c_province0874
+title = c_duro
 
 # Settlements
 max_settlements = 3
-b_barony0874` = tribal
-b_barony0874a = temple
+b_duro = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1800 - Province1800
+# 1800 - Chandaar
 
 # County Title
-title = c_province1800
+title = c_chandaar
 
 # Settlements
 max_settlements = 5
-b_barony1800` = tribal
-b_barony1800a = temple
+b_chandaar = tribal
 
 # Misc
 culture = uncultured_swine

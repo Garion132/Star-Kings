@@ -1,12 +1,11 @@
-# 1831 - Province1831
+# 1831 - Kismaano
 
 # County Title
-title = c_province1831
+title = c_kismaano
 
 # Settlements
 max_settlements = 5
-b_barony1831` = tribal
-b_barony1831a = temple
+b_kismaano = tribal
 
 # Misc
 culture = uncultured_swine

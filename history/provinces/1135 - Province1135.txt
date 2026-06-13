@@ -1,12 +1,11 @@
-# 1135 - Province1135
+# 1135 - Rhommamool
 
 # County Title
-title = c_province1135
+title = c_rhommamool
 
 # Settlements
 max_settlements = 1
-b_barony1135` = tribal
-b_barony1135a = temple
+b_rhommamool = tribal
 
 # Misc
 culture = uncultured_swine

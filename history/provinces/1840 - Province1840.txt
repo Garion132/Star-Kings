@@ -1,11 +1,11 @@
-# 1840 - Province1840
+# 1840 - Omman
 
 # County Title
-title = c_province1840
+title = c_omman
 
 # Settlements
 max_settlements = 1
-b_barony1840` = tribal
+b_omman = tribal
 
 # Misc
 culture = uncultured_swine

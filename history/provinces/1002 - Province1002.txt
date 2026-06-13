@@ -1,12 +1,11 @@
-# 1002 - Province1002
+# 1002 - Koensayr
 
 # County Title
-title = c_province1002
+title = c_koensayr
 
 # Settlements
 max_settlements = 3
-b_barony1002` = tribal
-b_barony1002a = temple
+b_koensayr = tribal
 
 # Misc
 culture = uncultured_swine

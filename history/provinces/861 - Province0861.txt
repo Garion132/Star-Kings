@@ -1,12 +1,11 @@
-# 861 - Province0861
+# 861 - Sacorria
 
 # County Title
-title = c_province0861
+title = c_sacorria
 
 # Settlements
 max_settlements = 3
-b_barony0861` = tribal
-b_barony0861a = temple
+b_sacorria = tribal
 
 # Misc
 culture = uncultured_swine

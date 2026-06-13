@@ -1,12 +1,11 @@
-# 1799 - Province1799
+# 1799 - Spinax
 
 # County Title
-title = c_province1799
+title = c_spinax
 
 # Settlements
 max_settlements = 5
-b_barony1799` = tribal
-b_barony1799a = temple
+b_spinax = tribal
 
 # Misc
 culture = uncultured_swine

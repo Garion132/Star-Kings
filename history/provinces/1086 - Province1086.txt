@@ -1,12 +1,11 @@
-# 1086 - Province1086
+# 1086 - Kira
 
 # County Title
-title = c_province1086
+title = c_kira
 
 # Settlements
 max_settlements = 4
-b_barony1086` = tribal
-b_barony1086a = temple
+b_kira = tribal
 
 # Misc
 culture = uncultured_swine

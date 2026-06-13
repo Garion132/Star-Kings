@@ -1,12 +1,11 @@
-# 1697 - Province1697
+# 1697 - New Holstice
 
 # County Title
-title = c_province1697
+title = c_new_holstice
 
 # Settlements
 max_settlements = 1
-b_barony1697` = tribal
-b_barony1697a = temple
+b_new_holstice = tribal
 
 # Misc
 culture = uncultured_swine

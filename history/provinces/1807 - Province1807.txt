@@ -1,12 +1,11 @@
-# 1807 - Province1807
+# 1807 - Soruus
 
 # County Title
-title = c_province1807
+title = c_soruus
 
 # Settlements
 max_settlements = 1
-b_barony1807` = tribal
-b_barony1807a = temple
+b_soruus = tribal
 
 # Misc
 culture = uncultured_swine

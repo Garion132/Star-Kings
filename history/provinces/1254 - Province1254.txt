@@ -1,12 +1,11 @@
-# 1254 - Province1254
+# 1254 - Ank Kit'aar
 
 # County Title
-title = c_province1254
+title = c_ank_kit_aar
 
 # Settlements
 max_settlements = 4
-b_barony1254` = tribal
-b_barony1254a = temple
+b_ank_kit_aar = tribal
 
 # Misc
 culture = uncultured_swine

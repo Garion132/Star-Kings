@@ -1,11 +1,11 @@
-# 1936 - Province1936
+# 1936 - Mullan
 
 # County Title
-title = c_province1936
+title = c_mullan
 
 # Settlements
 max_settlements = 2
-b_barony1936` = tribal
+b_mullan = tribal
 
 # Misc
 culture = uncultured_swine

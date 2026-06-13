@@ -1,15 +1,14 @@
-# 1724 - Province1724
+# 1724 - Felucia
 
 # County Title
-title = c_province1724
+title = c_felucia
 
 # Settlements
 max_settlements = 5
-b_barony1724` = tribal
-b_barony1724a = temple
+b_felucia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gossam
 religion = pagan
 
 # History

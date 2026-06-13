@@ -1,12 +1,11 @@
-# 1005 - Province1005
+# 1005 - Zeheth
 
 # County Title
-title = c_province1005
+title = c_zeheth
 
 # Settlements
 max_settlements = 3
-b_barony1005` = tribal
-b_barony1005a = temple
+b_zeheth = tribal
 
 # Misc
 culture = uncultured_swine

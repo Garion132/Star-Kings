@@ -1,12 +1,11 @@
-# 842 - Province0842
+# 842 - Carida
 
 # County Title
-title = c_province0842
+title = c_carida
 
 # Settlements
 max_settlements = 3
-b_barony0842` = tribal
-b_barony0842a = temple
+b_carida = tribal
 
 # Misc
 culture = uncultured_swine

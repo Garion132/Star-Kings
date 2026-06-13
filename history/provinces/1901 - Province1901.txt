@@ -1,12 +1,11 @@
-# 1901 - Province1901
+# 1901 - Corlass
 
 # County Title
-title = c_province1901
+title = c_corlass
 
 # Settlements
 max_settlements = 5
-b_barony1901` = tribal
-b_barony1901a = temple
+b_corlass = tribal
 
 # Misc
 culture = uncultured_swine

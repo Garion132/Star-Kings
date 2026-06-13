@@ -1,12 +1,11 @@
-# 1115 - Province1115
+# 1115 - Verdanth
 
 # County Title
-title = c_province1115
+title = c_verdanth
 
 # Settlements
 max_settlements = 4
-b_barony1115` = tribal
-b_barony1115a = temple
+b_verdanth = tribal
 
 # Misc
 culture = uncultured_swine

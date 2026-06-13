@@ -1,12 +1,11 @@
-# 1903 - Province1903
+# 1903 - Eibon
 
 # County Title
-title = c_province1903
+title = c_eibon
 
 # Settlements
 max_settlements = 5
-b_barony1903` = tribal
-b_barony1903a = temple
+b_eibon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1914 - Province1914
+# 1914 - Algor
 
 # County Title
-title = c_province1914
+title = c_algor
 
 # Settlements
 max_settlements = 5
-b_barony1914` = tribal
-b_barony1914a = temple
+b_algor = tribal
 
 # Misc
 culture = uncultured_swine

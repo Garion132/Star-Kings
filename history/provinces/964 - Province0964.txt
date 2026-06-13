@@ -1,12 +1,11 @@
-# 964 - Province0964
+# 964 - Exodeen
 
 # County Title
-title = c_province0964
+title = c_exodeen
 
 # Settlements
 max_settlements = 3
-b_barony0964` = tribal
-b_barony0964a = temple
+b_exodeen = tribal
 
 # Misc
 culture = uncultured_swine

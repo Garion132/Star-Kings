@@ -1,12 +1,11 @@
-# 1075 - Province1075
+# 1075 - Perithal
 
 # County Title
-title = c_province1075
+title = c_perithal
 
 # Settlements
 max_settlements = 4
-b_barony1075` = tribal
-b_barony1075a = temple
+b_perithal = tribal
 
 # Misc
 culture = uncultured_swine

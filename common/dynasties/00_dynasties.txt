@@ -138,3 +138,35 @@
 	name="Vermilic"
 	culture="hutt"
 }
+36={
+	name="Devit"
+	culture="core_worlder"
+}
+37={
+	name="Thomree"
+	culture="core_worlder"
+}
+38={
+	name="Gallamby"
+	culture="core_worlder"
+}
+39={
+	name="Urlan"
+	culture="core_worlder"
+}
+40={
+	name="Fopow"
+	culture="core_worlder"
+}
+41={
+	name="Santhe"
+	culture="core_worlder"
+}
+42={
+	name="Greyshade"
+	culture="core_worlder"
+}
+43={
+	name="Kryze"
+	culture="core_worlder"
+}

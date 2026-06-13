@@ -1,12 +1,11 @@
-# 906 - Province0906
+# 906 - Tinnel
 
 # County Title
-title = c_province0906
+title = c_tinnel
 
 # Settlements
 max_settlements = 3
-b_barony0906` = tribal
-b_barony0906a = temple
+b_tinnel = tribal
 
 # Misc
 culture = uncultured_swine

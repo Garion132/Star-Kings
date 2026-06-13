@@ -1,12 +1,11 @@
-# 991 - Province0991
+# 991 - Havricus
 
 # County Title
-title = c_province0991
+title = c_havricus
 
 # Settlements
 max_settlements = 3
-b_barony0991` = tribal
-b_barony0991a = temple
+b_havricus = tribal
 
 # Misc
 culture = uncultured_swine

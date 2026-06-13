@@ -1,12 +1,11 @@
-# 940 - Province0940
+# 940 - Aleen
 
 # County Title
-title = c_province0940
+title = c_aleen
 
 # Settlements
 max_settlements = 3
-b_barony0940` = tribal
-b_barony0940a = temple
+b_aleen = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1844 - Province1844
+# 1844 - Estaria
 
 # County Title
-title = c_province1844
+title = c_estaria
 
 # Settlements
 max_settlements = 2
-b_barony1844` = tribal
-b_barony1844a = temple
+b_estaria = tribal
 
 # Misc
 culture = uncultured_swine

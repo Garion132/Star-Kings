@@ -1,12 +1,11 @@
-# 1076 - Province1076
+# 1076 - Nuralee
 
 # County Title
-title = c_province1076
+title = c_nuralee
 
 # Settlements
 max_settlements = 4
-b_barony1076` = tribal
-b_barony1076a = temple
+b_nuralee = tribal
 
 # Misc
 culture = uncultured_swine

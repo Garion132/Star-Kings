@@ -1,12 +1,11 @@
-# 1260 - Province1260
+# 1260 - Ordo
 
 # County Title
-title = c_province1260
+title = c_ordo
 
 # Settlements
 max_settlements = 1
-b_barony1260` = tribal
-b_barony1260a = temple
+b_ordo = tribal
 
 # Misc
 culture = uncultured_swine

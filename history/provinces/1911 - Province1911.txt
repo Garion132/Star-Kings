@@ -1,12 +1,11 @@
-# 1911 - Province1911
+# 1911 - Kaon
 
 # County Title
-title = c_province1911
+title = c_kaon
 
 # Settlements
 max_settlements = 5
-b_barony1911` = tribal
-b_barony1911a = temple
+b_kaon = tribal
 
 # Misc
 culture = uncultured_swine

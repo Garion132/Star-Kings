@@ -1,12 +1,11 @@
-# 1877 - Province1877
+# 1877 - Raxus Prime
 
 # County Title
-title = c_province1877
+title = c_raxus_prime
 
 # Settlements
 max_settlements = 5
-b_barony1877` = tribal
-b_barony1877a = temple
+b_raxus_prime = tribal
 
 # Misc
 culture = uncultured_swine

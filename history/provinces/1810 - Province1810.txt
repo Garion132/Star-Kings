@@ -1,12 +1,11 @@
-# 1810 - Province1810
+# 1810 - Kanaver
 
 # County Title
-title = c_province1810
+title = c_kanaver
 
 # Settlements
 max_settlements = 5
-b_barony1810` = tribal
-b_barony1810a = temple
+b_kanaver = tribal
 
 # Misc
 culture = uncultured_swine

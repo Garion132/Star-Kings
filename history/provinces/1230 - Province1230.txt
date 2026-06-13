@@ -1,12 +1,11 @@
-# 1230 - Province1230
+# 1230 - Alassa Major
 
 # County Title
-title = c_province1230
+title = c_alassa_major
 
 # Settlements
 max_settlements = 4
-b_barony1230` = tribal
-b_barony1230a = temple
+b_alassa_major = tribal
 
 # Misc
 culture = uncultured_swine

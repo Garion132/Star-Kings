@@ -1,12 +1,11 @@
-# 1078 - Province1078
+# 1078 - Old Mankoo
 
 # County Title
-title = c_province1078
+title = c_old_mankoo
 
 # Settlements
 max_settlements = 4
-b_barony1078` = tribal
-b_barony1078a = temple
+b_old_mankoo = tribal
 
 # Misc
 culture = uncultured_swine

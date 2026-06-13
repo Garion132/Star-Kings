@@ -1,12 +1,11 @@
-# 1885 - Province1885
+# 1885 - Derellium
 
 # County Title
-title = c_province1885
+title = c_derellium
 
 # Settlements
 max_settlements = 5
-b_barony1885` = tribal
-b_barony1885a = temple
+b_derellium = tribal
 
 # Misc
 culture = uncultured_swine

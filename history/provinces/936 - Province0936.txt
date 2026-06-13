@@ -1,12 +1,11 @@
-# 936 - Province0936
+# 936 - Bellassa
 
 # County Title
-title = c_province0936
+title = c_bellassa
 
 # Settlements
 max_settlements = 3
-b_barony0936` = tribal
-b_barony0936a = temple
+b_bellassa = tribal
 
 # Misc
 culture = uncultured_swine

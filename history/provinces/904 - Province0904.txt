@@ -1,12 +1,11 @@
-# 904 - Province0904
+# 904 - Grandine
 
 # County Title
-title = c_province0904
+title = c_grandine
 
 # Settlements
 max_settlements = 3
-b_barony0904` = tribal
-b_barony0904a = temple
+b_grandine = tribal
 
 # Misc
 culture = uncultured_swine

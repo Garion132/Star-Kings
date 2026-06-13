@@ -278,3 +278,39 @@
 		death=yes
 	}
 }
+2120 = {
+	name = "Dupas"
+	dynasty = 37 #Thomree
+	religion = pagan
+	culture = core_worlder
+	943.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+2121 = {
+	name = "Daclif"
+	dynasty = 38 #Gallamby
+	religion = pagan
+	culture = core_worlder
+	963.1.1={
+		birth=yes
+	}
+	1021.1.1={
+		death=yes
+	}
+}
+2130 = {
+	name = "Bengila"
+	dynasty = 39 #Urlan
+	religion = pagan
+	culture = core_worlder
+	941.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}

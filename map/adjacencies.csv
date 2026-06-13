@@ -129,12 +129,12 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0933;0952;major_river;;-1;-1;-1;-1;Loronar  to Byblos
 0952;0968;major_river;;-1;-1;-1;-1;Byblos to Pencael
 0968;0991;major_river;;-1;-1;-1;-1;Pencael to Havricus
-0991;1018;major_river;;-1;-1;-1;-1;Havricus to Iseno (Corroney)
-1019;1025;major_river;;-1;-1;-1;-1;Iseno (Paulblo) to Denon
+0991;1019;major_river;;-1;-1;-1;-1;Havricus to Iseno
+1019;1025;major_river;;-1;-1;-1;-1;Iseno to Denon
 1025;1075;major_river;;-1;-1;-1;-1;Denon to Perithal
 1075;1099;major_river;;-1;-1;-1;-1;Perithal to Spirana
-1099;1134;major_river;;-1;-1;-1;-1;Spirana to Rhommammool (Redhaven)
-1135;1166;major_river;;-1;-1;-1;-1;Rhommammool (Rasalva) to Tlactehon
+1099;1135;major_river;;-1;-1;-1;-1;Spirana to Rhommammool
+1135;1166;major_river;;-1;-1;-1;-1;Rhommammool to Tlactehon
 1166;1183;major_river;;-1;-1;-1;-1;Tlactehon to Allanteen
 1183;1246;major_river;;-1;-1;-1;-1;Allanteen to Gamor
 1246;1274;major_river;;-1;-1;-1;-1;Gamor to Milagro
@@ -170,8 +170,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0699;0741;major_river;;-1;-1;-1;-1;Delle to Yabol Opa
 0741;0765;major_river;;-1;-1;-1;-1;Yabol Opa to Ifmix
 0765;0786;major_river;;-1;-1;-1;-1;Ifmix to Shulstine
-0786;0810;major_river;;-1;-1;-1;-1;Shulstine to Castell (Hodges)
-0809;0829;major_river;;-1;-1;-1;-1;Castell (Sne'luap) to Raithal
+0786;0810;major_river;;-1;-1;-1;-1;Shulstine to Castell
+0810;0829;major_river;;-1;-1;-1;-1;Castell to Raithal
 0829;0903;major_river;;-1;-1;-1;-1;Raithal to Vurdon Ka
 0903;0941;major_river;;-1;-1;-1;-1;Vurdon Ka to Joiol
 0941;0974;major_river;;-1;-1;-1;-1;Joiol to Chazwa (Iritsa)
@@ -191,11 +191,12 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1573;1584;major_river;;-1;-1;-1;-1;Orleon to Talcene
 1584;1597;major_river;;-1;-1;-1;-1;Talcene to Salvara
 1597;1608;major_river;;-1;-1;-1;-1;Salvara to Euceron
-1608;1643;major_river;;-1;-1;-1;-1;Euceron to Abhean (Vogel)
-1644;1661;major_river;;-1;-1;-1;-1;Abhean (Boyd) to The Wheel
+1608;1644;major_river;;-1;-1;-1;-1;Euceron to Abhean
+1644;1661;major_river;;-1;-1;-1;-1;Abhean to The Wheel
 1661;1678;major_river;;-1;-1;-1;-1;The Wheel to Centares
 1678;1690;major_river;;-1;-1;-1;-1;Centares to Antemeridias
-1690;1711;major_river;;-1;-1;-1;-1;Antemeridias to Columex
+1690;1711;major_river;;-1;-1;-1;-1;Antemeridias to Columex 
+1690;1660;major_river;;-1;-1;-1;-1;Antemeridias to Nam Chorios
 1711;1762;major_river;;-1;-1;-1;-1;Columex to Arcan
 1762;1766;major_river;;-1;-1;-1;-1;Arcan to Lianna
 1766;1795;major_river;;-1;-1;-1;-1;Lianna to Barseg
@@ -1138,11 +1139,19 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1860;1890;major_river;;-1;-1;-1;-1;Gos Hutta to Saki
 1873;1846;major_river;;-1;-1;-1;-1;Lant to Iotra
 1441;1610;major_river;;-1;-1;-1;-1;Kashyyyk to Trandosia
+0885;0901;major_river;;-1;-1;-1;-1;Corellia to Nubia
+0874;0901;major_river;;-1;-1;-1;-1;Duro to Nubia
 1727;1771;major_river;;-1;-1;-1;-1;Bimmisaari to Xoman
 1781;1771;major_river;;-1;-1;-1;-1;Boz Pity to Xoman
 1781;1733;major_river;;-1;-1;-1;-1;Boz Pity to Alee
 1753;1733;major_river;;-1;-1;-1;-1;Tal Nami to Alee
-1753;1748;major_river;;-1;-1;-1;-1;Tal Nami to Ilos Minor ##Main Routes End
+1753;1748;major_river;;-1;-1;-1;-1;Tal Nami to Ilos Minor
+1756;1724;major_river;;-1;-1;-1;-1;Thanium to Felucia 
+1725;1724;major_river;;-1;-1;-1;-1;Mossak to Felucia
+1725;1729;major_river;;-1;-1;-1;-1;Mossak to Galidraan
+1762;1729;major_river;;-1;-1;-1;-1;Arcan to Galidraan
+1696;1729;major_river;;-1;-1;-1;-1;Rhen Var to Galidraan
+1696;1568;major_river;;-1;-1;-1;-1;Rhen Var to Lucazec ##Main Routes End
 0237;0251;sea;;-1;-1;-1;-1;Kokash to Pollillus ##minor Routes Start
 0251;0276;sea;;-1;-1;-1;-1;Pollillus to Galantos
 0251;0295;sea;;-1;-1;-1;-1;Pollillus to J't'p'tan
@@ -1213,3 +1222,52 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1195;1246;sea;;-1;-1;-1;-1;Vendaxa to Pamorjal 
 1166;1201;sea;;-1;-1;-1;-1;Tlactehon to Tarmidia
 1188;1201;sea;;-1;-1;-1;-1;Bovo Yagen to Tarmidia
+1210;1227;sea;;-1;-1;-1;-1;Kalinda to Sedesia
+1254;1227;sea;;-1;-1;-1;-1;Ank Kit'aar to Sedesia
+1205;1223;sea;;-1;-1;-1;-1;Karlinus to Naboo
+1076;1087;sea;;-1;-1;-1;-1;Nuralee to Ropagi
+1076;1033;sea;;-1;-1;-1;-1;Nuralee to Demos
+1005;1033;sea;;-1;-1;-1;-1;ZeHeth to Demos
+0989;1015;sea;;-1;-1;-1;-1;Malastare to Nuvar
+1147;1151;sea;;-1;-1;-1;-1;Roldalna to Seltos
+1109;1151;sea;;-1;-1;-1;-1;Umgul to Seltos
+1109;1078;sea;;-1;-1;-1;-1;Umgul to Old Mankoo
+1015;1078;sea;;-1;-1;-1;-1;Nuvar to Old Mankoo
+1120;1078;sea;;-1;-1;-1;-1;Trevi to Old Mankoo
+1120;1115;sea;;-1;-1;-1;-1;Trevi to Verdanth 
+1060;1101;sea;;-1;-1;-1;-1;Chardaan to Ord Vaxal
+1083;1101;sea;;-1;-1;-1;-1;Genon to Ord Vaxal
+1083;1099;sea;;-1;-1;-1;-1;Genon to Spirana
+1025;1074;sea;;-1;-1;-1;-1;Denon to Gendrah-Narvin
+0945;0940;sea;;-1;-1;-1;-1;Atzerri to Aleen
+0898;0940;sea;;-1;-1;-1;-1;Hillindor to Aleen
+0896;0832;sea;;-1;-1;-1;-1;Rendili to Rehemsa
+0896;0925;sea;;-1;-1;-1;-1;Rendili to Baraboo
+0873;0905;sea;;-1;-1;-1;-1;Rydonni Prime to Samaria
+1014;0968;sea;;-1;-1;-1;-1;Aquilae to Pencael 
+0964;0995;sea;;-1;-1;-1;-1;Exodeen to Vanjervalis
+0953;0985;sea;;-1;-1;-1;-1;Balmorra to Uquine
+1711;1622;sea;;-1;-1;-1;-1;Columex to Vorzyd
+0810;0842;sea;;-1;-1;-1;-1;Castell to Cardia
+0810;0844;sea;;-1;-1;-1;-1;Castell to Dakshee
+0913;0842;sea;;-1;-1;-1;-1;Hok to Cardia
+0913;0844;sea;;-1;-1;-1;-1;Hok to Dakshee
+0910;0904;sea;;-1;-1;-1;-1;Parkis to Grandine
+0782;0811;sea;;-1;-1;-1;-1;Belnar to Argai Minor
+0844;0811;sea;;-1;-1;-1;-1;Dakshee to Argai Minor
+1718;1757;sea;;-1;-1;-1;-1;Belderone to Ossus
+1763;1757;sea;;-1;-1;-1;-1;Foran Tutha to Ossus
+1763;1790;sea;;-1;-1;-1;-1;Foran Tutha to Oor 
+1279;1252;sea;;-1;-1;-1;-1;Mandalore to Concord Dawn
+1918;1911;sea;;-1;-1;-1;-1;Clariv to Kaon  
+1912;1911;sea;;-1;-1;-1;-1;Nuswatta to Kaon
+1912;1926;sea;;-1;-1;-1;-1;Nuswatta to Orion 
+1912;1901;sea;;-1;-1;-1;-1;Nuswatta to Corlass 
+1912;1903;sea;;-1;-1;-1;-1;Nuswatta to Eibon 
+1932;1926;sea;;-1;-1;-1;-1;Brigia to Orion 
+1840;1872;sea;;-1;-1;-1;-1;Omman to Abraxin
+1877;1872;sea;;-1;-1;-1;-1;Raxus to Abraxin
+1865;1889;sea;;-1;-1;-1;-1;Endregaad to Shalyvane 
+1661;1697;sea;;-1;-1;-1;-1;The Wheel to New Holstice 
+1729;1708;sea;;-1;-1;-1;-1;Galidraan to Draukyze
+1966;1967;sea;;-1;-1;-1;-1;Pakuuni to Gbu

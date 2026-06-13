@@ -1,12 +1,11 @@
-# 844 - Province0844
+# 844 - Dakshee
 
 # County Title
-title = c_province0844
+title = c_dakshee
 
 # Settlements
 max_settlements = 1
-b_barony0844` = tribal
-b_barony0844a = temple
+b_dakshee = tribal
 
 # Misc
 culture = uncultured_swine

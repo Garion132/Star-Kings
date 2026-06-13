@@ -1,12 +1,11 @@
-# 913 - Province0913
+# 913 - Hok
 
 # County Title
-title = c_province0913
+title = c_hok
 
 # Settlements
 max_settlements = 3
-b_barony0913` = tribal
-b_barony0913a = temple
+b_hok = tribal
 
 # Misc
 culture = uncultured_swine

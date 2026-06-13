@@ -1,12 +1,11 @@
-# 1921 - Province1921
+# 1921 - Saheelindeel
 
 # County Title
-title = c_province1921
+title = c_saheelindeel
 
 # Settlements
 max_settlements = 5
-b_barony1921` = tribal
-b_barony1921a = temple
+b_saheelindeel = tribal
 
 # Misc
 culture = uncultured_swine

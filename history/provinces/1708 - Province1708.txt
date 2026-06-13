@@ -1,12 +1,11 @@
-# 1708 - Province1708
+# 1708 - Draukyze
 
 # County Title
-title = c_province1708
+title = c_draukyze
 
 # Settlements
 max_settlements = 3
-b_barony1708` = tribal
-b_barony1708a = temple
+b_draukyze = tribal
 
 # Misc
 culture = uncultured_swine

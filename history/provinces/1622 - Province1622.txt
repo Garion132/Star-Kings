@@ -1,12 +1,11 @@
-# 1622 - Province1622
+# 1622 - Vorzyd
 
 # County Title
-title = c_province1622
+title = c_vorzyd
 
 # Settlements
 max_settlements = 1
-b_barony1622` = tribal
-b_barony1622a = temple
+b_vorzyd = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 70 - Province0070
+# 70 - Bakura
 
 # County Title
-title = c_province0070
+title = c_bakura
 
 # Settlements
 max_settlements = 4
-b_barony0070` = tribal
-b_barony0070a = temple
+b_bakura = tribal
 
 # Misc
 culture = uncultured_swine

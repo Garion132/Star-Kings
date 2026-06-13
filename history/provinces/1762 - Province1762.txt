@@ -1,12 +1,11 @@
-# 1762 - Province1762
+# 1762 - Arcan
 
 # County Title
-title = c_province1762
+title = c_arcan
 
 # Settlements
 max_settlements = 5
-b_barony1762` = tribal
-b_barony1762a = temple
+b_arcan = tribal
 
 # Misc
 culture = uncultured_swine

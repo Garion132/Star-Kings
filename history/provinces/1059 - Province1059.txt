@@ -1,12 +1,11 @@
-# 1059 - Province1059
+# 1059 - Quellor
 
 # County Title
-title = c_province1059
+title = c_quellor
 
 # Settlements
 max_settlements = 4
-b_barony1059` = tribal
-b_barony1059a = temple
+b_quellor = tribal
 
 # Misc
 culture = uncultured_swine

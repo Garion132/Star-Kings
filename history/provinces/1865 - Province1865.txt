@@ -1,12 +1,11 @@
-# 1865 - Province1865
+# 1865 - Endregaad
 
 # County Title
-title = c_province1865
+title = c_endregaad
 
 # Settlements
 max_settlements = 5
-b_barony1865` = tribal
-b_barony1865a = temple
+b_endregaad = tribal
 
 # Misc
 culture = uncultured_swine

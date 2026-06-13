@@ -1,11 +1,11 @@
-# 1489 - Ragna
+# 1489 - Arkuda
 
 # County Title
-title = c_ragna
+title = c_arkuda
 
 # Settlements
 max_settlements = 4
-b_ragna = tribal
+b_arkuda = tribal
 
 # Misc
 culture = uncultured_swine

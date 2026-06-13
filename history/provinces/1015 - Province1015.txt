@@ -1,12 +1,11 @@
-# 1015 - Province1015
+# 1015 - Nuvar
 
 # County Title
-title = c_province1015
+title = c_nuvar
 
 # Settlements
 max_settlements = 3
-b_barony1015` = tribal
-b_barony1015a = temple
+b_nuvar = tribal
 
 # Misc
 culture = uncultured_swine

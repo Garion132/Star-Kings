@@ -1,12 +1,11 @@
-# 1790 - Province1790
+# 1790 - Oor
 
 # County Title
-title = c_province1790
+title = c_oor
 
 # Settlements
 max_settlements = 3
-b_barony1790` = tribal
-b_barony1790a = temple
+b_oor = tribal
 
 # Misc
 culture = uncultured_swine

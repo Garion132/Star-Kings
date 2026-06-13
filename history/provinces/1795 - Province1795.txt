@@ -1,12 +1,11 @@
-# 1795 - Province1795
+# 1795 - Barseg
 
 # County Title
-title = c_province1795
+title = c_barseg
 
 # Settlements
 max_settlements = 5
-b_barony1795` = tribal
-b_barony1795a = temple
+b_barseg = tribal
 
 # Misc
 culture = uncultured_swine

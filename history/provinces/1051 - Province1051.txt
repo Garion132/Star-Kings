@@ -1,12 +1,11 @@
-# 1051 - Province1051
+# 1051 - Sagar
 
 # County Title
-title = c_province1051
+title = c_sagar
 
 # Settlements
 max_settlements = 2
-b_barony1051` = tribal
-b_barony1051a = temple
+b_sagar = tribal
 
 # Misc
 culture = uncultured_swine

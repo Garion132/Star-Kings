@@ -1,12 +1,11 @@
-# 1813 - Province1813
+# 1813 - Cadinth
 
 # County Title
-title = c_province1813
+title = c_cadinth
 
 # Settlements
 max_settlements = 1
-b_barony1813` = tribal
-b_barony1813a = temple
+b_cadinth = tribal
 
 # Misc
 culture = uncultured_swine

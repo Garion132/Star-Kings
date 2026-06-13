@@ -1,12 +1,11 @@
-# 1789 - Province1789
+# 1789 - Lorrad
 
 # County Title
-title = c_province1789
+title = c_lorrad
 
 # Settlements
 max_settlements = 5
-b_barony1789` = tribal
-b_barony1789a = temple
+b_lorrad = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1770 - Province1770
+# 1770 - Janilis
 
 # County Title
-title = c_province1770
+title = c_janilis
 
 # Settlements
 max_settlements = 5
-b_barony1770` = tribal
-b_barony1770a = temple
+b_janilis = tribal
 
 # Misc
 culture = uncultured_swine

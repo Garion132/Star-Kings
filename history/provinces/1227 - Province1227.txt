@@ -1,12 +1,11 @@
-# 1227 - Province1227
+# 1227 - Sedesia
 
 # County Title
-title = c_province1227
+title = c_sedesia
 
 # Settlements
 max_settlements = 2
-b_barony1227` = tribal
-b_barony1227a = temple
+b_sedesia = tribal
 
 # Misc
 culture = uncultured_swine

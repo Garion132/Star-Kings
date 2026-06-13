@@ -1,12 +1,11 @@
-# 1101 - Province1101
+# 1101 - Ord Vaxal
 
 # County Title
-title = c_province1101
+title = c_ord_vaxal
 
 # Settlements
 max_settlements = 4
-b_barony1101` = tribal
-b_barony1101a = temple
+b_ord_vaxal = tribal
 
 # Misc
 culture = uncultured_swine
