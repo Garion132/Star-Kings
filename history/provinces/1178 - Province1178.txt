@@ -1,12 +1,11 @@
-# 1178 - Province1178
+# 1178 - Dathomir
 
 # County Title
-title = c_province1178
+title = c_dathomir
 
 # Settlements
 max_settlements = 4
-b_barony1178` = tribal
-b_barony1178a = temple
+b_dathomir = tribal
 
 # Misc
 culture = uncultured_swine

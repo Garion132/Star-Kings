@@ -1,12 +1,11 @@
-# 1168 - Province1168
+# 1168 - Thomquizzar
 
 # County Title
-title = c_province1168
+title = c_thomquizzar
 
 # Settlements
 max_settlements = 4
-b_barony1168` = tribal
-b_barony1168a = temple
+b_thomquizzar = tribal
 
 # Misc
 culture = uncultured_swine

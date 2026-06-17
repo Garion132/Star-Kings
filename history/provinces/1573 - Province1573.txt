@@ -1,12 +1,11 @@
-# 1573 - Province1573
+# 1573 - Orleon
 
 # County Title
-title = c_province1573
+title = c_orleon
 
 # Settlements
 max_settlements = 2
-b_barony1573` = tribal
-b_barony1573a = temple
+b_orleon = tribal
 
 # Misc
 culture = uncultured_swine

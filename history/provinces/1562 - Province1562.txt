@@ -1,12 +1,11 @@
-# 1562 - Province1562
+# 1562 - Ord Tiddell
 
 # County Title
-title = c_province1562
+title = c_ord_tiddell
 
 # Settlements
 max_settlements = 4
-b_barony1562` = tribal
-b_barony1562a = temple
+b_ord_tiddell = tribal
 
 # Misc
 culture = uncultured_swine

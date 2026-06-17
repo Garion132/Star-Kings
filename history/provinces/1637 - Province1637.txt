@@ -1,12 +1,11 @@
-# 1637 - Province1637
+# 1637 - Maltoria
 
 # County Title
-title = c_province1637
+title = c_maltoria
 
 # Settlements
 max_settlements = 5
-b_barony1637` = tribal
-b_barony1637a = temple
+b_maltoria = tribal
 
 # Misc
 culture = uncultured_swine

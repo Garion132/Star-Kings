@@ -252,3 +252,29 @@
 		death=yes
 	}
 }
+60090 = {
+	name= "Toonbuck" # 
+	dynasty = 44#Toora
+	religion = pagan
+	culture = sy_myrtian
+	female = yes
+	946.1.1={
+		birth=yes
+	}
+	986.1.14={
+		death=yes
+	}
+}
+60100 = {
+	name= "Omogg" # 
+	#dynasty = 44 #Toora
+	religion = pagan
+	culture = drackmarian
+	female = yes
+	952.1.1={
+		birth=yes
+	}
+	1020.1.14={
+		death=yes
+	}
+}

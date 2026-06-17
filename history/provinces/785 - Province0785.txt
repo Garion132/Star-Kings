@@ -1,12 +1,11 @@
-# 785 - Province0785
+# 785 - Omonoth
 
 # County Title
-title = c_province0785
+title = c_omonoth
 
 # Settlements
 max_settlements = 3
-b_barony0785` = tribal
-b_barony0785a = temple
+b_omonoth = tribal
 
 # Misc
 culture = uncultured_swine

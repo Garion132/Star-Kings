@@ -224,7 +224,9 @@
 		birth=yes
 	}
 	959.1.1={
-		death=yes
+		death={
+			death_reason=death_battle
+		}
 	}
 }
 51101 = {
@@ -252,6 +254,222 @@
 		birth=yes
 	}
 	1009.1.1={
+		death=yes
+	}
+}
+51200 = {
+	name= "Malreaux" #
+	dynasty = 45 #Malreaux
+	religion = pagan
+	culture = core_worlder
+	939.1.1={
+		birth=yes
+	}
+	963.1.1={
+		add_spouse = 51201
+	}
+	972.1.1={
+		death=yes
+	}
+}
+51201 = {
+	name= "Whirry" #
+	#dynasty = 45 #Malreaux
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	943.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+51202 = {
+	name= "Whie" #
+	dynasty = 45 #Malreaux
+	religion = pagan
+	culture = core_worlder
+	father = 51200
+	mother = 51201
+	967.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+51300 = {
+	name= "Wila" #
+	dynasty = 46 #Prammi
+	religion = pagan
+	culture = core_worlder
+	948.1.1={
+		birth=yes
+	}
+	
+	1003.1.1={
+		death=yes
+	}
+}
+51310 = {
+	name= "Lorac" #
+	dynasty = 47 #Velmor
+	religion = pagan
+	culture = core_worlder
+	939.1.1={
+		birth=yes
+	}
+	
+	983.4.1={
+		death=yes
+	}
+}
+51311 = {
+	name= "Denira" #
+	#dynasty = 47 #Velmor
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	940.1.1={
+		birth=yes
+	}
+	963.1.1={
+		add_spouse = 51310
+	}
+	
+	983.4.1={
+		death=yes
+	}
+}
+51312 = { 
+	name= "Denid" #
+	dynasty = 47 #Velmor
+	religion = pagan
+	culture = core_worlder
+	female = 51311
+	father = 51310
+	968.1.1={
+		birth=yes
+	}
+	983.1.1={
+		add_spouse = 51313
+	}
+	1016.1.1={
+		death=yes
+	}
+}
+51313 = { 
+	name= "Denid" #
+	#dynasty = 47 #Velmor
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	967.1.1={
+		birth=yes
+	}
+	983.4.1={
+		death=yes
+	}
+}
+51314 = { 
+	name= "Anod" #
+	dynasty = 47 #Velmor
+	religion = pagan
+	culture = core_worlder
+	female = 51311
+	father = 51310
+	969.1.1={
+		birth=yes
+	}
+	
+	1003.1.1={
+		death=yes
+	}
+}
+
+51320 = {
+	name= "Crion" #
+	dynasty = 48 #Velmor
+	religion = pagan
+	culture = core_worlder
+	904.1.1={
+		birth=yes
+	}
+	
+	947.1.1={
+		death=yes
+	}
+}
+51321 = {
+	name= "Xanatos" #
+	dynasty = 48 #Velmor
+	religion = pagan
+	culture = core_worlder
+	father = 51320
+	922.1.1={
+		birth=yes
+	}
+	
+	966.1.1={
+		death=yes
+	}
+}
+51322 = {
+	name= "Nason" #
+	dynasty = 48 #Velmor
+	religion = pagan
+	culture = core_worlder
+	father = 51320
+	female = yes
+	923.1.1={
+		birth=yes
+	}
+	
+	947.1.1={
+		death=yes
+	}
+}
+51323 = {
+	name= "Tura" #
+	dynasty = 49 #Omega
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	father = 51321
+	932.1.1={
+		birth=yes
+	}
+	
+	991.1.1={
+		death=yes
+	}
+}
+51324 = {
+	name= "Granta" #
+	dynasty = 49 #Omega
+	religion = pagan
+	culture = core_worlder
+	father = 51321
+	950.1.1={
+		birth=yes
+	}
+	
+	977.1.1={
+		death=yes
+	}
+}
+51330 = {
+	name= "Kin" #
+	dynasty = 50 #Robb
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	946.1.1={
+		birth=yes
+	}
+	
+	991.1.1={
 		death=yes
 	}
 }

@@ -1,12 +1,11 @@
-# 1034 - Province1034
+# 1034 - Skorrupon
 
 # County Title
-title = c_province1034
+title = c_skorrupon
 
 # Settlements
 max_settlements = 4
-b_barony1034` = tribal
-b_barony1034a = temple
+b_skorrupon = tribal
 
 # Misc
 culture = uncultured_swine

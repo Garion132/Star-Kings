@@ -1,12 +1,11 @@
-# 1304 - Province1304
+# 1304 - Alba
 
 # County Title
-title = c_province1304
+title = c_alba
 
 # Settlements
 max_settlements = 3
-b_barony1304` = tribal
-b_barony1304a = temple
+b_alba = tribal
 
 # Misc
 culture = uncultured_swine

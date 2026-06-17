@@ -1,12 +1,11 @@
-# 720 - Province0720
+# 720 - Paqualis
 
 # County Title
-title = c_province0720
+title = c_paqualis
 
 # Settlements
 max_settlements = 3
-b_barony0720` = tribal
-b_barony0720a = temple
+b_paqualis = tribal
 
 # Misc
 culture = uncultured_swine

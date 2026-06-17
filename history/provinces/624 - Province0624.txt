@@ -1,12 +1,11 @@
-# 624 - Province0624
+# 624 - Uviuy Exen
 
 # County Title
-title = c_province0624
+title = c_uviuy_exen
 
 # Settlements
 max_settlements = 1
-b_barony0624` = tribal
-b_barony0624a = temple
+b_uviuy_exen = tribal
 
 # Misc
 culture = uncultured_swine

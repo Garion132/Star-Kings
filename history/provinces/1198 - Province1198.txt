@@ -1,11 +1,11 @@
-# 1198 - Province1198
+# 1198 - Gorm
 
 # County Title
-title = c_province1198
+title = c_gorm
 
 # Settlements
 max_settlements = 2
-b_barony1198` = tribal
+b_gorm = tribal
 
 # Misc
 culture = uncultured_swine

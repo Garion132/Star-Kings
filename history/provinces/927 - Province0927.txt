@@ -1,12 +1,11 @@
-# 927 - Province0927
+# 927 - Poderis
 
 # County Title
-title = c_province0927
+title = c_poderis
 
 # Settlements
 max_settlements = 3
-b_barony0927` = tribal
-b_barony0927a = temple
+b_poderis = tribal
 
 # Misc
 culture = uncultured_swine

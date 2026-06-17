@@ -1,12 +1,11 @@
-# 1153 - Province1153
+# 1153 - Marca
 
 # County Title
-title = c_province1153
+title = c_marca
 
 # Settlements
 max_settlements = 4
-b_barony1153` = tribal
-b_barony1153a = temple
+b_marca = tribal
 
 # Misc
 culture = uncultured_swine

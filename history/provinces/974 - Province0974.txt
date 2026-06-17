@@ -1,12 +1,11 @@
-# 974 - Province0974
+# 974 - Chazwa
 
 # County Title
-title = c_province0974
+title = c_chazwa
 
 # Settlements
 max_settlements = 2
-b_barony0974` = tribal
-b_barony0974a = temple
+b_chazwa = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1655 - Province1655
+# 1655 - Diado
 
 # County Title
-title = c_province1655
+title = c_diado
 
 # Settlements
 max_settlements = 5
-b_barony1655` = tribal
-b_barony1655a = temple
+b_diado = tribal
 
 # Misc
 culture = uncultured_swine

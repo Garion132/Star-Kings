@@ -1,12 +1,11 @@
-# 1524 - Province1524
+# 1524 - Roche
 
 # County Title
-title = c_province1524
+title = c_roche
 
 # Settlements
 max_settlements = 4
-b_barony1524` = tribal
-b_barony1524a = temple
+b_roche = tribal
 
 # Misc
 culture = uncultured_swine

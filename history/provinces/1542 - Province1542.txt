@@ -1,12 +1,11 @@
-# 1542 - Province1542
+# 1542 - Trancret
 
 # County Title
-title = c_province1542
+title = c_trancret
 
 # Settlements
 max_settlements = 4
-b_barony1542` = tribal
-b_barony1542a = temple
+b_trancret = tribal
 
 # Misc
 culture = uncultured_swine

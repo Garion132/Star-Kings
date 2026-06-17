@@ -1,12 +1,11 @@
-# 1735 - Province1735
+# 1735 - Anzat
 
 # County Title
-title = c_province1735
+title = c_anzat
 
 # Settlements
 max_settlements = 5
-b_barony1735` = tribal
-b_barony1735a = temple
+b_anzat = tribal
 
 # Misc
 culture = uncultured_swine

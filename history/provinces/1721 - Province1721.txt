@@ -1,12 +1,11 @@
-# 1721 - Province1721
+# 1721 - Jomark
 
 # County Title
-title = c_province1721
+title = c_jomark
 
 # Settlements
 max_settlements = 5
-b_barony1721` = tribal
-b_barony1721a = temple
+b_jomark = tribal
 
 # Misc
 culture = uncultured_swine

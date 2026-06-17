@@ -1,12 +1,11 @@
-# 1353 - Province1353
+# 1353 - Msst
 
 # County Title
-title = c_province1353
+title = c_msst
 
 # Settlements
 max_settlements = 1
-b_barony1353` = tribal
-b_barony1353a = temple
+b_msst = tribal
 
 # Misc
 culture = uncultured_swine

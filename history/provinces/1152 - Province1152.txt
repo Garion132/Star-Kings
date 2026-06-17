@@ -1,12 +1,11 @@
-# 1152 - Province1152
+# 1152 - Halmad
 
 # County Title
-title = c_province1152
+title = c_halmad
 
 # Settlements
 max_settlements = 4
-b_barony1152` = tribal
-b_barony1152a = temple
+b_halmad = tribal
 
 # Misc
 culture = uncultured_swine

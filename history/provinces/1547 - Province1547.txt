@@ -1,12 +1,11 @@
-# 1547 - Province1547
+# 1547 - Casfield
 
 # County Title
-title = c_province1547
+title = c_casfield
 
 # Settlements
 max_settlements = 4
-b_barony1547` = tribal
-b_barony1547a = temple
+b_casfield = tribal
 
 # Misc
 culture = uncultured_swine

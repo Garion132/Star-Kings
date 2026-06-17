@@ -1,12 +1,11 @@
-# 1597 - Province1597
+# 1597 - Salvara
 
 # County Title
-title = c_province1597
+title = c_salvara
 
 # Settlements
 max_settlements = 3
-b_barony1597` = tribal
-b_barony1597a = temple
+b_salvara = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,11 +1,11 @@
-# 1123 - Province1123
+# 1123 - Taris
 
 # County Title
-title = c_province1123
+title = c_taris
 
 # Settlements
 max_settlements = 1
-b_barony1123` = tribal
+b_taris = tribal
 
 # Misc
 culture = uncultured_swine

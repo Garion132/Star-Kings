@@ -1,12 +1,11 @@
-# 1054 - Province1054
+# 1054 - Ploo
 
 # County Title
-title = c_province1054
+title = c_ploo
 
 # Settlements
 max_settlements = 4
-b_barony1054` = tribal
-b_barony1054a = temple
+b_ploo = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1581 - Province1581
+# 1581 - Aargonar
 
 # County Title
-title = c_province1581
+title = c_aargonar
 
 # Settlements
 max_settlements = 4
-b_barony1581` = tribal
-b_barony1581a = temple
+b_aargonar = tribal
 
 # Misc
 culture = uncultured_swine

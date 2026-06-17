@@ -1,12 +1,11 @@
-# 1387 - Province1387
+# 1387 - Bseto
 
 # County Title
-title = c_province1387
+title = c_bseto
 
 # Settlements
 max_settlements = 4
-b_barony1387` = tribal
-b_barony1387a = temple
+b_bseto = tribal
 
 # Misc
 culture = uncultured_swine

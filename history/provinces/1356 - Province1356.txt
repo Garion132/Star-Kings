@@ -1,12 +1,11 @@
-# 1356 - Province1356
+# 1356 - Serenno
 
 # County Title
-title = c_province1356
+title = c_serenno
 
 # Settlements
 max_settlements = 4
-b_barony1356` = tribal
-b_barony1356a = temple
+b_serenno = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1623 - Province1623
+# 1623 - Metalorn
 
 # County Title
-title = c_province1623
+title = c_metalorn
 
 # Settlements
 max_settlements = 1
-b_barony1623` = tribal
-b_barony1623a = temple
+b_metalorn = tribal
 
 # Misc
 culture = uncultured_swine

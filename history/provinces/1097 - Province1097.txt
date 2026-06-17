@@ -1,12 +1,11 @@
-# 1097 - Province1097
+# 1097 - Jebble
 
 # County Title
-title = c_province1097
+title = c_jebble
 
 # Settlements
 max_settlements = 4
-b_barony1097` = tribal
-b_barony1097a = temple
+b_jebble = tribal
 
 # Misc
 culture = uncultured_swine

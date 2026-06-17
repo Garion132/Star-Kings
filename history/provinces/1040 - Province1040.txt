@@ -1,12 +1,11 @@
-# 1040 - Province1040
+# 1040 - Null
 
 # County Title
-title = c_province1040
+title = c_null
 
 # Settlements
 max_settlements = 1
-b_barony1040` = tribal
-b_barony1040a = temple
+b_null = tribal
 
 # Misc
 culture = uncultured_swine

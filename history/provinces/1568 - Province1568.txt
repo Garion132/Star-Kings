@@ -1,12 +1,11 @@
-# 1568 - Province1568
+# 1568 - Lucazec
 
 # County Title
-title = c_province1568
+title = c_lucazec
 
 # Settlements
 max_settlements = 4
-b_barony1568` = tribal
-b_barony1568a = temple
+b_lucazec = tribal
 
 # Misc
 culture = uncultured_swine

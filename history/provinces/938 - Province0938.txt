@@ -1,12 +1,11 @@
-# 938 - Province0938
+# 938 - Corsin
 
 # County Title
-title = c_province0938
+title = c_corsin
 
 # Settlements
 max_settlements = 1
-b_barony0938` = tribal
-b_barony0938a = temple
+b_corsin = tribal
 
 # Misc
 culture = uncultured_swine

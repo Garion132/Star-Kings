@@ -1,12 +1,11 @@
-# 841 - Province0841
+# 841 - Adin
 
 # County Title
-title = c_province0841
+title = c_adin
 
 # Settlements
 max_settlements = 3
-b_barony0841` = tribal
-b_barony0841a = temple
+b_adin = tribal
 
 # Misc
 culture = uncultured_swine

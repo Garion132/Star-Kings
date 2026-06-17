@@ -1,12 +1,11 @@
-# 1539 - Province1539
+# 1539 - Gala
 
 # County Title
-title = c_province1539
+title = c_gala
 
 # Settlements
 max_settlements = 4
-b_barony1539` = tribal
-b_barony1539a = temple
+b_gala = tribal
 
 # Misc
 culture = uncultured_swine

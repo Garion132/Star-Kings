@@ -1,12 +1,11 @@
-# 568 - Province0568
+# 568 - Nara
 
 # County Title
-title = c_province0568
+title = c_nara
 
 # Settlements
 max_settlements = 1
-b_barony0568` = tribal
-b_barony0568a = temple
+b_nara = tribal
 
 # Misc
 culture = uncultured_swine

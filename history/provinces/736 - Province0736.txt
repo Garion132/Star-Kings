@@ -1,12 +1,11 @@
-# 736 - Province0736
+# 736 - Nessem
 
 # County Title
-title = c_province0736
+title = c_nessem
 
 # Settlements
 max_settlements = 3
-b_barony0736` = tribal
-b_barony0736a = temple
+b_nessem = tribal
 
 # Misc
 culture = uncultured_swine

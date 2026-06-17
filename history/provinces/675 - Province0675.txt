@@ -1,12 +1,11 @@
-# 675 - Province0675
+# 675 - Champala
 
 # County Title
-title = c_province0675
+title = c_champala
 
 # Settlements
 max_settlements = 1
-b_barony0675` = tribal
-b_barony0675a = temple
+b_champala = tribal
 
 # Misc
 culture = uncultured_swine

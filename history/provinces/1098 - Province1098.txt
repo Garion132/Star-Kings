@@ -1,12 +1,11 @@
-# 1098 - Province1098
+# 1098 - Vulta
 
 # County Title
-title = c_province1098
+title = c_vulta
 
 # Settlements
 max_settlements = 4
-b_barony1098` = tribal
-b_barony1098a = temple
+b_vulta = tribal
 
 # Misc
 culture = uncultured_swine

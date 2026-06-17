@@ -1,0 +1,18 @@
+1.1.1={
+	liege = d_drackmarian_warlords
+}
+827.1.1 = {
+	holder = 112240
+}
+905.1.1 = {
+	holder = 112241
+}
+915.1.1 = {
+	holder = 112242
+}
+967.1.1 = {
+	holder = 112245
+}
+997.1.1 = {
+	liege = e_gal_republic
+}

@@ -1,12 +1,11 @@
-# 748 - Province0748
+# 748 - Bogden
 
 # County Title
-title = c_province0748
+title = c_bogden
 
 # Settlements
 max_settlements = 3
-b_barony0748` = tribal
-b_barony0748a = temple
+b_bogden = tribal
 
 # Misc
 culture = uncultured_swine

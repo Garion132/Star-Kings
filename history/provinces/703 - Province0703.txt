@@ -1,12 +1,11 @@
-# 703 - Province0703
+# 703 - Per Lupelo
 
 # County Title
-title = c_province0703
+title = c_per_lupelo
 
 # Settlements
 max_settlements = 3
-b_barony0703` = tribal
-b_barony0703a = temple
+b_per_lupelo = tribal
 
 # Misc
 culture = uncultured_swine

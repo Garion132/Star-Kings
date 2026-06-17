@@ -1,12 +1,11 @@
-# 636 - Province0636
+# 636 - Eeropha
 
 # County Title
-title = c_province0636
+title = c_eeropha
 
 # Settlements
 max_settlements = 3
-b_barony0636` = tribal
-b_barony0636a = temple
+b_eeropha = tribal
 
 # Misc
 culture = uncultured_swine

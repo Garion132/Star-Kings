@@ -1,12 +1,11 @@
-# 808 - Province0808
+# 808 - Draria
 
 # County Title
-title = c_province0808
+title = c_draria
 
 # Settlements
 max_settlements = 3
-b_barony0808` = tribal
-b_barony0808a = temple
+b_draria = tribal
 
 # Misc
 culture = uncultured_swine

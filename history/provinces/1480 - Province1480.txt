@@ -1,12 +1,11 @@
-# 1480 - Province1480
+# 1480 - Telos
 
 # County Title
-title = c_province1480
+title = c_telos
 
 # Settlements
 max_settlements = 4
-b_barony1480` = tribal
-b_barony1480a = temple
+b_telos = tribal
 
 # Misc
 culture = uncultured_swine

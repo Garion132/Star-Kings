@@ -1,12 +1,11 @@
-# 1496 - Province1496
+# 1496 - Jeyell
 
 # County Title
-title = c_province1496
+title = c_jeyell
 
 # Settlements
 max_settlements = 4
-b_barony1496` = tribal
-b_barony1496a = temple
+b_jeyell = tribal
 
 # Misc
 culture = uncultured_swine

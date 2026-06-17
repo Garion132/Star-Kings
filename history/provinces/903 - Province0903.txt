@@ -1,12 +1,11 @@
-# 903 - Province0903
+# 903 - Vurdon Ka
 
 # County Title
-title = c_province0903
+title = c_vurdon_ka
 
 # Settlements
 max_settlements = 3
-b_barony0903` = tribal
-b_barony0903a = temple
+b_vurdon_ka = tribal
 
 # Misc
 culture = uncultured_swine

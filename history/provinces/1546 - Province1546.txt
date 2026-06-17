@@ -1,12 +1,11 @@
-# 1546 - Province1546
+# 1546 - Vjun
 
 # County Title
-title = c_province1546
+title = c_vjun
 
 # Settlements
 max_settlements = 4
-b_barony1546` = tribal
-b_barony1546a = temple
+b_vjun = tribal
 
 # Misc
 culture = uncultured_swine

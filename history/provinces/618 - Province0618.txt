@@ -1,12 +1,11 @@
-# 618 - Province0618
+# 618 - Wakeelmui
 
 # County Title
-title = c_province0618
+title = c_wakeelmui
 
 # Settlements
 max_settlements = 6
-b_barony0618` = tribal
-b_barony0618a = temple
+b_wakeelmui = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1197 - Province1197
+# 1197 - Bandomeer
 
 # County Title
-title = c_province1197
+title = c_bandomeer
 
 # Settlements
 max_settlements = 4
-b_barony1197` = tribal
-b_barony1197a = temple
+b_bandomeer = tribal
 
 # Misc
 culture = uncultured_swine

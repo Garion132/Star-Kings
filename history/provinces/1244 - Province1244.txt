@@ -1,12 +1,11 @@
-# 1244 - Province1244
+# 1244 - Botajef
 
 # County Title
-title = c_province1244
+title = c_botajef
 
 # Settlements
 max_settlements = 4
-b_barony1244` = tribal
-b_barony1244a = temple
+b_botajef = tribal
 
 # Misc
 culture = uncultured_swine

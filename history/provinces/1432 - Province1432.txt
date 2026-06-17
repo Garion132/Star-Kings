@@ -1,12 +1,11 @@
-# 1432 - Province1432
+# 1432 - Velmor
 
 # County Title
-title = c_province1432
+title = c_velmor
 
 # Settlements
 max_settlements = 4
-b_barony1432` = tribal
-b_barony1432a = temple
+b_velmor = tribal
 
 # Misc
 culture = uncultured_swine

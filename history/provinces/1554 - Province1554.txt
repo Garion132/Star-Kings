@@ -1,12 +1,11 @@
-# 1554 - Province1554
+# 1554 - Gromas
 
 # County Title
-title = c_province1554
+title = c_gromas
 
 # Settlements
 max_settlements = 4
-b_barony1554` = tribal
-b_barony1554a = temple
+b_gromas = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,0 +1,15 @@
+1.1.1 = {
+	liege = d_offworld_mining_corporation
+}
+941.1.1 = {
+	holder = 51320
+}
+947.1.1 = {
+	holder = 51321
+}
+966.1.1 = {
+	holder = 51324
+}
+977.1.1 = {
+	holder = 114805
+}

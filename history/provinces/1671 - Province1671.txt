@@ -1,12 +1,11 @@
-# 1671 - Province1671
+# 1671 - Bryx
 
 # County Title
-title = c_province1671
+title = c_bryx
 
 # Settlements
 max_settlements = 5
-b_barony1671` = tribal
-b_barony1671a = temple
+b_bryx = tribal
 
 # Misc
 culture = uncultured_swine

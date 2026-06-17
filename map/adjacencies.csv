@@ -174,8 +174,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0810;0829;major_river;;-1;-1;-1;-1;Castell to Raithal
 0829;0903;major_river;;-1;-1;-1;-1;Raithal to Vurdon Ka
 0903;0941;major_river;;-1;-1;-1;-1;Vurdon Ka to Joiol
-0941;0974;major_river;;-1;-1;-1;-1;Joiol to Chazwa (Iritsa)
-0973;1042;major_river;;-1;-1;-1;-1;Chazwa (Ching) to Relatta
+0941;0974;major_river;;-1;-1;-1;-1;Joiol to Chazwa
+0974;1042;major_river;;-1;-1;-1;-1;Chazwa to Relatta
 1042;1110;major_river;;-1;-1;-1;-1;Relatta to Tirahnn
 1110;1182;major_river;;-1;-1;-1;-1;Tirahnn to Dalcretti
 1182;1263;major_river;;-1;-1;-1;-1;Dalcretti to Taanab (Pandath)
@@ -1028,8 +1028,7 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1045;1012;major_river;;-1;-1;-1;-1;Telerath to Comkin
 0938;1012;major_river;;-1;-1;-1;-1;Corsin to Comkin
 0938;1054;major_river;;-1;-1;-1;-1;Corsin to Ploo
-1070;1054;major_river;;-1;-1;-1;-1;Cathar to Ploo
-1070;1098;major_river;;-1;-1;-1;-1;Cathar to Vulta
+1098;1054;major_river;;-1;-1;-1;-1;Vulta to Ploo
 1097;1098;major_river;;-1;-1;-1;-1;Cathar to Jebble
 1197;1198;major_river;;-1;-1;-1;-1;Bandomeer to Gorm
 1187;1198;major_river;;-1;-1;-1;-1;Vanquo to Gorm
@@ -1146,6 +1145,7 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1781;1733;major_river;;-1;-1;-1;-1;Boz Pity to Alee
 1753;1733;major_river;;-1;-1;-1;-1;Tal Nami to Alee
 1753;1748;major_river;;-1;-1;-1;-1;Tal Nami to Ilos Minor
+1187;1153;major_river;;-1;-1;-1;-1;Vanquo to Marca
 1756;1724;major_river;;-1;-1;-1;-1;Thanium to Felucia 
 1725;1724;major_river;;-1;-1;-1;-1;Mossak to Felucia
 1725;1729;major_river;;-1;-1;-1;-1;Mossak to Galidraan
@@ -1270,4 +1270,60 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1865;1889;sea;;-1;-1;-1;-1;Endregaad to Shalyvane 
 1661;1697;sea;;-1;-1;-1;-1;The Wheel to New Holstice 
 1729;1708;sea;;-1;-1;-1;-1;Galidraan to Draukyze
-1966;1967;sea;;-1;-1;-1;-1;Pakuuni to Gbu
+1966;1967;sea;;-1;-1;-1;-1;Pakuuni to Gbu 
+1608;1671;sea;;-1;-1;-1;-1;Euceron to Bryx
+1735;1671;sea;;-1;-1;-1;-1;Anzat to Bryx
+1584;1623;sea;;-1;-1;-1;-1;Talcene to Metalorn 
+1671;1623;sea;;-1;-1;-1;-1;Bryx to Metalorn 
+1524;1567;sea;;-1;-1;-1;-1;Roche to Trasse
+1600;1567;sea;;-1;-1;-1;-1;Sarka to Trasse 
+1600;1623;sea;;-1;-1;-1;-1;Sarka to Metalorn
+1600;1637;sea;;-1;-1;-1;-1;Sarka to Maltoria 
+1655;1637;sea;;-1;-1;-1;-1;Diado to Maltoria 
+1721;1712;sea;;-1;-1;-1;-1;Jomark to Trogan
+1721;1752;sea;;-1;-1;-1;-1;Jomark to Sy Myrth
+1539;1554;sea;;-1;-1;-1;-1;Gala to Gromas
+1542;1554;sea;;-1;-1;-1;-1;Trancret to Gromas 
+1542;1581;sea;;-1;-1;-1;-1;Trancret to Aargonar
+1581;1554;sea;;-1;-1;-1;-1;Aargonar to Gromas
+1597;1562;sea;;-1;-1;-1;-1;Salvara to Ord Tiddell
+1547;1562;sea;;-1;-1;-1;-1;Casfield to Ord Tiddell
+1581;1562;sea;;-1;-1;-1;-1;Aargonar to Ord Tiddell 
+1368;1387;sea;;-1;-1;-1;-1;Phindar to Bseto
+1399;1387;sea;;-1;-1;-1;-1;Garos to Bseto
+1399;1427;sea;;-1;-1;-1;-1;Garos to Anteevy
+1427;1433;sea;;-1;-1;-1;-1;Anteevy to Kromus
+1399;1433;sea;;-1;-1;-1;-1;Garos to Kromus
+1399;1353;sea;;-1;-1;-1;-1;Garos to Msst
+1335;1353;sea;;-1;-1;-1;-1;Kiva to Msst
+1432;1433;sea;;-1;-1;-1;-1;Velmor to Kromus
+1172;1153;sea;;-1;-1;-1;-1;Wrodi to Marca
+1123;1153;sea;;-1;-1;-1;-1;Taris to Marca
+1123;1097;sea;;-1;-1;-1;-1;Taris to Jebble 
+1359;1356;sea;;-1;-1;-1;-1;Toprawa to Serenno
+1377;1356;sea;;-1;-1;-1;-1;Pho Ph'eah to Serenno
+1034;1040;sea;;-1;-1;-1;-1;Skorrupon to Null
+1034;1098;sea;;-1;-1;-1;-1;Skorrupon to Vulta 
+1218;1245;sea;;-1;-1;-1;-1;Harloen to Irmenu
+1260;1199;sea;;-1;-1;-1;-1;Ordo to Gargon
+1137;1144;sea;;-1;-1;-1;-1;Vinsoth to Cathar
+1178;1144;sea;;-1;-1;-1;-1;Dathomir to Cathar
+1178;1224;sea;;-1;-1;-1;-1;Dathomir to Drackmar
+1178;1152;sea;;-1;-1;-1;-1;Dathomir to Halmad
+1178;1070;sea;;-1;-1;-1;-1;Dathomir to Morseer
+1070;1224;sea;;-1;-1;-1;-1;Morseer to Drackmar
+0828;0808;sea;;-1;-1;-1;-1;Jazbina to Draria
+0624;0688;sea;;-1;-1;-1;-1;Uviuy Exen to Doldrums
+0618;0568;sea;;-1;-1;-1;-1;Wakeelmui to Nara
+0727;0739;sea;;-1;-1;-1;-1;Kluistar to Arkania
+0727;0719;sea;;-1;-1;-1;-1;Kluistar to Kiribi
+0719;0739;sea;;-1;-1;-1;-1;Kiribi to Arkania
+0719;0688;sea;;-1;-1;-1;-1;Kiribi to Doldrums
+0785;0739;sea;;-1;-1;-1;-1;Omonoth to Arkania
+0785;0915;sea;;-1;-1;-1;-1;Omonoth to Hijarna
+0927;0915;sea;;-1;-1;-1;-1;Poderis to Hijarna
+0927;0869;sea;;-1;-1;-1;-1;Poderis to Mantessa
+0927;0996;sea;;-1;-1;-1;-1;Poderis to Berchest
+0927;0974;sea;;-1;-1;-1;-1;Poderis to Chazwa
+0903;0915;sea;;-1;-1;-1;-1;Vurdon Ka to Hijarna
+0805;0869;sea;;-1;-1;-1;-1;Mindor to Mantessa

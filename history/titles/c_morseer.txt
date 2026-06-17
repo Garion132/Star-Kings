@@ -1,0 +1,6 @@
+1.1.1={
+	liege = d_drackmarian_warlords
+}
+997.1.1 = {
+	liege = e_gal_republic
+}

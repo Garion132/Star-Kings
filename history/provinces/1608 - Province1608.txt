@@ -1,12 +1,11 @@
-# 1608 - Province1608
+# 1608 - Euceron
 
 # County Title
-title = c_province1608
+title = c_euceron
 
 # Settlements
 max_settlements = 1
-b_barony1608` = tribal
-b_barony1608a = temple
+b_euceron = tribal
 
 # Misc
 culture = uncultured_swine

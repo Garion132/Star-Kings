@@ -1,12 +1,11 @@
-# 1335 - Province1335
+# 1335 - Kiva
 
 # County Title
-title = c_province1335
+title = c_kiva
 
 # Settlements
 max_settlements = 4
-b_barony1335` = tribal
-b_barony1335a = temple
+b_kiva = tribal
 
 # Misc
 culture = uncultured_swine

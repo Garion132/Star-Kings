@@ -1,12 +1,11 @@
-# 1567 - Province1567
+# 1567 - Trasse
 
 # County Title
-title = c_province1567
+title = c_trasse
 
 # Settlements
 max_settlements = 1
-b_barony1567` = tribal
-b_barony1567a = temple
+b_trasse = tribal
 
 # Misc
 culture = uncultured_swine

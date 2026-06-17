@@ -1,12 +1,11 @@
-# 1600 - Province1600
+# 1600 - Sarka
 
 # County Title
-title = c_province1600
+title = c_sarka
 
 # Settlements
 max_settlements = 4
-b_barony1600` = tribal
-b_barony1600a = temple
+b_sarka = tribal
 
 # Misc
 culture = uncultured_swine

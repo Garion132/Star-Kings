@@ -1,12 +1,11 @@
-# 689 - Province0689
+# 689 - Drearia
 
 # County Title
-title = c_province0689
+title = c_drearia
 
 # Settlements
 max_settlements = 3
-b_barony0689` = tribal
-b_barony0689a = temple
+b_drearia = tribal
 
 # Misc
 culture = uncultured_swine

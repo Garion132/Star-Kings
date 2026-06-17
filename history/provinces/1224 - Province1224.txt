@@ -1,12 +1,11 @@
-# 1224 - Province1224
+# 1224 - Drackmar
 
 # County Title
-title = c_province1224
+title = c_drackmar
 
 # Settlements
 max_settlements = 4
-b_barony1224` = tribal
-b_barony1224a = temple
+b_drackmar = tribal
 
 # Misc
 culture = uncultured_swine

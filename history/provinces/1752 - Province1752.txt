@@ -1,12 +1,11 @@
-# 1752 - Province1752
+# 1752 - Sy Myrth
 
 # County Title
-title = c_province1752
+title = c_sy_myrth
 
 # Settlements
 max_settlements = 5
-b_barony1752` = tribal
-b_barony1752a = temple
+b_sy_myrth = tribal
 
 # Misc
 culture = uncultured_swine

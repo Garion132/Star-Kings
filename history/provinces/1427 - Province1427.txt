@@ -1,12 +1,11 @@
-# 1427 - Province1427
+# 1427 - Anteevy
 
 # County Title
-title = c_province1427
+title = c_anteevy
 
 # Settlements
 max_settlements = 4
-b_barony1427` = tribal
-b_barony1427a = temple
+b_anteevy = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 869 - Province0869
+# 869 - Mantessa
 
 # County Title
-title = c_province0869
+title = c_mantessa
 
 # Settlements
 max_settlements = 3
-b_barony0869` = tribal
-b_barony0869a = temple
+b_mantessa = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1232 - Province1232
+# 1232 - Mepha'as Prime
 
 # County Title
-title = c_province1232
+title = c_mephaas_prime
 
 # Settlements
 max_settlements = 3
-b_barony1232` = tribal
-b_barony1232a = temple
+b_mephaas_prime = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1584 - Province1584
+# 1584 - Talcene
 
 # County Title
-title = c_province1584
+title = c_talcene
 
 # Settlements
 max_settlements = 1
-b_barony1584` = tribal
-b_barony1584a = temple
+b_talcene = tribal
 
 # Misc
 culture = uncultured_swine

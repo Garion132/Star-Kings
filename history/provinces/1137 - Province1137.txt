@@ -1,12 +1,11 @@
-# 1137 - Province1137
+# 1137 - Vinsoth
 
 # County Title
-title = c_province1137
+title = c_vinsoth
 
 # Settlements
 max_settlements = 4
-b_barony1137` = tribal
-b_barony1137a = temple
+b_vinsoth = tribal
 
 # Misc
 culture = uncultured_swine

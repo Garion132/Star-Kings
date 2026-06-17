@@ -170,3 +170,35 @@
 	name="Kryze"
 	culture="core_worlder"
 }
+44={
+	name="Toora"
+	culture="sy_myrtian"
+}
+45={
+	name="Malreaux"
+	culture="core_worlder"
+}
+46={
+	name="Prammi"
+	culture="core_worlder"
+}
+47={
+	name="Lorac"
+	culture="core_worlder"
+}
+48={
+	name="Crion"
+	culture="core_worlder"
+}
+49={
+	name="Omega"
+	culture="core_worlder"
+}
+50={
+	name="Robb"
+	culture="core_worlder"
+}
+51={
+	name="Serenno"
+	culture="core_worlder"
+}

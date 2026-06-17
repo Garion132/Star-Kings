@@ -1,12 +1,11 @@
-# 688 - Province0688
+# 688 - Doldrums
 
 # County Title
-title = c_province0688
+title = c_doldrums
 
 # Settlements
 max_settlements = 3
-b_barony0688` = tribal
-b_barony0688a = temple
+b_doldrums = tribal
 
 # Misc
 culture = uncultured_swine

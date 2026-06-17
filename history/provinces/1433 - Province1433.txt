@@ -1,12 +1,11 @@
-# 1433 - Province1433
+# 1433 - Kromus
 
 # County Title
-title = c_province1433
+title = c_kromus
 
 # Settlements
 max_settlements = 4
-b_barony1433` = tribal
-b_barony1433a = temple
+b_kromus = tribal
 
 # Misc
 culture = uncultured_swine

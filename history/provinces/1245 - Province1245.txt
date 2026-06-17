@@ -1,12 +1,11 @@
-# 1245 - Province1245
+# 1245 - Irmenu
 
 # County Title
-title = c_province1245
+title = c_irmenu
 
 # Settlements
 max_settlements = 2
-b_barony1245` = tribal
-b_barony1245a = temple
+b_irmenu = tribal
 
 # Misc
 culture = uncultured_swine

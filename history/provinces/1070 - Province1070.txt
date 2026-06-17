@@ -1,12 +1,12 @@
-# 1070 - Province1070
+# 1070 - Morseer
 
 # County Title
-title = c_province1070
+title = c_morseer
 
 # Settlements
 max_settlements = 4
-b_barony1070` = tribal
-b_barony1070a = temple
+b_morseer = tribal
+b_morseer = temple
 
 # Misc
 culture = uncultured_swine

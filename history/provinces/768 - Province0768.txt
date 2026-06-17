@@ -1,12 +1,11 @@
-# 768 - Province0768
+# 768 - Kidriff
 
 # County Title
-title = c_province0768
+title = c_kidriff
 
 # Settlements
 max_settlements = 3
-b_barony0768` = tribal
-b_barony0768a = temple
+b_kidriff = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1218 - Province1218
+# 1218 - Harloen
 
 # County Title
-title = c_province1218
+title = c_harloen
 
 # Settlements
 max_settlements = 4
-b_barony1218` = tribal
-b_barony1218a = temple
+b_harloen = tribal
 
 # Misc
 culture = uncultured_swine

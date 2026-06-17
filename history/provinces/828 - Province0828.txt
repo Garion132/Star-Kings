@@ -1,12 +1,11 @@
-# 828 - Province0828
+# 828 - Jazbina
 
 # County Title
-title = c_province0828
+title = c_jazbina
 
 # Settlements
 max_settlements = 3
-b_barony0828` = tribal
-b_barony0828a = temple
+b_jazbina = tribal
 
 # Misc
 culture = uncultured_swine

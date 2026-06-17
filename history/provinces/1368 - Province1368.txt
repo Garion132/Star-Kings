@@ -1,12 +1,11 @@
-# 1368 - Province1368
+# 1368 - Phindar
 
 # County Title
-title = c_province1368
+title = c_phindar
 
 # Settlements
 max_settlements = 4
-b_barony1368` = tribal
-b_barony1368a = temple
+b_phindar = tribal
 
 # Misc
 culture = uncultured_swine
