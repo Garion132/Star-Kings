@@ -1,12 +1,11 @@
-# 1163 - Province1163
+# 1163 - Thustra
 
 # County Title
-title = c_province1163
+title = c_thustra
 
 # Settlements
 max_settlements = 4
-b_barony1163` = tribal
-b_barony1163a = temple
+b_thustra = tribal
 
 # Misc
 culture = uncultured_swine

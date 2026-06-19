@@ -1,12 +1,11 @@
-# 1776 - Province1776
+# 1776 - Kile
 
 # County Title
-title = c_province1776
+title = c_kile
 
 # Settlements
 max_settlements = 2
-b_barony1776` = tribal
-b_barony1776a = temple
+b_kile = tribal
 
 # Misc
 culture = uncultured_swine

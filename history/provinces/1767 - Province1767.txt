@@ -1,12 +1,12 @@
-# 1767 - Province1767
+# 1767 - Pusat Station
 
 # County Title
-title = c_province1767
+title = c_pusat_station
 
 # Settlements
 max_settlements = 5
-b_barony1767` = tribal
-b_barony1767a = temple
+b_pusat_station = tribal
+
 
 # Misc
 culture = uncultured_swine

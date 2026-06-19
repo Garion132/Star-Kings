@@ -1,15 +1,14 @@
-# 98 - Province0098
+# 98 - Alaris
 
 # County Title
-title = c_province0098
+title = c_alaris
 
 # Settlements
 max_settlements = 4
-b_barony0098` = tribal
-b_barony0098a = temple
+b_alaris = tribal
 
 # Misc
-culture = uncultured_swine
+culture = wookiee
 religion = pagan
 
 # History

@@ -445,3 +445,15 @@
 		death=yes
 	}
 }
+2140 = {
+	name = "Bibra"
+	dynasty = 52 #Born
+	religion = pagan
+	culture = core_worlder
+	941.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}

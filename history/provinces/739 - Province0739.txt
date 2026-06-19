@@ -1,12 +1,11 @@
-# 739 - Province0739
+# 739 - Arkania
 
 # County Title
-title = c_province0739
+title = c_arkania
 
 # Settlements
 max_settlements = 3
-b_barony0739` = tribal
-b_barony0739a = temple
+b_arkania = tribal
 
 # Misc
 culture = uncultured_swine

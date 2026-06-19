@@ -1,12 +1,11 @@
-# 1331 - Province1331
+# 1331 - Donovia
 
 # County Title
-title = c_province1331
+title = c_donovia
 
 # Settlements
 max_settlements = 4
-b_barony1331` = tribal
-b_barony1331a = temple
+b_donovia = tribal
 
 # Misc
 culture = uncultured_swine

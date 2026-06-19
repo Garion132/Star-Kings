@@ -541,8 +541,17 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1293;1302;major_river;;-1;-1;-1;-1;Taboon to Ambria
 1267;1250;major_river;;-1;-1;-1;-1;Zeltros to Lorell
 1344;1250;major_river;;-1;-1;-1;-1;Umbara to Lorell
-1258;1250;major_river;;-1;-1;-1;-1;Hapes to Lorell
-1258;1265;major_river;;-1;-1;-1;-1;Hapes to Shedu Maad
+0135;1250;major_river;2267;-1;-1;-1;-1;Andalia to Lorell
+0135;0152;major_river;2267;-1;-1;-1;-1;Andalia to Maires
+0163;0152;major_river;2267;-1;-1;-1;-1;Vergill to Maires
+0163;0177;major_river;2267;-1;-1;-1;-1;Vergill to Relephon
+0163;0202;major_river;2267;-1;-1;-1;-1;Vergill to Febrini
+0205;0202;major_river;2267;-1;-1;-1;-1;Terephon to Febrini
+1258;0177;major_river;2267;-1;-1;-1;-1;Hapes to Relephon
+1258;0202;major_river;2267;-1;-1;-1;-1;Hapes to Febrini
+0205;0227;major_river;2267;-1;-1;-1;-1;Terephon to Nantuker
+0177;0227;major_river;2267;-1;-1;-1;-1;Relephon to Nantuker
+0205;1265;major_river;2267;-1;-1;-1;-1;Terephon to Shedu Maad
 1263;1265;major_river;;-1;-1;-1;-1;Taanab to Shedu Maad
 1411;1441;major_river;;-1;-1;-1;-1;Uyter to Kashyyyk
 1411;1414;major_river;;-1;-1;-1;-1;Uyter to Phaseera
@@ -1327,3 +1336,65 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0927;0974;sea;;-1;-1;-1;-1;Poderis to Chazwa
 0903;0915;sea;;-1;-1;-1;-1;Vurdon Ka to Hijarna
 0805;0869;sea;;-1;-1;-1;-1;Mindor to Mantessa
+0996;1042;sea;;-1;-1;-1;-1;Berchest to Relatta
+1182;1221;sea;;-1;-1;-1;-1;Dalcretti to Pengalan
+1215;1221;sea;;-1;-1;-1;-1;Korda to Pengalan
+1215;1204;sea;;-1;-1;-1;-1;Korda to Paonid
+1305;1309;sea;;-1;-1;-1;-1;Cartao to Von-Alai
+1496;1495;sea;;-1;-1;-1;-1;Jeyell to Gavryn
+1503;1495;sea;;-1;-1;-1;-1;Low'n to Gavryn
+1503;1535;sea;;-1;-1;-1;-1;Low'n to Romin
+1573;1535;sea;;-1;-1;-1;-1;Orleon to Romin
+1407;1390;sea;;-1;-1;-1;-1;Dulathia to Lantillies 
+1338;1401;sea;;-1;-1;-1;-1;Contruum to Azure
+1407;1401;sea;;-1;-1;-1;-1;Dulathia to Azure
+1105;1161;sea;;-1;-1;-1;-1;Levian to Carest
+1158;1128;sea;;-1;-1;-1;-1;Obroa-skai to Asrat
+1073;1128;sea;;-1;-1;-1;-1;Filordis to Asrat
+1011;1128;sea;;-1;-1;-1;-1;Phateem to Asrat
+1011;0963;sea;;-1;-1;-1;-1;Phateem to Dagary Minor
+0987;0963;sea;;-1;-1;-1;-1;Nouane to Dagary Minor
+1011;0987;sea;;-1;-1;-1;-1;Phateem to Nouane
+0951;0987;sea;;-1;-1;-1;-1;Shalam to Nouane
+1045;0987;sea;;-1;-1;-1;-1;Telerath to Nouane
+0951;1045;sea;;-1;-1;-1;-1;Shalam to Telerath
+1105;1132;sea;;-1;-1;-1;-1;Levian to Myrkr
+1140;1132;sea;;-1;-1;-1;-1;Boordii to Myrkr
+1140;1124;sea;;-1;-1;-1;-1;Boordii to Wayland
+1092;1124;sea;;-1;-1;-1;-1;Serroco to Wayland
+1092;1054;sea;;-1;-1;-1;-1;Serroco to Ploo
+1098;1124;sea;;-1;-1;-1;-1;Vulta to Wayland
+1140;1163;sea;;-1;-1;-1;-1;Boordii to Thustra
+1140;1157;sea;;-1;-1;-1;-1;Boordii to Aquaris
+1157;1163;sea;;-1;-1;-1;-1;Aquaris to Thustra
+1098;1200;sea;;-1;-1;-1;-1;Vulta to Geris
+1207;1200;sea;;-1;-1;-1;-1;Surcaris to Geris
+1252;1200;sea;;-1;-1;-1;-1;Concord Dawn to Geris
+1163;1213;sea;;-1;-1;-1;-1;Thustra to Tierfon
+1157;1213;sea;;-1;-1;-1;-1;Aquaris to Tierfon
+1238;1213;sea;;-1;-1;-1;-1;Jendorn to Tierfon
+1207;1213;sea;;-1;-1;-1;-1;Surcaris to Tierfon
+1238;1271;sea;;-1;-1;-1;-1;Jendorn to Alpheridies
+1238;1248;sea;;-1;-1;-1;-1;Jendorn to Thisspias
+1271;1312;sea;;-1;-1;-1;-1;Alpheridies to Venaari
+1233;1248;sea;;-1;-1;-1;-1;Gravan to Thisspias
+1312;1335;sea;;-1;-1;-1;-1;Venaari to Kiva 
+1312;1329;sea;;-1;-1;-1;-1;Venaari to Katarr
+1309;1329;sea;;-1;-1;-1;-1;Von-Alai to Katarr
+1401;1432;sea;;-1;-1;-1;-1;Azure to Velmor
+0098;1441;major_river;;-1;-1;-1;-1;Alaris to Kashyyyk
+0098;1610;major_river;;-1;-1;-1;-1;Alaris to Trandosia
+1485;0129;sea;;-1;-1;-1;-1;Bissillirus to Essowyn
+1602;1607;sea;;-1;-1;-1;-1;Yitabo to Ubrikkia
+1171;1148;sea;;-1;-1;-1;-1;Rasterous to Mokk
+1106;1148;sea;;-1;-1;-1;-1;Dartessex to Mokk
+1106;1119;sea;;-1;-1;-1;-1;Dartessex to Pavo Prime
+1106;1067;sea;;-1;-1;-1;-1;Dartessex to Xobome
+1154;1119;sea;;-1;-1;-1;-1;Telti to Pavo Prime 
+1082;1119;sea;;-1;-1;-1;-1;H'ratth to Pavo Prime 
+1313;1293;sea;;-1;-1;-1;-1;Ithull to Taboon
+1345;1336;sea;;-1;-1;-1;-1;Valgauth to Vena
+1345;1332;sea;;-1;-1;-1;-1;Valgauth to Illoud
+1331;1332;sea;;-1;-1;-1;-1;Donovia to Illoud
+1330;1331;sea;;-1;-1;-1;-1;Pirin to Donovia
+1250;1301;sea;;-1;-1;-1;-1;Lorell to Onderon

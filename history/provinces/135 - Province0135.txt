@@ -1,15 +1,14 @@
-# 135 - Province0135
+# 135 - Andalia
 
 # County Title
-title = c_province0135
+title = c_andalia
 
 # Settlements
 max_settlements = 4
-b_barony0135` = tribal
-b_barony0135a = temple
+b_andalia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

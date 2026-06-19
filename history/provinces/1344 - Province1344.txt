@@ -1,12 +1,11 @@
-# 1344 - Province1344
+# 1344 - Umbara
 
 # County Title
-title = c_province1344
+title = c_umbara
 
 # Settlements
 max_settlements = 1
-b_barony1344` = tribal
-b_barony1344a = temple
+b_umbara = tribal
 
 # Misc
 culture = uncultured_swine

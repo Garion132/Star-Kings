@@ -1,12 +1,11 @@
-# 1390 - Province1390
+# 1390 - Lantillies
 
 # County Title
-title = c_province1390
+title = c_lantillies
 
 # Settlements
 max_settlements = 2
-b_barony1390` = tribal
-b_barony1390a = temple
+b_lantillies = tribal
 
 # Misc
 culture = uncultured_swine

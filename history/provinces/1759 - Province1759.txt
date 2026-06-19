@@ -1,12 +1,11 @@
-# 1759 - Province1759
+# 1759 - Peg Shar
 
 # County Title
-title = c_province1759
+title = c_peg_shar
 
 # Settlements
 max_settlements = 5
-b_barony1759` = tribal
-b_barony1759a = temple
+b_peg_shar = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 1586 - Province1586
+# 1586 - Durkteel
 
 # County Title
-title = c_province1586
+title = c_durkteel
 
 # Settlements
 max_settlements = 4
-b_barony1586` = tribal
-b_barony1586a = temple
+b_durkteel = tribal
 
 # Misc
-culture = uncultured_swine
+culture = saurin
 religion = pagan
 
 # History

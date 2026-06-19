@@ -1,12 +1,11 @@
-# 1401 - Province1401
+# 1401 - Azure
 
 # County Title
-title = c_province1401
+title = c_azure
 
 # Settlements
 max_settlements = 1
-b_barony1401` = tribal
-b_barony1401a = temple
+b_azure = tribal
 
 # Misc
 culture = uncultured_swine

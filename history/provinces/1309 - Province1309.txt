@@ -1,12 +1,11 @@
-# 1309 - Province1309
+# 1309 - Von-Alai
 
 # County Title
-title = c_province1309
+title = c_von_alai
 
 # Settlements
 max_settlements = 4
-b_barony1309` = tribal
-b_barony1309a = temple
+b_von_alai = tribal
 
 # Misc
 culture = uncultured_swine

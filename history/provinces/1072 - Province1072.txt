@@ -1,12 +1,11 @@
-# 1072 - Province1072
+# 1072 - Kroctar
 
 # County Title
-title = c_province1072
+title = c_kroctar
 
 # Settlements
 max_settlements = 4
-b_barony1072` = tribal
-b_barony1072a = temple
+b_kroctar = tribal
 
 # Misc
 culture = uncultured_swine

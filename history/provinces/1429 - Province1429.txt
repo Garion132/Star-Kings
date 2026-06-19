@@ -1,12 +1,11 @@
-# 1429 - Province1429
+# 1429 - Torn Station
 
 # County Title
-title = c_province1429
+title = c_torn_station
 
 # Settlements
 max_settlements = 4
-b_barony1429` = tribal
-b_barony1429a = temple
+b_torn_station = tribal
 
 # Misc
 culture = uncultured_swine

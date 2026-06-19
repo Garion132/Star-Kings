@@ -1,12 +1,11 @@
-# 996 - Province0996
+# 996 - Berchest
 
 # County Title
-title = c_province0996
+title = c_berchest
 
 # Settlements
 max_settlements = 1
-b_barony0996` = tribal
-b_barony0996a = temple
+b_berchest = tribal
 
 # Misc
 culture = uncultured_swine

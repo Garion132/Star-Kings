@@ -1,12 +1,11 @@
-# 1132 - Province1132
+# 1132 - Myrkr
 
 # County Title
-title = c_province1132
+title = c_myrkr
 
 # Settlements
 max_settlements = 4
-b_barony1132` = tribal
-b_barony1132a = temple
+b_myrkr = tribal
 
 # Misc
 culture = uncultured_swine

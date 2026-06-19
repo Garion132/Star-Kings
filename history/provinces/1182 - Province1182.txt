@@ -1,11 +1,11 @@
-# 1182 - Province1182
+# 1182 - Dalcretti
 
 # County Title
-title = c_province1182
+title = c_dalcretti
 
 # Settlements
 max_settlements = 1
-b_barony1182` = tribal
+b_dalcretti = tribal
 
 # Misc
 culture = uncultured_swine

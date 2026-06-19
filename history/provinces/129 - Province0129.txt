@@ -1,12 +1,11 @@
-# 129 - Province0129
+# 129 - Essowyn
 
 # County Title
-title = c_province0129
+title = c_essowyn
 
 # Settlements
 max_settlements = 4
-b_barony0129` = tribal
-b_barony0129a = temple
+b_essowyn = tribal
 
 # Misc
 culture = uncultured_swine

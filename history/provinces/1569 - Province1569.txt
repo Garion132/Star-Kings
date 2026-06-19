@@ -1,12 +1,11 @@
-# 1569 - Province1569
+# 1569 - Balamak
 
 # County Title
-title = c_province1569
+title = c_balamak
 
 # Settlements
 max_settlements = 4
-b_barony1569` = tribal
-b_barony1569a = temple
+b_balamak = tribal
 
 # Misc
 culture = uncultured_swine

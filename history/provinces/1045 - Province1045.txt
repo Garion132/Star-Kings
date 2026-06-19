@@ -1,12 +1,11 @@
-# 1045 - Province1045
+# 1045 - Telerath
 
 # County Title
-title = c_province1045
+title = c_telerath
 
 # Settlements
 max_settlements = 1
-b_barony1045` = tribal
-b_barony1045a = temple
+b_telerath = tribal
 
 # Misc
 culture = uncultured_swine

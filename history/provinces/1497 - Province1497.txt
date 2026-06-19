@@ -1,12 +1,11 @@
-# 1497 - Province1497
+# 1497 - Ota
 
 # County Title
-title = c_province1497
+title = c_ota
 
 # Settlements
 max_settlements = 4
-b_barony1497` = tribal
-b_barony1497a = temple
+b_ota = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1407 - Province1407
+# 1407 - Dulathia
 
 # County Title
-title = c_province1407
+title = c_dulathia
 
 # Settlements
 max_settlements = 3
-b_barony1407` = tribal
-b_barony1407a = temple
+b_dulathia = tribal
 
 # Misc
 culture = uncultured_swine

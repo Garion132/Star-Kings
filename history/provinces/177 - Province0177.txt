@@ -1,15 +1,14 @@
-# 177 - Province0177
+# 177 - Relephon
 
 # County Title
-title = c_province0177
+title = c_relephon
 
 # Settlements
 max_settlements = 7
-b_barony0177` = tribal
-b_barony0177a = temple
+b_relephon = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

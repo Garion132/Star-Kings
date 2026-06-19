@@ -1,12 +1,11 @@
-# 1345 - Province1345
+# 1345 - Valgauth
 
 # County Title
-title = c_province1345
+title = c_valgauth
 
 # Settlements
 max_settlements = 2
-b_barony1345` = tribal
-b_barony1345a = temple
+b_valgauth = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1157 - Province1157
+# 1157 - Aquaris
 
 # County Title
-title = c_province1157
+title = c_aquaris
 
 # Settlements
 max_settlements = 4
-b_barony1157` = tribal
-b_barony1157a = temple
+b_aquaris = tribal
 
 # Misc
 culture = uncultured_swine

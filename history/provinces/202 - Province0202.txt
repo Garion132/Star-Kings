@@ -1,15 +1,14 @@
-# 202 - Province0202
+# 202 - Febrini
 
 # County Title
-title = c_province0202
+title = c_febrini
 
 # Settlements
 max_settlements = 1
-b_barony0202` = tribal
-b_barony0202a = temple
+b_febrini = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

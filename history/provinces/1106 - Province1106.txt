@@ -1,12 +1,11 @@
-# 1106 - Province1106
+# 1106 - Dartessex
 
 # County Title
-title = c_province1106
+title = c_dartessex
 
 # Settlements
 max_settlements = 1
-b_barony1106` = tribal
-b_barony1106a = temple
+b_dartessex = tribal
 
 # Misc
 culture = uncultured_swine

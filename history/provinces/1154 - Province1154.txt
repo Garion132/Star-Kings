@@ -1,12 +1,11 @@
-# 1154 - Province1154
+# 1154 - Telti
 
 # County Title
-title = c_province1154
+title = c_telti
 
 # Settlements
 max_settlements = 3
-b_barony1154` = tribal
-b_barony1154a = temple
+b_telti = tribal
 
 # Misc
 culture = uncultured_swine

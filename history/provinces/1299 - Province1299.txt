@@ -1,12 +1,11 @@
-# 1299 - Province1299
+# 1299 - Virujansi
 
 # County Title
-title = c_province1299
+title = c_virujansi
 
 # Settlements
 max_settlements = 1
-b_barony1299` = tribal
-b_barony1299a = temple
+b_virujansi = tribal
 
 # Misc
 culture = uncultured_swine

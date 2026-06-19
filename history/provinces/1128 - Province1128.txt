@@ -1,12 +1,11 @@
-# 1128 - Province1128
+# 1128 - Asrat
 
 # County Title
-title = c_province1128
+title = c_asrat
 
 # Settlements
 max_settlements = 4
-b_barony1128` = tribal
-b_barony1128a = temple
+b_asrat = tribal
 
 # Misc
 culture = uncultured_swine

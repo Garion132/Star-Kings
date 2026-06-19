@@ -1,12 +1,11 @@
-# 1092 - Province1092
+# 1092 - Serroco
 
 # County Title
-title = c_province1092
+title = c_serroco
 
 # Settlements
 max_settlements = 4
-b_barony1092` = tribal
-b_barony1092a = temple
+b_serroco = tribal
 
 # Misc
 culture = uncultured_swine

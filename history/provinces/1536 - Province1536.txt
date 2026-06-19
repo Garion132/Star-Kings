@@ -1,12 +1,11 @@
-# 1536 - Province1536
+# 1536 - Uogo'cor
 
 # County Title
-title = c_province1536
+title = c_uogo_cor
 
 # Settlements
 max_settlements = 4
-b_barony1536` = tribal
-b_barony1536a = temple
+b_uogo_cor = tribal
 
 # Misc
 culture = uncultured_swine

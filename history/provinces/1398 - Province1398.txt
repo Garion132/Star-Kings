@@ -1,12 +1,11 @@
-# 1398 - Province1398
+# 1398 - Quas Killam
 
 # County Title
-title = c_province1398
+title = c_quas_killam
 
 # Settlements
 max_settlements = 4
-b_barony1398` = tribal
-b_barony1398a = temple
+b_quas_killam = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1221 - Province1221
+# 1221 - Pengalan
 
 # County Title
-title = c_province1221
+title = c_pengalan
 
 # Settlements
 max_settlements = 2
-b_barony1221` = tribal
-b_barony1221a = temple
+b_pengalan = tribal
 
 # Misc
 culture = uncultured_swine

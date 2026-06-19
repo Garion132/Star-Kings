@@ -1,12 +1,11 @@
-# 1446 - Province1446
+# 1446 - Tholatin
 
 # County Title
-title = c_province1446
+title = c_tholatin
 
 # Settlements
 max_settlements = 2
-b_barony1446` = tribal
-b_barony1446a = temple
+b_tholatin = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_sumitra_sector
+}
+793.1.1 = {
+	holder = 10050
+}

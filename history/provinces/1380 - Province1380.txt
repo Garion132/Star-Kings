@@ -1,12 +1,11 @@
-# 1380 - Province1380
+# 1380 - Nazzri
 
 # County Title
-title = c_province1380
+title = c_nazzri
 
 # Settlements
 max_settlements = 4
-b_barony1380` = tribal
-b_barony1380a = temple
+b_nazzri = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 227 - Province0227
+# 227 - Nantuker
 
 # County Title
-title = c_province0227
+title = c_nantuker
 
 # Settlements
 max_settlements = 3
-b_barony0227` = tribal
-b_barony0227a = temple
+b_nantuker = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

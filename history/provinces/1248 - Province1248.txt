@@ -1,12 +1,11 @@
-# 1248 - Province1248
+# 1248 - Thisspias
 
 # County Title
-title = c_province1248
+title = c_thisspias
 
 # Settlements
 max_settlements = 1
-b_barony1248` = tribal
-b_barony1248a = temple
+b_thisspias = tribal
 
 # Misc
 culture = uncultured_swine

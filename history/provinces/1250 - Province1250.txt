@@ -1,12 +1,11 @@
-# 1250 - Province1250
+# 1250 - Lorell
 
 # County Title
-title = c_province1250
+title = c_lorell
 
 # Settlements
 max_settlements = 4
-b_barony1250` = tribal
-b_barony1250a = temple
+b_lorell = tribal
 
 # Misc
 culture = uncultured_swine

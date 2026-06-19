@@ -1,12 +1,11 @@
-# 1443 - Province1443
+# 1443 - Togoria
 
 # County Title
-title = c_province1443
+title = c_togoria
 
 # Settlements
 max_settlements = 4
-b_barony1443` = tribal
-b_barony1443a = temple
+b_togoria = tribal
 
 # Misc
 culture = uncultured_swine

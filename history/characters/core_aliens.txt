@@ -72,3 +72,52 @@
 		death=yes
 	}
 }
+10050 = {
+	name= "Alaric" #
+	dynasty = 53 #Thustra
+	religion = pagan
+	culture = sephi
+	710.1.1={
+		birth=yes
+	}
+	978.1.1={
+		death=yes
+	}
+}
+10060 = {
+	name= "Grakchawwaa" #
+	dynasty = 54 #Grakchawwaa
+	religion = pagan
+	culture = wookiee
+	710.1.1={
+		birth=yes
+	}
+	1070.1.1={
+		death=yes
+	}
+}
+10061 = {
+	name= "Rikummee" #
+	dynasty = 54 #Grakchawwaa
+	religion = pagan
+	culture = wookiee
+	father = 10060
+	920.1.1={
+		birth=yes
+	}
+	979.1.1={
+		death=yes
+	}
+}
+10070 = {
+	name= "Hadocrassk" #
+	#dynasty = 54 #Grakchawwaa
+	religion = pagan
+	culture = trandosian
+	941.1.1={
+		birth=yes
+	}
+	1010.1.1={
+		death=yes
+	}
+}

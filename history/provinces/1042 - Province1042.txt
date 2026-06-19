@@ -1,12 +1,11 @@
-# 1042 - Province1042
+# 1042 - Relatta
 
 # County Title
-title = c_province1042
+title = c_relatta
 
 # Settlements
 max_settlements = 2
-b_barony1042` = tribal
-b_barony1042a = temple
+b_relatta = tribal
 
 # Misc
 culture = uncultured_swine

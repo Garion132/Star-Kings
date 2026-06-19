@@ -202,3 +202,47 @@
 	name="Serenno"
 	culture="core_worlder"
 }
+52={
+	name="Born"
+	culture="core_worlder"
+}
+53={
+	name="Thustra"
+	culture="core_worlder"
+}
+54={
+	name="Grakchawwaa"
+	culture="core_worlder"
+}
+55={
+	name="Chume"
+	culture="hapan"
+}
+56={
+	name="AlGray"
+	culture="hapan"
+}
+57={
+	name="Requud"
+	culture="hapan"
+}
+58={
+	name="Galney"
+	culture="hapan"
+}
+59={
+	name="Thane"
+	culture="hapan"
+}
+60={
+	name="Dendup"
+	culture="core_worlder"
+}
+61={
+	name="Kira"
+	culture="core_worlder"
+}
+62={
+	name="Rash"
+	culture="core_worlder"
+}

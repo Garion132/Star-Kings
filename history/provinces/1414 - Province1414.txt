@@ -1,12 +1,11 @@
-# 1414 - Province1414
+# 1414 - Phaseera
 
 # County Title
-title = c_province1414
+title = c_phaseera
 
 # Settlements
 max_settlements = 1
-b_barony1414` = tribal
-b_barony1414a = temple
+b_phaseera = tribal
 
 # Misc
 culture = uncultured_swine

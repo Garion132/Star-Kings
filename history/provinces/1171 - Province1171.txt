@@ -1,12 +1,11 @@
-# 1171 - Province1171
+# 1171 - Rasterous
 
 # County Title
-title = c_province1171
+title = c_rasterous
 
 # Settlements
 max_settlements = 4
-b_barony1171` = tribal
-b_barony1171a = temple
+b_rasterous = tribal
 
 # Misc
 culture = uncultured_swine

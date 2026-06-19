@@ -1,12 +1,11 @@
-# 1555 - Province1555
+# 1555 - Blimph
 
 # County Title
-title = c_province1555
+title = c_blimph
 
 # Settlements
 max_settlements = 4
-b_barony1555` = tribal
-b_barony1555a = temple
+b_blimph = tribal
 
 # Misc
 culture = uncultured_swine

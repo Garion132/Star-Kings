@@ -1,11 +1,11 @@
-# 1535 - Province1535
+# 1535 - Romin
 
 # County Title
-title = c_province1535
+title = c_romin
 
 # Settlements
 max_settlements = 1
-b_barony1535` = tribal
+b_romin = tribal
 
 # Misc
 culture = uncultured_swine

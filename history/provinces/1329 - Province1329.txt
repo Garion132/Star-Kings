@@ -1,12 +1,11 @@
-# 1329 - Province1329
+# 1329 - Katarr
 
 # County Title
-title = c_province1329
+title = c_katarr
 
 # Settlements
 max_settlements = 4
-b_barony1329` = tribal
-b_barony1329a = temple
+b_katarr = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1148 - Province1148
+# 1148 - Mokk
 
 # County Title
-title = c_province1148
+title = c_mokk
 
 # Settlements
 max_settlements = 4
-b_barony1148` = tribal
-b_barony1148a = temple
+b_mokk = tribal
 
 # Misc
 culture = uncultured_swine

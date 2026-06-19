@@ -1,12 +1,11 @@
-# 1627 - Province1627
+# 1627 - Charros
 
 # County Title
-title = c_province1627
+title = c_charros
 
 # Settlements
 max_settlements = 3
-b_barony1627` = tribal
-b_barony1627a = temple
+b_charros = tribal
 
 # Misc
 culture = uncultured_swine

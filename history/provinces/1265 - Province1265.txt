@@ -1,15 +1,14 @@
-# 1265 - Province1265
+# 1265 - Shedu Maad
 
 # County Title
-title = c_province1265
+title = c_shedu_maad
 
 # Settlements
 max_settlements = 3
-b_barony1265` = tribal
-b_barony1265a = temple
+b_shedu_maad = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 1526 - Province1526
+# 1526 - Deysum
 
 # County Title
-title = c_province1526
+title = c_deysum
 
 # Settlements
 max_settlements = 4
-b_barony1526` = tribal
-b_barony1526a = temple
+b_deysum = tribal
 
 # Misc
 culture = uncultured_swine

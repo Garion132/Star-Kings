@@ -1,12 +1,11 @@
-# 1514 - Province1514
+# 1514 - Randon
 
 # County Title
-title = c_province1514
+title = c_randon
 
 # Settlements
 max_settlements = 4
-b_barony1514` = tribal
-b_barony1514a = temple
+b_brandon = tribal
 
 # Misc
 culture = uncultured_swine

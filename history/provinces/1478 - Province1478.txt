@@ -1,12 +1,11 @@
-# 1478 - Province1478
+# 1478 - Rorgam
 
 # County Title
-title = c_province1478
+title = c_rorgam
 
 # Settlements
 max_settlements = 4
-b_barony1478` = tribal
-b_barony1478a = temple
+b_rorgam = tribal
 
 # Misc
 culture = uncultured_swine

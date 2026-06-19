@@ -1,12 +1,11 @@
-# 1332 - Province1332
+# 1332 - Illoud
 
 # County Title
-title = c_province1332
+title = c_illoud
 
 # Settlements
 max_settlements = 4
-b_barony1332` = tribal
-b_barony1332a = temple
+b_illoud = tribal
 
 # Misc
 culture = uncultured_swine

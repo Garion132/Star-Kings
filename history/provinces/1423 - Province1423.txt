@@ -1,12 +1,11 @@
-# 1423 - Province1423
+# 1423 - New Apsolon
 
 # County Title
-title = c_province1423
+title = c_new_apsolon
 
 # Settlements
 max_settlements = 4
-b_barony1423` = tribal
-b_barony1423a = temple
+b_new_apsolon = tribal
 
 # Misc
 culture = uncultured_swine

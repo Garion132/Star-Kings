@@ -1,12 +1,11 @@
-# 727 - Province0727
+# 727 - Kluistar
 
 # County Title
-title = c_province0727
+title = c_kluistar
 
 # Settlements
 max_settlements = 3
-b_barony0727` = tribal
-b_barony0727a = temple
+b_kluistar = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 1610 - Province1610
+# 1610 - Trandosha
 
 # County Title
-title = c_province1610
+title = c_trandosha
 
 # Settlements
 max_settlements = 4
-b_barony1610` = tribal
-b_barony1610a = temple
+b_trandosha = tribal
 
 # Misc
-culture = uncultured_swine
+culture = trandosian
 religion = pagan
 
 # History

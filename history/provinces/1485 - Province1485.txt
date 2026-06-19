@@ -1,12 +1,11 @@
-# 1485 - Province1485
+# 1485 - Bissillirus
 
 # County Title
-title = c_province1485
+title = c_bissillirus
 
 # Settlements
 max_settlements = 4
-b_barony1485` = tribal
-b_barony1485a = temple
+b_bissillirus = tribal
 
 # Misc
 culture = uncultured_swine

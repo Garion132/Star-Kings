@@ -1,0 +1,16 @@
+1.1.1={
+	liege = k_hapes_consortium
+	law = enatic_succession
+}
+962.1.1={
+	holder = 51340
+}
+997.1.1={
+	holder = 51341
+}
+1036.1.1={
+	holder = 51344
+}
+1041.1.1={
+	holder = 51345
+}

@@ -1,12 +1,11 @@
-# 1294 - Province1294
+# 1294 - Merson
 
 # County Title
-title = c_province1294
+title = c_merson
 
 # Settlements
 max_settlements = 1
-b_barony1294` = tribal
-b_barony1294a = temple
+b_merson = tribal
 
 # Misc
 culture = uncultured_swine

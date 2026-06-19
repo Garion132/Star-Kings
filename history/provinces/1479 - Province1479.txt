@@ -1,12 +1,11 @@
-# 1479 - Province1479
+# 1479 - Coachelle
 
 # County Title
-title = c_province1479
+title = c_coachelle
 
 # Settlements
 max_settlements = 1
-b_barony1479` = tribal
-b_barony1479a = temple
+b_coachelle = tribal
 
 # Misc
 culture = uncultured_swine

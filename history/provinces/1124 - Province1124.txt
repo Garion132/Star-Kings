@@ -1,12 +1,11 @@
-# 1124 - Province1124
+# 1124 - Wayland
 
 # County Title
-title = c_province1124
+title = c_wayland
 
 # Settlements
 max_settlements = 4
-b_barony1124` = tribal
-b_barony1124a = temple
+b_wayland = tribal
 
 # Misc
 culture = uncultured_swine

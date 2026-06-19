@@ -1,12 +1,11 @@
-# 1110 - Province1110
+# 1110 - Tirahnn
 
 # County Title
-title = c_province1110
+title = c_tirahnn
 
 # Settlements
 max_settlements = 4
-b_barony1110` = tribal
-b_barony1110a = temple
+b_tirahnn = tribal
 
 # Misc
 culture = uncultured_swine

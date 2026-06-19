@@ -1,12 +1,11 @@
-# 1727 - Province1727
+# 1727 - Bimmisaari
 
 # County Title
-title = c_province1727
+title = c_bimmisaari
 
 # Settlements
 max_settlements = 5
-b_barony1727` = tribal
-b_barony1727a = temple
+b_bimmisaari = tribal
 
 # Misc
 culture = uncultured_swine

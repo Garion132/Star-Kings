@@ -1,12 +1,11 @@
-# 1520 - Province1520
+# 1520 - Lexrul
 
 # County Title
-title = c_province1520
+title = c_lexrul
 
 # Settlements
 max_settlements = 4
-b_barony1520` = tribal
-b_barony1520a = temple
+b_lexrul = tribal
 
 # Misc
 culture = uncultured_swine

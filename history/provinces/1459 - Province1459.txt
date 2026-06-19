@@ -1,12 +1,11 @@
-# 1459 - Province1459
+# 1459 - Terr'skiar
 
 # County Title
-title = c_province1459
+title = c_terr_skiar
 
 # Settlements
 max_settlements = 4
-b_barony1459` = tribal
-b_barony1459a = temple
+b_terr_skiar = tribal
 
 # Misc
 culture = uncultured_swine

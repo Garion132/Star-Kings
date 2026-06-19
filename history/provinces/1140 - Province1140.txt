@@ -1,12 +1,11 @@
-# 1140 - Province1140
+# 1140 - Boordii
 
 # County Title
-title = c_province1140
+title = c_boordii
 
 # Settlements
 max_settlements = 4
-b_barony1140` = tribal
-b_barony1140a = temple
+b_boordii = tribal
 
 # Misc
 culture = uncultured_swine

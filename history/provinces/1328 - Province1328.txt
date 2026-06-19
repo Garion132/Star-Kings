@@ -1,12 +1,11 @@
-# 1328 - Province1328
+# 1328 - Porus Vida
 
 # County Title
-title = c_province1328
+title = c_porus_vida
 
 # Settlements
 max_settlements = 4
-b_barony1328` = tribal
-b_barony1328a = temple
+b_porus_vida = tribal
 
 # Misc
 culture = uncultured_swine

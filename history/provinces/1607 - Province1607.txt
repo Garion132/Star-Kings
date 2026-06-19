@@ -1,12 +1,11 @@
-# 1607 - Province1607
+# 1607 - Ubrikkia
 
 # County Title
-title = c_province1607
+title = c_ubrikkia
 
 # Settlements
 max_settlements = 4
-b_barony1607` = tribal
-b_barony1607a = temple
+b_ubrikkia = tribal
 
 # Misc
 culture = uncultured_swine

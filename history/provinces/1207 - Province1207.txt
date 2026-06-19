@@ -1,12 +1,11 @@
-# 1207 - Province1207
+# 1207 - Surcaris
 
 # County Title
-title = c_province1207
+title = c_surcaris
 
 # Settlements
 max_settlements = 3
-b_barony1207` = tribal
-b_barony1207a = temple
+b_surcaris = tribal
 
 # Misc
 culture = uncultured_swine

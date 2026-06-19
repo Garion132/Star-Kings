@@ -1,12 +1,11 @@
-# 1330 - Province1330
+# 1330 - Pirin
 
 # County Title
-title = c_province1330
+title = c_pirin
 
 # Settlements
 max_settlements = 4
-b_barony1330` = tribal
-b_barony1330a = temple
+b_pirin = tribal
 
 # Misc
 culture = uncultured_swine

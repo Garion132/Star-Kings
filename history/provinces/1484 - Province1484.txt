@@ -1,12 +1,11 @@
-# 1484 - Province1484
+# 1484 - Chamble
 
 # County Title
-title = c_province1484
+title = c_chamble
 
 # Settlements
 max_settlements = 4
-b_barony1484` = tribal
-b_barony1484a = temple
+b_chamble = tribal
 
 # Misc
 culture = uncultured_swine

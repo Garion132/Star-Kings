@@ -1,12 +1,11 @@
-# 1307 - Province1307
+# 1307 - Sermeria
 
 # County Title
-title = c_province1307
+title = c_sermeria
 
 # Settlements
 max_settlements = 4
-b_barony1307` = tribal
-b_barony1307a = temple
+b_sermeria = tribal
 
 # Misc
 culture = uncultured_swine

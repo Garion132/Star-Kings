@@ -1,12 +1,11 @@
-# 1105 - Province1105
+# 1105 - Levian
 
 # County Title
-title = c_province1105
+title = c_levian
 
 # Settlements
 max_settlements = 1
-b_barony1105` = tribal
-b_barony1105a = temple
+b_levian = tribal
 
 # Misc
 culture = uncultured_swine

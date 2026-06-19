@@ -1,12 +1,11 @@
-# 1565 - Province1565
+# 1565 - Sneeve
 
 # County Title
-title = c_province1565
+title = c_sneeve
 
 # Settlements
 max_settlements = 4
-b_barony1565` = tribal
-b_barony1565a = temple
+b_sneeve = tribal
 
 # Misc
 culture = uncultured_swine

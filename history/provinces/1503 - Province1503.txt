@@ -1,12 +1,11 @@
-# 1503 - Province1503
+# 1503 - Low'n
 
 # County Title
-title = c_province1503
+title = c_low_n
 
 # Settlements
 max_settlements = 4
-b_barony1503` = tribal
-b_barony1503a = temple
+b_low_n = tribal
 
 # Misc
 culture = uncultured_swine

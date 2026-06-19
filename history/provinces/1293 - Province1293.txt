@@ -1,12 +1,11 @@
-# 1293 - Province1293
+# 1293 - Taboon
 
 # County Title
-title = c_province1293
+title = c_taboon
 
 # Settlements
 max_settlements = 4
-b_barony1293` = tribal
-b_barony1293a = temple
+b_taboon = tribal
 
 # Misc
 culture = uncultured_swine

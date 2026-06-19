@@ -1,11 +1,11 @@
-# 963 - Province0963
+# 963 - Dagary Minor
 
 # County Title
-title = c_province0963
+title = c_dagary_minor
 
 # Settlements
 max_settlements = 1
-b_barony0963` = tribal
+b_dagary_minor = tribal
 
 # Misc
 culture = uncultured_swine

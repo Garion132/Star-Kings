@@ -1,12 +1,11 @@
-# 1301 - Province1301
+# 1301 - Onderon
 
 # County Title
-title = c_province1301
+title = c_onderon
 
 # Settlements
 max_settlements = 4
-b_barony1301` = tribal
-b_barony1301a = temple
+b_onderon = tribal
 
 # Misc
 culture = uncultured_swine

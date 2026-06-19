@@ -1,15 +1,14 @@
-# 1513 - Province1513
+# 1513 - Kwookrr
 
 # County Title
-title = c_province1513
+title = c_kwookrr
 
 # Settlements
 max_settlements = 4
-b_barony1513` = tribal
-b_barony1513a = temple
+b_kwookrr = tribal
 
 # Misc
-culture = uncultured_swine
+culture = wookiee
 religion = pagan
 
 # History

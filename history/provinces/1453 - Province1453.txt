@@ -1,12 +1,11 @@
-# 1453 - Province1453
+# 1453 - Mytaranor
 
 # County Title
-title = c_province1453
+title = c_mytaranor
 
 # Settlements
 max_settlements = 4
-b_barony1453` = tribal
-b_barony1453a = temple
+b_mytaranor = tribal
 
 # Misc
 culture = uncultured_swine

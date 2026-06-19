@@ -1,15 +1,14 @@
-# 152 - Province0152
+# 152 - Maires
 
 # County Title
-title = c_province0152
+title = c_maires
 
 # Settlements
 max_settlements = 5
-b_barony0152` = tribal
-b_barony0152a = temple
+b_maires = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

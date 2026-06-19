@@ -1,12 +1,11 @@
-# 1213 - Province1213
+# 1213 - Tierfon
 
 # County Title
-title = c_province1213
+title = c_tierfon
 
 # Settlements
 max_settlements = 4
-b_barony1213` = tribal
-b_barony1213a = temple
+b_tierfon = tribal
 
 # Misc
 culture = uncultured_swine

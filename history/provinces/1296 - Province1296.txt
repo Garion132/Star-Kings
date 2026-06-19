@@ -1,12 +1,11 @@
-# 1296 - Province1296
+# 1296 - Carcel
 
 # County Title
-title = c_province1296
+title = c_carcel
 
 # Settlements
 max_settlements = 4
-b_barony1296` = tribal
-b_barony1296a = temple
+b_carcel = tribal
 
 # Misc
 culture = uncultured_swine

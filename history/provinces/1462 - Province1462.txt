@@ -1,12 +1,11 @@
-# 1462 - Province1462
+# 1462 - Rearqu 10
 
 # County Title
-title = c_province1462
+title = c_rearqu_10
 
 # Settlements
 max_settlements = 4
-b_barony1462` = tribal
-b_barony1462a = temple
+b_rearqu_10 = tribal
 
 # Misc
 culture = uncultured_swine

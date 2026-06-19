@@ -1,12 +1,11 @@
-# 1360 - Province1360
+# 1360 - Gizer
 
 # County Title
-title = c_province1360
+title = c_gizer
 
 # Settlements
 max_settlements = 4
-b_barony1360` = tribal
-b_barony1360a = temple
+b_gizer = tribal
 
 # Misc
 culture = uncultured_swine

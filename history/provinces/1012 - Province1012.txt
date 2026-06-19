@@ -1,12 +1,11 @@
-# 1012 - Province1012
+# 1012 - Comkin
 
 # County Title
-title = c_province1012
+title = c_comkin
 
 # Settlements
 max_settlements = 3
-b_barony1012` = tribal
-b_barony1012a = temple
+b_comkin = tribal
 
 # Misc
 culture = uncultured_swine

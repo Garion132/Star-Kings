@@ -1,12 +1,11 @@
-# 1011 - Province1011
+# 1011 - Phateem
 
 # County Title
-title = c_province1011
+title = c_phateem
 
 # Settlements
 max_settlements = 3
-b_barony1011` = tribal
-b_barony1011a = temple
+b_phateem = tribal
 
 # Misc
 culture = uncultured_swine

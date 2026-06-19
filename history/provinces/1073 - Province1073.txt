@@ -1,12 +1,11 @@
-# 1073 - Province1073
+# 1073 - Filordis
 
 # County Title
-title = c_province1073
+title = c_filordis
 
 # Settlements
 max_settlements = 4
-b_barony1073` = tribal
-b_barony1073a = temple
+b_filordis = tribal
 
 # Misc
 culture = uncultured_swine

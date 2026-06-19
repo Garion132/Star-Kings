@@ -1,12 +1,11 @@
-# 1161 - Province1161
+# 1161 - Carest
 
 # County Title
-title = c_province1161
+title = c_carest
 
 # Settlements
 max_settlements = 4
-b_barony1161` = tribal
-b_barony1161a = temple
+b_carest = tribal
 
 # Misc
 culture = uncultured_swine

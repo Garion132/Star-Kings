@@ -1,15 +1,14 @@
-# 205 - Province0205
+# 205 - Terephon
 
 # County Title
-title = c_province0205
+title = c_terephon
 
 # Settlements
 max_settlements = 3
-b_barony0205` = tribal
-b_barony0205a = temple
+b_terephon = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

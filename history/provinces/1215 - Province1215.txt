@@ -1,12 +1,11 @@
-# 1215 - Province1215
+# 1215 - Korda
 
 # County Title
-title = c_province1215
+title = c_korda
 
 # Settlements
 max_settlements = 4
-b_barony1215` = tribal
-b_barony1215a = temple
+b_korda = tribal
 
 # Misc
 culture = uncultured_swine

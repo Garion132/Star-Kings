@@ -1,12 +1,11 @@
-# 1495 - Province1495
+# 1495 - Gavryn
 
 # County Title
-title = c_province1495
+title = c_gavryn
 
 # Settlements
 max_settlements = 4
-b_barony1495` = tribal
-b_barony1495a = temple
+b_gavryn = tribal
 
 # Misc
 culture = uncultured_swine

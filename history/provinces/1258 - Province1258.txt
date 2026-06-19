@@ -1,15 +1,14 @@
-# 1258 - Province1258
+# 1258 - Hapes
 
 # County Title
-title = c_province1258
+title = c_hapes
 
 # Settlements
 max_settlements = 4
-b_barony1258` = tribal
-b_barony1258a = temple
+b_hapes = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hapan
 religion = pagan
 
 # History

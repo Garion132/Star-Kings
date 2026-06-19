@@ -1,12 +1,11 @@
-# 1305 - Province1305
+# 1305 - Cartao
 
 # County Title
-title = c_province1305
+title = c_cartao
 
 # Settlements
 max_settlements = 4
-b_barony1305` = tribal
-b_barony1305a = temple
+b_cartao = tribal
 
 # Misc
 culture = uncultured_swine

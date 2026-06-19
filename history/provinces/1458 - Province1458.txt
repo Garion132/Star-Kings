@@ -1,12 +1,11 @@
-# 1458 - Province1458
+# 1458 - Pizilis
 
 # County Title
-title = c_province1458
+title = c_pizilis
 
 # Settlements
 max_settlements = 4
-b_barony1458` = tribal
-b_barony1458a = temple
+b_pizilis = tribal
 
 # Misc
 culture = uncultured_swine

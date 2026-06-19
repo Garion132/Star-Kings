@@ -1,15 +1,14 @@
-# 1467 - Province1467
+# 1467 - Rakhuuun
 
 # County Title
-title = c_province1467
+title = c_rakhuuun
 
 # Settlements
 max_settlements = 4
-b_barony1467` = tribal
-b_barony1467a = temple
+b_rakhuuun = tribal
 
 # Misc
-culture = uncultured_swine
+culture = wookiee
 religion = pagan
 
 # History

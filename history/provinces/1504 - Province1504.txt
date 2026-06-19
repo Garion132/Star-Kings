@@ -1,12 +1,11 @@
-# 1504 - Province1504
+# 1504 - Messert
 
 # County Title
-title = c_province1504
+title = c_messert
 
 # Settlements
 max_settlements = 4
-b_barony1504` = tribal
-b_barony1504a = temple
+b_messert = tribal
 
 # Misc
 culture = uncultured_swine

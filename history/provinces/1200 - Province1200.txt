@@ -1,12 +1,11 @@
-# 1200 - Province1200
+# 1200 - Geris
 
 # County Title
-title = c_province1200
+title = c_geris
 
 # Settlements
 max_settlements = 4
-b_barony1200` = tribal
-b_barony1200a = temple
+b_geris = tribal
 
 # Misc
 culture = uncultured_swine

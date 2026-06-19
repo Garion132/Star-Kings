@@ -1,12 +1,11 @@
-# 987 - Province0987
+# 987 - Nouane
 
 # County Title
-title = c_province0987
+title = c_nouane
 
 # Settlements
 max_settlements = 3
-b_barony0987` = tribal
-b_barony0987a = temple
+b_nouane = tribal
 
 # Misc
 culture = uncultured_swine

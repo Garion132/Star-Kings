@@ -1,12 +1,11 @@
-# 1267 - Province1267
+# 1267 - Zeltros
 
 # County Title
-title = c_province1267
+title = c_zeltros
 
 # Settlements
 max_settlements = 4
-b_barony1267` = tribal
-b_barony1267a = temple
+b_zeltros = tribal
 
 # Misc
 culture = uncultured_swine

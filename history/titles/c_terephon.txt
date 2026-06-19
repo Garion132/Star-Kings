@@ -1,0 +1,4 @@
+1.1.1={
+	liege = k_hapes_consortium
+	law = enatic_succession
+}

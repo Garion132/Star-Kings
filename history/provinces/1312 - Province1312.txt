@@ -1,12 +1,11 @@
-# 1312 - Province1312
+# 1312 - Venaari
 
 # County Title
-title = c_province1312
+title = c_venaari
 
 # Settlements
 max_settlements = 4
-b_barony1312` = tribal
-b_barony1312a = temple
+b_venaari = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 719 - Province0719
+# 719 - Kiribi
 
 # County Title
-title = c_province0719
+title = c_kiribi
 
 # Settlements
 max_settlements = 3
-b_barony0719` = tribal
-b_barony0719a = temple
+b_kiribi = tribal
 
 # Misc
 culture = uncultured_swine

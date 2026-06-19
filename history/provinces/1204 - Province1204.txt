@@ -1,12 +1,11 @@
-# 1204 - Province1204
+# 1204 - Paonid
 
 # County Title
-title = c_province1204
+title = c_paonid
 
 # Settlements
 max_settlements = 1
-b_barony1204` = tribal
-b_barony1204a = temple
+b_paonid = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,0 +1,6 @@
+1.1.1={
+	liege = d_mytaranor_sector
+}
+900.1.1= {
+	holder = 10060
+}
