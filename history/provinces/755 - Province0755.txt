@@ -1,12 +1,11 @@
-# 755 - Province0755
+# 755 - Hakassi
 
 # County Title
-title = c_province0755
+title = c_hakassi
 
 # Settlements
 max_settlements = 3
-b_barony0755` = tribal
-b_barony0755a = temple
+b_hakassi = tribal
 
 # Misc
 culture = uncultured_swine

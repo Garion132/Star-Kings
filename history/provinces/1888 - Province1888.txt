@@ -1,12 +1,11 @@
-# 1888 - Province1888
+# 1888 - Klatooine
 
 # County Title
-title = c_province1888
+title = c_klatooine
 
 # Settlements
 max_settlements = 5
-b_barony1888` = tribal
-b_barony1888a = temple
+b_klatooine = tribal
 
 # Misc
 culture = uncultured_swine

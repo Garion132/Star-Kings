@@ -1,12 +1,11 @@
-# 1854 - Province1854
+# 1854 - Jabiim
 
 # County Title
-title = c_province1854
+title = c_jabiim
 
 # Settlements
 max_settlements = 5
-b_barony1854` = tribal
-b_barony1854a = temple
+b_jabiim = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 610 - Province0610
+# 610 - Barlok
 
 # County Title
-title = c_province0610
+title = c_barlok
 
 # Settlements
 max_settlements = 6
-b_barony0610` = tribal
-b_barony0610a = temple
+b_barlok = tribal
 
 # Misc
 culture = uncultured_swine

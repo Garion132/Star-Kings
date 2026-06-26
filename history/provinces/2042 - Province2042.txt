@@ -1,12 +1,11 @@
-# 2042 - Province2042
+# 2042 - Paulking
 
 # County Title
-title = c_province2042
+title = c_paulking
 
 # Settlements
 max_settlements = 1
-b_barony2042` = tribal
-b_barony2042a = temple
+b_paulking = tribal
 
 # Misc
 culture = uncultured_swine

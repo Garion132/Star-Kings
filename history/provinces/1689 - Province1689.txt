@@ -1,12 +1,11 @@
-# 1689 - Province1689
+# 1689 - Jilrua
 
 # County Title
-title = c_province1689
+title = c_jilrua
 
 # Settlements
 max_settlements = 5
-b_barony1689` = tribal
-b_barony1689a = temple
+b_jilrua = tribal
 
 # Misc
 culture = uncultured_swine

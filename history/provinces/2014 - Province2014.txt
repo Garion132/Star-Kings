@@ -1,12 +1,11 @@
-# 2014 - Province2014
+# 2014 - Renatasia
 
 # County Title
-title = c_province2014
+title = c_renatasia
 
 # Settlements
 max_settlements = 6
-b_barony2014` = tribal
-b_barony2014a = temple
+b_renatasia = tribal
 
 # Misc
 culture = uncultured_swine

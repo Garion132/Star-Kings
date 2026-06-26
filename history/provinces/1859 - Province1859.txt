@@ -1,12 +1,11 @@
-# 1859 - Province1859
+# 1859 - Dirha
 
 # County Title
-title = c_province1859
+title = c_dirha
 
 # Settlements
 max_settlements = 1
-b_barony1859` = tribal
-b_barony1859a = temple
+b_dirha = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1920 - Province1920
+# 1920 - Tammar
 
 # County Title
-title = c_province1920
+title = c_tammar
 
 # Settlements
 max_settlements = 5
-b_barony1920` = tribal
-b_barony1920a = temple
+b_tammar = tribal
 
 # Misc
 culture = uncultured_swine

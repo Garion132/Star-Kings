@@ -1,12 +1,11 @@
-# 1781 - Province1781
+# 1781 - Boz Pity
 
 # County Title
-title = c_province1781
+title = c_boz_pity
 
 # Settlements
 max_settlements = 1
-b_barony1781` = tribal
-b_barony1781a = temple
+b_boz_pity = tribal
 
 # Misc
 culture = uncultured_swine

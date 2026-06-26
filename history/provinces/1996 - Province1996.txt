@@ -1,12 +1,11 @@
-# 1996 - Province1996
+# 1996 - Zebitrope
 
 # County Title
-title = c_province1996
+title = c_zebitrope
 
 # Settlements
 max_settlements = 6
-b_barony1996` = tribal
-b_barony1996a = temple
+b_zebitrope = tribal
 
 # Misc
 culture = uncultured_swine

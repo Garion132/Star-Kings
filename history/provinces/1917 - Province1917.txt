@@ -1,12 +1,11 @@
-# 1917 - Province1917
+# 1917 - Yoribuunt
 
 # County Title
-title = c_province1917
+title = c_yoribuunt
 
 # Settlements
 max_settlements = 5
-b_barony1917` = tribal
-b_barony1917a = temple
+b_yoribuunt = tribal
 
 # Misc
 culture = uncultured_swine

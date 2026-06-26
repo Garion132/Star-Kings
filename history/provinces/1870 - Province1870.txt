@@ -1,12 +1,11 @@
-# 1870 - Province1870
+# 1870 - Taskeed
 
 # County Title
-title = c_province1870
+title = c_taskeed
 
 # Settlements
 max_settlements = 1
-b_barony1870` = tribal
-b_barony1870a = temple
+b_taskeed = tribal
 
 # Misc
 culture = uncultured_swine

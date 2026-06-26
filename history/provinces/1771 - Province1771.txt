@@ -1,12 +1,11 @@
-# 1771 - Province1771
+# 1771 - Xoman
 
 # County Title
-title = c_province1771
+title = c_xoman
 
 # Settlements
 max_settlements = 5
-b_barony1771` = tribal
-b_barony1771a = temple
+b_xoman = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 763 - Province0763
+# 763 - Thoadeye
 
 # County Title
-title = c_province0763
+title = c_thoadeye
 
 # Settlements
 max_settlements = 1
-b_barony0763` = tribal
-b_barony0763a = temple
+b_thoadeye = tribal
 
 # Misc
 culture = uncultured_swine

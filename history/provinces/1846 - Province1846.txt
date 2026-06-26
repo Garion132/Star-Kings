@@ -1,12 +1,11 @@
-# 1846 - Province1846
+# 1846 - Iotra
 
 # County Title
-title = c_province1846
+title = c_iotra
 
 # Settlements
 max_settlements = 2
-b_barony1846` = tribal
-b_barony1846a = temple
+b_iotra = tribal
 
 # Misc
 culture = uncultured_swine

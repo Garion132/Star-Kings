@@ -1,12 +1,11 @@
-# 1873 - Province1873
+# 1873 - Lant
 
 # County Title
-title = c_province1873
+title = c_lant
 
 # Settlements
 max_settlements = 1
-b_barony1873` = tribal
-b_barony1873a = temple
+b_lant = tribal
 
 # Misc
 culture = uncultured_swine

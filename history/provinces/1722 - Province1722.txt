@@ -1,15 +1,14 @@
-# 1722 - Province1722
+# 1722 - Ilos
 
 # County Title
-title = c_province1722
+title = c_ilos
 
 # Settlements
 max_settlements = 5
-b_barony1722` = tribal
-b_barony1722a = temple
+b_ilos = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ilosian
 religion = pagan
 
 # History

@@ -1,15 +1,14 @@
-# 1714 - Province1714
+# 1714 - Toydaria
 
 # County Title
-title = c_province1714
+title = c_toydaria
 
 # Settlements
 max_settlements = 5
-b_barony1714` = tribal
-b_barony1714a = temple
+b_toydaria = tribal
 
 # Misc
-culture = uncultured_swine
+culture = toydarian
 religion = pagan
 
 # History

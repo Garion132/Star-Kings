@@ -1,12 +1,11 @@
-# 514 - Province0514
+# 514 - Jerrilek
 
 # County Title
-title = c_province0514
+title = c_jerrilek
 
 # Settlements
 max_settlements = 4
-b_barony0514` = tribal
-b_barony0514a = temple
+b_jerrilek = tribal
 
 # Misc
 culture = uncultured_swine

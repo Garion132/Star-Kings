@@ -1,12 +1,11 @@
-# 2018 - Province2018
+# 2018 - Dilonexa
 
 # County Title
-title = c_province2018
+title = c_dilonexa
 
 # Settlements
 max_settlements = 6
-b_barony2018` = tribal
-b_barony2018a = temple
+b_dilonexa = tribal
 
 # Misc
 culture = uncultured_swine

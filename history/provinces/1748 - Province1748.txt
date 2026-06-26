@@ -1,15 +1,14 @@
-# 1748 - Province1748
+# 1748 - Ilos Minor
 
 # County Title
-title = c_province1748
+title = c_ilos_minor
 
 # Settlements
 max_settlements = 5
-b_barony1748` = tribal
-b_barony1748a = temple
+b_ilos_minor = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ilosian
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 1753 - Province1753
+# 1753 - Tal Nami
 
 # County Title
-title = c_province1753
+title = c_tal_nami
 
 # Settlements
 max_settlements = 5
-b_barony1753` = tribal
-b_barony1753a = temple
+b_tal_nami = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1702 - Province1702
+# 1702 - Keldooine
 
 # County Title
-title = c_province1702
+title = c_keldooine
 
 # Settlements
 max_settlements = 2
-b_barony1702` = tribal
-b_barony1702a = temple
+b_keldooine = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1685 - Province1685
+# 1685 - Ultaar
 
 # County Title
-title = c_province1685
+title = c_ultaar
 
 # Settlements
 max_settlements = 5
-b_barony1685` = tribal
-b_barony1685a = temple
+b_ultaar = tribal
 
 # Misc
 culture = uncultured_swine

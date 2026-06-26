@@ -1,12 +1,11 @@
-# 627 - Province0627
+# 627 - Vulpter
 
 # County Title
-title = c_province0627
+title = c_vulpter
 
 # Settlements
 max_settlements = 1
-b_barony0627` = tribal
-b_barony0627a = temple
+b_vulpter = tribal
 
 # Misc
 culture = uncultured_swine

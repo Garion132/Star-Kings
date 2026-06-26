@@ -1,12 +1,11 @@
-# 1731 - Province1731
+# 1731 - Zchtek
 
 # County Title
-title = c_province1731
+title = c_zchtek
 
 # Settlements
 max_settlements = 3
-b_barony1731` = tribal
-b_barony1731a = temple
+b_zchtek = tribal
 
 # Misc
 culture = uncultured_swine

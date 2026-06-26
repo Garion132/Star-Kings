@@ -701,3 +701,16 @@
 		death=yes
 	}
 }
+51380 = {
+	name= "Alto" #
+	dynasty = 66 #Stratus
+	religion = pagan
+	culture = core_worlder
+	936.1.1={
+		birth=yes
+	}
+	
+	978.1.1={
+		death=yes
+	}
+}

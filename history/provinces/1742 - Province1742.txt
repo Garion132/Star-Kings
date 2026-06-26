@@ -1,11 +1,11 @@
-# 1742 - Province1742
+# 1742 - Ingo
 
 # County Title
-title = c_province1742
+title = c_ingo
 
 # Settlements
 max_settlements = 1
-b_barony1742` = tribal
+b_ingo = tribal
 
 # Misc
 culture = uncultured_swine

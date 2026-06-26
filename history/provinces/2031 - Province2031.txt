@@ -1,12 +1,11 @@
-# 2031 - Province2031
+# 2031 - Uaua
 
 # County Title
-title = c_province2031
+title = c_uaua
 
 # Settlements
 max_settlements = 7
-b_barony2031` = tribal
-b_barony2031a = temple
+b_uaua = tribal
 
 # Misc
 culture = uncultured_swine

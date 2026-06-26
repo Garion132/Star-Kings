@@ -1,12 +1,11 @@
-# 1821 - Province1821
+# 1821 - Handooine
 
 # County Title
-title = c_province1821
+title = c_handooine
 
 # Settlements
 max_settlements = 2
-b_barony1821` = tribal
-b_barony1821a = temple
+b_handooine = tribal
 
 # Misc
 culture = uncultured_swine

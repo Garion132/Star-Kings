@@ -1,12 +1,11 @@
-# 549 - Province0549
+# 549 - Iope
 
 # County Title
-title = c_province0549
+title = c_iope
 
 # Settlements
 max_settlements = 5
-b_barony0549` = tribal
-b_barony0549a = temple
+b_iope = tribal
 
 # Misc
 culture = uncultured_swine

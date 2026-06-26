@@ -1,12 +1,11 @@
-# 705 - Province0705
+# 705 - Cambria
 
 # County Title
-title = c_province0705
+title = c_cambria
 
 # Settlements
 max_settlements = 3
-b_barony0705` = tribal
-b_barony0705a = temple
+b_cambria = tribal
 
 # Misc
 culture = uncultured_swine

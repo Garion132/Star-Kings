@@ -1,12 +1,11 @@
-# 1832 - Province1832
+# 1832 - Cyborrea
 
 # County Title
-title = c_province1832
+title = c_cyborrea
 
 # Settlements
 max_settlements = 2
-b_barony1832` = tribal
-b_barony1832a = temple
+b_cyborrea = tribal
 
 # Misc
 culture = uncultured_swine

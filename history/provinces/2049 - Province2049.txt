@@ -1,0 +1,14 @@
+# 2049 - Tund
+
+# County Title
+title = c_tund
+
+# Settlements
+max_settlements = 7
+b_tund = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,12 +1,11 @@
-# 1691 - Province1691
+# 1691 - Kwenn
 
 # County Title
-title = c_province1691
+title = c_kwenn
 
 # Settlements
 max_settlements = 5
-b_barony1691` = tribal
-b_barony1691a = temple
+b_kwenn = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 2043 - Province2043
+# 2043 - Douglas
 
 # County Title
-title = c_province2043
+title = c_douglas
 
 # Settlements
 max_settlements = 7
-b_barony2043` = tribal
-b_barony2043a = temple
+b_douglas = tribal
 
 # Misc
 culture = uncultured_swine

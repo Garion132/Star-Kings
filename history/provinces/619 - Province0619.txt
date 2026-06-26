@@ -1,12 +1,11 @@
-# 619 - Province0619
+# 619 - Besero
 
 # County Title
-title = c_province0619
+title = c_besero
 
 # Settlements
 max_settlements = 3
-b_barony0619` = tribal
-b_barony0619a = temple
+b_besero = tribal
 
 # Misc
 culture = uncultured_swine

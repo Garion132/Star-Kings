@@ -1,12 +1,11 @@
-# 1977 - Province1977
+# 1977 - Scillal
 
 # County Title
-title = c_province1977
+title = c_scillal
 
 # Settlements
 max_settlements = 6
-b_barony1977` = tribal
-b_barony1977a = temple
+b_scillal = tribal
 
 # Misc
 culture = uncultured_swine

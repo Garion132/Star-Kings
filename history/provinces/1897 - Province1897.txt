@@ -1,12 +1,11 @@
-# 1897 - Province1897
+# 1897 - Ques
 
 # County Title
-title = c_province1897
+title = c_ques
 
 # Settlements
 max_settlements = 5
-b_barony1897` = tribal
-b_barony1897a = temple
+b_ques = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1892 - Province1892
+# 1892 - Kafane
 
 # County Title
-title = c_province1892
+title = c_kafane
 
 # Settlements
 max_settlements = 5
-b_barony1892` = tribal
-b_barony1892a = temple
+b_kafane = tribal
 
 # Misc
 culture = uncultured_swine

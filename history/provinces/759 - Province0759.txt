@@ -1,12 +1,11 @@
-# 759 - Province0759
+# 759 - Ottabesk
 
 # County Title
-title = c_province0759
+title = c_ottabesk
 
 # Settlements
 max_settlements = 3
-b_barony0759` = tribal
-b_barony0759a = temple
+b_ottabesk = tribal
 
 # Misc
 culture = uncultured_swine

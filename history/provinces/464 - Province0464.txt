@@ -1,12 +1,11 @@
-# 464 - Province0464
+# 464 - Keeara Major
 
 # County Title
-title = c_province0464
+title = c_keeara_major
 
 # Settlements
 max_settlements = 4
-b_barony0464` = tribal
-b_barony0464a = temple
+b_keeara_major = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1815 - Province1815
+# 1815 - Saleucami
 
 # County Title
-title = c_province1815
+title = c_saleucami
 
 # Settlements
 max_settlements = 1
-b_barony1815` = tribal
-b_barony1815a = temple
+b_saleucami = tribal
 
 # Misc
 culture = uncultured_swine

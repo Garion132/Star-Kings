@@ -1,12 +1,11 @@
-# 726 - Province0726
+# 726 - Eclipse
 
 # County Title
-title = c_province0726
+title = c_eclipse
 
 # Settlements
 max_settlements = 3
-b_barony0726` = tribal
-b_barony0726a = temple
+b_eclipse = tribal
 
 # Misc
 culture = uncultured_swine

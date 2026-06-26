@@ -1398,3 +1398,37 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1331;1332;sea;;-1;-1;-1;-1;Donovia to Illoud
 1330;1331;sea;;-1;-1;-1;-1;Pirin to Donovia
 1250;1301;sea;;-1;-1;-1;-1;Lorell to Onderon
+0675;0610;sea;;-1;-1;-1;-1;Champala to Barlok
+0499;0479;sea;;-1;-1;-1;-1;Empress Teta to Kuar 
+0442;0479;sea;;-1;-1;-1;-1;Symbia to Kuar
+0442;0464;sea;;-1;-1;-1;-1;Symbia to Keeara Major
+0549;0514;sea;;-1;-1;-1;-1;Iope to Jerrilek
+0549;0479;sea;;-1;-1;-1;-1;Iope to Kuar
+0549;0619;sea;;-1;-1;-1;-1;Iope to Besero
+0627;0619;sea;;-1;-1;-1;-1;Vulpter to Besero
+0654;0619;sea;;-1;-1;-1;-1;Broest to Besero
+0627;0705;sea;;-1;-1;-1;-1;Vulpter to Cambria 
+0725;0705;sea;;-1;-1;-1;-1;Dremulae to Cambria
+0671;0705;sea;;-1;-1;-1;-1;Had Abbadon to Cambria
+0725;0671;sea;;-1;-1;-1;-1;Dremulae to Had Abbadon
+0725;0763;sea;;-1;-1;-1;-1;Dremulae to Thoadeye
+0725;0752;sea;;-1;-1;-1;-1;Dremulae to Ator
+0731;0763;sea;;-1;-1;-1;-1;Ebaq to Thoadeye
+0731;0755;sea;;-1;-1;-1;-1;Ebaq to Hakassi
+0784;0755;sea;;-1;-1;-1;-1;Lettow to Hakassi
+0759;0755;sea;;-1;-1;-1;-1;Ottabesk to Hakassi
+0759;0735;sea;;-1;-1;-1;-1;Ottabesk to Ojom
+0726;0735;sea;;-1;-1;-1;-1;Eclipse to Ojom 
+1737;1689;sea;;-1;-1;-1;-1;Kleeva to Jilrua 
+1959;1972;sea;;-1;-1;-1;-1;Ylesia to Poytta
+1992;1972;sea;;-1;-1;-1;-1;Ziugen to Poytta
+1777;1771;sea;;-1;-1;-1;-1;Daunta to Xoman
+1850;1815;sea;;-1;-1;-1;-1;Boonta to Saleucami
+1782;1815;sea;;-1;-1;-1;-1;Kalkovak to Saleucami
+1782;1742;sea;;-1;-1;-1;-1;Kalkovak to Ingo
+1685;1742;sea;;-1;-1;-1;-1;Ultaar to Ingo
+1685;1655;sea;;-1;-1;-1;-1;Ultaar to Diado
+1731;1742;sea;;-1;-1;-1;-1;Zchtek to Ingo
+2042;2034;sea;;-1;-1;-1;-1;Paulking to Hosrel
+2042;2049;sea;;-1;-1;-1;-1;Paulking to Tund
+2014;2034;sea;;-1;-1;-1;-1;Renatasia to Hosrel

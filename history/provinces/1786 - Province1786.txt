@@ -1,12 +1,11 @@
-# 1786 - Province1786
+# 1786 - Nar Kreeta
 
 # County Title
-title = c_province1786
+title = c_nar_kreeta
 
 # Settlements
 max_settlements = 5
-b_barony1786` = tribal
-b_barony1786a = temple
+b_nar_kreeta = tribal
 
 # Misc
 culture = uncultured_swine

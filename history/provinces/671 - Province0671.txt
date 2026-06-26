@@ -1,12 +1,11 @@
-# 671 - Province0671
+# 671 - Had Abbadon
 
 # County Title
-title = c_province0671
+title = c_had_abbadon
 
 # Settlements
 max_settlements = 3
-b_barony0671` = tribal
-b_barony0671a = temple
+b_had_abbadon = tribal
 
 # Misc
 culture = uncultured_swine

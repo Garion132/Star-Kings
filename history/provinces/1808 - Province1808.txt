@@ -1,12 +1,11 @@
-# 1808 - Province1808
+# 1808 - Nimban
 
 # County Title
-title = c_province1808
+title = c_nimban
 
 # Settlements
 max_settlements = 5
-b_barony1808` = tribal
-b_barony1808a = temple
+b_nimban = tribal
 
 # Misc
 culture = uncultured_swine

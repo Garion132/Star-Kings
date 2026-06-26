@@ -1,12 +1,11 @@
-# 1733 - Province1733
+# 1733 - Alee
 
 # County Title
-title = c_province1733
+title = c_alee
 
 # Settlements
 max_settlements = 5
-b_barony1733` = tribal
-b_barony1733a = temple
+b_alee = tribal
 
 # Misc
 culture = uncultured_swine

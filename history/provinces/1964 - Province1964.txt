@@ -1,12 +1,11 @@
-# 1964 - Province1964
+# 1964 - Oseon
 
 # County Title
-title = c_province1964
+title = c_oseon
 
 # Settlements
 max_settlements = 6
-b_barony1964` = tribal
-b_barony1964a = temple
+b_oseon = tribal
 
 # Misc
 culture = uncultured_swine

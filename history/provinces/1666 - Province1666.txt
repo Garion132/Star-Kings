@@ -1,12 +1,11 @@
-# 1666 - Province1666
+# 1666 - Tol Amn
 
 # County Title
-title = c_province1666
+title = c_tol_amn
 
 # Settlements
 max_settlements = 5
-b_barony1666` = tribal
-b_barony1666a = temple
+b_tol_amn = tribal
 
 # Misc
 culture = uncultured_swine

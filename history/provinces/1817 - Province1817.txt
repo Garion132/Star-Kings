@@ -1,12 +1,11 @@
-# 1817 - Province1817
+# 1817 - Sionia
 
 # County Title
-title = c_province1817
+title = c_sionia
 
 # Settlements
 max_settlements = 5
-b_barony1817` = tribal
-b_barony1817a = temple
+b_sionia = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1777 - Province1777
+# 1777 - Danuta
 
 # County Title
-title = c_province1777
+title = c_danuta
 
 # Settlements
 max_settlements = 5
-b_barony1777` = tribal
-b_barony1777a = temple
+b_danuta = tribal
 
 # Misc
 culture = uncultured_swine

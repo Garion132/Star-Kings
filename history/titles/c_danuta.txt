@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = e_hutt_cartel
+}
+987.1.1 = {
+	liege = e_gal_republic
+}

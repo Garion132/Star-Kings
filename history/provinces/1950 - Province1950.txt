@@ -1,12 +1,11 @@
-# 1950 - Province1950
+# 1950 - Dagelin Minor
 
 # County Title
-title = c_province1950
+title = c_dagelin_minor
 
 # Settlements
 max_settlements = 6
-b_barony1950` = tribal
-b_barony1950a = temple
+b_dagelin_minor = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 499 - Province0499
+# 499 - Empress Teta
 
 # County Title
-title = c_province0499
+title = c_empress_teta
 
 # Settlements
 max_settlements = 1
-b_barony0499` = tribal
-b_barony0499a = temple
+b_empress_teta = tribal
 
 # Misc
 culture = uncultured_swine

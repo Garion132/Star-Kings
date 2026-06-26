@@ -1,12 +1,11 @@
-# 1905 - Province1905
+# 1905 - Nimia
 
 # County Title
-title = c_province1905
+title = c_nimia
 
 # Settlements
 max_settlements = 5
-b_barony1905` = tribal
-b_barony1905a = temple
+b_nimia = tribal
 
 # Misc
 culture = uncultured_swine

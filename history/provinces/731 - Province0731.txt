@@ -1,12 +1,11 @@
-# 731 - Province0731
+# 731 - Ebaq
 
 # County Title
-title = c_province0731
+title = c_ebaq
 
 # Settlements
 max_settlements = 3
-b_barony0731` = tribal
-b_barony0731a = temple
+b_ebaq = tribal
 
 # Misc
 culture = uncultured_swine

@@ -246,3 +246,23 @@
 	name="Rash"
 	culture="core_worlder"
 }
+63={
+	name="Keto"
+	culture="core_worlder"
+}
+64={
+	name="Toydor"
+	culture="toydarian"
+}
+65={
+	name="Hestilic"
+	culture="hutt"
+}
+66={
+	name="Stratus"
+	culture="core_worlder"
+}
+67={
+	name="Vosadii"
+	culture="hutt"
+}

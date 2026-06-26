@@ -5,7 +5,7 @@ title = c_randon
 
 # Settlements
 max_settlements = 4
-b_brandon = tribal
+b_randon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -278,3 +278,54 @@
 		death=yes
 	}
 }
+60110 = {
+	name= "Katuunko's father" # filler
+	dynasty = 64 #Toydor
+	religion = pagan
+	culture = toydarian
+	907.1.1={
+		birth=yes
+	}
+	961.1.14={
+		death=yes
+	}
+}
+60111 = {
+	name= "Katuunko" # 
+	dynasty = 64 #Toydor
+	religion = pagan
+	culture = toydarian
+	father = 60110
+	932.1.1={
+		birth=yes
+	}
+	979.1.14={
+		death=yes
+	}
+}
+60112 = {
+	name= "Katuunko's brother" # Filler
+	dynasty = 64 #Toydor
+	religion = pagan
+	culture = toydarian
+	father = 60110
+	934.1.1={
+		birth=yes
+	}
+	967.1.14={
+		death=yes
+	}
+}
+60113 = {
+	name= "Maalva" # 
+	dynasty = 64 #Toydor
+	religion = pagan
+	culture = toydarian
+	father = 60112
+	960.1.1={
+		birth=yes
+	}
+	1041.1.14={
+		death=yes
+	}
+}

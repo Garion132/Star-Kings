@@ -1,12 +1,11 @@
-# 479 - Province0479
+# 479 - Kuar
 
 # County Title
-title = c_province0479
+title = c_kuar
 
 # Settlements
 max_settlements = 4
-b_barony0479` = tribal
-b_barony0479a = temple
+b_kuar = tribal
 
 # Misc
 culture = uncultured_swine

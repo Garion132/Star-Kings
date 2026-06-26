@@ -1,12 +1,11 @@
-# 1915 - Province1915
+# 1915 - Ulmatra
 
 # County Title
-title = c_province1915
+title = c_ulmatra
 
 # Settlements
 max_settlements = 5
-b_barony1915` = tribal
-b_barony1915a = temple
+b_ulmatra = tribal
 
 # Misc
 culture = uncultured_swine

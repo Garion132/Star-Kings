@@ -1,12 +1,11 @@
-# 1694 - Province1694
+# 1694 - Chalacta
 
 # County Title
-title = c_province1694
+title = c_chalacta
 
 # Settlements
 max_settlements = 5
-b_barony1694` = tribal
-b_barony1694a = temple
+b_chalacta = tribal
 
 # Misc
 culture = uncultured_swine

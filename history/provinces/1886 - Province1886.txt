@@ -1,12 +1,11 @@
-# 1886 - Province1886
+# 1886 - Sriluur
 
 # County Title
-title = c_province1886
+title = c_sriluur
 
 # Settlements
 max_settlements = 5
-b_barony1886` = tribal
-b_barony1886a = temple
+b_sriluur = tribal
 
 # Misc
 culture = uncultured_swine

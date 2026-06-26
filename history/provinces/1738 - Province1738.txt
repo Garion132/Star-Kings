@@ -1,12 +1,11 @@
-# 1738 - Province1738
+# 1738 - Ganath
 
 # County Title
-title = c_province1738
+title = c_ganath
 
 # Settlements
 max_settlements = 5
-b_barony1738` = tribal
-b_barony1738a = temple
+b_ganath = tribal
 
 # Misc
 culture = uncultured_swine

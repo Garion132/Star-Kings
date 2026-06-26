@@ -1,12 +1,11 @@
-# 2034 - Province2034
+# 2034 - Hosrel
 
 # County Title
-title = c_province2034
+title = c_hosrel
 
 # Settlements
 max_settlements = 7
-b_barony2034` = tribal
-b_barony2034a = temple
+b_hosrel = tribal
 
 # Misc
 culture = uncultured_swine

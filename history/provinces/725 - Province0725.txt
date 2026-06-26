@@ -1,12 +1,11 @@
-# 725 - Province0725
+# 725 - Dremulae
 
 # County Title
-title = c_province0725
+title = c_dremulae
 
 # Settlements
 max_settlements = 3
-b_barony0725` = tribal
-b_barony0725a = temple
+b_dremulae = tribal
 
 # Misc
 culture = uncultured_swine

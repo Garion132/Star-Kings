@@ -1,12 +1,11 @@
-# 1981 - Province1981
+# 1981 - Rafa
 
 # County Title
-title = c_province1981
+title = c_rafa
 
 # Settlements
 max_settlements = 6
-b_barony1981` = tribal
-b_barony1981a = temple
+b_rafa = tribal
 
 # Misc
 culture = uncultured_swine

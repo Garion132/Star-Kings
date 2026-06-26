@@ -1,15 +1,14 @@
-# 1775 - Province1775
+# 1775 - Nar Kaaga
 
 # County Title
-title = c_province1775
+title = c_nar_kaaga
 
 # Settlements
 max_settlements = 5
-b_barony1775` = tribal
-b_barony1775a = temple
+b_nar_kaaga = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hutt
 religion = pagan
 
 # History
