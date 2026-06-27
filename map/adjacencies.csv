@@ -1432,3 +1432,29 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 2042;2034;sea;;-1;-1;-1;-1;Paulking to Hosrel
 2042;2049;sea;;-1;-1;-1;-1;Paulking to Tund
 2014;2034;sea;;-1;-1;-1;-1;Renatasia to Hosrel
+1082;1062;sea;;-1;-1;-1;-1;H'rath to Corvanni
+1009;1062;sea;;-1;-1;-1;-1;Manwess to Corvanni
+1071;1062;sea;;-1;-1;-1;-1;Vorsia to Corvanni
+1071;1108;sea;;-1;-1;-1;-1;Vorsia to Gelviddis
+1160;1108;sea;;-1;-1;-1;-1;Manress to Gelviddis
+1160;1154;sea;;-1;-1;-1;-1;Manress to Telti
+1071;1035;sea;;-1;-1;-1;-1;Vorsia to Korev
+1009;0983;sea;;-1;-1;-1;-1;Manwess to Tibro
+0981;0983;sea;;-1;-1;-1;-1;Corroth to Tibro
+0981;0262;sea;;-1;-1;-1;-1;Corroth to Kloper
+1035;0262;sea;;-1;-1;-1;-1;Korev to Kloper
+0981;0913;sea;;-1;-1;-1;-1;Corroth to Hok
+0904;0983;sea;;-1;-1;-1;-1;Grandine to Tibro
+0998;1035;sea;;-1;-1;-1;-1;Tala to Korev
+0998;0961;sea;;-1;-1;-1;-1;Tala to Sochi
+0908;0961;sea;;-1;-1;-1;-1;Adari to Sochi
+0908;0903;sea;;-1;-1;-1;-1;Adari to Vurdon Ka
+0998;1050;sea;;-1;-1;-1;-1;Tala to Berri
+1077;1050;sea;;-1;-1;-1;-1;Colla to Berri
+1077;1150;sea;;-1;-1;-1;-1;Colla to Ktil
+1077;1042;sea;;-1;-1;-1;-1;Colla to Relatta
+1095;1074;sea;;-1;-1;-1;-1;Atapap to Gendrah-Narvin
+1095;1104;sea;;-1;-1;-1;-1;Atapap to Ailon
+1142;1104;sea;;-1;-1;-1;-1;Antar to Ailon
+1142;1169;sea;;-1;-1;-1;-1;Antar to Truuine
+

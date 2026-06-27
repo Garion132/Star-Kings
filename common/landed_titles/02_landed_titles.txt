@@ -2652,6 +2652,66 @@ e_gal_republic = {
 				}
 			}
 		}
+		d_baronos_sector={
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_tibro = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_tibro = {
+					
+				}
+			}
+			c_corroth = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_corroth = {
+					
+				}
+			}
+		}
+		d_kilbanis_sector={
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_manwess = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_manwess = {
+					
+				}
+			}
+		}
+		d_adari_sector={
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_adari = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_adari = {
+					
+				}
+			}
+		}
+		d_ktilac_regions={
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_ktil = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_ktil = {
+					
+				}
+			}
+		}
 		d_iotran_expanse={
 			color={ 125 46 36 }
 			color2={ 255 255 255 }
@@ -2661,6 +2721,109 @@ e_gal_republic = {
 				color2={ 255 255 255 }
 				
 				b_iotra= {
+					
+				}
+			}
+		}
+		d_zaric_sector={ #unnamed
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_kloper = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_kloper= {
+					
+				}
+			}
+			c_korev = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_korev= {
+					
+				}
+			}
+			c_corvanni = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_corvanni= {
+					
+				}
+			}
+			c_gelviddis = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_gelviddis= {
+					
+				}
+			}
+			c_vorsia = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_vorsia = {
+					
+				}
+			}
+		}
+		d_colla_sector={ #unnamed
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_colla = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_colla= {
+					
+				}
+			}
+			c_berri = {
+				color={ 197 238 95 }
+				color2={ 255 255 255 }
+				
+				b_berri = {
+					
+				}
+			}
+		}
+		d_prindaar_sector={ #unnamed
+			color={ 125 46 36 }
+			color2={ 255 255 255 }
+			
+			c_ailon = {
+				color={ 178 157 91 }
+				color2={ 255 255 255 }
+				
+				b_ailon= {
+					
+				}
+			}
+			c_atapap = {
+				color={ 178 157 91 }
+				color2={ 255 255 255 }
+				
+				b_atapap = {
+					
+				}
+			}
+			c_antar = {
+				color={ 178 157 91 }
+				color2={ 255 255 255 }
+				
+				b_antar = {
+					
+				}
+			}
+			c_truuine = {
+				color={ 178 157 91 }
+				color2={ 255 255 255 }
+				
+				b_truuine = {
 					
 				}
 			}

@@ -1,12 +1,11 @@
-# 1150 - Province1150
+# 1150 - Ktil
 
 # County Title
-title = c_province1150
+title = c_ktil
 
 # Settlements
 max_settlements = 4
-b_barony1150` = tribal
-b_barony1150a = temple
+b_ktil = tribal
 
 # Misc
 culture = uncultured_swine

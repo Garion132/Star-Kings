@@ -1,12 +1,11 @@
-# 1104 - Province1104
+# 1104 - Ailon
 
 # County Title
-title = c_province1104
+title = c_ailon
 
 # Settlements
 max_settlements = 4
-b_barony1104` = tribal
-b_barony1104a = temple
+b_ailon = tribal
 
 # Misc
 culture = uncultured_swine

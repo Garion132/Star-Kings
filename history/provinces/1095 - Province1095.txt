@@ -1,15 +1,14 @@
-# 1095 - Province1095
+# 1095 - Atapap
 
 # County Title
-title = c_province1095
+title = c_atapap
 
 # Settlements
 max_settlements = 4
-b_barony1095` = tribal
-b_barony1095a = temple
+b_atapap = tribal
 
 # Misc
-culture = uncultured_swine
+culture = duros
 religion = pagan
 
 # History

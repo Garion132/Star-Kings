@@ -1,12 +1,11 @@
-# 983 - Province0983
+# 983 - Tibro
 
 # County Title
-title = c_province0983
+title = c_tibro
 
 # Settlements
 max_settlements = 1
-b_barony0983` = tribal
-b_barony0983a = temple
+b_tibro = tribal
 
 # Misc
 culture = uncultured_swine

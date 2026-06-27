@@ -1,12 +1,11 @@
-# 1077 - Province1077
+# 1077 - Colla
 
 # County Title
-title = c_province1077
+title = c_colla
 
 # Settlements
 max_settlements = 4
-b_barony1077` = tribal
-b_barony1077a = temple
+b_colla = tribal
 
 # Misc
 culture = uncultured_swine

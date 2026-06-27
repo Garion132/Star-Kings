@@ -1,12 +1,11 @@
-# 1108 - Province1108
+# 1108 - Gelviddis
 
 # County Title
-title = c_province1108
+title = c_gelviddis
 
 # Settlements
 max_settlements = 4
-b_barony1108` = tribal
-b_barony1108a = temple
+b_gelviddis = tribal
 
 # Misc
 culture = uncultured_swine

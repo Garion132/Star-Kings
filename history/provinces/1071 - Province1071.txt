@@ -1,12 +1,11 @@
-# 1071 - Province1071
+# 1071 - Vorsia
 
 # County Title
-title = c_province1071
+title = c_vorsia
 
 # Settlements
 max_settlements = 4
-b_barony1071` = tribal
-b_barony1071a = temple
+b_vorsia = tribal
 
 # Misc
 culture = uncultured_swine

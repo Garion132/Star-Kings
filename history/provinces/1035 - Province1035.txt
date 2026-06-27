@@ -1,12 +1,11 @@
-# 1035 - Province1035
+# 1035 - Korev
 
 # County Title
-title = c_province1035
+title = c_korev
 
 # Settlements
 max_settlements = 3
-b_barony1035` = tribal
-b_barony1035a = temple
+b_korev = tribal
 
 # Misc
 culture = uncultured_swine

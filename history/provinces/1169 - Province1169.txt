@@ -1,12 +1,11 @@
-# 1169 - Province1169
+# 1169 - Truuine
 
 # County Title
-title = c_province1169
+title = c_truuine
 
 # Settlements
 max_settlements = 3
-b_barony1169` = tribal
-b_barony1169a = temple
+b_truuine = tribal
 
 # Misc
 culture = uncultured_swine

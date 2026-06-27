@@ -1,12 +1,11 @@
-# 262 - Province0262
+# 262 - Kloper
 
 # County Title
-title = c_province0262
+title = c_kloper
 
 # Settlements
 max_settlements = 3
-b_barony0262` = tribal
-b_barony0262a = temple
+b_kloper = tribal
 
 # Misc
 culture = uncultured_swine

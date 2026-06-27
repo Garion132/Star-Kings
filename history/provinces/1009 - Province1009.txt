@@ -1,12 +1,11 @@
-# 1009 - Province1009
+# 1009 - Manwess
 
 # County Title
-title = c_province1009
+title = c_manwess
 
 # Settlements
 max_settlements = 1
-b_barony1009` = tribal
-b_barony1009a = temple
+b_manwess = tribal
 
 # Misc
 culture = uncultured_swine

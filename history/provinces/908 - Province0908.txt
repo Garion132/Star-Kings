@@ -1,12 +1,11 @@
-# 908 - Province0908
+# 908 - Adari
 
 # County Title
-title = c_province0908
+title = c_adari
 
 # Settlements
 max_settlements = 3
-b_barony0908` = tribal
-b_barony0908a = temple
+b_adari = tribal
 
 # Misc
 culture = uncultured_swine

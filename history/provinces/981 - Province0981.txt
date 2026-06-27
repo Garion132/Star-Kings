@@ -1,12 +1,11 @@
-# 981 - Province0981
+# 981 - Corroth
 
 # County Title
-title = c_province0981
+title = c_corroth
 
 # Settlements
 max_settlements = 3
-b_barony0981` = tribal
-b_barony0981a = temple
+b_corroth = tribal
 
 # Misc
 culture = uncultured_swine

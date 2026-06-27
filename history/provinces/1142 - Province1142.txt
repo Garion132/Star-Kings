@@ -1,12 +1,11 @@
-# 1142 - Province1142
+# 1142 - Antar
 
 # County Title
-title = c_province1142
+title = c_antar
 
 # Settlements
 max_settlements = 1
-b_barony1142` = tribal
-b_barony1142a = temple
+b_antar = tribal
 
 # Misc
 culture = uncultured_swine
