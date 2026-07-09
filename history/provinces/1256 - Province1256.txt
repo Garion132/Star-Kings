@@ -1,12 +1,11 @@
-# 1256 - Province1256
+# 1256 - Vandyne
 
 # County Title
-title = c_province1256
+title = c_vandyne
 
 # Settlements
 max_settlements = 4
-b_barony1256` = tribal
-b_barony1256a = temple
+b_vandyne = tribal
 
 # Misc
 culture = uncultured_swine

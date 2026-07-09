@@ -1,12 +1,11 @@
-# 1384 - Province1384
+# 1384 - Pinoora
 
 # County Title
-title = c_province1384
+title = c_pinoora
 
 # Settlements
 max_settlements = 4
-b_barony1384` = tribal
-b_barony1384a = temple
+b_pinoora = tribal
 
 # Misc
 culture = uncultured_swine

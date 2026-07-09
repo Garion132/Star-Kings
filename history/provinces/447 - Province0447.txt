@@ -1,12 +1,11 @@
-# 447 - Province0447
+# 447 - Gonmore
 
 # County Title
-title = c_province0447
+title = c_gonmore
 
 # Settlements
 max_settlements = 4
-b_barony0447` = tribal
-b_barony0447a = temple
+b_gonmore = tribal
 
 # Misc
 culture = uncultured_swine

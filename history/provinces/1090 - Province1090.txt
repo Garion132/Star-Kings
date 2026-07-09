@@ -1,12 +1,11 @@
-# 1090 - Province1090
+# 1090 - Corvis Minor
 
 # County Title
-title = c_province1090
+title = c_corvis_minor
 
 # Settlements
 max_settlements = 1
-b_barony1090` = tribal
-b_barony1090a = temple
+b_corvis_minor = tribal
 
 # Misc
 culture = uncultured_swine

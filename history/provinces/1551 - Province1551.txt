@@ -1,15 +1,14 @@
-# 1551 - Province1551
+# 1551 - Elamposnia
 
 # County Title
-title = c_province1551
+title = c_elamposnia
 
 # Settlements
 max_settlements = 4
-b_barony1551` = tribal
-b_barony1551a = temple
+b_elamposnia = tribal
 
 # Misc
 culture = uncultured_swine
-religion = pagan
+religion = pagan #church of the Light
 
 # History

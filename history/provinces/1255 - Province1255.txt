@@ -1,12 +1,11 @@
-# 1255 - Province1255
+# 1255 - Tangrene
 
 # County Title
-title = c_province1255
+title = c_tangrene
 
 # Settlements
 max_settlements = 4
-b_barony1255` = tribal
-b_barony1255a = temple
+b_tangrene = tribal
 
 # Misc
 culture = uncultured_swine

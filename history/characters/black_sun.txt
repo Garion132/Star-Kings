@@ -1,0 +1,112 @@
+30001 = {
+	name= "Alexi" #
+	dynasty = 73 #Garyn
+	religion = pagan
+	culture = core_worlder
+	921.1.1={
+		birth=yes
+	}
+	
+	968.6.1={
+		death=yes
+	}
+}
+30002 = {
+	name= "Xomit" #
+	dynasty = 74 #Grunseit
+	religion = pagan
+	culture = falleen
+	933.1.1={
+		birth=yes
+	}
+	
+	980.1.1={
+		death=yes
+	}
+}
+30003 = {
+	name= "Dal" #
+	dynasty = 75 #Perhi
+	religion = pagan
+	culture = core_worlder
+	933.1.1={
+		birth=yes
+	}
+	
+	978.1.1={
+		death=yes
+	}
+}
+
+30010 = {
+	name= "Haxim" #
+	dynasty = 76 #Sizhran
+	religion = pagan
+	culture = falleen
+	879.1.1={
+		birth=yes
+	}
+	
+	993.1.1={
+		death=yes
+	}
+}
+30011 = {
+	name= "Xizor" #
+	dynasty = 76 #Sizhran
+	religion = pagan
+	culture = falleen
+	father = 30010
+	899.1.1={
+		birth=yes
+	}
+	
+	1003.1.1={
+		death=yes
+	}
+}
+30012 = {
+	name= "Xizor's Sister" #unamed
+	dynasty = 76 #Sizhran
+	religion = pagan
+	culture = falleen
+	father = 30010
+	female = yes
+	901.1.1={
+		birth=yes
+	}
+	
+	993.1.1={
+		death=yes
+	}
+}
+30013 = {
+	name= "Xizor's Second Sister" #unamed
+	dynasty = 76 #Sizhran
+	religion = pagan
+	culture = falleen
+	father = 30010
+	female = yes
+	912.1.1={
+		birth=yes
+	}
+	
+	993.1.1={
+		death=yes
+	}
+}
+30014 = {
+	name= "Savan" #
+	dynasty = 76 #Sizhran
+	religion = pagan
+	culture = falleen
+	mother = 30013
+	female = yes
+	960.1.1={
+		birth=yes
+	}
+	
+	1020.1.1={
+		death=yes
+	}
+}

@@ -1,12 +1,11 @@
-# 1549 - Province1549
+# 1549 - B'trilla
 
 # County Title
-title = c_province1549
+title = c_b_trilla
 
 # Settlements
 max_settlements = 4
-b_barony1549` = tribal
-b_barony1549a = temple
+b_b_trilla = tribal
 
 # Misc
 culture = uncultured_swine

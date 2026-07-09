@@ -1,12 +1,11 @@
-# 1456 - Province1456
+# 1456 - Betshish
 
 # County Title
-title = c_province1456
+title = c_betshish
 
 # Settlements
 max_settlements = 4
-b_barony1456` = tribal
-b_barony1456a = temple
+b_betshish = tribal
 
 # Misc
 culture = uncultured_swine

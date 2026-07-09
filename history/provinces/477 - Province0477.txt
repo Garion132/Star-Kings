@@ -1,12 +1,11 @@
-# 477 - Province0477
+# 477 - Ord Mantell
 
 # County Title
-title = c_province0477
+title = c_ord_mantell
 
 # Settlements
 max_settlements = 4
-b_barony0477` = tribal
-b_barony0477a = temple
+b_ord_mantell = tribal
 
 # Misc
 culture = uncultured_swine

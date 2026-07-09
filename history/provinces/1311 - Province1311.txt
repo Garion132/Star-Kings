@@ -1,12 +1,11 @@
-# 1311 - Province1311
+# 1311 - Junction
 
 # County Title
-title = c_province1311
+title = c_junction
 
 # Settlements
 max_settlements = 4
-b_barony1311` = tribal
-b_barony1311a = temple
+b_junction = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1475 - Province1475
+# 1475 - Mannova
 
 # County Title
-title = c_province1475
+title = c_mannova
 
 # Settlements
 max_settlements = 4
-b_barony1475` = tribal
-b_barony1475a = temple
+b_mannova = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1502 - Province1502
+# 1502 - Korphir
 
 # County Title
-title = c_province1502
+title = c_korphir
 
 # Settlements
 max_settlements = 4
-b_barony1502` = tribal
-b_barony1502a = temple
+b_korphir = tribal
 
 # Misc
 culture = uncultured_swine

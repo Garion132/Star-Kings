@@ -1,12 +1,11 @@
-# 1359 - Province1359
+# 1359 - Toprawa
 
 # County Title
-title = c_province1359
+title = c_toprawa
 
 # Settlements
 max_settlements = 4
-b_barony1359` = tribal
-b_barony1359a = temple
+b_toprawa = tribal
 
 # Misc
 culture = uncultured_swine

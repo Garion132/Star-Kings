@@ -1,12 +1,11 @@
-# 337 - Province0337
+# 337 - Nentan
 
 # County Title
-title = c_province0337
+title = c_nentan
 
 # Settlements
 max_settlements = 4
-b_barony0337` = tribal
-b_barony0337a = temple
+b_nentan = tribal
 
 # Misc
 culture = uncultured_swine

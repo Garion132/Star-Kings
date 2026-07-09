@@ -1,12 +1,11 @@
-# 601 - Province0601
+# 601 - Korvaii
 
 # County Title
-title = c_province0601
+title = c_korvaii
 
 # Settlements
 max_settlements = 3
-b_barony0601` = tribal
-b_barony0601a = temple
+b_korvaii = tribal
 
 # Misc
 culture = uncultured_swine

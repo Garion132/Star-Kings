@@ -1,12 +1,11 @@
-# 1557 - Province1557
+# 1557 - Feena
 
 # County Title
-title = c_province1557
+title = c_feena
 
 # Settlements
 max_settlements = 4
-b_barony1557` = tribal
-b_barony1557a = temple
+b_feena = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1531 - Province1531
+# 1531 - Atorra
 
 # County Title
-title = c_province1531
+title = c_atorra
 
 # Settlements
 max_settlements = 4
-b_barony1531` = tribal
-b_barony1531a = temple
+b_atorra = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 269 - Province0269
+# 269 - Vrosynri
 
 # County Title
-title = c_province0269
+title = c_vrosynri
 
 # Settlements
 max_settlements = 1
-b_barony0269` = tribal
-b_barony0269a = temple
+b_vrosynri = tribal
 
 # Misc
 culture = uncultured_swine

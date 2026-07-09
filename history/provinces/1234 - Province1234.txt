@@ -1,12 +1,11 @@
-# 1234 - Province1234
+# 1234 - Nez Peron
 
 # County Title
-title = c_province1234
+title = c_nez_peron
 
 # Settlements
 max_settlements = 4
-b_barony1234` = tribal
-b_barony1234a = temple
+b_nez_peron = tribal
 
 # Misc
 culture = uncultured_swine

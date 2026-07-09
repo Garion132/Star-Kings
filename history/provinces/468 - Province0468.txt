@@ -1,12 +1,11 @@
-# 468 - Province0468
+# 468 - Qiilura
 
 # County Title
-title = c_province0468
+title = c_qiilura
 
 # Settlements
 max_settlements = 4
-b_barony0468` = tribal
-b_barony0468a = temple
+b_qiilura = tribal
 
 # Misc
 culture = uncultured_swine

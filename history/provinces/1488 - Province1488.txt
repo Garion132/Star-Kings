@@ -1,12 +1,11 @@
-# 1488 - Province1488
+# 1488 - Maridun
 
 # County Title
-title = c_province1488
+title = c_maridun
 
 # Settlements
 max_settlements = 4
-b_barony1488` = tribal
-b_barony1488a = temple
+b_maridun = tribal
 
 # Misc
 culture = uncultured_swine

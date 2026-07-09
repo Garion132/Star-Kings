@@ -1,12 +1,11 @@
-# 1214 - Province1214
+# 1214 - Ord Cestus
 
 # County Title
-title = c_province1214
+title = c_ord_cestus
 
 # Settlements
 max_settlements = 4
-b_barony1214` = tribal
-b_barony1214a = temple
+b_ord_cestus = tribal
 
 # Misc
 culture = uncultured_swine

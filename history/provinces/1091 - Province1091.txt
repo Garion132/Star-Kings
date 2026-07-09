@@ -1,12 +1,11 @@
-# 1091 - Province1091
+# 1091 - Ciutric
 
 # County Title
-title = c_province1091
+title = c_ciutric
 
 # Settlements
 max_settlements = 4
-b_barony1091` = tribal
-b_barony1091a = temple
+b_ciutric = tribal
 
 # Misc
 culture = uncultured_swine

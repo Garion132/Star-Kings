@@ -1,12 +1,11 @@
-# 1559 - Province1559
+# 1559 - Capella
 
 # County Title
-title = c_province1559
+title = c_capella
 
 # Settlements
 max_settlements = 4
-b_barony1559` = tribal
-b_barony1559a = temple
+b_capella = tribal
 
 # Misc
 culture = uncultured_swine

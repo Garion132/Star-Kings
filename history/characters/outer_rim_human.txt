@@ -714,3 +714,71 @@
 		death=yes
 	}
 }
+51390 = {
+	name= "Silya" #
+	dynasty = 68 #Shessaun
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	949.1.1={
+		birth=yes
+	}
+	
+	1004.1.1={
+		death=yes
+	}
+}
+51400 = {
+	name= "Sate" #
+	dynasty = 69 #Pestage
+	religion = pagan
+	culture = core_worlder
+	918.1.1={
+		birth=yes
+	}
+	
+	1005.1.1={
+		death=yes
+	}
+}
+51450 = {
+	name= "Ragez" #
+	dynasty = 70 #D'Asta
+	religion = pagan
+	culture = core_worlder
+	943.1.1={
+		birth=yes
+	}
+	
+	1021.1.1={
+		death=yes
+	}
+}
+51451 = {
+	name= "Feena" #
+	dynasty = 70 #D'Asta
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	father = 51450
+	979.1.1={
+		birth=yes
+	}
+	
+	1013.1.1={
+		death=yes
+	}
+}
+51460 = {
+	name= "Mina" #
+	dynasty = 78 #Dhori
+	religion = pagan
+	culture = core_worlder
+	943.1.1={
+		birth=yes
+	}
+	
+	1008.1.1={
+		death=yes
+	}
+}

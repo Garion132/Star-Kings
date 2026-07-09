@@ -1,12 +1,11 @@
-# 1449 - Province1449
+# 1449 - Jovan
 
 # County Title
-title = c_province1449
+title = c_jovan
 
 # Settlements
 max_settlements = 4
-b_barony1449` = tribal
-b_barony1449a = temple
+b_jovan = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1176 - Province1176
+# 1176 - Axxila
 
 # County Title
-title = c_province1176
+title = c_axxila
 
 # Settlements
 max_settlements = 2
-b_barony1176` = tribal
-b_barony1176a = temple
+b_axxila = tribal
 
 # Misc
 culture = uncultured_swine

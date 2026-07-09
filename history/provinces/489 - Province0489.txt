@@ -1,12 +1,11 @@
-# 489 - Province0489
+# 489 - Jarnollen
 
 # County Title
-title = c_province0489
+title = c_jarnollen
 
 # Settlements
 max_settlements = 3
-b_barony0489` = tribal
-b_barony0489a = temple
+b_jarnollen = tribal
 
 # Misc
 culture = uncultured_swine

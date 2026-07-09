@@ -1,12 +1,11 @@
-# 421 - Province0421
+# 421 - Dohu
 
 # County Title
-title = c_province0421
+title = c_dohu
 
 # Settlements
 max_settlements = 4
-b_barony0421` = tribal
-b_barony0421a = temple
+b_dohu = tribal
 
 # Misc
 culture = uncultured_swine

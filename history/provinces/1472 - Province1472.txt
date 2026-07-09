@@ -1,12 +1,11 @@
-# 1472 - Province1472
+# 1472 - Bronsoon
 
 # County Title
-title = c_province1472
+title = c_bronsoon
 
 # Settlements
 max_settlements = 1
-b_barony1472` = tribal
-b_barony1472a = temple
+b_bronsoon = tribal
 
 # Misc
 culture = uncultured_swine

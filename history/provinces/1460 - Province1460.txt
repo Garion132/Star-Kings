@@ -1,12 +1,11 @@
-# 1460 - Province1460
+# 1460 - Vaal
 
 # County Title
-title = c_province1460
+title = c_vaal
 
 # Settlements
 max_settlements = 4
-b_barony1460` = tribal
-b_barony1460a = temple
+b_vaal = tribal
 
 # Misc
 culture = uncultured_swine

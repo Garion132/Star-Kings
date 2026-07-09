@@ -1,12 +1,11 @@
-# 1538 - Province1538
+# 1538 - Barison
 
 # County Title
-title = c_province1538
+title = c_barison
 
 # Settlements
 max_settlements = 4
-b_barony1538` = tribal
-b_barony1538a = temple
+b_barison = tribal
 
 # Misc
 culture = uncultured_swine

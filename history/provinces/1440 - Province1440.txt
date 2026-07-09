@@ -1,12 +1,11 @@
-# 1440 - Province1440
+# 1440 - Kliaar
 
 # County Title
-title = c_province1440
+title = c_kliaar
 
 # Settlements
 max_settlements = 1
-b_barony1440` = tribal
-b_barony1440a = temple
+b_kliaar = tribal
 
 # Misc
 culture = uncultured_swine

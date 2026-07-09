@@ -1,12 +1,11 @@
-# 1594 - Province1594
+# 1594 - Pygorix
 
 # County Title
-title = c_province1594
+title = c_pygorix
 
 # Settlements
 max_settlements = 4
-b_barony1594` = tribal
-b_barony1594a = temple
+b_pygorix = temple
 
 # Misc
 culture = uncultured_swine

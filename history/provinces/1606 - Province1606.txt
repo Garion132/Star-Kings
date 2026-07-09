@@ -1,12 +1,12 @@
-# 1606 - Province1606
+# 1606 - Spintir
 
 # County Title
-title = c_province1606
+title = c_spintir
 
 # Settlements
 max_settlements = 2
-b_barony1606` = tribal
-b_barony1606a = temple
+b_dawn_temple = temple
+b_reles = city
 
 # Misc
 culture = uncultured_swine

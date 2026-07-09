@@ -1,12 +1,11 @@
-# 1367 - Province1367
+# 1367 - Presbalin
 
 # County Title
-title = c_province1367
+title = c_presbalin
 
 # Settlements
 max_settlements = 4
-b_barony1367` = tribal
-b_barony1367a = temple
+b_presbalin = tribal
 
 # Misc
 culture = uncultured_swine

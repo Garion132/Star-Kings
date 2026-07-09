@@ -1,12 +1,11 @@
-# 1465 - Province1465
+# 1465 - Glade
 
 # County Title
-title = c_province1465
+title = c_glade
 
 # Settlements
 max_settlements = 1
-b_barony1465` = tribal
-b_barony1465a = temple
+b_glade = tribal
 
 # Misc
 culture = uncultured_swine

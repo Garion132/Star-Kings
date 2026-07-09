@@ -1,12 +1,11 @@
-# 1297 - Province1297
+# 1297 - Celanon
 
 # County Title
-title = c_province1297
+title = c_celanon
 
 # Settlements
 max_settlements = 2
-b_barony1297` = tribal
-b_barony1297a = temple
+b_celanon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1136 - Province1136
+# 1136 - Salin
 
 # County Title
-title = c_province1136
+title = c_salin
 
 # Settlements
 max_settlements = 4
-b_barony1136` = tribal
-b_barony1136a = temple
+b_salin = tribal
 
 # Misc
 culture = uncultured_swine

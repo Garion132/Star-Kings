@@ -1,12 +1,11 @@
-# 253 - Province0253
+# 253 - Fornax
 
 # County Title
-title = c_province0253
+title = c_fornax
 
 # Settlements
 max_settlements = 3
-b_barony0253` = tribal
-b_barony0253a = temple
+b_fornax = tribal
 
 # Misc
 culture = uncultured_swine

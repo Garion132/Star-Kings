@@ -1,12 +1,11 @@
-# 1736 - Province1736
+# 1736 - Syngia
 
 # County Title
-title = c_province1736
+title = c_syngia
 
 # Settlements
 max_settlements = 1
-b_barony1736` = tribal
-b_barony1736a = temple
+b_syngia = tribal
 
 # Misc
 culture = uncultured_swine

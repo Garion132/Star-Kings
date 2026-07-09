@@ -1,12 +1,11 @@
-# 1334 - Province1334
+# 1334 - Sorrus
 
 # County Title
-title = c_province1334
+title = c_sorrus
 
 # Settlements
 max_settlements = 1
-b_barony1334` = tribal
-b_barony1334a = temple
+b_sorrus = tribal
 
 # Misc
 culture = uncultured_swine

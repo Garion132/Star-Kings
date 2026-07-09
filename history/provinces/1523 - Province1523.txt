@@ -1,12 +1,11 @@
-# 1523 - Province1523
+# 1523 - Troos
 
 # County Title
-title = c_province1523
+title = c_troos
 
 # Settlements
 max_settlements = 4
-b_barony1523` = tribal
-b_barony1523a = temple
+b_troos = tribal
 
 # Misc
 culture = uncultured_swine

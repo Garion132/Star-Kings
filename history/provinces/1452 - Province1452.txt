@@ -1,12 +1,11 @@
-# 1452 - Province1452
+# 1452 - Mogoshyn
 
 # County Title
-title = c_province1452
+title = c_mogoshyn
 
 # Settlements
 max_settlements = 4
-b_barony1452` = tribal
-b_barony1452a = temple
+b_mogoshyn = tribal
 
 # Misc
 culture = uncultured_swine

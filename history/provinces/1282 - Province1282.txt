@@ -1,12 +1,11 @@
-# 1282 - Province1282
+# 1282 - Tierell
 
 # County Title
-title = c_province1282
+title = c_tierell
 
 # Settlements
 max_settlements = 4
-b_barony1282` = tribal
-b_barony1282a = temple
+b_tierell = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1402 - Province1402
+# 1402 - Ladarra
 
 # County Title
-title = c_province1402
+title = c_ladarra
 
 # Settlements
 max_settlements = 4
-b_barony1402` = tribal
-b_barony1402a = temple
+b_ladarra = tribal
 
 # Misc
 culture = uncultured_swine

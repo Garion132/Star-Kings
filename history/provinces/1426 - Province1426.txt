@@ -1,12 +1,11 @@
-# 1426 - Province1426
+# 1426 - Marrovia
 
 # County Title
-title = c_province1426
+title = c_marrovia
 
 # Settlements
 max_settlements = 4
-b_barony1426` = tribal
-b_barony1426a = temple
+b_marrovia = tribal
 
 # Misc
 culture = uncultured_swine

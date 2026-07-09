@@ -1,12 +1,11 @@
-# 1457 - Province1457
+# 1457 - Xochtl
 
 # County Title
-title = c_province1457
+title = c_xochtl
 
 # Settlements
 max_settlements = 4
-b_barony1457` = tribal
-b_barony1457a = temple
+b_xochtl = tribal
 
 # Misc
 culture = uncultured_swine

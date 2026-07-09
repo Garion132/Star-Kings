@@ -1,15 +1,14 @@
-# 279 - Province0279
+# 279 - Iridia
 
 # County Title
-title = c_province0279
+title = c_iridia
 
 # Settlements
 max_settlements = 2
-b_barony0279` = tribal
-b_barony0279a = temple
+b_iridia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = iridonian
 religion = pagan
 
 # History

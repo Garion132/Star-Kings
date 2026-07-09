@@ -1,12 +1,11 @@
-# 1273 - Province1273
+# 1273 - Hijado
 
 # County Title
-title = c_province1273
+title = c_hijado
 
 # Settlements
 max_settlements = 2
-b_barony1273` = tribal
-b_barony1273a = temple
+b_hijado = tribal
 
 # Misc
 culture = uncultured_swine

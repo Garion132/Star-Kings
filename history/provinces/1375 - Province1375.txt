@@ -1,12 +1,11 @@
-# 1375 - Province1375
+# 1375 - Feswe
 
 # County Title
-title = c_province1375
+title = c_feswe
 
 # Settlements
 max_settlements = 4
-b_barony1375` = tribal
-b_barony1375a = temple
+b_feswe = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1286 - Province1286
+# 1286 - Edusa
 
 # County Title
-title = c_province1286
+title = c_edusa
 
 # Settlements
 max_settlements = 3
-b_barony1286` = tribal
-b_barony1286a = temple
+b_edusa = tribal
 
 # Misc
 culture = uncultured_swine

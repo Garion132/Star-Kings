@@ -1,12 +1,11 @@
-# 1553 - Province1553
+# 1553 - Kalishik
 
 # County Title
-title = c_province1553
+title = c_kalishik
 
 # Settlements
 max_settlements = 3
-b_barony1553` = tribal
-b_barony1553a = temple
+b_kalishik = tribal
 
 # Misc
 culture = uncultured_swine

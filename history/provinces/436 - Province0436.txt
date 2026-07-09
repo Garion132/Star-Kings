@@ -1,12 +1,11 @@
-# 436 - Province0436
+# 436 - Obredaan
 
 # County Title
-title = c_province0436
+title = c_obredaan
 
 # Settlements
 max_settlements = 4
-b_barony0436` = tribal
-b_barony0436a = temple
+b_bobredaan = tribal
 
 # Misc
 culture = uncultured_swine

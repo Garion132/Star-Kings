@@ -1,12 +1,11 @@
-# 452 - Province0452
+# 452 - Ord Tessebok
 
 # County Title
-title = c_province0452
+title = c_ord_tessebok
 
 # Settlements
 max_settlements = 3
-b_barony0452` = tribal
-b_barony0452a = temple
+b_ord_tessebok = tribal
 
 # Misc
 culture = uncultured_swine

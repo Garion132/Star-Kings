@@ -1,15 +1,14 @@
-# 235 - Province0235
+# 235 - Iridonia
 
 # County Title
-title = c_province0235
+title = c_iridonia
 
 # Settlements
 max_settlements = 3
-b_barony0235` = tribal
-b_barony0235a = temple
+b_iridonia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = iridonian
 religion = pagan
 
 # History

@@ -329,3 +329,52 @@
 		death=yes
 	}
 }
+60120 = {
+	name= "Rennimdius B'thog"
+	dynasty = 71 #Indriummsegh
+	religion = pagan
+	culture = elomin
+	924.1.1={
+		birth=yes
+	}
+	989.1.14={
+		death=yes
+	}
+}
+60130 = {
+	name= "Donloor"
+	dynasty = 72 #Noth
+	religion = pagan
+	culture = iridonian
+	937.1.1={
+		birth=yes
+	}
+	1003.1.14={
+		death=yes
+	}
+}
+60131 = {
+	name= "Oorn"
+	dynasty = 72 #Noth
+	religion = pagan
+	culture = iridonian
+	father = 60130
+	953.1.1={
+		birth=yes
+	}
+	1024.1.1={
+		death=yes
+	}
+}
+60140 = {
+	name= "Krini-shen"
+	#dynasty = 72 #Noth
+	religion = pagan
+	culture = vors
+	945.1.1={
+		birth=yes
+	}
+	1020.1.14={
+		death=yes
+	}
+}

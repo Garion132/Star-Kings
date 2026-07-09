@@ -1,12 +1,11 @@
-# 1518 - Province1518
+# 1518 - Usta
 
 # County Title
-title = c_province1518
+title = c_usta
 
 # Settlements
 max_settlements = 2
-b_barony1518` = tribal
-b_barony1518a = temple
+b_usta = tribal
 
 # Misc
 culture = uncultured_swine

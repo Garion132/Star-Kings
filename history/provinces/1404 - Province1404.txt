@@ -1,12 +1,11 @@
-# 1404 - Province1404
+# 1404 - Trinovat
 
 # County Title
-title = c_province1404
+title = c_trinovat
 
 # Settlements
 max_settlements = 4
-b_barony1404` = tribal
-b_barony1404a = temple
+b_trinovat = tribal
 
 # Misc
 culture = uncultured_swine

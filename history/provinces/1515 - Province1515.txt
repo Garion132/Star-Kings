@@ -1,12 +1,11 @@
-# 1515 - Province1515
+# 1515 - Cometwash
 
 # County Title
-title = c_province1515
+title = c_cometwash
 
 # Settlements
 max_settlements = 2
-b_barony1515` = tribal
-b_barony1515a = temple
+b_cometwash = tribal
 
 # Misc
 culture = uncultured_swine

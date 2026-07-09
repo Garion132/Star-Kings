@@ -1,12 +1,11 @@
-# 1377 - Province1377
+# 1377 - Pho Ph'eah
 
 # County Title
-title = c_province1377
+title = c_pho_pheah
 
 # Settlements
 max_settlements = 4
-b_barony1377` = tribal
-b_barony1377a = temple
+b_pho_pheah = tribal
 
 # Misc
 culture = uncultured_swine

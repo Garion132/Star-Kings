@@ -1,12 +1,11 @@
-# 1493 - Province1493
+# 1493 - Wetyins Colony
 
 # County Title
-title = c_province1493
+title = c_wetyins_colony
 
 # Settlements
 max_settlements = 4
-b_barony1493` = tribal
-b_barony1493a = temple
+b_wetyins_colony = tribal
 
 # Misc
 culture = uncultured_swine

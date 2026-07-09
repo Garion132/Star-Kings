@@ -1,12 +1,11 @@
-# 1289 - Province1289
+# 1289 - Thesme
 
 # County Title
-title = c_province1289
+title = c_thesme
 
 # Settlements
 max_settlements = 4
-b_barony1289` = tribal
-b_barony1289a = temple
+b_thesme = tribal
 
 # Misc
 culture = uncultured_swine

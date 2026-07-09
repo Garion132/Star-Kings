@@ -1,12 +1,11 @@
-# 548 - Province0548
+# 548 - Anobis
 
 # County Title
-title = c_province0548
+title = c_anobis
 
 # Settlements
 max_settlements = 5
-b_barony0548` = tribal
-b_barony0548a = temple
+b_anobis = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1596 - Province1596
+# 1596 - Karsten's World
 
 # County Title
-title = c_province1596
+title = c_karstens_world
 
 # Settlements
 max_settlements = 1
-b_barony1596` = tribal
-b_barony1596a = temple
+b_karstens_world = temple
 
 # Misc
 culture = uncultured_swine

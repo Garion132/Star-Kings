@@ -1457,4 +1457,34 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1095;1104;sea;;-1;-1;-1;-1;Atapap to Ailon
 1142;1104;sea;;-1;-1;-1;-1;Antar to Ailon
 1142;1169;sea;;-1;-1;-1;-1;Antar to Truuine
-
+1193;1169;sea;;-1;-1;-1;-1;Manaan to Truuine
+1193;1162;sea;;-1;-1;-1;-1;Manaan to Fadden
+1193;1208;sea;;-1;-1;-1;-1;Manaan to Cona
+1253;1208;sea;;-1;-1;-1;-1;Mattri to Cona
+1253;1267;sea;;-1;-1;-1;-1;Mattri to Zeltros
+1289;1311;sea;;-1;-1;-1;-1;Thesme to Junction
+1214;1176;sea;;-1;-1;-1;-1;Ord Cestus to Axxila
+1214;1234;sea;;-1;-1;-1;-1;Ord Cestus to Nez Peron
+1234;1176;sea;;-1;-1;-1;-1;Nez Peron to Axxila
+1356;1234;sea;;-1;-1;-1;-1;Serenno to Nez Peron
+0269;1176;sea;;-1;-1;-1;-1;Vrosynri to Axxila
+0269;1091;sea;;-1;-1;-1;-1;Vrosynri to Ciutric
+1359;1383;sea;;-1;-1;-1;-1;Toprawa to Tandun
+1594;1596;sea;;-1;-1;-1;-1;Pygorix to Karsten's World
+1658;1633;sea;;-1;-1;-1;-1;Elom to Stenos
+1658;1736;sea;;-1;-1;-1;-1;Elom to Syngia
+0235;0223;sea;;-1;-1;-1;-1;Iridonia to Valrar
+0253;0223;sea;;-1;-1;-1;-1;Fornax to Valrar
+0235;0279;sea;;-1;-1;-1;-1;Iridonia to Iridia
+0235;0278;sea;;-1;-1;-1;-1;Iridonia to Lorista
+0235;0273;sea;;-1;-1;-1;-1;Iridonia to Feldrona
+0173;0273;sea;;-1;-1;-1;-1;Keitum to Feldrona
+0275;0278;sea;;-1;-1;-1;-1;Frithia to Lorista
+0275;0337;sea;;-1;-1;-1;-1;Frithia to Nentan
+0275;0253;sea;;-1;-1;-1;-1;Frithia to Fornax
+0281;0253;sea;;-1;-1;-1;-1;Vortex to Fornax
+0489;0477;sea;;-1;-1;-1;-1;Jarnollen to Ord Mantell
+0489;0548;sea;;-1;-1;-1;-1;Jarnollen to Anobis
+0548;0477;sea;;-1;-1;-1;-1;Anobis to Ord Mantell
+0489;0421;sea;;-1;-1;-1;-1;Jarnollen to Dohu
+0468;0421;sea;;-1;-1;-1;-1;Qiilura to Dohu

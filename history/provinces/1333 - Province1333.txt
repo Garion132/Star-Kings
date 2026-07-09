@@ -1,15 +1,14 @@
-# 1333 - Province1333
+# 1333 - Hynah
 
 # County Title
-title = c_province1333
+title = c_hynah
 
 # Settlements
 max_settlements = 4
-b_barony1333` = tribal
-b_barony1333a = temple
+b_hynah = tribal
 
 # Misc
-culture = uncultured_swine
+culture = hynese
 religion = pagan
 
 # History

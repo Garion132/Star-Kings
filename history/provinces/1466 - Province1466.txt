@@ -1,12 +1,11 @@
-# 1466 - Province1466
+# 1466 - Povanaria
 
 # County Title
-title = c_province1466
+title = c_povanaria
 
 # Settlements
 max_settlements = 4
-b_barony1466` = tribal
-b_barony1466a = temple
+b_povanaria = tribal
 
 # Misc
 culture = uncultured_swine

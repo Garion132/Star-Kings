@@ -1,12 +1,11 @@
-# 424 - Province0424
+# 424 - Lonnaw
 
 # County Title
-title = c_province0424
+title = c_lonnaw
 
 # Settlements
 max_settlements = 4
-b_barony0424` = tribal
-b_barony0424a = temple
+b_lonnaw = tribal
 
 # Misc
 culture = uncultured_swine

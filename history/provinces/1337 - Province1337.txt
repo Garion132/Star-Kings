@@ -1,12 +1,11 @@
-# 1337 - Province1337
+# 1337 - Simpla
 
 # County Title
-title = c_province1337
+title = c_simpla
 
 # Settlements
 max_settlements = 4
-b_barony1337` = tribal
-b_barony1337a = temple
+b_simpla = tribal
 
 # Misc
 culture = uncultured_swine

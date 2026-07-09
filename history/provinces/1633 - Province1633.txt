@@ -1,12 +1,11 @@
-# 1633 - Province1633
+# 1633 - Stenos
 
 # County Title
-title = c_province1633
+title = c_stenos
 
 # Settlements
 max_settlements = 4
-b_barony1633` = tribal
-b_barony1633a = temple
+b_stenos = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 281 - Province0281
+# 281 - Vortex
 
 # County Title
-title = c_province0281
+title = c_vortex
 
 # Settlements
 max_settlements = 3
-b_barony0281` = tribal
-b_barony0281a = temple
+b_vortex = tribal
 
 # Misc
-culture = uncultured_swine
+culture = vors
 religion = pagan
 
 # History

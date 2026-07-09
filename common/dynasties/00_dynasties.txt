@@ -266,3 +266,47 @@
 	name="Vosadii"
 	culture="hutt"
 }
+68={
+	name="Shessaun"
+	culture="core_worlder"
+}
+69={
+	name="Pestage"
+	culture="core_worlder"
+}
+70={
+	name="D'Asta"
+	culture="core_worlder"
+}
+71={
+	name="Indriummsegh"
+	culture="elomin"
+}
+72={
+	name="Noth"
+	culture="iridonian"
+}
+73={
+	name="Garyn"
+	culture="core_worlder"
+}
+74={
+	name="Grunseit"
+	culture="falleen"
+}
+75={
+	name="Perhi"
+	culture="core_worlder"
+}
+76={
+	name="Sizhran"
+	culture="falleen"
+}
+77={
+	name="Ankkit"
+	culture="neimoidian"
+}
+78={
+	name="Dhori"
+	culture="core_worlder"
+}

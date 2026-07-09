@@ -1,12 +1,11 @@
-# 1463 - Province1463
+# 1463 - Kushibah
 
 # County Title
-title = c_province1463
+title = c_kushibah
 
 # Settlements
 max_settlements = 4
-b_barony1463` = tribal
-b_barony1463a = temple
+b_kushibah = tribal
 
 # Misc
 culture = uncultured_swine

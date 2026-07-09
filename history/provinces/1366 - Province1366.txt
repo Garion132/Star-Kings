@@ -1,12 +1,11 @@
-# 1366 - Province1366
+# 1366 - Selitan
 
 # County Title
-title = c_province1366
+title = c_selitan
 
 # Settlements
 max_settlements = 2
-b_barony1366` = tribal
-b_barony1366a = temple
+b_selitan = tribal
 
 # Misc
 culture = uncultured_swine

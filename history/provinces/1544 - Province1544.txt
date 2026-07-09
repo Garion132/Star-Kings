@@ -1,15 +1,14 @@
-# 1544 - Province1544
+# 1544 - Chenowei
 
 # County Title
-title = c_province1544
+title = c_chenowei
 
 # Settlements
 max_settlements = 4
-b_barony1544` = tribal
-b_barony1544a = temple
+b_chenowei = temple
 
 # Misc
 culture = uncultured_swine
-religion = pagan
+religion = pagan #church of the Light
 
 # History

@@ -1,12 +1,11 @@
-# 223 - Province0223
+# 223 - Valrar
 
 # County Title
-title = c_province0223
+title = c_valrar
 
 # Settlements
 max_settlements = 1
-b_barony0223` = tribal
-b_barony0223a = temple
+b_valrar = tribal
 
 # Misc
 culture = uncultured_swine

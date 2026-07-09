@@ -1,15 +1,14 @@
-# 1658 - Province1658
+# 1658 - Elom
 
 # County Title
-title = c_province1658
+title = c_elom
 
 # Settlements
 max_settlements = 1
-b_barony1658` = tribal
-b_barony1658a = temple
+b_elom = tribal
 
 # Misc
-culture = uncultured_swine
+culture = elomin
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 1393 - Province1393
+# 1393 - Krylon
 
 # County Title
-title = c_province1393
+title = c_krylon
 
 # Settlements
 max_settlements = 4
-b_barony1393` = tribal
-b_barony1393a = temple
+b_krylon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1383 - Province1383
+# 1383 - Tandun
 
 # County Title
-title = c_province1383
+title = c_tandun
 
 # Settlements
 max_settlements = 4
-b_barony1383` = tribal
-b_barony1383a = temple
+b_tandun = tribal
 
 # Misc
 culture = uncultured_swine
