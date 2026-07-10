@@ -1,12 +1,11 @@
-# 1688 - Province1688
+# 1688 - Rhelg
 
 # County Title
-title = c_province1688
+title = c_rhelg
 
 # Settlements
 max_settlements = 5
-b_barony1688` = tribal
-b_barony1688a = temple
+b_rhelg = tribal
 
 # Misc
 culture = uncultured_swine

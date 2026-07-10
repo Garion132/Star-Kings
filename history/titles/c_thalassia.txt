@@ -1,0 +1,15 @@
+1.1.1={
+	liege = d_thalassian_slavers
+}
+850.1.1 = {
+	holder = 113910
+}
+918.1.1 = {
+	holder = 113911
+}
+958.1.1 = {
+	holder = 113912
+}
+965.1.1 = {
+	holder = 113915
+}

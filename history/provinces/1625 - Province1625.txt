@@ -1,11 +1,11 @@
-# 1625 - Province1625
+# 1625 - Begeren
 
 # County Title
-title = c_province1625
+title = c_begeren
 
 # Settlements
 max_settlements = 1
-b_barony1625` = tribal
+b_begeren = tribal
 
 # Misc
 culture = uncultured_swine

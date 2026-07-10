@@ -1,12 +1,11 @@
-# 1899 - Province1899
+# 1899 - Toola
 
 # County Title
-title = c_province1899
+title = c_toola
 
 # Settlements
 max_settlements = 5
-b_barony1899` = tribal
-b_barony1899a = temple
+b_toola = tribal
 
 # Misc
 culture = uncultured_swine

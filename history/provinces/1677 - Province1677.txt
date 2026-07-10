@@ -1,12 +1,11 @@
-# 1677 - Province1677
+# 1677 - Svolten
 
 # County Title
-title = c_province1677
+title = c_svolten
 
 # Settlements
 max_settlements = 5
-b_barony1677` = tribal
-b_barony1677a = temple
+b_svolten = tribal
 
 # Misc
 culture = uncultured_swine

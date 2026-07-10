@@ -1,12 +1,11 @@
-# 1684 - Province1684
+# 1684 - Nfolgai
 
 # County Title
-title = c_province1684
+title = c_nfolgai
 
 # Settlements
 max_settlements = 5
-b_barony1684` = tribal
-b_barony1684a = temple
+b_nfolgai = tribal
 
 # Misc
 culture = uncultured_swine

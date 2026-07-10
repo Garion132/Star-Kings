@@ -1,12 +1,11 @@
-# 1636 - Province1636
+# 1636 - Bosthirda
 
 # County Title
-title = c_province1636
+title = c_bosthirda
 
 # Settlements
 max_settlements = 4
-b_barony1636` = tribal
-b_barony1636a = temple
+b_bosthirda = tribal
 
 # Misc
 culture = uncultured_swine

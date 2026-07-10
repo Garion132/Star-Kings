@@ -1,0 +1,6 @@
+1.1.1={
+	liege = k_zygerrian_empire
+}
+959.1.1={
+	holder = 60150
+}

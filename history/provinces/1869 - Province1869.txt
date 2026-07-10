@@ -1,15 +1,14 @@
-# 1869 - Province1869
+# 1869 - Quermia
 
 # County Title
-title = c_province1869
+title = c_quermia
 
 # Settlements
 max_settlements = 5
-b_barony1869` = tribal
-b_barony1869a = temple
+b_quermia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = xexto
 religion = pagan
 
 # History

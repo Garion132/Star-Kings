@@ -1,15 +1,14 @@
-# 302 - Province0302
+# 302 - Oba Diah
 
 # County Title
-title = c_province0302
+title = c_oba_diah
 
 # Settlements
 max_settlements = 2
-b_barony0302` = tribal
-b_barony0302a = temple
+b_oba_diah = tribal
 
 # Misc
-culture = uncultured_swine
+culture = pyke
 religion = pagan
 
 # History

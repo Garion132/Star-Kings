@@ -1,12 +1,11 @@
-# 1533 - Province1533
+# 1533 - Ferro
 
 # County Title
-title = c_province1533
+title = c_ferro
 
 # Settlements
 max_settlements = 4
-b_barony1533` = tribal
-b_barony1533a = temple
+b_ferro = tribal
 
 # Misc
 culture = uncultured_swine

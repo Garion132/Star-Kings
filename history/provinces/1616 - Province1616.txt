@@ -1,12 +1,11 @@
-# 1616 - Province1616
+# 1616 - Nicht Ka
 
 # County Title
-title = c_province1616
+title = c_nicht_ka
 
 # Settlements
 max_settlements = 4
-b_barony1616` = tribal
-b_barony1616a = temple
+b_nicht_ka = tribal
 
 # Misc
 culture = uncultured_swine

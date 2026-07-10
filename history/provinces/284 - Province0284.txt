@@ -1,12 +1,11 @@
-# 284 - Province0284
+# 284 - Hraki
 
 # County Title
-title = c_province0284
+title = c_hraki
 
 # Settlements
 max_settlements = 3
-b_barony0284` = tribal
-b_barony0284a = temple
+b_hraki = tribal
 
 # Misc
 culture = uncultured_swine

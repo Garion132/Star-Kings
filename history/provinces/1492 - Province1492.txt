@@ -1,12 +1,11 @@
-# 1492 - Province1492
+# 1492 - Doniphon
 
 # County Title
-title = c_province1492
+title = c_doniphon
 
 # Settlements
 max_settlements = 4
-b_barony1492` = tribal
-b_barony1492a = temple
+b_doniphon = tribal
 
 # Misc
 culture = uncultured_swine

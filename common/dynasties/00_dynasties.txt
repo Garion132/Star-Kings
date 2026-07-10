@@ -310,3 +310,15 @@
 	name="Dhori"
 	culture="core_worlder"
 }
+79={
+	name="Scintel"
+	culture="zygerrian"
+}
+80={
+	name="Wojaine"
+	culture="core_worlder"
+}
+81={
+	name="Pyke"
+	culture="pyke"
+}

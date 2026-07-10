@@ -1,12 +1,12 @@
-# 1511 - Province1511
+# 1511 - Tantive
 
 # County Title
-title = c_province1511
+title = c_tantive
 
 # Settlements
 max_settlements = 4
-b_barony1511` = tribal
-b_barony1511a = temple
+b_tantive = tribal
+
 
 # Misc
 culture = uncultured_swine

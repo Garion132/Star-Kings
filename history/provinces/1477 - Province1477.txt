@@ -1,12 +1,11 @@
-# 1477 - Province1477
+# 1477 - Ord Radama
 
 # County Title
-title = c_province1477
+title = c_ord_radama
 
 # Settlements
 max_settlements = 4
-b_barony1477` = tribal
-b_barony1477a = temple
+b_ord_radama = tribal
 
 # Misc
 culture = uncultured_swine

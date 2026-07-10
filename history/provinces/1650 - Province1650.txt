@@ -1,12 +1,11 @@
-# 1650 - Province1650
+# 1650 - Ch'hodos
 
 # County Title
-title = c_province1650
+title = c_ch_hodos
 
 # Settlements
 max_settlements = 1
-b_barony1650` = tribal
-b_barony1650a = temple
+b_ch_hodos = tribal
 
 # Misc
 culture = uncultured_swine

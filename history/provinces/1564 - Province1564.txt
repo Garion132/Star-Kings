@@ -1,12 +1,11 @@
-# 1564 - Province1564
+# 1564 - Sikurd
 
 # County Title
-title = c_province1564
+title = c_sikurd
 
 # Settlements
 max_settlements = 4
-b_barony1564` = tribal
-b_barony1564a = temple
+b_sikurd = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1590 - Province1590
+# 1590 - Corbos
 
 # County Title
-title = c_province1590
+title = c_corbos
 
 # Settlements
 max_settlements = 4
-b_barony1590` = tribal
-b_barony1590a = temple
+b_corbos = tribal
 
 # Misc
 culture = uncultured_swine

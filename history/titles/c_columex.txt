@@ -1,5 +1,5 @@
 1.1.1={
-	liege = k_commonality
+	liege = d_commonality
 }
 951.1.1={
 	holder = 51090

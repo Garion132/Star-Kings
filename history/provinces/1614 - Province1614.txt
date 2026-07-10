@@ -1,12 +1,11 @@
-# 1614 - Province1614
+# 1614 - Korriz
 
 # County Title
-title = c_province1614
+title = c_korriz
 
 # Settlements
 max_settlements = 4
-b_barony1614` = tribal
-b_barony1614a = temple
+b_korriz = tribal
 
 # Misc
 culture = uncultured_swine

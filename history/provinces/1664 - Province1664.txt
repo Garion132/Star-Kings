@@ -1,12 +1,11 @@
-# 1664 - Province1664
+# 1664 - Bhargebba
 
 # County Title
-title = c_province1664
+title = c_bhargebba
 
 # Settlements
 max_settlements = 5
-b_barony1664` = tribal
-b_barony1664a = temple
+b_bhargebba = tribal
 
 # Misc
 culture = uncultured_swine

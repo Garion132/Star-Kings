@@ -1,12 +1,11 @@
-# 1629 - Province1629
+# 1629 - Korriban
 
 # County Title
-title = c_province1629
+title = c_korriban
 
 # Settlements
 max_settlements = 4
-b_barony1629` = tribal
-b_barony1629a = temple
+b_korriban = tribal
 
 # Misc
 culture = uncultured_swine

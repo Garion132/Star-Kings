@@ -1,12 +1,11 @@
-# 298 - Province0298
+# 298 - Seftek
 
 # County Title
-title = c_province0298
+title = c_seftek
 
 # Settlements
 max_settlements = 2
-b_barony0298` = tribal
-b_barony0298a = temple
+b_seftek = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1488,3 +1488,31 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0548;0477;sea;;-1;-1;-1;-1;Anobis to Ord Mantell
 0489;0421;sea;;-1;-1;-1;-1;Jarnollen to Dohu
 0468;0421;sea;;-1;-1;-1;-1;Qiilura to Dohu
+1616;1599;sea;;-1;-1;-1;-1;Nicht Ka to Thule
+0283;1599;sea;;-1;-1;-1;-1;Odacer-Faustin to Thule
+1590;0283;sea;;-1;-1;-1;-1;Corbos to Odacer-Faustin
+1477;0283;sea;;-1;-1;-1;-1;Ord Radama to Odacer-Faustin
+1477;1512;sea;;-1;-1;-1;-1;Ord Radama to Thila
+1512;1533;sea;;-1;-1;-1;-1;Thila to Ferro
+1545;1533;sea;;-1;-1;-1;-1;Mirial to Ferro
+1409;1391;sea;;-1;-1;-1;-1;Praadost to Thalassia
+1409;1430;sea;;-1;-1;-1;-1;Praadost to Carosi
+1391;1430;sea;;-1;-1;-1;-1;Thalassia to Carosi
+1391;1374;sea;;-1;-1;-1;-1;Thalassia to Betha
+1391;1374;sea;;-1;-1;-1;-1;Thalassia to Betha
+1711;298;sea;;-1;-1;-1;-1;Columex to Seftek
+297;298;sea;;-1;-1;-1;-1;Kilmaulsias to Seftek
+297;287;sea;;-1;-1;-1;-1;Kilmaulsias to Paigu
+284;287;sea;;-1;-1;-1;-1;Hraki to Paigu
+1622;287;sea;;-1;-1;-1;-1;Vorzyd to Paigu
+284;1622;sea;;-1;-1;-1;-1;Hraki to Vorzyd
+1717;0892;sea;;-1;-1;-1;-1;Iliabath to Zygerria
+1717;1798;sea;;-1;-1;-1;-1;Iliabath to Almania
+1798;1843;sea;;-1;-1;-1;-1;Almania to Vaynai
+1798;1754;sea;;-1;-1;-1;-1;Almania to Yutusk
+1736;1754;sea;;-1;-1;-1;-1;Syngia to Yutusk
+1755;1754;sea;;-1;-1;-1;-1;Vanqor to Yutusk 
+1755;1736;sea;;-1;-1;-1;-1;Vanqor to Syngia 
+1868;1869;sea;;-1;-1;-1;-1;Troiken to Quermia 
+1868;1843;sea;;-1;-1;-1;-1;Troiken to Vaynai
+2004;0302;sea;;-1;-1;-1;-1;Formos to Oba Diah

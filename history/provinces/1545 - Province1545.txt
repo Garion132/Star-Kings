@@ -1,12 +1,11 @@
-# 1545 - Province1545
+# 1545 - Mirial
 
 # County Title
-title = c_province1545
+title = c_mirial
 
 # Settlements
 max_settlements = 4
-b_barony1545` = tribal
-b_barony1545a = temple
+b_mirial = tribal
 
 # Misc
 culture = uncultured_swine

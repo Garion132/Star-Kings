@@ -280,11 +280,11 @@ PROV279;Iridia;Iridia;Iridia;;Iridia;;;;;;;;;x
 PROV280;Endoraan;Endoraan;Endoraan;;Endoraan;;;;;;;;;x
 PROV281;Vortex;Vortex;Vortex;;Vortex;;;;;;;;;x
 PROV282;Xa Fel;Xa Fel;Xa Fel;;Xa Fel;;;;;;;;;x
-PROV283;Province0283;Province0283;Province0283;;Province0283;;;;;;;;;x
-PROV284;Province0284;Province0284;Province0284;;Province0284;;;;;;;;;x
+PROV283;Odacer-Faustin;Odacer-Faustin;Odacer-Faustin;;Odacer-Faustin;;;;;;;;;x
+PROV284;Hraki;Hraki;Hraki;;Hraki;;;;;;;;;x
 PROV285;Meastrinnar;Meastrinnar;Meastrinnar;;Meastrinnar;;;;;;;;;x
 PROV286;Voltare;Voltare;Voltare;;Voltare;;;;;;;;;x
-PROV287;Province0287;Province0287;Province0287;;Province0287;;;;;;;;;x
+PROV287;Paigu;Paigu;Paigu;;Paigu;;;;;;;;;x
 PROV288;Darlyn Boda;Darlyn Boda;Darlyn Boda;;Darlyn Boda;;;;;;;;;x
 PROV289;Bescane;Bescane;Bescane;;Bescane;;;;;;;;;x
 PROV290;Jaemus;Jaemus;Jaemus;;Jaemus;;;;;;;;;x
@@ -294,12 +294,12 @@ PROV293;Berrol's Donn;Berrol's Donn;Berrol's Donn;;Berrol's Donn;;;;;;;;;x
 PROV294;Sil'Lume;Sil'Lume;Sil'Lume;;Sil'Lume;;;;;;;;;x
 PROV295;J't'p'tan;J't'p'tan;J't'p'tan;;J't'p'tan;;;;;;;;;x
 PROV296;Province0296;Province0296;Province0296;;Province0296;;;;;;;;;x
-PROV297;Figg;Figg;Figg;;Figg;;;;;;;;;x	# Gerrenthum; Not a real/canon name
-PROV298;Jade'Ir;Jade'Ir;Jade'Ir;;Jade'Ir;;;;;;;;;x # Isde Naha; Not a real/canon name
+PROV297;Kilmaulsias;Kilmaulsias;Kilmaulsias;;Kilmaulsias;;;;;;;;;x
+PROV298;Seftek;Seftek;Seftek;;Seftek;;;;;;;;;x
 PROV299;Ione;Ione;Ione;;Ione;;;;;;;;;x
 PROV300;Isde Naha;Isde Naha;Isde Naha;;Isde Naha;;;;;;;;;x
 PROV301;Gerrenthum;Gerrenthum;Gerrenthum;;Gerrenthum;;;;;;;;;x	
-PROV302;Valesse II;Valesse II;Valesse II;;Valesse II;;;;;;;;;x # Isde Naha; Not a real/canon name
+PROV302;Oba Diah;Oba Diah;Oba Diah;;Oba Diah;;;;;;;;;x 
 PROV303;Province0303;Province0303;Province0303;;Province0303;;;;;;;;;x
 PROV304;Ecallaw;Ecallaw;Ecallaw;;Ecallaw;;;;;;;;;x # Kumru; Not a real/canon name
 PROV305;Manpha;Manpha;Manpha;;Manpha;;;;;;;;;x
@@ -1259,7 +1259,7 @@ PROV1258;Hapes;Hapes;Hapes;;Hapes;;;;;;;;;x
 PROV1259;Chanosant;Chanosant;Chanosant;;Chanosant;;;;;;;;;x
 PROV1260;Ordo;Ordo;Ordo;;Ordo;;;;;;;;;x
 PROV1261;Svivren;Svivren;Svivren;;Svivren;;;;;;;;;x
-PROV1262;Province1262;Province1262;Province1262;;Province1262;;;;;;;;;x
+PROV1262;Maltha Obex;Maltha Obex;Maltha Obex;;Maltha Obex;;;;;;;;;x
 PROV1263;Taanab;Taanab;Taanab;;Taanab;;;;;;;;;x
 PROV1264;Pandath;Pandath;Pandath;;Pandath;;;;;;;;;x
 PROV1265;Shedu Maad;Shedu Maad;Shedu Maad;;Shedu Maad;;;;;;;;;x
@@ -1358,7 +1358,7 @@ PROV1357;Province1357;Province1357;Province1357;;Province1357;;;;;;;;;x
 PROV1358;Province1358;Province1358;Province1358;;Province1358;;;;;;;;;x
 PROV1359;Toprawa;Toprawa;Toprawa;;Toprawa;;;;;;;;;x
 PROV1360;Gizer;Gizer;Gizer;;Gizer;;;;;;;;;x
-PROV1361;Province1361;Province1361;Province1361;;Province1361;;;;;;;;;x
+PROV1361;Eol Sha;Eol Sha;Eol Sha;;Eol Sha;;;;;;;;;x
 PROV1362;Province1362;Province1362;Province1362;;Province1362;;;;;;;;;x
 PROV1363;Farstine;Farstine;Farstine;;Farstine;;;;;;;;;x
 PROV1364;Province1364;Province1364;Province1364;;Province1364;;;;;;;;;x
@@ -1371,7 +1371,7 @@ PROV1370;Province1370;Province1370;Province1370;;Province1370;;;;;;;;;x
 PROV1371;Province1371;Province1371;Province1371;;Province1371;;;;;;;;;x
 PROV1372;Bajic;Bajic;Bajic;;Bajic;;;;;;;;;x
 PROV1373;Province1373;Province1373;Province1373;;Province1373;;;;;;;;;x
-PROV1374;Province1374;Province1374;Province1374;;Province1374;;;;;;;;;x
+PROV1374;Betha;Betha;Betha;;Betha;;;;;;;;;x
 PROV1375;Feswe Corridor;Feswe Corridor;Feswe Corridor;;Feswe Corridor;;;;;;;;;x
 PROV1376;Monor;Monor;Monor;;Monor;;;;;;;;;x
 PROV1377;Pho Ph'eah;Pho Ph'eah;Pho Ph'eah;;Pho Ph'eah;;;;;;;;;x
@@ -1388,7 +1388,7 @@ PROV1387;Bseto;Bseto;Bseto;;Bseto;;;;;;;;;x
 PROV1388;Province1388;Province1388;Province1388;;Province1388;;;;;;;;;x
 PROV1389;Province1389;Province1389;Province1389;;Province1389;;;;;;;;;x
 PROV1390;Lantillies;Lantillies;Lantillies;;Lantillies;;;;;;;;;x
-PROV1391;Province1391;Province1391;Province1391;;Province1391;;;;;;;;;x
+PROV1391;Thalassia;Thalassia;Thalassia;;Thalassia;;;;;;;;;x
 PROV1392;Il Avali;Il Avali;Il Avali;;Il Avali;;;;;;;;;x
 PROV1393;Krylon;Krylon;Krylon;;Krylon;;;;;;;;;x
 PROV1394;Druckenwell;Druckenwell;Druckenwell;;Druckenwell;;;;;;;;;x
@@ -1427,7 +1427,7 @@ PROV1426;Marrovia;Marrovia;Marrovia;;Marrovia;;;;;;;;;x
 PROV1427;Anteevy;Anteevy;Anteevy;;Anteevy;;;;;;;;;x
 PROV1428;Andalasa;Andalasa;Andalasa;;Andalasa;;;;;;;;;x
 PROV1429;Torn Station;Torn Station;Torn Station;;Torn Station;;;;;;;;;x
-PROV1430;Province1430;Province1430;Province1430;;Province1430;;;;;;;;;x
+PROV1430;Carosi;Carosi;Carosi;;Carosi;;;;;;;;;x
 PROV1431;Attahox;Attahox;Attahox;;Attahox;;;;;;;;;x
 PROV1432;Velmor;Velmor;Velmor;;Velmor;;;;;;;;;x
 PROV1433;Kromus;Kromus;Kromus;;Kromus;;;;;;;;;x
@@ -1439,7 +1439,7 @@ PROV1438;Aikhibba;Aikhibba;Aikhibba;;Aikhibba;;;;;;;;;x
 PROV1439;Zolan;Zolan;Zolan;;Zolan;;;;;;;;;x
 PROV1440;Kli'aar;Kli'aar;Kli'aar;;Kli'aar;;;;;;;;;x
 PROV1441;Kashyyyk;Kashyyyk;Kashyyyk;;Kashyyyk;;;;;;;;;x
-PROV1442;Province1442;Province1442;Province1442;;Province1442;;;;;;;;;x
+PROV1442;Ventooine;Ventooine;Ventooine;;Ventooine;;;;;;;;;x
 PROV1443;Togoria;Togoria;Togoria;;Togoria;;;;;;;;;x
 PROV1444;Province1444;Province1444;Province1444;;Province1444;;;;;;;;;x
 PROV1445;Province1445;Province1445;Province1445;;Province1445;;;;;;;;;x
@@ -1474,7 +1474,7 @@ PROV1473;Province1473;Province1473;Province1473;;Province1473;;;;;;;;;x
 PROV1474;Andosha;Andosha;Andosha;;Andosha;;;;;;;;;x
 PROV1475;Mannova;Mannova;Mannova;;Mannova;;;;;;;;;x
 PROV1476;Province1476;Province1476;Province1476;;Province1476;;;;;;;;;x
-PROV1477;Province1477;Province1477;Province1477;;Province1477;;;;;;;;;x
+PROV1477;Ord Radama;Ord Radama;Ord Radama;;Ord Radama;;;;;;;;;x
 PROV1478;Rorgam;Rorgam;Rorgam;;Rorgam;;;;;;;;;x
 PROV1479;Coachelle;Coachelle;Coachelle;;Coachelle;;;;;;;;;x
 PROV1480;Telos;Telos;Telos;;Telos;;;;;;;;;x
@@ -1508,8 +1508,8 @@ PROV1507;Chokan;Chokan;Chokan;;Chokan;;;;;;;;;x
 PROV1508;Llanic;Llanic;Llanic;;Llanic;;;;;;;;;x
 PROV1509;Province1509;Province1509;Province1509;;Province1509;;;;;;;;;x
 PROV1510;Province1510;Province1510;Province1510;;Province1510;;;;;;;;;x
-PROV1511;Tanive;Tanive;Tanive;;Tanive;;;;;;;;;x
-PROV1512;Province1512;Province1512;Province1512;;Province1512;;;;;;;;;x
+PROV1511;Tantive;Tantive;Tantive;;Tantive;;;;;;;;;x
+PROV1512;Thila;Thila;Thila;;Thila;;;;;;;;;x
 PROV1513;Kwookrr;Kwookrr;Kwookrr;;Kwookrr;;;;;;;;;x
 PROV1514;Randon;Randon;Randon;;Randon;;;;;;;;;x
 PROV1515;The Cometwash;The Cometwash;The Cometwash;;The Cometwash;;;;;;;;;x
@@ -1530,7 +1530,7 @@ PROV1529;Thape;Thape;Thape;;Thape;;;;;;;;;x
 PROV1530;Retep;Retep;Retep;;Retep;;;;;;;;;x
 PROV1531;Atorra;Atorra;Atorra;;Atorra;;;;;;;;;x
 PROV1532;Habassa;Habassa;Habassa;;Habassa;;;;;;;;;x
-PROV1533;Province1533;Province1533;Province1533;;Province1533;;;;;;;;;x
+PROV1533;Ferro;Ferro;Ferro;;Ferro;;;;;;;;;x
 PROV1534;Province1534;Province1534;Province1534;;Province1534;;;;;;;;;x
 PROV1535;Romin;Romin;Romin;;Romin;;;;;;;;;x
 PROV1536;Uogo'cor;Uogo'cor;Uogo'cor;;Uogo'cor;;;;;;;;;x
@@ -1596,7 +1596,7 @@ PROV1595;Province1595;Province1595;Province1595;;Province1595;;;;;;;;;x
 PROV1596;Karsten's World;Karsten's World;Karsten's World;;Karsten's World;;;;;;;;;x
 PROV1597;Salvara;Salvara;Salvara;;Salvara;;;;;;;;;x
 PROV1598;Province1598;Province1598;Province1598;;Province1598;;;;;;;;;x
-PROV1599;Province1599;Province1599;Province1599;;Province1599;;;;;;;;;x
+PROV1599;Thule;Thule;Thule;;Thule;;;;;;;;;x
 PROV1600;Sarka;Sarka;Sarka;;Sarka;;;;;;;;;x
 PROV1601;Province1601;Province1601;Province1601;;Province1601;;;;;;;;;x
 PROV1602;Yitabo;Yitabo;Yitabo;;Yitabo;;;;;;;;;x
@@ -1679,7 +1679,7 @@ PROV1678;Centares;Centares;Centares;Centares;;;;;;;;;x
 PROV1679;Province1679;Province1679;Province1679;;Province1679;;;;;;;;;x
 PROV1680;Vor Deo;Vor Deo;Vor Deo;;Vor Deo;;;;;;;;;x
 PROV1681;Ooo-temiuk;Ooo-temiuk;Ooo-temiuk;;Ooo-temiuk;;;;;;;;;x
-PROV1682;Province1682;Province1682;Province1682;;Province1682;;;;;;;;;x
+PROV1682;Thosa;Thosa;Thosa;;Thosa;;;;;;;;;x
 PROV1683;Province1683;Province1683;Province1683;;Province1683;;;;;;;;;x
 PROV1684;Nfolgai;Nfolgai;Nfolgai;;Nfolgai;;;;;;;;;x
 PROV1685;Province1685;Province1685;Province1685;;Province1685;;;;;;;;;x
@@ -1714,7 +1714,7 @@ PROV1713;Holess;Holess;Holess;;Holess;;;;;;;;;x
 PROV1714;Toydaria;Toydaria;Toydaria;;Toydaria;;;;;;;;;x
 PROV1715;Province1715;Province1715;Province1715;;Province1715;;;;;;;;;x
 PROV1716;Province1716;Province1716;Province1716;;Province1716;;;;;;;;;x
-PROV1717;Province1717;Province1717;Province1717;;Province1717;;;;;;;;;x
+PROV1717;Iliabath;Iliabath;Iliabath;;Iliabath;;;;;;;;;x
 PROV1718;Belderone;Belderone;Belderone;;Belderone;;;;;;;;;x
 PROV1719;Reltooine;Reltooine;Reltooine;;Reltooine;;;;;;;;;x
 PROV1720;Province1720;Province1720;Province1720;;Province1720;;;;;;;;;x
@@ -1751,8 +1751,8 @@ PROV1750;Craci;Craci;Craci;;Craci;;;;;;;;;x
 PROV1751;Province1751;Province1751;Province1751;;Province1751;;;;;;;;;x
 PROV1752;Sy Myrth;Sy Myrth;Sy Myrth;;Sy Myrth;;;;;;;;;x
 PROV1753;Tal Nami;Tal Nami;Tal Nami;;Tal Nami;;;;;;;;;x
-PROV1754;Province1754;Province1754;Province1754;;Province1754;;;;;;;;;x
-PROV1755;Province1755;Province1755;Province1755;;Province1755;;;;;;;;;x
+PROV1754;Yutusk;Yutusk;Yutusk;;Yutusk;;;;;;;;;x
+PROV1755;Vanqor;Vanqor;Vanqor;;Vanqor;;;;;;;;;x
 PROV1756;Thanium;Thanium;Thanium;;Thanium;;;;;;;;;x
 PROV1757;Ossus;Ossus;Ossus;;Ossus;;;;;;;;;x
 PROV1758;Province1758;Province1758;Province1758;;Province1758;;;;;;;;;x
@@ -1795,7 +1795,7 @@ PROV1794;Livien;Livien;Livien;;Livien;;;;;;;;;x
 PROV1795;Barseg;Barseg;Barseg;;Barseg;;;;;;;;;x
 PROV1796;Hiit;Hiit;Hiit;;Hiit;;;;;;;;;x
 PROV1797;Province1797;Province1797;Province1797;;Province1797;;;;;;;;;x
-PROV1798;Province1798;Province1798;Province1798;;Province1798;;;;;;;;;x
+PROV1798;Almania;Almania;Almania;;Almania;;;;;;;;;x
 PROV1799;Spinax;Spinax;Spinax;;Spinax;;;;;;;;;x
 PROV1800;Chandaar;Chandaar;Chandaar;;Chandaar;;;;;;;;;x
 PROV1801;Province1801;Province1801;Province1801;;Province1801;;;;;;;;;x
@@ -1840,7 +1840,7 @@ PROV1839;Province1839;Province1839;Province1839;;Province1839;;;;;;;;;x
 PROV1840;Omman;Omman;Omman;;Omman;;;;;;;;;x
 PROV1841;Arramanx;Arramanx;Arramanx;;Arramanx;;;;;;;;;x
 PROV1842;Province1842;Province1842;Province1842;;Province1842;;;;;;;;;x
-PROV1843;Province1843;Province1843;Province1843;;Province1843;;;;;;;;;x
+PROV1843;Vaynai;Vaynai;Vaynai;;Vaynai;;;;;;;;;x
 PROV1844;Estaria;Estaria;Estaria;;Estaria;;;;;;;;;x
 PROV1845;Desargorr;Desargorr;Desargorr;;Desargorr;;;;;;;;;x
 PROV1846;Iotra;Iotra;Iotra;;Iotra;;;;;;;;;x
@@ -1865,7 +1865,7 @@ PROV1864;Farana;Farana;Farana;;Farana;;;;;;;;;x
 PROV1865;Endregaad;Endregaad;Endregaad;;Endregaad;;;;;;;;;x
 PROV1866;Province1866;Province1866;Province1866;;Province1866;;;;;;;;;x
 PROV1867;Hollastin;Hollastin;Hollastin;;Hollastin;;;;;;;;;x
-PROV1868;Province1868;Province1868;Province1868;;Province1868;;;;;;;;;x
+PROV1868;Troiken;Troiken;Troiken;;Troiken;;;;;;;;;x
 PROV1869;Quermia;Quermia;Quermia;;Quermia;;;;;;;;;x
 PROV1870;Taskeed;Taskeed;Taskeed;;Taskeed;;;;;;;;;x
 PROV1871;Ocsin;Ocsin;Ocsin;;Ocsin;;;;;;;;;x
@@ -32608,3 +32608,5 @@ b_barony2046g;Barony2046g;Barony2046g;Barony2046g;;Barony2046g;;;;;;;;;x
 e_gal_republic;Galactic Republic;Galactic Republic;Galactic Republic;;Galactic Republic;;;;;;;;;x
 d_d_astan_sector;D'Astan Sector;D'Astan Sector;D'Astan Sector;;D'Astan Sector;;;;;;;;;x
 d_ganath_empire;Ganath Empire;Ganath Empire;Ganath Empire;;Ganath Empire;;;;;;;;;x
+k_zygerrian_empire;Zygerrian Empire;Zygerrian Empire;Zygerrian Empire;;Zygerrian Empire;;;;;;;;;x
+k_centrality;Centrality;Centrality;Centrality;;Centrality;;;;;;;;;x

@@ -1,12 +1,11 @@
-# 283 - Province0283
+# 283 - Odacer-Faustin
 
 # County Title
-title = c_province0283
+title = c_odacer_faustin
 
 # Settlements
 max_settlements = 2
-b_barony0283` = tribal
-b_barony0283a = temple
+b_odacer_faustin = tribal
 
 # Misc
 culture = uncultured_swine

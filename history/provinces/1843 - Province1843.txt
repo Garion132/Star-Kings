@@ -1,12 +1,11 @@
-# 1843 - Province1843
+# 1843 - Vaynai
 
 # County Title
-title = c_province1843
+title = c_vaynai
 
 # Settlements
 max_settlements = 5
-b_barony1843` = tribal
-b_barony1843a = temple
+b_vaynai = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1599 - Province1599
+# 1599 - Thule
 
 # County Title
-title = c_province1599
+title = c_thule
 
 # Settlements
 max_settlements = 4
-b_barony1599` = tribal
-b_barony1599a = temple
+b_thule = tribal
 
 # Misc
 culture = uncultured_swine

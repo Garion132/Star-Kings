@@ -1,12 +1,11 @@
-# 1391 - Province1391
+# 1391 - Thalassia
 
 # County Title
-title = c_province1391
+title = c_thalassia
 
 # Settlements
 max_settlements = 4
-b_barony1391` = tribal
-b_barony1391a = temple
+b_thalassia = tribal
 
 # Misc
 culture = uncultured_swine

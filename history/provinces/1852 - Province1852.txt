@@ -1,12 +1,11 @@
-# 1852 - Province1852
+# 1852 - Makem Te
 
 # County Title
-title = c_province1852
+title = c_makem_te
 
 # Settlements
 max_settlements = 5
-b_barony1852` = tribal
-b_barony1852a = temple
+b_makem_te = tribal
 
 # Misc
 culture = uncultured_swine

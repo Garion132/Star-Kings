@@ -378,3 +378,29 @@
 		death=yes
 	}
 }
+60150 = {
+	name= "Miraj"
+	dynasty = 79 #Scintel
+	religion = pagan
+	culture = zygerrian
+	female = yes
+	937.1.1={
+		birth=yes
+	}
+	980.1.14={
+		death=yes
+	}
+}
+60160 = {
+	name= "Lom"
+	dynasty = 81 #Pyke
+	religion = pagan
+	culture = pyke
+	female = yes
+	939.1.1={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}

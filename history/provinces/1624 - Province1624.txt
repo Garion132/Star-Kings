@@ -1,12 +1,11 @@
-# 1624 - Province1624
+# 1624 - Athiss
 
 # County Title
-title = c_province1624
+title = c_athiss
 
 # Settlements
 max_settlements = 4
-b_barony1624` = tribal
-b_barony1624a = temple
+b_athiss = tribal
 
 # Misc
 culture = uncultured_swine

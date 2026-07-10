@@ -782,3 +782,29 @@
 		death=yes
 	}
 }
+51470 = {
+	name= "Kadann" #
+	#dynasty = 
+	religion = pagan #sith
+	culture = core_worlder
+	935.1.1={
+		birth=yes
+	}
+	
+	1008.1.1={
+		death=yes
+	}
+}
+51480 = {
+	name= "Wuja" #
+	dynasty = 80 #Wojaine
+	religion = pagan #sith
+	culture = core_worlder
+	941.1.1={
+		birth=yes
+	}
+	
+	991.1.1={
+		death=yes
+	}
+}

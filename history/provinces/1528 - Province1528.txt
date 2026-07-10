@@ -1,12 +1,11 @@
-# 1528 - Province1528
+# 1528 - Listehol
 
 # County Title
-title = c_province1528
+title = c_listehol
 
 # Settlements
 max_settlements = 4
-b_barony1528` = tribal
-b_barony1528a = temple
+b_listehol = tribal
 
 # Misc
 culture = uncultured_swine

@@ -18,6 +18,9 @@
 	870.1.1={
 		birth=yes
 	}
+	890.1.1={
+		add_spouse = 1011
+	}
 	931.1.1={
 		death=yes
 	}
@@ -42,6 +45,7 @@
 	culture = core_worlder
 	father = 1010
 	mother = 1011
+	health = 8
 	898.1.1={
 		birth=yes
 	}

@@ -1,12 +1,11 @@
-# 287 - Province0287
+# 287 - Paigu
 
 # County Title
-title = c_province0287
+title = c_paigu
 
 # Settlements
 max_settlements = 3
-b_barony0287` = tribal
-b_barony0287a = temple
+b_paigu = tribal
 
 # Misc
 culture = uncultured_swine

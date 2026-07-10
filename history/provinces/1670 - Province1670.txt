@@ -1,12 +1,11 @@
-# 1670 - Province1670
+# 1670 - Jaguada
 
 # County Title
-title = c_province1670
+title = c_jaguada
 
 # Settlements
 max_settlements = 5
-b_barony1670` = tribal
-b_barony1670a = temple
+b_jaguada = tribal
 
 # Misc
 culture = uncultured_swine

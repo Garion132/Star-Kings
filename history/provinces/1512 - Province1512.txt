@@ -1,12 +1,11 @@
-# 1512 - Province1512
+# 1512 - Thila
 
 # County Title
-title = c_province1512
+title = c_thila
 
 # Settlements
 max_settlements = 4
-b_barony1512` = tribal
-b_barony1512a = temple
+b_thila = tribal
 
 # Misc
 culture = uncultured_swine

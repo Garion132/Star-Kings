@@ -1,15 +1,14 @@
-# 1868 - Province1868
+# 1868 - Troiken
 
 # County Title
-title = c_province1868
+title = c_troiken
 
 # Settlements
 max_settlements = 5
-b_barony1868` = tribal
-b_barony1868a = temple
+b_troiken = tribal
 
 # Misc
-culture = uncultured_swine
+culture = xexto
 religion = pagan
 
 # History
