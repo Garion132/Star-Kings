@@ -1,12 +1,11 @@
-# 1973 - Province1973
+# 1973 - Norval
 
 # County Title
-title = c_province1973
+title = c_norval
 
 # Settlements
 max_settlements = 6
-b_barony1973` = tribal
-b_barony1973a = temple
+b_norval = tribal
 
 # Misc
 culture = uncultured_swine

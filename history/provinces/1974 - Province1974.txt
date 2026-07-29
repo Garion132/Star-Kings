@@ -1,12 +1,11 @@
-# 1974 - Province1974
+# 1974 - Kegen
 
 # County Title
-title = c_province1974
+title = c_kegen
 
 # Settlements
 max_settlements = 6
-b_barony1974` = tribal
-b_barony1974a = temple
+b_kegen = tribal
 
 # Misc
 culture = uncultured_swine

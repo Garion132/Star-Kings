@@ -1,12 +1,11 @@
-# 418 - Province0418
+# 418 - Phelarion
 
 # County Title
-title = c_province0418
+title = c_phelarion
 
 # Settlements
 max_settlements = 4
-b_barony0418` = tribal
-b_barony0418a = temple
+b_phelarion = tribal
 
 # Misc
 culture = uncultured_swine

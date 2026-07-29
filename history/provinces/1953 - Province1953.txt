@@ -1,12 +1,11 @@
-# 1953 - Province1953
+# 1953 - Kessel
 
 # County Title
-title = c_province1953
+title = c_kessel
 
 # Settlements
 max_settlements = 6
-b_barony1953` = tribal
-b_barony1953a = temple
+b_kessel = tribal
 
 # Misc
 culture = uncultured_swine

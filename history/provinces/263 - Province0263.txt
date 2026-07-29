@@ -1,12 +1,11 @@
-# 263 - Province0263
+# 263 - Borosk
 
 # County Title
-title = c_province0263
+title = c_borosk
 
 # Settlements
 max_settlements = 3
-b_barony0263` = tribal
-b_barony0263a = temple
+b_borosk = tribal
 
 # Misc
 culture = uncultured_swine

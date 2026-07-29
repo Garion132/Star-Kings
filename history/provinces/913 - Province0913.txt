@@ -8,7 +8,7 @@ max_settlements = 3
 b_hok = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gran
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 238 - Province0238
+# 238 - Endex
 
 # County Title
-title = c_province0238
+title = c_endex
 
 # Settlements
 max_settlements = 3
-b_barony0238` = tribal
-b_barony0238a = temple
+b_endex = tribal
 
 # Misc
 culture = uncultured_swine

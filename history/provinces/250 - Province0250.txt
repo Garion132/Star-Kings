@@ -1,12 +1,11 @@
-# 250 - Province0250
+# 250 - Ompersan
 
 # County Title
-title = c_province0250
+title = c_ompersan
 
 # Settlements
 max_settlements = 3
-b_barony0250` = tribal
-b_barony0250a = temple
+b_ompersan = tribal
 
 # Misc
 culture = uncultured_swine

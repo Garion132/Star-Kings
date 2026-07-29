@@ -1,12 +1,11 @@
-# 455 - Province0455
+# 455 - Parwa
 
 # County Title
-title = c_province0455
+title = c_parwa
 
 # Settlements
 max_settlements = 3
-b_barony0455` = tribal
-b_barony0455a = temple
+b_parwa = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1372 - Province1372
+# 1372 - Bajic
 
 # County Title
-title = c_province1372
+title = c_bajic
 
 # Settlements
 max_settlements = 4
-b_barony1372` = tribal
-b_barony1372a = temple
+b_bajic = tribal
 
 # Misc
 culture = uncultured_swine

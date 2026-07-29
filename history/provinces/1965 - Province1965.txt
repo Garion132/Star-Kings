@@ -1,12 +1,11 @@
-# 1965 - Province1965
+# 1965 - Delacrix
 
 # County Title
-title = c_province1965
+title = c_delacrix
 
 # Settlements
 max_settlements = 6
-b_barony1965` = tribal
-b_barony1965a = temple
+b_delacrix = tribal
 
 # Misc
 culture = uncultured_swine

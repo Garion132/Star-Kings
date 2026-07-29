@@ -1,15 +1,14 @@
-# 314 - Province0314
+# 314 - Malanose
 
 # County Title
-title = c_province0314
+title = c_malanose
 
 # Settlements
 max_settlements = 3
-b_barony0314` = tribal
-b_barony0314a = temple
+b_malanose = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gree
 religion = pagan
 
 # History

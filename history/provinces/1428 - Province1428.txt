@@ -1,12 +1,11 @@
-# 1428 - Province1428
+# 1428 - Andasala
 
 # County Title
-title = c_province1428
+title = c_andasala
 
 # Settlements
 max_settlements = 1
-b_barony1428` = tribal
-b_barony1428a = temple
+b_andasala = tribal
 
 # Misc
 culture = uncultured_swine

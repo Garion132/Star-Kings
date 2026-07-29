@@ -1,11 +1,11 @@
-# 362 - Province0362
+# 362 - Kabaira
 
 # County Title
-title = c_province0362
+title = c_kabaira
 
 # Settlements
 max_settlements = 1
-b_barony0362` = tribal
+b_kabaira = tribal
 
 # Misc
 culture = uncultured_swine

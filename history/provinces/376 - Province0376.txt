@@ -1,12 +1,11 @@
-# 376 - Province0376
+# 376 - Gabredor
 
 # County Title
-title = c_province0376
+title = c_gabredor
 
 # Settlements
 max_settlements = 4
-b_barony0376` = tribal
-b_barony0376a = temple
+b_gabredor = tribal
 
 # Misc
 culture = uncultured_swine

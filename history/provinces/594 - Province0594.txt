@@ -1,12 +1,11 @@
-# 594 - Province0594
+# 594 - Plooma
 
 # County Title
-title = c_province0594
+title = c_plooma
 
 # Settlements
 max_settlements = 1
-b_barony0594` = tribal
-b_barony0594a = temple
+b_plooma = tribal
 
 # Misc
 culture = uncultured_swine

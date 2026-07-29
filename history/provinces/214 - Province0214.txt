@@ -1,12 +1,11 @@
-# 214 - Province0214
+# 214 - Dactruria
 
 # County Title
-title = c_province0214
+title = c_dactruria
 
 # Settlements
 max_settlements = 3
-b_barony0214` = tribal
-b_barony0214a = temple
+b_dactruria = tribal
 
 # Misc
 culture = uncultured_swine

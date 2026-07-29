@@ -1,12 +1,11 @@
-# 371 - Province0371
+# 371 - Wistril
 
 # County Title
-title = c_province0371
+title = c_wistril
 
 # Settlements
 max_settlements = 4
-b_barony0371` = tribal
-b_barony0371a = temple
+b_wistril = tribal
 
 # Misc
 culture = uncultured_swine

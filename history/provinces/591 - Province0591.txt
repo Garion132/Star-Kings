@@ -1,12 +1,11 @@
-# 591 - Province0591
+# 591 - Plesstil
 
 # County Title
-title = c_province0591
+title = c_plesstil
 
 # Settlements
 max_settlements = 1
-b_barony0591` = tribal
-b_barony0591a = temple
+b_plesstil = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 441 - Province0441
+# 441 - Todouhar
 
 # County Title
-title = c_province0441
+title = c_todouhar
 
 # Settlements
 max_settlements = 4
-b_barony0441` = tribal
-b_barony0441a = temple
+b_todouhar = tribal
 
 # Misc
 culture = uncultured_swine

@@ -8,7 +8,7 @@ max_settlements = 4
 b_colla = tribal
 
 # Misc
-culture = uncultured_swine
+culture = colicoid
 religion = pagan
 
 # History

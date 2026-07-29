@@ -1,15 +1,14 @@
-# 168 - Province0168
+# 168 - Brodo Asogi
 
 # County Title
-title = c_province0168
+title = c_brodo_asogi
 
 # Settlements
 max_settlements = 5
-b_barony0168` = tribal
-b_barony0168a = temple
+b_brodo_asogi = tribal
 
 # Misc
-culture = uncultured_swine
+culture = asogian
 religion = pagan
 
 # History

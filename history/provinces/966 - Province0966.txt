@@ -1,12 +1,11 @@
-# 966 - Province0966
+# 966 - Jutrand
 
 # County Title
-title = c_province0966
+title = c_jutrand
 
 # Settlements
 max_settlements = 1
-b_barony0966` = tribal
-b_barony0966a = temple
+b_jutrand = tribal
 
 # Misc
 culture = uncultured_swine

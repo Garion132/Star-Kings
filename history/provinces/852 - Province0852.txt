@@ -1,15 +1,14 @@
-# 852 - Province0852
+# 852 - Clak'dor
 
 # County Title
-title = c_province0852
+title = c_clak_dor
 
 # Settlements
 max_settlements = 3
-b_barony0852` = tribal
-b_barony0852a = temple
+b_clak_dor = tribal
 
 # Misc
-culture = uncultured_swine
+culture = bith
 religion = pagan
 
 # History

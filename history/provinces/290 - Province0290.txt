@@ -1,12 +1,11 @@
-# 290 - Province0290
+# 290 - Jaemus
 
 # County Title
-title = c_province0290
+title = c_jaemus
 
 # Settlements
 max_settlements = 3
-b_barony0290` = tribal
-b_barony0290a = temple
+b_jaemus = tribal
 
 # Misc
 culture = uncultured_swine

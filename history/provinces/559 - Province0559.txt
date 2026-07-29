@@ -1,12 +1,11 @@
-# 559 - Province0559
+# 559 - Kesmere
 
 # County Title
-title = c_province0559
+title = c_kesmere
 
 # Settlements
 max_settlements = 2
-b_barony0559` = tribal
-b_barony0559a = temple
+b_kesmere = tribal
 
 # Misc
 culture = uncultured_swine

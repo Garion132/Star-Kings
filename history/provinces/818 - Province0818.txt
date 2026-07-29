@@ -1,12 +1,11 @@
-# 818 - Province0818
+# 818 - Averam
 
 # County Title
-title = c_province0818
+title = c_averam
 
 # Settlements
 max_settlements = 3
-b_barony0818` = tribal
-b_barony0818a = temple
+b_averam = tribal
 
 # Misc
 culture = uncultured_swine

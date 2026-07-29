@@ -1,15 +1,14 @@
-# 1342 - Province1342
+# 1342 - Stend
 
 # County Title
-title = c_province1342
+title = c_stend
 
 # Settlements
 max_settlements = 4
-b_barony1342` = tribal
-b_barony1342a = temple
+b_stend = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gran
 religion = pagan
 
 # History

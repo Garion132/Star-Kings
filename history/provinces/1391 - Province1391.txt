@@ -8,7 +8,7 @@ max_settlements = 4
 b_thalassia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = thalassian
 religion = pagan
 
 # History

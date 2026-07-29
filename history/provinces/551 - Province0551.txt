@@ -1,12 +1,11 @@
-# 551 - Province0551
+# 551 - Trassitan
 
 # County Title
-title = c_province0551
+title = c_trassitan
 
 # Settlements
 max_settlements = 3
-b_barony0551` = tribal
-b_barony0551a = temple
+b_trassitan = tribal
 
 # Misc
 culture = uncultured_swine

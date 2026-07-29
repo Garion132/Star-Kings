@@ -5,7 +5,7 @@ title = c_obredaan
 
 # Settlements
 max_settlements = 4
-b_bobredaan = tribal
+b_obredaan = tribal
 
 # Misc
 culture = uncultured_swine

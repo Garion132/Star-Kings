@@ -1,15 +1,14 @@
-# 1389 - Province1389
+# 1389 - Alzoc
 
 # County Title
-title = c_province1389
+title = c_alzoc
 
 # Settlements
 max_settlements = 4
-b_barony1389` = tribal
-b_barony1389a = temple
+b_alzoc = tribal
 
 # Misc
-culture = uncultured_swine
+culture = talz
 religion = pagan
 
 # History

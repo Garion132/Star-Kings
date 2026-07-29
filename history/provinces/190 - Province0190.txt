@@ -1,12 +1,11 @@
-# 190 - Province0190
+# 190 - Cantras Gola
 
 # County Title
-title = c_province0190
+title = c_cantras_gola
 
 # Settlements
 max_settlements = 3
-b_barony0190` = tribal
-b_barony0190a = temple
+b_cantras_gola = tribal
 
 # Misc
 culture = uncultured_swine

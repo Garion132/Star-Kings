@@ -1,12 +1,11 @@
-# 1030 - Province1030
+# 1030 - Samhar
 
 # County Title
-title = c_province1030
+title = c_samhar
 
 # Settlements
 max_settlements = 4
-b_barony1030` = tribal
-b_barony1030a = temple
+b_samhar = tribal
 
 # Misc
 culture = uncultured_swine

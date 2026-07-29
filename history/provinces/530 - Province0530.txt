@@ -1,15 +1,14 @@
-# 530 - Province0530
+# 530 - Kinyen
 
 # County Title
-title = c_province0530
+title = c_kinyen
 
 # Settlements
 max_settlements = 1
-b_barony0530` = tribal
-b_barony0530a = temple
+b_kinyen = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gran
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 1300 - Province1300
+# 1300 - Vohai
 
 # County Title
-title = c_province1300
+title = c_vohai
 
 # Settlements
 max_settlements = 4
-b_barony1300` = tribal
-b_barony1300a = temple
+b_vohai = tribal
 
 # Misc
 culture = uncultured_swine

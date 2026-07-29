@@ -1,12 +1,11 @@
-# 1278 - Province1278
+# 1278 - Maryx Minor
 
 # County Title
-title = c_province1278
+title = c_maryx_minor
 
 # Settlements
 max_settlements = 4
-b_barony1278` = tribal
-b_barony1278a = temple
+b_maryx_minor = temple
 
 # Misc
 culture = uncultured_swine

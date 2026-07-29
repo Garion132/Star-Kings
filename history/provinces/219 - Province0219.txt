@@ -1,12 +1,11 @@
-# 219 - Province0219
+# 219 - Churruma
 
 # County Title
-title = c_province0219
+title = c_churruma
 
 # Settlements
 max_settlements = 3
-b_barony0219` = tribal
-b_barony0219a = temple
+b_churruma = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 834 - Province0834
+# 834 - Eriadu
 
 # County Title
-title = c_province0834
+title = c_eriadu
 
 # Settlements
 max_settlements = 3
-b_barony0834` = tribal
-b_barony0834a = temple
+b_eriadu = tribal
 
 # Misc
 culture = uncultured_swine

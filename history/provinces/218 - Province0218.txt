@@ -1,12 +1,11 @@
-# 218 - Province0218
+# 218 - Gelda
 
 # County Title
-title = c_province0218
+title = c_gelda
 
 # Settlements
 max_settlements = 3
-b_barony0218` = tribal
-b_barony0218a = temple
+b_gelda = tribal
 
 # Misc
 culture = uncultured_swine

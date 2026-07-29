@@ -1,12 +1,11 @@
-# 208 - Province0208
+# 208 - Delephr
 
 # County Title
-title = c_province0208
+title = c_delephr
 
 # Settlements
 max_settlements = 3
-b_barony0208` = tribal
-b_barony0208a = temple
+b_delephr = tribal
 
 # Misc
 culture = uncultured_swine

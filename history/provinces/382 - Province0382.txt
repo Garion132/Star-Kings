@@ -1,15 +1,14 @@
-# 382 - Province0382
+# 382 - Pantora
 
 # County Title
-title = c_province0382
+title = c_pantora
 
 # Settlements
 max_settlements = 1
-b_barony0382` = tribal
-b_barony0382a = temple
+b_pantora = tribal
 
 # Misc
-culture = uncultured_swine
+culture = pantoran
 religion = pagan
 
 # History

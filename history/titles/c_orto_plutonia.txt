@@ -1,0 +1,6 @@
+1.1.1={
+	liege = d_pantoran_assembly
+}
+978.1.1={
+	liege = e_gal_republic
+}

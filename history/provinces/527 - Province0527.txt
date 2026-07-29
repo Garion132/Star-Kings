@@ -1,12 +1,11 @@
-# 527 - Province0527
+# 527 - Sinsang
 
 # County Title
-title = c_province0527
+title = c_sinsang
 
 # Settlements
 max_settlements = 5
-b_barony0527` = tribal
-b_barony0527a = temple
+b_sinsang = tribal
 
 # Misc
 culture = uncultured_swine

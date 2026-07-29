@@ -1,15 +1,14 @@
-# 324 - Province0324
+# 324 - Licha In
 
 # County Title
-title = c_province0324
+title = c_licha_in
 
 # Settlements
 max_settlements = 3
-b_barony0324` = tribal
-b_barony0324a = temple
+b_licha_in = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gree
 religion = pagan
 
 # History

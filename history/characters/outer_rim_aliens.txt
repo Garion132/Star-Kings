@@ -252,7 +252,19 @@
 		death=yes
 	}
 }
-60090 = {
+60092 = {
+	name= "Kharrus" # 
+	#dynasty = #
+	religion = pagan
+	culture = gran
+	921.1.1={
+		birth=yes
+	}
+	978.1.1={
+		death=yes
+	}
+}
+60095 = {
 	name= "Toonbuck" # 
 	dynasty = 44#Toora
 	religion = pagan
@@ -401,6 +413,167 @@
 		birth=yes
 	}
 	980.1.1={
+		death=yes
+	}
+}
+60170 = {
+	name= "Grebleips"
+	#dynasty =  #
+	religion = pagan
+	culture = asogian
+	939.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+60175 = {
+	name= "Horox"
+	dynasty = 84 # Ryyder
+	religion = pagan
+	culture = anx
+	928.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+60176 = {
+	name= "Zo"
+	dynasty = 85 # Howler
+	religion = pagan
+	culture = anx
+	942.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+60180 = {
+	name= "Nikkos"
+	dynasty = 89 # Tyris
+	religion = pagan
+	culture = anzati
+	942.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+60190 = {
+	name= "Chi"
+	dynasty = 90 # Cho
+	religion = pagan
+	culture = pantoran
+	931.1.1={
+		birth=yes
+	}
+	978.1.1={
+		death=yes
+	}
+}
+60191 = {
+	name= "Notluwiski"
+	dynasty = 91 # Papanoida
+	religion = pagan
+	culture = pantoran
+	931.1.1={
+		birth=yes
+	}
+	1009.1.1={
+		death=yes
+	}
+}
+60192 = {
+	name= "Ion"
+	dynasty = 91 # Papanoida
+	religion = pagan
+	culture = pantoran
+	father = 60191
+	962.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+60193 = {
+	name= "Che Amanwe"
+	dynasty = 91 # Papanoida
+	religion = pagan
+	culture = pantoran
+	father = 60191
+	female = yes
+	964.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+60194 = {
+	name= "Chi Eekway"
+	dynasty = 91 # Papanoida
+	religion = pagan
+	culture = pantoran
+	father = 60191
+	female = yes
+	965.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+60200 = {
+	name= "Dodra"
+	dynasty = 95 # F'ass
+	religion = pagan
+	culture = bith
+	931.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+60210 = {
+	name= "Beolars"
+	dynasty = 96 # Bribbs
+	religion = pagan
+	culture = bith
+	931.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+60211 = {
+	name= "Siin"
+	dynasty = 97 # Suub
+	religion = pagan
+	culture = bith
+	931.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+60212 = {
+	name= "Sian"
+	dynasty = 98 # Tevv
+	religion = pagan
+	culture = bith
+	961.1.1={
+		birth=yes
+	}
+	1030.1.1={
 		death=yes
 	}
 }

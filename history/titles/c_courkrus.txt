@@ -1,0 +1,7 @@
+960.1.1 = {
+	holder = 103865
+	liege = d_eyttyrmin_batiiv
+}
+991.1.1={
+	liege = e_gal_republic
+}

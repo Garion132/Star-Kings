@@ -1,12 +1,11 @@
-# 2004 - Province2004
+# 2004 - Formos
 
 # County Title
-title = c_province2004
+title = c_formos
 
 # Settlements
 max_settlements = 6
-b_barony2004` = tribal
-b_barony2004a = temple
+b_formos = tribal
 
 # Misc
 culture = uncultured_swine

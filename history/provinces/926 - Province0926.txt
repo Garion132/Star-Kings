@@ -1,12 +1,11 @@
-# 926 - Province0926
+# 926 - Tanta Aurek
 
 # County Title
-title = c_province0926
+title = c_tanta_aurek
 
 # Settlements
 max_settlements = 2
-b_barony0926` = tribal
-b_barony0926a = temple
+b_tanta_aurek = tribal
 
 # Misc
 culture = uncultured_swine

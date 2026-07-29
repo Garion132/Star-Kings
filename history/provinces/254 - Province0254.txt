@@ -1,12 +1,11 @@
-# 254 - Province0254
+# 254 - Capza
 
 # County Title
-title = c_province0254
+title = c_capza
 
 # Settlements
 max_settlements = 3
-b_barony0254` = tribal
-b_barony0254a = temple
+b_capza = tribal
 
 # Misc
 culture = uncultured_swine

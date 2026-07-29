@@ -1,12 +1,11 @@
-# 289 - Province0289
+# 289 - Bescane
 
 # County Title
-title = c_province0289
+title = c_bescane
 
 # Settlements
 max_settlements = 3
-b_barony0289` = tribal
-b_barony0289a = temple
+b_bescane = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 561 - Province0561
+# 561 - Anx Minor
 
 # County Title
-title = c_province0561
+title = c_anx_minor
 
 # Settlements
 max_settlements = 2
-b_barony0561` = tribal
-b_barony0561a = temple
+b_anx_minor = tribal
 
 # Misc
-culture = uncultured_swine
+culture = anx
 religion = pagan
 
 # History

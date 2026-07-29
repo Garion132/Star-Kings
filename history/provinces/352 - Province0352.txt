@@ -1,12 +1,11 @@
-# 352 - Province0352
+# 352 - Verisin
 
 # County Title
-title = c_province0352
+title = c_verisin
 
 # Settlements
 max_settlements = 2
-b_barony0352` = tribal
-b_barony0352a = temple
+b_verisin = tribal
 
 # Misc
 culture = uncultured_swine

@@ -8,7 +8,7 @@ max_settlements = 4
 b_drackmar = tribal
 
 # Misc
-culture = uncultured_swine
+culture = drackmarian
 religion = pagan
 
 # History

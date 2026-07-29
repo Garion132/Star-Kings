@@ -1,12 +1,11 @@
-# 1378 - Province1378
+# 1378 - Spice Terminus
 
 # County Title
-title = c_province1378
+title = c_spice_terminus
 
 # Settlements
 max_settlements = 4
-b_barony1378` = tribal
-b_barony1378a = temple
+b_spice_terminus = tribal
 
 # Misc
 culture = uncultured_swine

@@ -2,5 +2,5 @@
 	liege = e_gal_republic
 }
 968.1.1 = {
-	holder = 60100
+	holder = 60095
 }

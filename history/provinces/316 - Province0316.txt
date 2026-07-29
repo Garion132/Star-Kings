@@ -1,12 +1,11 @@
-# 316 - Province0316
+# 316 - Ord Sedra
 
 # County Title
-title = c_province0316
+title = c_ord_sedra
 
 # Settlements
 max_settlements = 3
-b_barony0316` = tribal
-b_barony0316a = temple
+b_ord_sedra = tribal
 
 # Misc
 culture = uncultured_swine

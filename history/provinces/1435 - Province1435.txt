@@ -1,12 +1,11 @@
-# 1435 - Province1435
+# 1435 - Bahalian
 
 # County Title
-title = c_province1435
+title = c_bahalian
 
 # Settlements
 max_settlements = 2
-b_barony1435` = tribal
-b_barony1435a = temple
+b_bahalian = tribal
 
 # Misc
 culture = uncultured_swine

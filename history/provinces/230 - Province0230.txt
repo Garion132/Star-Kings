@@ -1,12 +1,11 @@
-# 230 - Province0230
+# 230 - Dolis
 
 # County Title
-title = c_province0230
+title = c_dolis
 
 # Settlements
 max_settlements = 3
-b_barony0230` = tribal
-b_barony0230a = temple
+b_dolis = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 503 - Province0503
+# 503 - Gree
 
 # County Title
-title = c_province0503
+title = c_gree
 
 # Settlements
 max_settlements = 1
-b_barony0503` = tribal
-b_barony0503a = temple
+b_gree = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gree
 religion = pagan
 
 # History

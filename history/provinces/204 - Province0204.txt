@@ -1,12 +1,11 @@
-# 204 - Province0204
+# 204 - Ryloon
 
 # County Title
-title = c_province0204
+title = c_ryloon
 
 # Settlements
 max_settlements = 3
-b_barony0204` = tribal
-b_barony0204a = temple
+b_ryloon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1016 - Province1016
+# 1016 - Sanrafsix
 
 # County Title
-title = c_province1016
+title = c_sanrafsix
 
 # Settlements
 max_settlements = 3
-b_barony1016` = tribal
-b_barony1016a = temple
+b_sanrafsix = tribal
 
 # Misc
 culture = uncultured_swine

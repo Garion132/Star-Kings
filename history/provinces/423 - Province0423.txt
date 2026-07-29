@@ -1,12 +1,11 @@
-# 423 - Province0423
+# 423 - Angor
 
 # County Title
-title = c_province0423
+title = c_angor
 
 # Settlements
 max_settlements = 4
-b_barony0423` = tribal
-b_barony0423a = temple
+b_angor = tribal
 
 # Misc
 culture = uncultured_swine

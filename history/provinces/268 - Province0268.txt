@@ -1,12 +1,11 @@
-# 268 - Province0268
+# 268 - Entralla
 
 # County Title
-title = c_province0268
+title = c_entralla
 
 # Settlements
 max_settlements = 3
-b_barony0268` = tribal
-b_barony0268a = temple
+b_entralla = tribal
 
 # Misc
 culture = uncultured_swine

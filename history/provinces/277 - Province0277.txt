@@ -1,12 +1,11 @@
-# 277 - Province0277
+# 277 - Sartinaynian
 
 # County Title
-title = c_province0277
+title = c_sartinaynian
 
 # Settlements
 max_settlements = 3
-b_barony0277` = tribal
-b_barony0277a = temple
+b_sartinaynian = tribal
 
 # Misc
 culture = uncultured_swine

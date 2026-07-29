@@ -1,12 +1,11 @@
-# 274 - Province0274
+# 274 - Prefsbelt
 
 # County Title
-title = c_province0274
+title = c_prefsbelt
 
 # Settlements
 max_settlements = 2
-b_barony0274` = tribal
-b_barony0274a = temple
+b_prefsbelt = tribal
 
 # Misc
 culture = uncultured_swine

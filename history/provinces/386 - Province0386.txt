@@ -1,12 +1,11 @@
-# 386 - Province0386
+# 386 - Courkrus
 
 # County Title
-title = c_province0386
+title = c_courkrus
 
 # Settlements
 max_settlements = 2
-b_barony0386` = tribal
-b_barony0386a = temple
+b_courkrus = tribal
 
 # Misc
 culture = uncultured_swine

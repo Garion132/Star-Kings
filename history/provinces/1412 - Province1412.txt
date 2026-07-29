@@ -1,12 +1,11 @@
-# 1412 - Province1412
+# 1412 - Reuss
 
 # County Title
-title = c_province1412
+title = c_reuss
 
 # Settlements
 max_settlements = 4
-b_barony1412` = tribal
-b_barony1412a = temple
+b_reuss = tribal
 
 # Misc
 culture = uncultured_swine

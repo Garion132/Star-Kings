@@ -1,12 +1,11 @@
-# 1510 - Province1510
+# 1510 - Nedij
 
 # County Title
-title = c_province1510
+title = c_nedij
 
 # Settlements
 max_settlements = 2
-b_barony1510` = tribal
-b_barony1510a = temple
+b_nedij = tribal
 
 # Misc
 culture = uncultured_swine

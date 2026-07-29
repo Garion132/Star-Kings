@@ -1,0 +1,4 @@
+961.1.1 = {
+	holder = 51510
+	liege = k_tenloss_syndicate
+}

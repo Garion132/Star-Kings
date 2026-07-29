@@ -1,12 +1,11 @@
-# 816 - Province0816
+# 816 - Bortras
 
 # County Title
-title = c_province0816
+title = c_bortras
 
 # Settlements
 max_settlements = 2
-b_barony0816` = tribal
-b_barony0816a = temple
+b_bortras = tribal
 
 # Misc
 culture = uncultured_swine

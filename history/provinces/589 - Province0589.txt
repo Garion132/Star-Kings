@@ -1,12 +1,11 @@
-# 589 - Province0589
+# 589 - Veragi
 
 # County Title
-title = c_province0589
+title = c_veragi
 
 # Settlements
 max_settlements = 5
-b_barony0589` = tribal
-b_barony0589a = temple
+b_veragi = tribal
 
 # Misc
 culture = uncultured_swine

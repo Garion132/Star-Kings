@@ -1,12 +1,11 @@
-# 917 - Province0917
+# 917 - Cmaoli Di
 
 # County Title
-title = c_province0917
+title = c_cmaoli_di
 
 # Settlements
 max_settlements = 3
-b_barony0917` = tribal
-b_barony0917a = temple
+b_cmaoli_di = tribal
 
 # Misc
 culture = uncultured_swine

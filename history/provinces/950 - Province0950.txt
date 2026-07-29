@@ -1,12 +1,11 @@
-# 950 - Province0950
+# 950 - Aquilaris
 
 # County Title
-title = c_province0950
+title = c_aquilaris
 
 # Settlements
 max_settlements = 3
-b_barony0950` = tribal
-b_barony0950a = temple
+b_aquilaris = tribal
 
 # Misc
 culture = uncultured_swine

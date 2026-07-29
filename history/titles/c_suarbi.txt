@@ -1,0 +1,4 @@
+967.1.1={
+	holder = 60180
+	liege = d_jensaari_order
+}

@@ -1,12 +1,11 @@
-# 472 - Province0472
+# 472 - Dantooine
 
 # County Title
-title = c_province0472
+title = c_dantooine
 
 # Settlements
 max_settlements = 4
-b_barony0472` = tribal
-b_barony0472a = temple
+b_dantooine = tribal
 
 # Misc
 culture = uncultured_swine

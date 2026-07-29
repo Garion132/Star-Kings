@@ -1,12 +1,11 @@
-# 280 - Province0280
+# 280 - Endoraan
 
 # County Title
-title = c_province0280
+title = c_endoraan
 
 # Settlements
 max_settlements = 2
-b_barony0280` = tribal
-b_barony0280a = temple
+b_endoraan = tribal
 
 # Misc
 culture = uncultured_swine

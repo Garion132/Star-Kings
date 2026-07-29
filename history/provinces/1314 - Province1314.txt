@@ -1,12 +1,11 @@
-# 1314 - Province1314
+# 1314 - Elshandruu Pica
 
 # County Title
-title = c_province1314
+title = c_elshandruu_pica
 
 # Settlements
 max_settlements = 1
-b_barony1314` = tribal
-b_barony1314a = temple
+b_elshandruu_pica = tribal
 
 # Misc
 culture = uncultured_swine

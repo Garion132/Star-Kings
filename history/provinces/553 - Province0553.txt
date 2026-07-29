@@ -1,15 +1,14 @@
-# 553 - Province0553
+# 553 - Revyia
 
 # County Title
-title = c_province0553
+title = c_revyia
 
 # Settlements
 max_settlements = 5
-b_barony0553` = tribal
-b_barony0553a = temple
+b_revyia = tribal
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = revwiens
+religion = pagan #Tyia-light side
 
 # History

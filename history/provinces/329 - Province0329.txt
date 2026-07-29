@@ -1,12 +1,11 @@
-# 329 - Province0329
+# 329 - Talofan
 
 # County Title
-title = c_province0329
+title = c_talofan
 
 # Settlements
 max_settlements = 4
-b_barony0329` = tribal
-b_barony0329a = temple
+b_talofan = tribal
 
 # Misc
 culture = uncultured_swine

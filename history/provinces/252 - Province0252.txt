@@ -1,12 +1,11 @@
-# 252 - Province0252
+# 252 -Varvrona
 
 # County Title
-title = c_province0252
+title = c_varvrona
 
 # Settlements
 max_settlements = 3
-b_barony0252` = tribal
-b_barony0252a = temple
+b_varvrona = tribal
 
 # Misc
 culture = uncultured_swine

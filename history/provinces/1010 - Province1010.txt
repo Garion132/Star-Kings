@@ -1,12 +1,11 @@
-# 1010 - Province1010
+# 1010 - Syned
 
 # County Title
-title = c_province1010
+title = c_syned
 
 # Settlements
 max_settlements = 3
-b_barony1010` = tribal
-b_barony1010a = temple
+b_syned = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 366 - Province0366
+# 366 - Orto Plutonia
 
 # County Title
-title = c_province0366
+title = c_orto_plutonia
 
 # Settlements
 max_settlements = 4
-b_barony0366` = tribal
-b_barony0366a = temple
+b_orto_plutonia = tribal
 
 # Misc
-culture = uncultured_swine
+culture = talz
 religion = pagan
 
 # History

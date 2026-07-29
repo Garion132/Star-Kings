@@ -1,0 +1,12 @@
+1.1.1={
+	liege = k_commerce_guild
+}
+967.1.1={
+	holder = 60210
+}
+989.1.1={
+	holder = 60211
+}
+1000.1.1={
+	holder = 60212
+}

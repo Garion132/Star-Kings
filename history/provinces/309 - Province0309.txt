@@ -1,12 +1,11 @@
-# 309 - Province0309
+# 309 - Anorelga
 
 # County Title
-title = c_province0309
+title = c_anorelga
 
 # Settlements
 max_settlements = 3
-b_barony0309` = tribal
-b_barony0309a = temple
+b_anorelga = tribal
 
 # Misc
 culture = uncultured_swine

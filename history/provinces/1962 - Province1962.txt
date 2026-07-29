@@ -1,15 +1,14 @@
-# 1962 - Province1962
+# 1962 - Honoghr
 
 # County Title
-title = c_province1962
+title = c_honoghr
 
 # Settlements
 max_settlements = 3
-b_barony1962` = tribal
-b_barony1962a = temple
+b_honoghr = tribal
 
 # Misc
-culture = uncultured_swine
+culture = noghri
 religion = pagan
 
 # History

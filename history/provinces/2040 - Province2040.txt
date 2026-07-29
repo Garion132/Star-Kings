@@ -1,12 +1,11 @@
-# 2040 - Province2040
+# 2040 - Aduba
 
 # County Title
-title = c_province2040
+title = c_aduba
 
 # Settlements
 max_settlements = 3
-b_barony2040` = tribal
-b_barony2040a = temple
+b_aduba = tribal
 
 # Misc
 culture = uncultured_swine

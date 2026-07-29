@@ -1,12 +1,11 @@
-# 932 - Province0932
+# 932 - Darkknell
 
 # County Title
-title = c_province0932
+title = c_darkknell
 
 # Settlements
 max_settlements = 3
-b_barony0932` = tribal
-b_barony0932a = temple
+b_darkknell = tribal
 
 # Misc
 culture = uncultured_swine

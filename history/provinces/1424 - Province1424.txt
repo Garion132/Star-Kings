@@ -1,12 +1,11 @@
-# 1424 - Province1424
+# 1424 - Karazak
 
 # County Title
-title = c_province1424
+title = c_karazak
 
 # Settlements
 max_settlements = 4
-b_barony1424` = tribal
-b_barony1424a = temple
+b_karazak = tribal
 
 # Misc
 culture = uncultured_swine

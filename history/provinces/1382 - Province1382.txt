@@ -1,12 +1,11 @@
-# 1382 - Province1382
+# 1382 - Vergesso
 
 # County Title
-title = c_province1382
+title = c_vergesso
 
 # Settlements
 max_settlements = 4
-b_barony1382` = tribal
-b_barony1382a = temple
+b_vergesso = tribal
 
 # Misc
 culture = uncultured_swine

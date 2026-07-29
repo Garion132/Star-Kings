@@ -1,12 +1,11 @@
-# 1315 - Province1315
+# 1315 - Suarbi
 
 # County Title
-title = c_province1315
+title = c_suarbi
 
 # Settlements
 max_settlements = 4
-b_barony1315` = tribal
-b_barony1315a = temple
+b_suarbi = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_tayan_league
+}
+964.1.1 = {
+	holder = 60092
+}

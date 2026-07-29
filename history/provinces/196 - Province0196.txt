@@ -1,12 +1,11 @@
-# 196 - Province0196
+# 196 - Vexta
 
 # County Title
-title = c_province0196
+title = c_vexta
 
 # Settlements
 max_settlements = 3
-b_barony0196` = tribal
-b_barony0196a = temple
+b_vexta = tribal
 
 # Misc
 culture = uncultured_swine

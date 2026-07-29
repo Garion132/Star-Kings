@@ -1,12 +1,11 @@
-# 234 - Province0234
+# 234 - Bextar
 
 # County Title
-title = c_province0234
+title = c_bextar
 
 # Settlements
 max_settlements = 3
-b_barony0234` = tribal
-b_barony0234a = temple
+b_bextar = tribal
 
 # Misc
 culture = uncultured_swine

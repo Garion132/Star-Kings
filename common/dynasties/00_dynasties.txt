@@ -322,3 +322,71 @@
 	name="Pyke"
 	culture="pyke"
 }
+82={
+	name="Raquoran"
+	culture="core_worlder"
+}
+83={
+	name="Trentacal"
+	culture="core_worlder"
+}
+84={
+	name="Ryyder"
+	culture="anx"
+}
+85={
+	name="Howler"
+	culture="anx"
+}
+86={
+	name="Tenloss"
+	culture="core_worlder"
+}
+87={
+	name="Arpor"
+	culture="core_worlder"
+}
+88={
+	name="Lorn"
+	culture="core_worlder"
+}
+89={
+	name="Tyris"
+	culture="anzati"
+}
+90={
+	name="Cho"
+	culture="pantoran"
+}
+91={
+	name="Papanoida"
+	culture="pantoran"
+}
+92={
+	name="Vengaris"
+	culture="core_worlder"
+}
+93={
+	name="Tarkin"
+	culture="core_worlder"
+}
+94={
+	name="Motti"
+	culture="core_worlder"
+}
+95={
+	name="F'ass"
+	culture="bith"
+}
+96={
+	name="Bribbs"
+	culture="sullustan"
+}
+97={
+	name="Suub"
+	culture="sullustan"
+}
+98={
+	name="Tevv"
+	culture="sullustan"
+}

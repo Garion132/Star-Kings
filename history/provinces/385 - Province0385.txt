@@ -1,12 +1,11 @@
-# 385 - Province0385
+# 385 - Ab'Bshingh
 
 # County Title
-title = c_province0385
+title = c_ab_bshingh
 
 # Settlements
 max_settlements = 4
-b_barony0385` = tribal
-b_barony0385a = temple
+b_ab_bshingh = tribal
 
 # Misc
 culture = uncultured_swine

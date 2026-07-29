@@ -1,12 +1,11 @@
-# 409 - Province0409
+# 409 - Ahakista
 
 # County Title
-title = c_province0409
+title = c_ahakista
 
 # Settlements
 max_settlements = 4
-b_barony0409` = tribal
-b_barony0409a = temple
+b_ahakista = tribal
 
 # Misc
 culture = uncultured_swine

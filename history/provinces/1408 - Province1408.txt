@@ -1,12 +1,11 @@
-# 1408 - Province1408
+# 1408 - Melida/Daan
 
 # County Title
-title = c_province1408
+title = c_melida_daan
 
 # Settlements
 max_settlements = 2
-b_barony1408` = tribal
-b_barony1408a = temple
+b_melida_daan = tribal
 
 # Misc
 culture = uncultured_swine

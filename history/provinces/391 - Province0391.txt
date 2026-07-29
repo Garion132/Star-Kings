@@ -1,12 +1,11 @@
-# 391 - Province0391
+# 391 - Seswenna
 
 # County Title
-title = c_province0391
+title = c_seswenna
 
 # Settlements
 max_settlements = 4
-b_barony0391` = tribal
-b_barony0391a = temple
+b_seswenna = tribal
 
 # Misc
 culture = uncultured_swine

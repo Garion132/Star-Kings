@@ -1,12 +1,11 @@
-# 383 - Province0383
+# 383 - Criton's Point
 
 # County Title
-title = c_province0383
+title = c_critons_point
 
 # Settlements
 max_settlements = 4
-b_barony0383` = tribal
-b_barony0383a = temple
+b_critons_point = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 552 - Province0552
+# 552 - Kesmere Minor
 
 # County Title
-title = c_province0552
+title = c_kesmere_minor
 
 # Settlements
 max_settlements = 1
-b_barony0552` = tribal
-b_barony0552a = temple
+b_kesmere_minor = tribal
 
 # Misc
 culture = uncultured_swine

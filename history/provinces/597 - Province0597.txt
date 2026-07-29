@@ -1,12 +1,11 @@
-# 597 - Province0597
+# 597 - Shusugaunt
 
 # County Title
-title = c_province0597
+title = c_shusugaunt
 
 # Settlements
 max_settlements = 5
-b_barony0597` = tribal
-b_barony0597a = temple
+b_shusugaunt = tribal
 
 # Misc
 culture = uncultured_swine

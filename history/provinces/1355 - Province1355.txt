@@ -1,12 +1,11 @@
-# 1355 - Province1355
+# 1355 - Trigalis
 
 # County Title
-title = c_province1355
+title = c_trigalis
 
 # Settlements
 max_settlements = 4
-b_barony1355` = tribal
-b_barony1355a = temple
+b_trigalis = tribal
 
 # Misc
 culture = uncultured_swine

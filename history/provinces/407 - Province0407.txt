@@ -1,12 +1,11 @@
-# 407 - Province0407
+# 407 - hockaleg
 
 # County Title
-title = c_province0407
+title = c_hockaleg
 
 # Settlements
 max_settlements = 4
-b_barony0407` = tribal
-b_barony0407a = temple
+b_hockaleg = tribal
 
 # Misc
 culture = uncultured_swine

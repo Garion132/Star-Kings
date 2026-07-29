@@ -1,14 +1,14 @@
-# 306 - Province0306
+# 306 - Te Hasa
 
 # County Title
-title = c_province0306
+title = c_te_hasa
 
 # Settlements
 max_settlements = 1
-b_barony0306` = tribal
+b_te_hasa = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gree
 religion = pagan
 
 # History

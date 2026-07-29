@@ -1,12 +1,11 @@
-# 255 - Province0255
+# 255 - Yaga Minor
 
 # County Title
-title = c_province0255
+title = c_yaga_minor
 
 # Settlements
 max_settlements = 3
-b_barony0255` = tribal
-b_barony0255a = temple
+b_yaga_minor = tribal
 
 # Misc
 culture = uncultured_swine

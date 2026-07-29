@@ -1,15 +1,14 @@
-# 642 - Province0642
+# 642 - Gravlex Med
 
 # County Title
-title = c_province0642
+title = c_gravlex_med
 
 # Settlements
 max_settlements = 2
-b_barony0642` = tribal
-b_barony0642a = temple
+b_gravlex_med = tribal
 
 # Misc
-culture = uncultured_swine
+culture = anx
 religion = pagan
 
 # History

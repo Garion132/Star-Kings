@@ -1,12 +1,11 @@
-# 267 - Province0267
+# 267 - Bisellia
 
 # County Title
-title = c_province0267
+title = c_bisellia
 
 # Settlements
 max_settlements = 2
-b_barony0267` = tribal
-b_barony0267a = temple
+b_bisellia = tribal
 
 # Misc
 culture = uncultured_swine

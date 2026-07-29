@@ -1,12 +1,11 @@
-# 980 - Province0980
+# 980 - Tramanos
 
 # County Title
-title = c_province0980
+title = c_tramanos
 
 # Settlements
 max_settlements = 3
-b_barony0980` = tribal
-b_barony0980a = temple
+b_tramanos = tribal
 
 # Misc
 culture = uncultured_swine

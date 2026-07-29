@@ -1,0 +1,6 @@
+800.1.1={
+	liege = d_karazak_slavers_cooperative
+}
+967.1.1 = {
+	holder = 51500
+}

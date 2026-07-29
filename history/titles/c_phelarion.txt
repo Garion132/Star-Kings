@@ -1,0 +1,12 @@
+1.1.1={
+	liege = d_seswenna_sector
+}
+943.1.1={
+	holder = 51570
+}
+986.1.1={
+	holder = 51571
+}
+997.1.1={
+	holder = 51572
+}

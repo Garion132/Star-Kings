@@ -8,7 +8,7 @@ max_settlements = 3
 b_koensayr = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gran
 religion = pagan
 
 # History

@@ -1,12 +1,11 @@
-# 2021 - Province2021
+# 2021 - Bheriz
 
 # County Title
-title = c_province2021
+title = c_bheriz
 
 # Settlements
 max_settlements = 6
-b_barony2021` = tribal
-b_barony2021a = temple
+b_bheriz = tribal
 
 # Misc
 culture = uncultured_swine

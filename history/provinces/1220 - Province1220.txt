@@ -1,12 +1,11 @@
-# 1220 - Province1220
+# 1220 - Ord Grovner
 
 # County Title
-title = c_province1220
+title = c_ord_grovner
 
 # Settlements
 max_settlements = 4
-b_barony1220` = tribal
-b_barony1220a = temple
+b_ord_grovner = tribal
 
 # Misc
 culture = uncultured_swine

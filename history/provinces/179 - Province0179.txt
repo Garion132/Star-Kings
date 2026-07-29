@@ -1,12 +1,11 @@
-# 179 - Province0179
+# 179 - Valc
 
 # County Title
-title = c_province0179
+title = c_valc
 
 # Settlements
 max_settlements = 3
-b_barony0179` = tribal
-b_barony0179a = temple
+b_valc = tribal
 
 # Misc
 culture = uncultured_swine

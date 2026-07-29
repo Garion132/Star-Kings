@@ -584,7 +584,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1022;1005;major_river;;-1;-1;-1;-1;Pax to ZeHeth
 0926;0932;major_river;;-1;-1;-1;-1;Tanta Aurek to Darknell
 0926;0917;major_river;;-1;-1;-1;-1;Tanta Aurek to Cmaol Di
-0834;0917;major_river;;-1;-1;-1;-1;Eriadu to Cmaol Di
+0441;0917;major_river;;-1;-1;-1;-1;Todouhar to Cmaol Di
+0834;0441;major_river;;-1;-1;-1;-1;Eriadu to Todouhar
 0834;0818;major_river;;-1;-1;-1;-1;Eriadu to Averam
 0692;0818;major_river;;-1;-1;-1;-1;Shumavar to Averam
 0692;0653;major_river;;-1;-1;-1;-1;Shumavar to Atravis
@@ -601,7 +602,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0856;0883;major_river;;-1;-1;-1;-1;Triton to Praesitlyn
 0856;0852;major_river;;-1;-1;-1;-1;Triton to Clak'dor
 0834;0852;major_river;;-1;-1;-1;-1;Eriadu to Clak'dor
-0834;0851;major_river;;-1;-1;-1;-1;Eriadu to Sullust
+0834;0456;major_river;;-1;-1;-1;-1;Eriadu to Agomar
+0456;0455;major_river;;-1;-1;-1;-1;Agomar to Parwa
+0455;0851;major_river;;-1;-1;-1;-1;Parwa to Sullust
 0838;0851;major_river;;-1;-1;-1;-1;Tshindral to Sullust
 0838;0837;major_river;;-1;-1;-1;-1;Tshindral to Medth
 0823;0837;major_river;;-1;-1;-1;-1;Vondarc to Medth
@@ -646,7 +649,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1300;1314;major_river;;-1;-1;-1;-1;Vohai to Elshandruu Pica
 1300;1372;major_river;;-1;-1;-1;-1;Vohai to Bajic
 1382;1372;major_river;;-1;-1;-1;-1;Vergesso to Bajic
-1382;1342;major_river;;-1;-1;-1;-1;Vergesso to Stend
+1382;0329;major_river;;-1;-1;-1;-1;Vergesso to Talofan
+0329;1342;major_river;;-1;-1;-1;-1;Talofan to Stend
 1355;1342;major_river;;-1;-1;-1;-1;Trigalis to Stend
 1355;1365;major_river;;-1;-1;-1;-1;Trigalis to Ninzam
 1363;1365;major_river;;-1;-1;-1;-1;Farstine to Ninzam
@@ -682,7 +686,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1974;1976;major_river;;-1;-1;-1;-1;Kegen to Gestrex
 1974;1920;major_river;;-1;-1;-1;-1;Kegen to Tammar
 1922;1920;major_river;;-1;-1;-1;-1;Junkfort Station to Tammar
-1922;1894;major_river;;-1;-1;-1;-1;Junkfort Station to Dennogra
+1902;1920;major_river;;-1;-1;-1;-1;Af'El to Tammar
+1902;1922;major_river;;-1;-1;-1;-1;Af'El to Junkfort Station
+1922;1894;major_river;;-1;-1;-1;-1;Junkfort Station to Dennogra 
 1870;1894;major_river;;-1;-1;-1;-1;Taskeed to Dennogra
 1870;1854;major_river;;-1;-1;-1;-1;Taskeed to Jabiim
 1821;1854;major_river;;-1;-1;-1;-1;Handooine to Jabiim
@@ -774,6 +780,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1873;1850;major_river;;-1;-1;-1;-1;Lant to Boonta
 1886;1850;major_river;;-1;-1;-1;-1;Sriluur to Boonta
 1886;1897;major_river;;-1;-1;-1;-1;Sriluur to Ques
+1886;1902;major_river;;-1;-1;-1;-1;Sriluur to Af'El
+1902;1897;major_river;;-1;-1;-1;-1;Af'El to Ques
 1917;1897;major_river;;-1;-1;-1;-1;Yoribuunt to Ques
 1917;1905;major_river;;-1;-1;-1;-1;Yoribuunt to Nimia
 1888;1905;major_river;;-1;-1;-1;-1;Klatooine to Nimia
@@ -1160,7 +1168,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1725;1729;major_river;;-1;-1;-1;-1;Mossak to Galidraan
 1762;1729;major_river;;-1;-1;-1;-1;Arcan to Galidraan
 1696;1729;major_river;;-1;-1;-1;-1;Rhen Var to Galidraan
-1696;1568;major_river;;-1;-1;-1;-1;Rhen Var to Lucazec ##Main Routes End
+1696;1568;major_river;;-1;-1;-1;-1;Rhen Var to Lucazec 
+0589;0591;major_river;;-1;-1;-1;-1;Veragi to Plesstil
+0591;0617;major_river;;-1;-1;-1;-1;Plesstil to Helska ##Main Routes End
 0237;0251;sea;;-1;-1;-1;-1;Kokash to Pollillus ##minor Routes Start
 0251;0276;sea;;-1;-1;-1;-1;Pollillus to Galantos
 0251;0295;sea;;-1;-1;-1;-1;Pollillus to J't'p'tan
@@ -1509,6 +1519,7 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1717;0892;sea;;-1;-1;-1;-1;Iliabath to Zygerria
 1717;1798;sea;;-1;-1;-1;-1;Iliabath to Almania
 1798;1843;sea;;-1;-1;-1;-1;Almania to Vaynai
+0892;1843;sea;;-1;-1;-1;-1;Zygerria to Vaynai
 1798;1754;sea;;-1;-1;-1;-1;Almania to Yutusk
 1736;1754;sea;;-1;-1;-1;-1;Syngia to Yutusk
 1755;1754;sea;;-1;-1;-1;-1;Vanqor to Yutusk 
@@ -1516,3 +1527,65 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1868;1869;sea;;-1;-1;-1;-1;Troiken to Quermia 
 1868;1843;sea;;-1;-1;-1;-1;Troiken to Vaynai
 2004;0302;sea;;-1;-1;-1;-1;Formos to Oba Diah
+1162;1171;sea;;-1;-1;-1;-1;Fadden to Rasterous
+0503;0314;sea;;-1;-1;-1;-1;Gree to Malanose
+0503;0324;sea;;-1;-1;-1;-1;Gree to Licha In
+0503;0326;sea;;-1;-1;-1;-1;Gree to Lonatro
+0466;0326;sea;;-1;-1;-1;-1;Asation to Lonatro
+0314;0466;sea;;-1;-1;-1;-1;Malanose to Asation
+0314;0306;sea;;-1;-1;-1;-1;Malanose to Te Hasa
+0466;0551;sea;;-1;-1;-1;-1;Asation to Trassitan
+0400;0383;sea;;-1;-1;-1;-1;Dubrillion to Criton's Point
+0238;0234;sea;;-1;-1;-1;-1;Endex to Bextar
+0267;0316;sea;;-1;-1;-1;-1;Bisella to Ord Sedra
+0594;0589;sea;;-1;-1;-1;-1;Plooma to Veragi
+1447;1424;sea;;-1;-1;-1;-1;Skynara to Karazak
+1389;1424;sea;;-1;-1;-1;-1;Alzoc to Karazak
+1389;1447;sea;;-1;-1;-1;-1;Alzoc to Skynara
+0559;0561;sea;;-1;-1;-1;-1;Kesmere to Anx Minor
+0559;0527;sea;;-1;-1;-1;-1;Kesmere to Sinsang
+0559;0552;sea;;-1;-1;-1;-1;Kesmere to Kesmere Minor
+0543;0552;sea;;-1;-1;-1;-1;Tertiary Kesmere to Kesmere Minor
+0597;0552;sea;;-1;-1;-1;-1;Shusugaunt to Kesmere Minor
+0597;0642;sea;;-1;-1;-1;-1;Shusugaunt to Gravlex Med 
+0591;0553;sea;;-1;-1;-1;-1;Plesstil to Revyia
+0277;0309;sea;;-1;-1;-1;-1;Bastion to Anorelga
+0355;0309;sea;;-1;-1;-1;-1;Bnar to Anorelga
+0277;0355;sea;;-1;-1;-1;-1;Bastion to Bnar
+0400;0355;sea;;-1;-1;-1;-1;Dubrillion to Bnar
+0238;0219;sea;;-1;-1;-1;-1;Endex to Churruma
+0238;0204;sea;;-1;-1;-1;-1;Endex to Ryloon
+0214;0280;sea;;-1;-1;-1;-1;Dactruria to Endoraan
+0208;0196;sea;;-1;-1;-1;-1;Delephr to Vexta
+1920;1917;sea;;-1;-1;-1;-1;Tammar to Yoribuunt
+0329;0362;sea;;-1;-1;-1;-1;Talofan to Kabaira
+1408;0362;sea;;-1;-1;-1;-1;Melida/Daan to Kabaira
+1408;1464;sea;;-1;-1;-1;-1;Melida/Daan to Zhar
+1382;0352;sea;;-1;-1;-1;-1;Vergesso to Verisin
+1382;0345;sea;;-1;-1;-1;-1;Vergesso to Sperin
+1372;0352;sea;;-1;-1;-1;-1;Bajic to Verisin
+2004;1962;sea;;-1;-1;-1;-1;Formos to Honoghr
+1016;1030;sea;;-1;-1;-1;-1;Sanrafsix to Samhar
+1016;0980;sea;;-1;-1;-1;-1;Sanrafsix to Tramanos
+0966;0980;sea;;-1;-1;-1;-1;Sanrafsix to Tramanos
+1314;1220;sea;;-1;-1;-1;-1;Elshandruu Pica to Ord Grovner
+1261;1278;sea;;-1;-1;-1;-1;Svivren to Maryx Minor
+1116;1149;sea;;-1;-1;-1;-1;Ma'ar Shaddam to Taroon 
+1447;1510;sea;;-1;-1;-1;-1;Skynara to Nedij 
+0345;1435;sea;;-1;-1;-1;-1;Sperin to Bahalian
+0366;0382;major_river;;-1;-1;-1;-1;Orto Plutonia to Pantora 
+1389;0366;sea;;-1;-1;-1;-1;Alzoc to Plutonia
+0385;0366;sea;;-1;-1;-1;-1;Ab'Bshingh to Plutonia
+0385;1278;sea;;-1;-1;-1;-1;Ab'Bshingh to Maryx Minor
+0386;1220;sea;;-1;-1;-1;-1;Courkrus to Ord Grovner
+0391;0441;sea;;-1;-1;-1;-1;Seswenna to Todouhar
+0834;0391;sea;;-1;-1;-1;-1;Eriadu to Seswenna
+0852;0391;sea;;-1;-1;-1;-1;Clak'dor to Seswenna
+0852;0692;sea;;-1;-1;-1;-1;Clak'dor to Shumavar
+0391;0418;sea;;-1;-1;-1;-1;Seswenna to Phelarion
+0391;0407;sea;;-1;-1;-1;-1;Seswenna to Hockaleg
+0407;0418;sea;;-1;-1;-1;-1;Hockaleg to Phelarion
+0429;0418;sea;;-1;-1;-1;-1;Uvena Prime to Phelarion
+0429;0441;sea;;-1;-1;-1;-1;Uvena Prime to Todouhar
+0917;0851;sea;;-1;-1;-1;-1;Cmaol Di to Sullust
+0816;0851;sea;;-1;-1;-1;-1;Bortras to Sullust

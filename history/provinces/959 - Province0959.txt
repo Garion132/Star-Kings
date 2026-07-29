@@ -1,12 +1,11 @@
-# 959 - Province0959
+# 959 - Chryya
 
 # County Title
-title = c_province0959
+title = c_chryya
 
 # Settlements
 max_settlements = 3
-b_barony0959` = tribal
-b_barony0959a = temple
+b_chryya = tribal
 
 # Misc
 culture = uncultured_swine

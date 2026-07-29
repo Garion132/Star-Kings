@@ -1,15 +1,14 @@
-# 851 - Province0851
+# 851 - Sullust
 
 # County Title
-title = c_province0851
+title = c_sullust
 
 # Settlements
 max_settlements = 3
-b_barony0851` = tribal
-b_barony0851a = temple
+b_sullust = tribal
 
 # Misc
-culture = uncultured_swine
+culture = sullustan
 religion = pagan
 
 # History

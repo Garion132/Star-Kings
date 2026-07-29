@@ -1,12 +1,11 @@
-# 400 - Province0400
+# 400 - Dubrillion
 
 # County Title
-title = c_province0400
+title = c_dubrillion
 
 # Settlements
 max_settlements = 4
-b_barony0400` = tribal
-b_barony0400a = temple
+b_dubrillion = tribal
 
 # Misc
 culture = uncultured_swine

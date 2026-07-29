@@ -1,15 +1,14 @@
-# 466 - Province0466
+# 466 - Asation
 
 # County Title
-title = c_province0466
+title = c_asation
 
 # Settlements
 max_settlements = 1
-b_barony0466` = tribal
-b_barony0466a = temple
+b_asation = tribal
 
 # Misc
-culture = uncultured_swine
+culture = gree
 religion = pagan
 
 # History

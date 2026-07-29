@@ -1,12 +1,11 @@
-# 327 - Province0327
+# 327 - Cezith
 
 # County Title
-title = c_province0327
+title = c_cezith
 
 # Settlements
 max_settlements = 4
-b_barony0327` = tribal
-b_barony0327a = temple
+b_cezith = tribal
 
 # Misc
 culture = uncultured_swine
