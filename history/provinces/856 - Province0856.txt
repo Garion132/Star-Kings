@@ -1,12 +1,11 @@
-# 856 - Province0856
+# 856 - Triton
 
 # County Title
-title = c_province0856
+title = c_triton
 
 # Settlements
 max_settlements = 3
-b_barony0856` = tribal
-b_barony0856a = temple
+b_triton = tribal
 
 # Misc
 culture = uncultured_swine

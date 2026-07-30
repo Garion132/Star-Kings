@@ -5660,6 +5660,22 @@ e_gal_republic = {
 					
 				}
 			}
+			c_arbra = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_arbra = {
+					
+				}
+			}
+			c_sharlissia = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_sharlissia = {
+					
+				}
+			}
 		}
 		d_sujimis_sector = {
 			color={ 221 224 78 }
@@ -6100,6 +6116,35 @@ e_gal_republic = {
 					
 				}
 			}
+			c_kabal = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_kabal = {
+					
+				}
+			}
+			c_triton = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_triton = {
+					
+				}
+			}
+		}
+		d_garis_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_omwat = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_omwat = {
+					
+				}
+			}
 		}
 	}
 	k_western_reaches={
@@ -6128,6 +6173,19 @@ e_gal_republic = {
 				color2={ 255 255 255 }
 				
 				b_kinyen = {
+					
+				}
+			}
+		}
+		d_videnda_sector = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
+
+			c_dorvalla = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_dorvalla = {
 					
 				}
 			}

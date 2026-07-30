@@ -1,12 +1,11 @@
-# 1133 - Province1133
+# 1133 - Arbra
 
 # County Title
-title = c_province1133
+title = c_arbra
 
 # Settlements
 max_settlements = 2
-b_barony1133` = tribal
-b_barony1133a = temple
+b_arbra = tribal
 
 # Misc
 culture = uncultured_swine

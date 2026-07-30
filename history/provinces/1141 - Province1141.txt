@@ -1,12 +1,11 @@
-# 1141 - Province1141
+# 1141 - Sharlissia
 
 # County Title
-title = c_province1141
+title = c_sharlissia
 
 # Settlements
 max_settlements = 2
-b_barony1141` = tribal
-b_barony1141a = temple
+b_sharlissia = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1230,3 +1230,16 @@
 		death=yes
 	}
 }
+51580 = {
+	name= "Jan"
+	dynasty = 99 #Dovu
+	religion = pagan
+	culture = core_worlder
+	910.1.1={
+		birth=yes
+	}
+	
+	978.1.1={
+		death=yes
+	}
+}

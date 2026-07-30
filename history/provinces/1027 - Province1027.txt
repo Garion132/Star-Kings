@@ -1,12 +1,11 @@
-# 1027 - Province1027
+# 1027 - Omwat
 
 # County Title
-title = c_province1027
+title = c_omwat
 
 # Settlements
 max_settlements = 4
-b_barony1027` = tribal
-b_barony1027a = temple
+b_omwat = tribal
 
 # Misc
 culture = uncultured_swine

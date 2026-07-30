@@ -390,3 +390,7 @@
 	name="Tevv"
 	culture="sullustan"
 }
+99={
+	name="Dovu"
+	culture="core_worlder"
+}

@@ -1,12 +1,11 @@
-# 1039 - Province1039
+# 1039 - Kabal
 
 # County Title
-title = c_province1039
+title = c_kabal
 
 # Settlements
 max_settlements = 4
-b_barony1039` = tribal
-b_barony1039a = temple
+b_kabal = tribal
 
 # Misc
 culture = uncultured_swine

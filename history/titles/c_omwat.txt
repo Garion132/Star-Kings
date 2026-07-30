@@ -10,3 +10,6 @@
 954.1.1 = {
 	holder = 110275
 }
+975.1.1 = {
+	liege = d_seswenna_sector
+}

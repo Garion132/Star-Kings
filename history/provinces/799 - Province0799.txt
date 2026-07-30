@@ -1,12 +1,11 @@
-# 799 - Province0799
+# 799 - Dorvalla
 
 # County Title
-title = c_province0799
+title = c_dorvalla
 
 # Settlements
 max_settlements = 3
-b_barony0799` = tribal
-b_barony0799a = temple
+b_dorvalla = tribal
 
 # Misc
 culture = uncultured_swine
