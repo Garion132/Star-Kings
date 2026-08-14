@@ -1,12 +1,11 @@
-# 928 - Province0928
+# 928 - Birgis
 
 # County Title
-title = c_province0928
+title = c_birgis
 
 # Settlements
 max_settlements = 3
-b_barony0928` = tribal
-b_barony0928a = temple
+b_birgis = tribal
 
 # Misc
 culture = uncultured_swine

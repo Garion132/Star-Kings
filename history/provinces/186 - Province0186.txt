@@ -1,12 +1,11 @@
-# 186 - Province0186
+# 186 - Dalron
 
 # County Title
-title = c_province0186
+title = c_dalron
 
 # Settlements
 max_settlements = 3
-b_barony0186` = tribal
-b_barony0186a = temple
+b_dalron = tribal
 
 # Misc
 culture = uncultured_swine

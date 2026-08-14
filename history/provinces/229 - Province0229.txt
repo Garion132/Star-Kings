@@ -1,12 +1,11 @@
-# 229 - Province0229
+# 229 - Station 88
 
 # County Title
-title = c_province0229
+title = c_station_88
 
 # Settlements
 max_settlements = 3
-b_barony0229` = tribal
-b_barony0229a = temple
+b_station_88 = tribal
 
 # Misc
 culture = uncultured_swine

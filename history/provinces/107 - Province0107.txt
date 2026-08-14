@@ -1,12 +1,11 @@
-# 107 - Province0107
+# 107 - Esfandia
 
 # County Title
-title = c_province0107
+title = c_esfandia
 
 # Settlements
 max_settlements = 4
-b_barony0107` = tribal
-b_barony0107a = temple
+b_esfandia = tribal
 
 # Misc
 culture = uncultured_swine

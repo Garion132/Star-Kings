@@ -1,15 +1,14 @@
-# 231 - Province0231
+# 231 - Vicondor
 
 # County Title
-title = c_province0231
+title = c_vicondor
 
 # Settlements
 max_settlements = 3
-b_barony0231` = tribal
-b_barony0231a = temple
+b_vicondor = tribal
 
 # Misc
-culture = uncultured_swine
+culture = vicon
 religion = pagan
 
 # History

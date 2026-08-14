@@ -394,3 +394,23 @@
 	name="Dovu"
 	culture="core_worlder"
 }
+100={
+	name="Gostech"
+	culture="core_worlder"
+}
+101={
+	name="Donar"
+	culture="core_worlder"
+}
+102={
+	name="Ledwellow"
+	culture="er_kit"
+}
+103={
+	name="Kyber"
+	culture="core_worlder"
+}
+104={
+	name="Ma-Dred"
+	culture="core_worlder"
+}

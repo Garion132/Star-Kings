@@ -1,15 +1,16 @@
-# 338 - Province0338
+# 338 - Jiroch
 
 # County Title
-title = c_province0338
+title = c_jiroch
 
 # Settlements
-max_settlements = 4
-b_barony0338` = tribal
-b_barony0338a = temple
+max_settlements = 3
+b_jiroch_reslia = tribal
+b_jiroch_kalok = tribal
+b_jiroch_saloch = tribal
 
 # Misc
-culture = uncultured_swine
+culture = tunroth
 religion = pagan
 
 # History

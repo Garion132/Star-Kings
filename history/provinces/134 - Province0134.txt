@@ -1,12 +1,11 @@
-# 134 - Province0134
+# 134 - Gilatter
 
 # County Title
-title = c_province0134
+title = c_gilatter
 
 # Settlements
 max_settlements = 4
-b_barony0134` = tribal
-b_barony0134a = temple
+b_gilatter = tribal
 
 # Misc
 culture = uncultured_swine

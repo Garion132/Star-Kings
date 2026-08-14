@@ -1,12 +1,11 @@
-# 180 - Province0180
+# 180 - Alashan
 
 # County Title
-title = c_province0180
+title = c_alashan
 
 # Settlements
 max_settlements = 3
-b_barony0180` = tribal
-b_barony0180a = temple
+b_alashan = tribal
 
 # Misc
 culture = uncultured_swine

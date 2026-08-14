@@ -1,12 +1,11 @@
-# 126 - Province0126
+# 126 - Sinton
 
 # County Title
-title = c_province0126
+title = c_sinton
 
 # Settlements
 max_settlements = 4
-b_barony0126` = tribal
-b_barony0126a = temple
+b_sinton = tribal
 
 # Misc
 culture = uncultured_swine

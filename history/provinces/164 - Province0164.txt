@@ -1,15 +1,14 @@
-# 164 - Province0164
+# 164 - Glee Anselm
 
 # County Title
-title = c_province0164
+title = c_glee_anselm
 
 # Settlements
 max_settlements = 5
-b_barony0164` = tribal
-b_barony0164a = temple
+b_glee_anselm = tribal
 
 # Misc
-culture = uncultured_swine
+culture = nautolan
 religion = pagan
 
 # History

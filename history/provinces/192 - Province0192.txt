@@ -1,12 +1,11 @@
-# 192 - Province0192
+# 192 - Troska
 
 # County Title
-title = c_province0192
+title = c_troska
 
 # Settlements
 max_settlements = 3
-b_barony0192` = tribal
-b_barony0192a = temple
+b_troska = tribal
 
 # Misc
 culture = uncultured_swine

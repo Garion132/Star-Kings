@@ -1,12 +1,11 @@
-# 639 - Province0639
+# 639 - Entuur
 
 # County Title
-title = c_province0639
+title = c_entuur
 
 # Settlements
 max_settlements = 1
-b_barony0639` = tribal
-b_barony0639a = temple
+b_entuur = tribal
 
 # Misc
 culture = uncultured_swine

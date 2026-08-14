@@ -1,12 +1,11 @@
-# 979 - Province0979
+# 979 - Derra
 
 # County Title
-title = c_province0979
+title = c_derra
 
 # Settlements
 max_settlements = 3
-b_barony0979` = tribal
-b_barony0979a = temple
+b_derra = tribal
 
 # Misc
 culture = uncultured_swine

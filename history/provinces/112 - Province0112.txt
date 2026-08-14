@@ -1,12 +1,11 @@
-# 112 - Province0112
+# 112 - Murgo
 
 # County Title
-title = c_province0112
+title = c_murgo
 
 # Settlements
 max_settlements = 4
-b_barony0112` = tribal
-b_barony0112a = temple
+b_murgo = tribal
 
 # Misc
 culture = uncultured_swine

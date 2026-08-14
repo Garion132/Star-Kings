@@ -1,12 +1,11 @@
-# 121 - Province0121
+# 121 - Kril'Dor
 
 # County Title
-title = c_province0121
+title = c_kril_dor
 
 # Settlements
 max_settlements = 4
-b_barony0121` = tribal
-b_barony0121a = temple
+b_kril_dor = tribal
 
 # Misc
 culture = uncultured_swine

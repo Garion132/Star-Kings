@@ -1,12 +1,11 @@
-# 1068 - Province1068
+# 1068 - Shibric
 
 # County Title
-title = c_province1068
+title = c_shibric
 
 # Settlements
 max_settlements = 4
-b_barony1068` = tribal
-b_barony1068a = temple
+b_shibric = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 738 - Province0738
+# 738 - Ithor
 
 # County Title
-title = c_province0738
+title = c_ithor
 
 # Settlements
 max_settlements = 3
-b_barony0738` = tribal
-b_barony0738a = temple
+b_ithor = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ithorian
 religion = pagan
 
 # History

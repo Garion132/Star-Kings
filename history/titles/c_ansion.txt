@@ -1,0 +1,6 @@
+1.1.1 = {
+	liege = d_malarian_alliance
+}
+966.1.1={
+	holder = 60240
+}

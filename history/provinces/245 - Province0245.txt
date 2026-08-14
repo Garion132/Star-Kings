@@ -1,12 +1,11 @@
-# 245 - Province0245
+# 245 - Bengat
 
 # County Title
-title = c_province0245
+title = c_bengat
 
 # Settlements
 max_settlements = 3
-b_barony0245` = tribal
-b_barony0245a = temple
+b_bengat = tribal
 
 # Misc
 culture = uncultured_swine

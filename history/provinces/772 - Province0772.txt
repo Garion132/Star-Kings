@@ -1,12 +1,11 @@
-# 772 - Province0772
+# 772 - Seline
 
 # County Title
-title = c_province0772
+title = c_seline
 
 # Settlements
 max_settlements = 3
-b_barony0772` = tribal
-b_barony0772a = temple
+b_seline = tribal
 
 # Misc
 culture = uncultured_swine

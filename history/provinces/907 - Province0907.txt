@@ -1,12 +1,11 @@
-# 907 - Province0907
+# 907 - Borgo Prime
 
 # County Title
-title = c_province0907
+title = c_borgo_prime
 
 # Settlements
 max_settlements = 3
-b_barony0907` = tribal
-b_barony0907a = temple
+b_borgo_prime = tribal
 
 # Misc
 culture = uncultured_swine

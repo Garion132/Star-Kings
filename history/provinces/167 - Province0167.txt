@@ -1,12 +1,11 @@
-# 167 - Province0167
+# 167 - Hijo
 
 # County Title
-title = c_province0167
+title = c_hijo
 
 # Settlements
 max_settlements = 5
-b_barony0167` = tribal
-b_barony0167a = temple
+b_hijo = tribal
 
 # Misc
 culture = uncultured_swine

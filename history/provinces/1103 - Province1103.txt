@@ -1,12 +1,11 @@
-# 1103 - Province1103
+# 1103 - Ereesus
 
 # County Title
-title = c_province1103
+title = c_ereesus
 
 # Settlements
 max_settlements = 2
-b_barony1103` = tribal
-b_barony1103a = temple
+b_ereesus = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 113 - Province0113
+# 113 - Burska
 
 # County Title
-title = c_province0113
+title = c_burska
 
 # Settlements
 max_settlements = 4
-b_barony0113` = tribal
-b_barony0113a = temple
+b_burska = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 154 - Province0154
+# 154 - Ord Varee
 
 # County Title
-title = c_province0154
+title = c_ord_varee
 
 # Settlements
 max_settlements = 5
-b_barony0154` = tribal
-b_barony0154a = temple
+b_ord_varee = tribal
 
 # Misc
 culture = uncultured_swine

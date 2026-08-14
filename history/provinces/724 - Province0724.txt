@@ -1,12 +1,11 @@
-# 724 - Province0724
+# 724 - Ylix
 
 # County Title
-title = c_province0724
+title = c_ylix
 
 # Settlements
 max_settlements = 3
-b_barony0724` = tribal
-b_barony0724a = temple
+b_ylix = tribal
 
 # Misc
 culture = uncultured_swine

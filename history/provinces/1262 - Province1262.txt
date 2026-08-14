@@ -1,12 +1,11 @@
-# 1262 - Province1262
+# 1262 - Maltha Obex
 
 # County Title
-title = c_province1262
+title = c_maltha_obex
 
 # Settlements
 max_settlements = 1
-b_barony1262` = tribal
-b_barony1262a = temple
+b_maltha_obex = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 173 - Province0173
+# 173 - Keitum
 
 # County Title
-title = c_province0173
+title = c_keitum
 
 # Settlements
 max_settlements = 1
-b_barony0173` = tribal
-b_barony0173a = temple
+b_keitum = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 824 - Province0824
+# 824 - Agamar
 
 # County Title
-title = c_province0824
+title = c_agamar
 
 # Settlements
 max_settlements = 3
-b_barony0824` = tribal
-b_barony0824a = temple
+b_agamar = tribal
 
 # Misc
 culture = uncultured_swine

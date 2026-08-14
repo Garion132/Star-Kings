@@ -1,12 +1,11 @@
-# 346 - Province0346
+# 346 - Palanhi
 
 # County Title
-title = c_province0346
+title = c_palanhi
 
 # Settlements
 max_settlements = 4
-b_barony0346` = tribal
-b_barony0346a = temple
+b_palanhi = tribal
 
 # Misc
 culture = uncultured_swine

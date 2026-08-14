@@ -1,12 +1,11 @@
-# 1032 - Province1032
+# 1032 - Ramordia
 
 # County Title
-title = c_province1032
+title = c_ramordia
 
 # Settlements
 max_settlements = 2
-b_barony1032` = tribal
-b_barony1032a = temple
+b_ramordia = tribal
 
 # Misc
 culture = uncultured_swine

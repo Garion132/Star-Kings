@@ -1,12 +1,11 @@
-# 361 - Province0361
+# 361 - Barenth
 
 # County Title
-title = c_province0361
+title = c_barenth
 
 # Settlements
 max_settlements = 4
-b_barony0361` = tribal
-b_barony0361a = temple
+b_barenth = tribal
 
 # Misc
 culture = uncultured_swine

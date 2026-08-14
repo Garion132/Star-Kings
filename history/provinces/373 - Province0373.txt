@@ -1,12 +1,11 @@
-# 373 - Province0373
+# 373 - Denevar
 
 # County Title
-title = c_province0373
+title = c_denevar
 
 # Settlements
 max_settlements = 4
-b_barony0373` = tribal
-b_barony0373a = temple
+b_denevar = tribal
 
 # Misc
 culture = uncultured_swine

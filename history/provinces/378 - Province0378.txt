@@ -1,12 +1,11 @@
-# 378 - Province0378
+# 378 - Ord Mirit
 
 # County Title
-title = c_province0378
+title = c_ord_mirit
 
 # Settlements
 max_settlements = 1
-b_barony0378` = tribal
-b_barony0378a = temple
+b_ord_mirit = tribal
 
 # Misc
 culture = uncultured_swine

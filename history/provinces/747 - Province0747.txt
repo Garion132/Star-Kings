@@ -1,15 +1,14 @@
-# 747 - Province0747
+# 747 - Genassa
 
 # County Title
-title = c_province0747
+title = c_genassa
 
 # Settlements
 max_settlements = 3
-b_barony0747` = tribal
-b_barony0747a = temple
+b_genassa = tribal
 
 # Misc
-culture = uncultured_swine
+culture = m_shinn
 religion = pagan
 
 # History

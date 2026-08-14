@@ -1,12 +1,11 @@
-# 710 - Province0710
+# 710 - Ketaris
 
 # County Title
-title = c_province0710
+title = c_ketaris
 
 # Settlements
 max_settlements = 3
-b_barony0710` = tribal
-b_barony0710a = temple
+b_ketaris = tribal
 
 # Misc
 culture = uncultured_swine

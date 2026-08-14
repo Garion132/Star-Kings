@@ -1,12 +1,11 @@
-# 356 - Province0356
+# 356 - Mrisst
 
 # County Title
-title = c_province0356
+title = c_mrisst
 
 # Settlements
 max_settlements = 4
-b_barony0356` = tribal
-b_barony0356a = temple
+b_mrisst = tribal
 
 # Misc
 culture = uncultured_swine

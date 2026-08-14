@@ -1,12 +1,11 @@
-# 1053 - Province1053
+# 1053 - Majoor
 
 # County Title
-title = c_province1053
+title = c_majoor
 
 # Settlements
 max_settlements = 1
-b_barony1053` = tribal
-b_barony1053a = temple
+b_majoor = tribal
 
 # Misc
 culture = uncultured_swine

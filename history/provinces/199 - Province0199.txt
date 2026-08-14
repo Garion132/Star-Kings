@@ -1,11 +1,11 @@
-# 199 - Province0199
+# 199 - Malari
 
 # County Title
-title = c_province0199
+title = c_malari
 
 # Settlements
 max_settlements = 1
-b_barony0199` = tribal
+b_malari = tribal
 
 # Misc
 culture = uncultured_swine

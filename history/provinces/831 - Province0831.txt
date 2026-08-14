@@ -1,12 +1,11 @@
-# 831 - Province0831
+# 831 - Polus
 
 # County Title
-title = c_province0831
+title = c_polus
 
 # Settlements
 max_settlements = 1
-b_barony0831` = tribal
-b_barony0831a = temple
+b_polus = tribal
 
 # Misc
 culture = uncultured_swine

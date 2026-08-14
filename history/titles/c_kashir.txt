@@ -1,0 +1,6 @@
+959.1.1 = {
+	holder = 51620
+}
+1012.1.1={
+	#liege = e_new_rebublic
+}

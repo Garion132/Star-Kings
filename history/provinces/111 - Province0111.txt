@@ -1,15 +1,14 @@
-# 111 - Province0111
+# 111 - Ankus
 
 # County Title
-title = c_province0111
+title = c_ankus
 
 # Settlements
 max_settlements = 4
-b_barony0111` = tribal
-b_barony0111a = temple
+b_ankus = tribal
 
 # Misc
-culture = uncultured_swine
+culture = cragmoloid
 religion = pagan
 
 # History

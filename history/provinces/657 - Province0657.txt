@@ -1,15 +1,14 @@
-# 657 - Province0657
+# 657 - Ebra
 
 # County Title
-title = c_province0657
+title = c_ebra
 
 # Settlements
 max_settlements = 3
-b_barony0657` = tribal
-b_barony0657a = temple
+b_ebra = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ebranite
 religion = pagan
 
 # History

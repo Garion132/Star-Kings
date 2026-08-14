@@ -1,12 +1,11 @@
-# 155 - Province0155
+# 155 - Mondress
 
 # County Title
-title = c_province0155
+title = c_mondress
 
 # Settlements
 max_settlements = 5
-b_barony0155` = tribal
-b_barony0155a = temple
+b_mondress = tribal
 
 # Misc
 culture = uncultured_swine

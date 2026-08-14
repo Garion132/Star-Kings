@@ -1,12 +1,11 @@
-# 773 - Province0773
+# 773 - Noonar
 
 # County Title
-title = c_province0773
+title = c_noonar
 
 # Settlements
 max_settlements = 3
-b_barony0773` = tribal
-b_barony0773a = temple
+b_noonar = tribal
 
 # Misc
 culture = uncultured_swine

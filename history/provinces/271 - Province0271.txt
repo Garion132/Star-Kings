@@ -1,12 +1,11 @@
-# 271 - Province0271
+# 271 - Dbari
 
 # County Title
-title = c_province0271
+title = c_dbari
 
 # Settlements
 max_settlements = 1
-b_barony0271` = tribal
-b_barony0271a = temple
+b_dbari = tribal
 
 # Misc
 culture = uncultured_swine

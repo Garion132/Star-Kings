@@ -1,12 +1,11 @@
-# 377 - Province0377
+# 377 - Noquivzor
 
 # County Title
-title = c_province0377
+title = c_noquivzor
 
 # Settlements
 max_settlements = 1
-b_barony0377` = tribal
-b_barony0377a = temple
+b_noquivzor = tribal
 
 # Misc
 culture = uncultured_swine

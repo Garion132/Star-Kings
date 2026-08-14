@@ -1,12 +1,11 @@
-# 266 - Province0266
+# 266 - Vakkar
 
 # County Title
-title = c_province0266
+title = c_vakkar
 
 # Settlements
 max_settlements = 1
-b_barony0266` = tribal
-b_barony0266a = temple
+b_vakkar = tribal
 
 # Misc
 culture = uncultured_swine

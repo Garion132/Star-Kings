@@ -1,15 +1,14 @@
-# 141 - Province0141
+# 141 - Ansion
 
 # County Title
-title = c_province0141
+title = c_ansion
 
 # Settlements
 max_settlements = 5
-b_barony0141` = tribal
-b_barony0141a = temple
+b_ansion = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ansionian
 religion = pagan
 
 # History

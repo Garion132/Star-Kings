@@ -1,11 +1,11 @@
-# 304 - Province0304
+# 304 - Escabar
 
 # County Title
-title = c_province0304
+title = c_escabar
 
 # Settlements
 max_settlements = 1
-b_barony0304` = tribal
+b_escabar = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,11 +1,11 @@
-# 286 - Province0286
+# 286 - Voltare
 
 # County Title
-title = c_province0286
+title = c_voltare
 
 # Settlements
 max_settlements = 1
-b_barony0286` = tribal
+b_voltare = tribal
 
 # Misc
 culture = uncultured_swine

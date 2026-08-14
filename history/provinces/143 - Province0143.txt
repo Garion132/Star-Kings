@@ -1,12 +1,11 @@
-# 143 - Province0143
+# 143 - Glom Tho
 
 # County Title
-title = c_province0143
+title = c_glom_tho
 
 # Settlements
 max_settlements = 5
-b_barony0143` = tribal
-b_barony0143a = temple
+b_glom_tho = tribal
 
 # Misc
 culture = uncultured_swine

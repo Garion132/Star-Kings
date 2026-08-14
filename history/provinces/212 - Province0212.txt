@@ -1,12 +1,11 @@
-# 212 - Province0212
+# 212 - Cirrus
 
 # County Title
-title = c_province0212
+title = c_cirrus
 
 # Settlements
 max_settlements = 3
-b_barony0212` = tribal
-b_barony0212a = temple
+b_cirrus = tribal
 
 # Misc
 culture = uncultured_swine

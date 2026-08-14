@@ -1,12 +1,11 @@
-# 658 - Province0658
+# 658 - Sernpidal
 
 # County Title
-title = c_province0658
+title = c_sernpidal
 
 # Settlements
 max_settlements = 3
-b_barony0658` = tribal
-b_barony0658a = temple
+b_sernpidal = tribal
 
 # Misc
 culture = uncultured_swine

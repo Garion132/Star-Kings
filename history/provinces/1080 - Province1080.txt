@@ -1,12 +1,11 @@
-# 1080 - Province1080
+# 1080 - G'wenee
 
 # County Title
-title = c_province1080
+title = c_g_wenee
 
 # Settlements
 max_settlements = 2
-b_barony1080` = tribal
-b_barony1080a = temple
+b_g_wenee = tribal
 
 # Misc
 culture = uncultured_swine

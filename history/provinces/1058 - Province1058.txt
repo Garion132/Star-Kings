@@ -1,12 +1,11 @@
-# 1058 - Province1058
+# 1058 - Bimmiel
 
 # County Title
-title = c_province1058
+title = c_bimmiel
 
 # Settlements
 max_settlements = 4
-b_barony1058` = tribal
-b_barony1058a = temple
+b_bimmiel = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 914 - Province0914
+# 914 - Er'Kit
 
 # County Title
-title = c_province0914
+title = c_er_kit
 
 # Settlements
 max_settlements = 2
-b_barony0914` = tribal
-b_barony0914a = temple
+b_er_kit = tribal
 
 # Misc
-culture = uncultured_swine
+culture = er_kit
 religion = pagan
 
 # History

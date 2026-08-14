@@ -1,12 +1,11 @@
-# 133 - Province0133
+# 133 - Nirauan
 
 # County Title
-title = c_province0133
+title = c_nirauan
 
 # Settlements
 max_settlements = 4
-b_barony0133` = tribal
-b_barony0133a = temple
+b_nirauan = tribal
 
 # Misc
 culture = uncultured_swine

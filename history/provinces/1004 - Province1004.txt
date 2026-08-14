@@ -1,15 +1,14 @@
-# 1004 - Province1004
+# 1004 - M'haeli
 
 # County Title
-title = c_province1004
+title = c_m_haeli
 
 # Settlements
 max_settlements = 3
-b_barony1004` = tribal
-b_barony1004a = temple
+b_m_haeli = tribal
 
 # Misc
-culture = uncultured_swine
+culture = h_drachi
 religion = pagan
 
 # History

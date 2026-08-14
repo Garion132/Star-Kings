@@ -1,12 +1,11 @@
-# 119 - Province0119
+# 119 - Celdaru
 
 # County Title
-title = c_province0119
+title = c_celdaru
 
 # Settlements
 max_settlements = 4
-b_barony0119` = tribal
-b_barony0119a = temple
+b_celdaru = tribal
 
 # Misc
 culture = uncultured_swine

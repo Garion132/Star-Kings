@@ -1,15 +1,14 @@
-# 350 - Province0350
+# 350 - Merakai
 
 # County Title
-title = c_province0350
+title = c_merakai
 
 # Settlements
 max_settlements = 4
-b_barony0350` = tribal
-b_barony0350a = temple
+b_merakai = tribal
 
 # Misc
-culture = uncultured_swine
+culture = khil
 religion = pagan
 
 # History

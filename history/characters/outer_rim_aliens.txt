@@ -577,3 +577,39 @@
 		death=yes
 	}
 }
+60220 = {
+	name= "Danry"
+	dynasty = 102 # Ledwellow
+	religion = pagan
+	culture = er_kit
+	931.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+60230 = {
+	name= "Darsana"
+	#dynasty = 
+	religion = pagan
+	culture = ansemli
+	931.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+60240 = {
+	name= "Fargane"
+	#dynasty = 
+	religion = pagan
+	culture = ansionian
+	931.1.1={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}

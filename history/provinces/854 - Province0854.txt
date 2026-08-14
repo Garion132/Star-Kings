@@ -1,15 +1,14 @@
-# 854 - Province0854
+# 854 - Gandolo
 
 # County Title
-title = c_province0854
+title = c_gandolo
 
 # Settlements
 max_settlements = 3
-b_barony0854` = tribal
-b_barony0854a = temple
+b_gandolo = tribal
 
 # Misc
-culture = uncultured_swine
+culture = wookiee
 religion = pagan
 
 # History

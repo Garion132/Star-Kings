@@ -1,12 +1,11 @@
-# 146 - Province0146
+# 146 - Soun
 
 # County Title
-title = c_province0146
+title = c_soun
 
 # Settlements
 max_settlements = 5
-b_barony0146` = tribal
-b_barony0146a = temple
+b_soun = tribal
 
 # Misc
 culture = uncultured_swine

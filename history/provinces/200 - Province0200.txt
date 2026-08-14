@@ -1,15 +1,14 @@
-# 200 - Province0200
+# 200 - Dorin
 
 # County Title
-title = c_province0200
+title = c_dorin
 
 # Settlements
 max_settlements = 3
-b_barony0200` = tribal
-b_barony0200a = temple
+b_dorin = tribal
 
 # Misc
-culture = uncultured_swine
+culture = kel_dor
 religion = pagan
 
 # History

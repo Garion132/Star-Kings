@@ -1,12 +1,11 @@
-# 241 - Province0241
+# 241 - Uba
 
 # County Title
-title = c_province0241
+title = c_uba
 
 # Settlements
 max_settlements = 3
-b_barony0241` = tribal
-b_barony0241a = temple
+b_uba = tribal
 
 # Misc
 culture = uncultured_swine

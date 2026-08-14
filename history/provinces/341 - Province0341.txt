@@ -1,12 +1,11 @@
-# 341 - Province0341
+# 341 - Sif-Uwana
 
 # County Title
-title = c_province0341
+title = c_sif_uwana
 
 # Settlements
 max_settlements = 1
-b_barony0341` = tribal
-b_barony0341a = temple
+b_sif_uwana = tribal
 
 # Misc
 culture = uncultured_swine

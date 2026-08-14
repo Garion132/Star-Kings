@@ -1,12 +1,11 @@
-# 115 - Province0115
+# 115 - Rago
 
 # County Title
-title = c_province0115
+title = c_rago
 
 # Settlements
 max_settlements = 4
-b_barony0115` = tribal
-b_barony0115a = temple
+b_rago = tribal
 
 # Misc
 culture = uncultured_swine

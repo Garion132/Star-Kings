@@ -1243,3 +1243,154 @@
 		death=yes
 	}
 }
+51590 = {
+	name= "Ulbrek"
+	dynasty = 100 #Gostech
+	religion = pagan
+	culture = core_worlder
+	966.1.1={
+		birth=yes
+	}
+	
+	1037.1.1={
+		death=yes
+	}
+}
+51600 = {
+	name= "Dol" 
+	dynasty = 101 #Donar
+	religion = pagan
+	culture = core_worlder
+	trait="fat"
+	948.1.1={
+		birth=yes
+	}
+	
+	999.1.1={
+		death=yes
+	}
+}
+51601 = {
+	name= "Rissa" 
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	953.1.1={
+		birth=yes
+	}
+	978.1.1={
+		add_spouse = 51600
+	}
+	999.1.1={
+		death=yes
+	}
+}
+51602 = {
+	name= "Nathan" 
+	dynasty = 101 #Donar
+	religion = pagan
+	culture = core_worlder
+	trait="drunkard"
+	father = 51600
+	mother = 51601
+	979.1.1={
+		birth=yes
+	}
+	
+	999.1.1={
+		death=yes
+	}
+}
+51610 = {
+	name= "Natas" 
+	dynasty = 103 #Kyber
+	religion = pagan
+	culture = core_worlder
+	938.1.1={
+		birth=yes
+	}
+	
+	1014.1.1={
+		death=yes
+	}
+}
+51611 = {
+	name= "Torino" 
+	dynasty = 103 #Kyber
+	religion = pagan
+	culture = core_worlder
+	father = 51610
+	959.1.1={
+		birth=yes
+	}
+	
+	1000.1.1={
+		death=yes
+	}
+}
+51620 = {
+	name= "Sha-Mar" 
+	dynasty = 104 #Ma-Dred
+	religion = pagan
+	culture = core_worlder
+	938.1.1={
+		birth=yes
+	}
+	963.1.1={
+		add_spouse = 51621
+		add_spouse = 51622
+		add_spouse = 51623
+		add_spouse = 51624
+	}
+	1014.1.1={
+		death=yes
+	}
+}
+51621 = {
+	name= "Tiarri" 
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	941.1.1={
+		birth=yes
+	}
+	1014.1.1={
+		death=yes
+	}
+}
+51622 = {
+	name= "Kheann" 
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	941.1.1={
+		birth=yes
+	}
+	1014.1.1={
+		death=yes
+	}
+}
+51623 = {
+	name= "Mirrix" 
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	941.1.1={
+		birth=yes
+	}
+	1014.1.1={
+		death=yes
+	}
+}
+51624 = {
+	name= "Ashala" 
+	religion = pagan
+	culture = core_worlder
+	female = yes
+	941.1.1={
+		birth=yes
+	}
+	1014.1.1={
+		death=yes
+	}
+}

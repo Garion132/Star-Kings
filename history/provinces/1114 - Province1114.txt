@@ -1,12 +1,11 @@
-# 1114 - Province1114
+# 1114 - Vernet
 
 # County Title
-title = c_province1114
+title = c_vernet
 
 # Settlements
 max_settlements = 2
-b_barony1114` = tribal
-b_barony1114a = temple
+b_vernet = tribal
 
 # Misc
 culture = uncultured_swine

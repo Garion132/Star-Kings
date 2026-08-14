@@ -1,11 +1,11 @@
-# 800 - Province0800
+# 800 - Cademimu
 
 # County Title
-title = c_province0800
+title = c_cademimu
 
 # Settlements
 max_settlements = 1
-b_barony0800` = tribal
+b_cademimu = tribal
 
 # Misc
 culture = uncultured_swine

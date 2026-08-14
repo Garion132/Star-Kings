@@ -1,12 +1,11 @@
-# 368 - Province0368
+# 368 - Venjagga
 
 # County Title
-title = c_province0368
+title = c_venjagga
 
 # Settlements
 max_settlements = 4
-b_barony0368` = tribal
-b_barony0368a = temple
+b_venjagga = tribal
 
 # Misc
 culture = uncultured_swine

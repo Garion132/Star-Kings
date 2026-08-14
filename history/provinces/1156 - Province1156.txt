@@ -1,12 +1,11 @@
-# 1156 - Province1156
+# 1156 - Ibanjji
 
 # County Title
-title = c_province1156
+title = c_ibanjji
 
 # Settlements
 max_settlements = 4
-b_barony1156` = tribal
-b_barony1156a = temple
+b_ibanjji = tribal
 
 # Misc
 culture = uncultured_swine

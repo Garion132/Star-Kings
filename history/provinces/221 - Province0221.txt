@@ -1,12 +1,11 @@
-# 221 - Province0221
+# 221 - Rondai
 
 # County Title
-title = c_province0221
+title = c_rondai
 
 # Settlements
 max_settlements = 3
-b_barony0221` = tribal
-b_barony0221a = temple
+b_rondai = tribal
 
 # Misc
 culture = uncultured_swine

@@ -34,16 +34,16 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0134;0141;major_river;;-1;-1;-1;-1;Gilatter to Ansion
 0141;0173;major_river;;-1;-1;-1;-1;Ansion to Keitum
 0139;0141;major_river;;-1;-1;-1;-1;Namadii to Ansion
-0141;0145;major_river;;-1;-1;-1;-1;Ansion to Kalaan (Kalaan City)
-0148;0154;major_river;;-1;-1;-1;-1;Kalaan (Glenn) to Ord Varee
+0141;0145;major_river;;-1;-1;-1;-1;Ansion to Kalaan
+0145;0154;major_river;;-1;-1;-1;-1;Kalaan to Ord Varee
 0154;0164;major_river;;-1;-1;-1;-1;Ord Varee to Glee Anselm
 0164;0174;major_river;;-1;-1;-1;-1;Glee Anselm to Vaced
-0174;0199;major_river;;-1;-1;-1;-1;Vaced to Dorin (Dor'shan)
-0200;0221;major_river;;-1;-1;-1;-1;Dorin to Rondai (Dor'galk)
+0174;0200;major_river;;-1;-1;-1;-1;Vaced to Dorin
+0200;0221;major_river;;-1;-1;-1;-1;Dorin to Rondai
 0221;0232;major_river;;-1;-1;-1;-1;Rondai to Bilbringi
 0232;0245;major_river;;-1;-1;-1;-1;Bilbringi to Bengat
 0245;0270;major_river;;-1;-1;-1;-1;Bengat to Aphran (Allston)
-0271;0285;major_river;;-1;-1;-1;-1;Aphran to Meastrinnar
+0270;0285;major_river;;-1;-1;-1;-1;Aphran to Meastrinnar
 0285;0286;major_river;;-1;-1;-1;-1;Meastrinnar to Voltare
 0286;0312;major_river;;-1;-1;-1;-1;Voltare to Carratos
 0312;0341;major_river;;-1;-1;-1;-1;Carratos to Sif-Uwana
@@ -104,18 +104,18 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0530;0450;major_river;;-1;-1;-1;-1;Kinyen to Pendari
 0450;0399;major_river;;-1;-1;-1;-1;Pendari to Tar Mordon
 0399;0389;major_river;;-1;-1;-1;-1;Tar Mordon to Calonica
-0389;0351;major_river;;-1;-1;-1;-1;Calonica to Bomis Koori (Terrence)
-0358;0359;major_river;;-1;-1;-1;-1;Bomis Koori (Genndy) to Kriselist
+0389;0358;major_river;;-1;-1;-1;-1;Calonica to Bomis Koori
+0358;0359;major_river;;-1;-1;-1;-1;Bomis Koori to Kriselist
 0359;0335;major_river;;-1;-1;-1;-1;Kriselist to D'rinba
 0335;0343;major_river;;-1;-1;-1;-1;D'rinba to Chibias
 0343;0332;major_river;;-1;-1;-1;-1;Chibias to Kaal
 0332;0323;major_river;;-1;-1;-1;-1;Kaal to Dalisor
-0323;0336;major_river;;-1;-1;-1;-1;Dalisor to Jaloch (Jiroch-Saloch)
-0338;0339;major_river;;-1;-1;-1;-1;Jaloch (Jaloch-Reslia) to Quamar
+0323;0338;major_river;;-1;-1;-1;-1;Dalisor to Jaloch
+0338;0339;major_river;;-1;-1;-1;-1;Jaloch to Quamar
 0339;0315;major_river;;-1;-1;-1;-1;Quamar to Mugaar
 0315;0321;major_river;;-1;-1;-1;-1;Mugaar to Javin
-0321;0308;major_river;;-1;-1;-1;-1;Javin to Kumru (Craig'Ro)
-0304;0301;major_river;;-1;-1;-1;-1;Kumru (Ecallaw) to Gerrenthum
+0321;0308;major_river;;-1;-1;-1;-1;Javin to Kumru
+0308;0301;major_river;;-1;-1;-1;-1;Kumru to Gerrenthum
 0301;0299;major_river;;-1;-1;-1;-1;Gerrenthum to Ione
 0299;0288;major_river;;-1;-1;-1;-1;Ione to Darlyn Boda
 0288;0300;major_river;;-1;-1;-1;-1;Darlyn Boda to Isde Naha
@@ -209,7 +209,7 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1835;1844;major_river;;-1;-1;-1;-1;Ank Ki'Shor to Estaria
 1844;1852;major_river;;-1;-1;-1;-1;Estaria to Makem Te
 1852;1869;major_river;;-1;-1;-1;-1;Makem Te to Quermia
-0199;0213;major_river;;-1;-1;-1;-1;Dorin (Dor'shan) to Myomar
+0200;0213;major_river;;-1;-1;-1;-1;Dorin to Myomar
 0213;0231;major_river;;-1;-1;-1;-1;Myomar to Vicondor
 0485;0476;major_river;;-1;-1;-1;-1;Coruscant to Foerost
 0476;0469;major_river;;-1;-1;-1;-1;Foerost to Ruan
@@ -1591,3 +1591,93 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0816;0851;sea;;-1;-1;-1;-1;Bortras to Sullust
 1115;1133;sea;;-1;-1;-1;-1;Verdanth to Arbra
 1141;1133;sea;;-1;-1;-1;-1;Sharlissia to Arbra
+1068;0982;sea;;-1;-1;-1;-1;Shibric to Dargulli
+1032;1066;sea;;-1;-1;-1;-1;Ramordia to Bimin Three
+1032;1004;sea;;-1;-1;-1;-1;Ramordia to M'haeli
+1066;1004;sea;;-1;-1;-1;-1;Bimin Three to M'haeli
+1047;0979;sea;;-1;-1;-1;-1;Gacerian to Derra
+1038;0979;sea;;-1;-1;-1;-1;Ragith to Derra
+1155;1112;sea;;-1;-1;-1;-1;Cerenia to Aguarl
+1038;1112;sea;;-1;-1;-1;-1;Ragith to Aguarl
+1114;1061;sea;;-1;-1;-1;-1;Vernet to Baroli
+0924;0982;sea;;-1;-1;-1;-1;Heptalia to Dargulli
+0924;0912;sea;;-1;-1;-1;-1;Heptalia to Dargulli
+0948;0912;sea;;-1;-1;-1;-1;Heptalia to Dargulli
+0812;0912;sea;;-1;-1;-1;-1;Arkam to Borao
+0812;0790;sea;;-1;-1;-1;-1;Arkam to Xeron
+0812;0794;sea;;-1;-1;-1;-1;Arkam to Roundtree
+0924;0862;sea;;-1;-1;-1;-1;Heptalia to Dargulli
+1089;1069;sea;;-1;-1;-1;-1;Argazda to Jerne
+1089;1103;sea;;-1;-1;-1;-1;Argazda to Ereesus
+1129;1103;sea;;-1;-1;-1;-1;Lorrd to Ereesus
+1130;1103;sea;;-1;-1;-1;-1;Kol Huro to Ereesus
+1130;1129;sea;;-1;-1;-1;-1;Kol Huro to Lorrd
+1129;1156;sea;;-1;-1;-1;-1;Lorrd to Ibanjji
+1262;1156;sea;;-1;-1;-1;-1;Maltha Obex to Ibanjji
+1058;1156;sea;;-1;-1;-1;-1;Bimmiel to Ibanjji
+0854;0807;sea;;-1;-1;-1;-1;Gandolo to Akuria
+0854;0824;sea;;-1;-1;-1;-1;Gandolo to Agamar 
+0747;0724;sea;;-1;-1;-1;-1;Genassa to Ylix  
+0747;0659;sea;;-1;-1;-1;-1;Genassa to Urce
+0639;0659;sea;;-1;-1;-1;-1;Entuur to Urce
+0639;0657;sea;;-1;-1;-1;-1;Entuur to Ebra
+0601;0548;sea;;-1;-1;-1;-1;Korvaii to Anobis
+0710;0807;sea;;-1;-1;-1;-1;Ketaris to Akuria
+0907;0831;sea;;-1;-1;-1;-1;Borgo Prime to Polus
+0773;0914;sea;;-1;-1;-1;-1;Noonar to Er'Kit
+0387;0368;sea;;-1;-1;-1;-1;Borleias to Venjagga
+0378;0368;sea;;-1;-1;-1;-1;Ord Mirit to Venjagga
+0378;0356;sea;;-1;-1;-1;-1;Ord Mirit to Mrisst
+0356;0368;sea;;-1;-1;-1;-1;Mrisst to Venjagga
+0356;0346;sea;;-1;-1;-1;-1;Mrisst to Palanhi
+0377;0509;sea;;-1;-1;-1;-1;Noquivzor to Baradas
+0562;0509;sea;;-1;-1;-1;-1;Ord Antalaha to Baradas
+0221;0325;sea;;-1;-1;-1;-1;Rondai to Muzara
+0361;0325;sea;;-1;-1;-1;-1;Barenth to Muzara
+0368;0373;sea;;-1;-1;-1;-1;Venjagga to Denevar
+0373;0350;sea;;-1;-1;-1;-1;Denevar to Merakai
+0350;0353;sea;;-1;-1;-1;-1;Merakai to Dachat
+0174;0155;sea;;-1;-1;-1;-1;Vaced to Mondress
+0199;0271;sea;;-1;-1;-1;-1;Malari to Dbari
+0139;0271;sea;;-1;-1;-1;-1;Namadii to Dbari
+0199;0134;sea;;-1;-1;-1;-1;Malari to Gilatter
+0199;0141;sea;;-1;-1;-1;-1;Malari to Ansion
+0173;0186;sea;;-1;-1;-1;-1;Keitum to Dalron
+0212;0186;sea;;-1;-1;-1;-1;Cirrus to Dalron
+0212;0241;sea;;-1;-1;-1;-1;Cirrus to Uba
+0279;0241;sea;;-1;-1;-1;-1;Iridia to Uba
+0212;0192;sea;;-1;-1;-1;-1;Cirrus to Troska
+0121;0115;sea;;-1;-1;-1;-1;Kril'Dor to Rago
+0113;0115;sea;;-1;-1;-1;-1;Burska to Rago
+0113;0111;sea;;-1;-1;-1;-1;Burska to Ankus
+0116;0111;sea;;-1;-1;-1;-1;Acherin to Ankus
+0116;0199;sea;;-1;-1;-1;-1;Acherin to Malari
+0143;0155;sea;;-1;-1;-1;-1;Glom Tho to Mondress
+0143;0119;sea;;-1;-1;-1;-1;Glom Tho to Celdaru
+0123;0119;sea;;-1;-1;-1;-1;Mendicat to Celdaru
+0123;0130;sea;;-1;-1;-1;-1;Mendicat to Roxuli
+0146;0130;sea;;-1;-1;-1;-1;Soun to Roxuli
+0146;0351;sea;;-1;-1;-1;-1;Soun to Kashir
+0143;0148;sea;;-1;-1;-1;-1;Glom Tho to Horob
+0336;0167;sea;;-1;-1;-1;-1;Vardoss to Hijo
+0184;0167;sea;;-1;-1;-1;-1;Belassar to Hijo
+0184;0200;sea;;-1;-1;-1;-1;Belassar to Dorin
+0169;0192;sea;;-1;-1;-1;-1;Aeten to Troska
+0169;0147;sea;;-1;-1;-1;-1;Aeten to Adumar
+0169;0133;sea;;-1;-1;-1;-1;Aeten to Nirauan
+0133;0147;sea;;-1;-1;-1;-1;Nirauan to Adumar
+0107;0147;sea;;-1;-1;-1;-1;Esfandia to Adumar
+0169;0198;sea;;-1;-1;-1;-1;Aeten to Comra
+0180;0198;sea;;-1;-1;-1;-1;Alashan to Comra
+0263;0198;sea;;-1;-1;-1;-1;Borosk to Comra
+0147;0271;sea;;-1;-1;-1;-1;Adumar to Dbari
+0148;0130;sea;;-1;-1;-1;-1;Horob to Roxuli##main routes missing map lanes
+0148;0336;sea;;-1;-1;-1;-1;Horob to Vardoss
+0336;0458;sea;;-1;-1;-1;-1;Vardoss to Neshei
+0200;0458;sea;;-1;-1;-1;-1;Dorin to Neshei
+0148;0155;sea;;-1;-1;-1;-1;Horob to Mondress##main routes missing map lanes end
+0148;0304;sea;;-1;-1;-1;-1;Horob to Escabar
+0130;0304;sea;;-1;-1;-1;-1;Roxuli to Escabar
+0119;0304;sea;;-1;-1;-1;-1;Celdaru to Escabar
+0351;0336;sea;;-1;-1;-1;-1;Kashir to Vardoss
+0270;0311;sea;;-1;-1;-1;-1;Aphran to Neshtab

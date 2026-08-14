@@ -1,15 +1,14 @@
-# 145 - Province0145
+# 145 - Kalaan
 
 # County Title
-title = c_province0145
+title = c_kalaan
 
 # Settlements
 max_settlements = 3
-b_barony0145` = tribal
-b_barony0145a = temple
+b_kalaan = tribal
 
 # Misc
-culture = uncultured_swine
+culture = kalaanite
 religion = pagan
 
 # History

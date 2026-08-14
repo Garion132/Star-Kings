@@ -1,12 +1,11 @@
-# 325 - Province0325
+# 325 - Muzara
 
 # County Title
-title = c_province0325
+title = c_muzara
 
 # Settlements
 max_settlements = 1
-b_barony0325` = tribal
-b_barony0325a = temple
+b_muzara = tribal
 
 # Misc
 culture = uncultured_swine

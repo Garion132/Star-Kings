@@ -1,12 +1,11 @@
-# 270 - Province0270
+# 270 - Aphran
 
 # County Title
-title = c_province0270
+title = c_aphran
 
 # Settlements
 max_settlements = 1
-b_barony0270` = tribal
-b_barony0270a = temple
+b_aphran = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 351 - Province0351
+# 351 - Kashir
 
 # County Title
-title = c_province0351
+title = c_kashir
 
 # Settlements
 max_settlements = 4
-b_barony0351` = tribal
-b_barony0351a = temple
+b_kashir = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1038 - Province1038
+# 1038 - Ragith
 
 # County Title
-title = c_province1038
+title = c_ragith
 
 # Settlements
 max_settlements = 4
-b_barony1038` = tribal
-b_barony1038a = temple
+b_ragith = tribal
 
 # Misc
 culture = uncultured_swine

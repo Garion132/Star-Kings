@@ -1,12 +1,11 @@
-# 1066 - Province1066
+# 1066 -Bimin Three
 
 # County Title
-title = c_province1066
+title = c_bimin_three
 
 # Settlements
 max_settlements = 4
-b_barony1066` = tribal
-b_barony1066a = temple
+b_bimin_three = tribal
 
 # Misc
 culture = uncultured_swine

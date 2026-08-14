@@ -1,12 +1,11 @@
-# 148 - Province0148
+# 148 - Horob
 
 # County Title
-title = c_province0148
+title = c_horob
 
 # Settlements
 max_settlements = 5
-b_barony0148` = tribal
-b_barony0148a = temple
+b_horob = tribal
 
 # Misc
 culture = uncultured_swine

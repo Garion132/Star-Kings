@@ -1,12 +1,11 @@
-# 1069 - Province1069
+# 1069 - Jerne
 
 # County Title
-title = c_province1069
+title = c_jerne
 
 # Settlements
 max_settlements = 4
-b_barony1069` = tribal
-b_barony1069a = temple
+b_jerne = tribal
 
 # Misc
 culture = uncultured_swine

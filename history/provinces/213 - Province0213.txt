@@ -1,12 +1,11 @@
-# 213 - Province0213
+# 213 - Myomar
 
 # County Title
-title = c_province0213
+title = c_myomar
 
 # Settlements
 max_settlements = 3
-b_barony0213` = tribal
-b_barony0213a = temple
+b_myomar = tribal
 
 # Misc
 culture = uncultured_swine

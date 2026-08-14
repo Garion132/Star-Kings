@@ -1,12 +1,11 @@
-# 1017 - Province1017
+# 1017 - Shaum Hii
 
 # County Title
-title = c_province1017
+title = c_shaum_hii
 
 # Settlements
 max_settlements = 3
-b_barony1017` = tribal
-b_barony1017a = temple
+b_shaum_hii = tribal
 
 # Misc
 culture = uncultured_swine

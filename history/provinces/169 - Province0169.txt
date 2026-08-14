@@ -1,12 +1,11 @@
-# 169 - Province0169
+# 169 - Aeten
 
 # County Title
-title = c_province0169
+title = c_aeten
 
 # Settlements
 max_settlements = 5
-b_barony0169` = tribal
-b_barony0169a = temple
+b_aeten = tribal
 
 # Misc
 culture = uncultured_swine

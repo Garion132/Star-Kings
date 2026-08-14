@@ -1,12 +1,11 @@
-# 807 - Province0807
+# 807 - Akuria
 
 # County Title
-title = c_province0807
+title = c_akuria
 
 # Settlements
 max_settlements = 3
-b_barony0807` = tribal
-b_barony0807a = temple
+b_akuria = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 147 - Province0147
+# 147 - Adumar
 
 # County Title
-title = c_province0147
+title = c_adumar
 
 # Settlements
 max_settlements = 5
-b_barony0147` = tribal
-b_barony0147a = temple
+b_adumar = tribal
 
 # Misc
 culture = uncultured_swine

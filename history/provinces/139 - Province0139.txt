@@ -1,12 +1,11 @@
-# 139 - Province0139
+# 139 - Namadii
 
 # County Title
-title = c_province0139
+title = c_namadii
 
 # Settlements
 max_settlements = 5
-b_barony0139` = tribal
-b_barony0139a = temple
+b_namadii = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 1129 - Province1129
+# 1129 - Lorrd
 
 # County Title
-title = c_province1129
+title = c_lorrd
 
 # Settlements
 max_settlements = 4
-b_barony1129` = tribal
-b_barony1129a = temple
+b_lorrd = tribal
 
 # Misc
 culture = uncultured_swine

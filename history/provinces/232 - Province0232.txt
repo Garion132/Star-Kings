@@ -1,12 +1,11 @@
-# 232 - Province0232
+# 232 - Bilbringi
 
 # County Title
-title = c_province0232
+title = c_bilbringi
 
 # Settlements
 max_settlements = 3
-b_barony0232` = tribal
-b_barony0232a = temple
+b_bilbringi = tribal
 
 # Misc
 culture = uncultured_swine

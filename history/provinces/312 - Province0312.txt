@@ -1,12 +1,11 @@
-# 312 - Province0312
+# 312 - Carratos
 
 # County Title
-title = c_province0312
+title = c_carratos
 
 # Settlements
 max_settlements = 3
-b_barony0312` = tribal
-b_barony0312a = temple
+b_carratos = tribal
 
 # Misc
 culture = uncultured_swine

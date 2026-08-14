@@ -1,15 +1,14 @@
-# 1112 - Province1112
+# 1112 - Aguarl
 
 # County Title
-title = c_province1112
+title = c_aguarl
 
 # Settlements
 max_settlements = 4
-b_barony1112` = tribal
-b_barony1112a = temple
+b_aguarl = tribal
 
 # Misc
-culture = uncultured_swine
+culture = mon_calamari
 religion = pagan
 
 # History

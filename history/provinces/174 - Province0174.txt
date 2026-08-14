@@ -1,11 +1,11 @@
-# 174 - Province0174
+# 174 - Vaced
 
 # County Title
-title = c_province0174
+title = c_vaced
 
 # Settlements
 max_settlements = 1
-b_barony0174` = tribal
+b_vaced = tribal
 
 # Misc
 culture = uncultured_swine

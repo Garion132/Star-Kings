@@ -1,12 +1,11 @@
-# 311 - Province0311
+# 311 - Neshtab
 
 # County Title
-title = c_province0311
+title = c_neshtab
 
 # Settlements
 max_settlements = 3
-b_barony0311` = tribal
-b_barony0311a = temple
+b_neshtab = tribal
 
 # Misc
 culture = uncultured_swine

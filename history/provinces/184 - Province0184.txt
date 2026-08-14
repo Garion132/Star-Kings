@@ -1,12 +1,11 @@
-# 184 - Province0184
+# 184 - Belassar
 
 # County Title
-title = c_province0184
+title = c_belassar
 
 # Settlements
 max_settlements = 3
-b_barony0184` = tribal
-b_barony0184a = temple
+b_belassar = tribal
 
 # Misc
 culture = uncultured_swine

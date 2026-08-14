@@ -1,12 +1,11 @@
-# 198 - Province0198
+# 198 - Comra
 
 # County Title
-title = c_province0198
+title = c_comra
 
 # Settlements
 max_settlements = 1
-b_barony0198` = tribal
-b_barony0198a = temple
+b_comra = tribal
 
 # Misc
 culture = uncultured_swine

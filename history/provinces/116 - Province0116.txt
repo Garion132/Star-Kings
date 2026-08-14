@@ -1,15 +1,15 @@
-# 116 - Province0116
+# 116 - Red Twins
 
 # County Title
-title = c_province0116
+title = c_red_twins
 
 # Settlements
 max_settlements = 4
-b_barony0116` = tribal
-b_barony0116a = temple
+b_acherin = tribal
+b_deneter = tribal
 
 # Misc
-culture = uncultured_swine
+culture = acherin
 religion = pagan
 
 # History

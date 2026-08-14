@@ -1,12 +1,11 @@
-# 1130 - Province1130
+# 1130 - Kol Huro
 
 # County Title
-title = c_province1130
+title = c_kol_huro
 
 # Settlements
 max_settlements = 1
-b_barony1130` = tribal
-b_barony1130a = temple
+b_kol_huro = tribal
 
 # Misc
 culture = uncultured_swine
