@@ -1,12 +1,11 @@
-# 522 - Province0522
+# 522 - Mustafar
 
 # County Title
-title = c_province0522
+title = c_mustafar
 
 # Settlements
 max_settlements = 3
-b_barony0522` = tribal
-b_barony0522a = temple
+b_mustafar = tribal
 
 # Misc
 culture = uncultured_swine

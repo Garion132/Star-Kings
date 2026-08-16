@@ -1,12 +1,11 @@
-# 836 - Province0836
+# 836 - Elrood
 
 # County Title
-title = c_province0836
+title = c_elrood
 
 # Settlements
 max_settlements = 3
-b_barony0836` = tribal
-b_barony0836a = temple
+b_elrood = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 478 - Province0478
+# 478 - Dolstan
 
 # County Title
-title = c_province0478
+title = c_dolstan
 
 # Settlements
 max_settlements = 2
-b_barony0478` = tribal
-b_barony0478a = temple
+b_dolstan = tribal
 
 # Misc
 culture = uncultured_swine
-religion = pagan
+religion = pagan #pinacism
 
 # History

@@ -1,12 +1,11 @@
-# 860 - Province0860
+# 860 - Adarlon
 
 # County Title
-title = c_province0860
+title = c_adarlon
 
 # Settlements
 max_settlements = 2
-b_barony0860` = tribal
-b_barony0860a = temple
+b_adarlon = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,15 +1,14 @@
-# 471 - Province0471
+# 471 - Dayark
 
 # County Title
-title = c_province0471
+title = c_dayark
 
 # Settlements
 max_settlements = 2
-b_barony0471` = tribal
-b_barony0471a = temple
+b_dayark = tribal
 
 # Misc
-culture = uncultured_swine
+culture = ithorian
 religion = pagan
 
 # History

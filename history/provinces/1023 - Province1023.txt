@@ -1,12 +1,11 @@
-# 1023 - Province1023
+# 1023 - Skustell
 
 # County Title
-title = c_province1023
+title = c_skustell
 
 # Settlements
 max_settlements = 3
-b_barony1023` = tribal
-b_barony1023a = temple
+b_skustell = tribal
 
 # Misc
 culture = uncultured_swine

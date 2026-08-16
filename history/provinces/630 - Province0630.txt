@@ -1,12 +1,11 @@
-# 630 - Province0630
+# 630 - Kelrodo-Ai
 
 # County Title
-title = c_province0630
+title = c_kelrodo_ai
 
 # Settlements
 max_settlements = 3
-b_barony0630` = tribal
-b_barony0630a = temple
+b_kelrodo_ai = tribal
 
 # Misc
 culture = uncultured_swine

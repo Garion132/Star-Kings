@@ -1,12 +1,11 @@
-# 761 - Province0761
+# 761 - Askaj
 
 # County Title
-title = c_province0761
+title = c_askaj
 
 # Settlements
 max_settlements = 3
-b_barony0761` = tribal
-b_barony0761a = temple
+b_askaj = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 475 - Province0475
+# 475 - Jangelle
 
 # County Title
-title = c_province0475
+title = c_jangelle
 
 # Settlements
 max_settlements = 4
-b_barony0475` = tribal
-b_barony0475a = temple
+b_jangelle = tribal
 
 # Misc
 culture = uncultured_swine

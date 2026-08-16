@@ -1,12 +1,11 @@
-# 463 - Province0463
+# 463 - Derilyn
 
 # County Title
-title = c_province0463
+title = c_derilyn
 
 # Settlements
 max_settlements = 4
-b_barony0463` = tribal
-b_barony0463a = temple
+b_derilyn = tribal
 
 # Misc
 culture = uncultured_swine

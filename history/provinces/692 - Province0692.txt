@@ -1,12 +1,11 @@
-# 692 - Province0692
+# 692 - Shumavar
 
 # County Title
-title = c_province0692
+title = c_shumavar
 
 # Settlements
 max_settlements = 3
-b_barony0692` = tribal
-b_barony0692a = temple
+b_shumavar = tribal
 
 # Misc
 culture = uncultured_swine

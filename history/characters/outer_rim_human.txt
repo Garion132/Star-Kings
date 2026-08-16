@@ -1394,3 +1394,113 @@
 		death=yes
 	}
 }
+51630 = {
+	name= "Drom" 
+	dynasty = 105 #Guldi
+	religion = pagan
+	culture = core_worlder
+	943.1.1={
+		birth=yes
+	}
+	1012.1.1={
+		death=yes
+	}
+}
+
+51640 = {
+	name= "Wuxod" 
+	#
+	religion = pagan
+	culture = core_worlder
+	937.1.1={
+		birth=yes
+	}
+	992.1.1={
+		death=yes
+	}
+}
+51641 = {
+	name= "Wuxod" 
+	#
+	religion = pagan
+	culture = core_worlder
+	958.1.1={
+		birth=yes
+	}
+	981.1.1={
+		death=yes
+	}
+}
+51642 = {
+	name= "Wuxod" 
+	#
+	religion = pagan
+	culture = core_worlder
+	987.1.1={
+		birth=yes
+	}
+	1037.1.1={
+		death=yes
+	}
+}
+51650 = {
+	name= "Kause" 
+	#
+	religion = pagan
+	culture = core_worlder
+	937.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+51651 = {
+	name= "Tetrum" 
+	#
+	religion = pagan
+	culture = core_worlder
+	937.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+51660 = { #Kathol sector moff 
+	name= "Kentor" 
+	dynasty = 109 #Sarne
+	religion = pagan
+	culture = core_worlder
+	949.1.1={
+		birth=yes
+	}
+	1008.1.1={
+		death=yes
+	}
+}
+51670 = {
+	name= "Han" 
+	dynasty = 111 #Olbeg
+	religion = pagan
+	culture = core_worlder
+	929.1.1={
+		birth=yes
+	}
+	977.1.1={
+		death=yes
+	}
+}
+51671 = {
+	name= "Sho'ban" 
+	dynasty = 112 #Do
+	religion = pagan
+	culture = core_worlder
+	957.1.1={
+		birth=yes
+	}
+	1009.1.1={
+		death=yes
+	}
+}
+

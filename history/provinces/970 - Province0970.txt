@@ -1,15 +1,14 @@
-# 970 - Province0970
+# 970 - Utapau
 
 # County Title
-title = c_province0970
+title = c_utapau
 
 # Settlements
 max_settlements = 1
-b_barony0970` = tribal
-b_barony0970a = temple
+b_utapau = tribal
 
 # Misc
-culture = uncultured_swine
+culture = utai
 religion = pagan
 
 # History

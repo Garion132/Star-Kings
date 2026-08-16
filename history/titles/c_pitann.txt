@@ -1,0 +1,8 @@
+967.1.1 = {
+	holder = 51670
+	liege = d_kathol_sector
+}
+977.1.1 = {
+	holder = 51671
+	liege = d_kathol_republic
+}

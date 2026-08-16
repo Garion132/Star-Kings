@@ -1,11 +1,11 @@
-# 868 - Province0868
+# 868 - Pergitor
 
 # County Title
-title = c_province0868
+title = c_pergitor
 
 # Settlements
 max_settlements = 1
-b_barony0868` = tribal
+b_pergitor = tribal
 
 # Misc
 culture = uncultured_swine

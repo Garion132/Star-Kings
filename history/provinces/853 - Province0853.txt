@@ -1,12 +1,11 @@
-# 853 - Province0853
+# 853 - Bpfassh
 
 # County Title
-title = c_province0853
+title = c_bpfassh
 
 # Settlements
 max_settlements = 3
-b_barony0853` = tribal
-b_barony0853a = temple
+b_bpfassh = tribal
 
 # Misc
 culture = uncultured_swine

@@ -1,12 +1,11 @@
-# 482 - Province0482
+# 482 - Pembric
 
 # County Title
-title = c_province0482
+title = c_pembric
 
 # Settlements
 max_settlements = 2
-b_barony0482` = tribal
-b_barony0482a = temple
+b_pembric = tribal
 
 # Misc
 culture = uncultured_swine

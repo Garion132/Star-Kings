@@ -1,12 +1,11 @@
-# 461 - Province0461
+# 461 - Coyn
 
 # County Title
-title = c_province0461
+title = c_coyn
 
 # Settlements
 max_settlements = 4
-b_barony0461` = tribal
-b_barony0461a = temple
+b_coyn = tribal
 
 # Misc
 culture = uncultured_swine

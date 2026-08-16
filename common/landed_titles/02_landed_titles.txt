@@ -7179,6 +7179,246 @@ e_gal_republic = {
 				}
 			}
 		}
+		d_sluis_sector = { #
+			color={ 160 110 67 }
+			color2={ 255 255 255 }
+			
+			c_praesitlyn = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_praesitlyn = {
+					
+				}
+			}
+			c_sluis_van = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_sluis_van = {
+					
+				}
+			}
+			c_bpfassh = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_bpfassh = {
+					
+				}
+			}
+			c_denab = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_denab = {
+					
+				}
+			}
+			c_dagobah = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_dagobah = {
+					
+				}
+			}
+		}
+		d_tarabba_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_tarabba = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_tarabba = {
+					
+				}
+			}
+			c_utapau = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_utapau = {
+					
+				}
+			}
+			c_skustell = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_skustell = {
+					
+				}
+			}
+		}
+		d_tantra_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_tantra = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_tantra = {
+					
+				}
+			}
+		}
+		d_elrood_sector = {
+			color={ 193 157 89 }
+			color2={ 255 255 255 }
+			
+			c_elrood = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_elrood = {
+					
+				}
+			}
+			c_coyn = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_coyn = {
+					
+				}
+			}
+			c_merisee = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_merisee = {
+					
+				}
+			}
+			c_derilyn = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_derilyn = {
+					
+				}
+			}
+		}
+		d_minos_cluster = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_adarlon = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_adarlon = {
+					
+				}
+			}
+			c_karideph = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_karideph = {
+					
+				}
+			}
+			c_pergitor = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_karideph = {
+					
+				}
+			}
+		}
+		d_airam_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_skor = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_skor = {
+					
+				}
+			}
+		}
+		d_cegul_sector = {
+			color={ 221 224 78 }
+			color2={ 255 255 255 }
+			
+			c_askaj = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_askaj = {
+					
+				}
+			}
+		}
+		d_kathol_sector = {
+			color={ 132 166 54 }
+			color2={ 255 255 255 }
+			
+			c_kal_shebbol = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_kal_shebbol = {
+					
+				}
+			}
+			c_kolatill = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_kolatill = {
+					
+				}
+			}
+			c_pembric = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_pembric = {
+					
+				}
+			}
+			c_dolstan = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_dolstan = {
+					
+				}
+			}
+			c_jangelle = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_jangelle = {
+					
+				}
+			}
+			c_dayark = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_dayark = {
+					
+				}
+			}
+			c_pitann = {
+				color={ 221 224 78 }
+				color2={ 255 255 255 }
+				
+				b_pitann = {
+					
+				}
+			}
+		}
 	}
 	k_western_reaches={
 		color={ 35 104 162 }
@@ -7246,6 +7486,72 @@ e_gal_republic = {
 					
 				}
 				b_jiroch_saloch = {
+					
+				}
+			}
+		}
+		d_atravis_sector = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
+
+			c_shumavar = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_shumavar = {
+					
+				}
+			}
+			c_atravis = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_atravis = {
+					
+				}
+			}
+			c_dorlo = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_dorlo = {
+					
+				}
+			}
+			c_tosste = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_tosste = {
+					
+				}
+			}
+			c_mustafar = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_mustafar = {
+					
+				}
+			}
+			c_rutan = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_rutan = {
+					
+				}
+			}
+		}
+		d_steniplis_sector = {
+			color={ 255 193 34 }
+			color2={ 255 255 255 }
+
+			c_kelrodo_ai = {
+				color={ 100 20 2 }
+				color2={ 255 255 255 }
+				
+				b_kelrodo_ai = {
 					
 				}
 			}
@@ -10317,6 +10623,12 @@ d_malarian_alliance = {
 }
 d_keitumite_treaty = {
 	color = { 168 102 135 }
+}
+d_kathol_republic = {
+	color = { 145 93 20 }
+}
+d_pimbrellan_league = {
+	color = { 158 140 97 }
 }
 #pirates
 d_dark_warbirds = {

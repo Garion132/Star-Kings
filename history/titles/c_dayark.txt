@@ -1,0 +1,4 @@
+967.1.1 = {
+	holder = 60290
+	liege = d_kathol_republic
+}

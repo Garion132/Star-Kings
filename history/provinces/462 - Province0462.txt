@@ -1,15 +1,14 @@
-# 462 - Province0462
+# 462 - Merisee
 
 # County Title
-title = c_province0462
+title = c_merisee
 
 # Settlements
 max_settlements = 1
-b_barony0462` = tribal
-b_barony0462a = temple
+b_merisee = tribal
 
 # Misc
-culture = uncultured_swine
+culture = meri
 religion = pagan
 
 # History

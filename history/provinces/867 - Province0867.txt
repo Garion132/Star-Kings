@@ -1,12 +1,11 @@
-# 867 - Province0867
+# 867 - Karideph
 
 # County Title
-title = c_province0867
+title = c_karideph
 
 # Settlements
 max_settlements = 3
-b_barony0867` = tribal
-b_barony0867a = temple
+b_karideph = tribal
 
 # Misc
 culture = uncultured_swine

@@ -595,7 +595,8 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0877;0868;major_river;;-1;-1;-1;-1;Kal'Shebbol to Pergitor
 0867;0868;major_river;;-1;-1;-1;-1;Karideph to Pergitor
 0867;0860;major_river;;-1;-1;-1;-1;Karideph to Adarlon
-0871;0860;major_river;;-1;-1;-1;-1;Tarabba to Adarlon
+0460;0860;major_river;;-1;-1;-1;-1;Tantra to Adarlon
+0871;0460;major_river;;-1;-1;-1;-1;Tarabba to Tantra
 0871;0839;major_river;;-1;-1;-1;-1;Tarabba to Denab
 0881;0839;major_river;;-1;-1;-1;-1;Sluis Van to Denab
 0881;0883;major_river;;-1;-1;-1;-1;Sluis Van to Praesitlyn
@@ -1681,3 +1682,25 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 0119;0304;sea;;-1;-1;-1;-1;Celdaru to Escabar
 0351;0336;sea;;-1;-1;-1;-1;Kashir to Vardoss
 0270;0311;sea;;-1;-1;-1;-1;Aphran to Neshtab
+0570;0522;sea;;-1;-1;-1;-1;Tosste to Mustafar
+0653;0542;sea;;-1;-1;-1;-1;Atravis to Dorlo
+0871;0970;sea;;-1;-1;-1;-1;Tarabba to Utapau
+1023;0970;sea;;-1;-1;-1;-1;Skustell to Utapau
+1023;1102;sea;;-1;-1;-1;-1;Skustell to Kirdo
+0836;0461;sea;;-1;-1;-1;-1;Elrood to Coyn
+0461;0460;sea;;-1;-1;-1;-1;Coyn to Tantra
+0461;0462;sea;;-1;-1;-1;-1;Coyn to Merisee
+0462;0463;sea;;-1;-1;-1;-1;Merisee to Derilyn
+0803;0867;sea;;-1;-1;-1;-1;Skor to Karideph
+0803;0761;sea;;-1;-1;-1;-1;Skor to Askaj
+0877;0484;major_river;;-1;-1;-1;-1;Kal'Shebbol to Kolatill
+0482;0484;sea;;-1;-1;-1;-1;Pembric to Kolatill
+0482;0478;sea;;-1;-1;-1;-1;Pembric to Dolstan
+0482;0475;sea;;-1;-1;-1;-1;Pembric to Jangelle
+0478;0475;sea;;-1;-1;-1;-1;Dolstan to Jangelle
+0471;0475;sea;;-1;-1;-1;-1;Dayark to Jangelle
+0471;0487;sea;;-1;-1;-1;-1;Dayark to Pitann
+0881;0853;sea;;-1;-1;-1;-1;Sluis Van to Bpfassh
+0883;0853;sea;;-1;-1;-1;-1;Praesitlyn to Bpfassh
+0839;0853;sea;;-1;-1;-1;-1;Denab to Bpfassh
+0839;0880;sea;;-1;-1;-1;-1;Denab to Dagobah

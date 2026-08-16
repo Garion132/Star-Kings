@@ -1,12 +1,11 @@
-# 484 - Province0484
+# 484 - Kolatill
 
 # County Title
-title = c_province0484
+title = c_kolatill
 
 # Settlements
 max_settlements = 1
-b_barony0484` = tribal
-b_barony0484a = temple
+b_kolatill = tribal
 
 # Misc
 culture = uncultured_swine

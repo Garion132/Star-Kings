@@ -414,3 +414,35 @@
 	name="Ma-Dred"
 	culture="core_worlder"
 }
+105={
+	name="Guldi"
+	culture="core_worlder"
+}
+106={
+	name="Rutan"
+	culture="rutanian"
+}
+107={
+	name="Inglet"
+	culture="sluissi"
+}
+108 = {
+	name="Medon"
+	culture="pau_an"
+}
+109={
+	name="Sarne"
+	culture="core_worlder"
+}
+110={
+	name="Hobat"
+	culture="ithorian"
+}
+111={
+	name="Olbeg"
+	culture="core_worlder"
+}
+112={
+	name="Do"
+	culture="core_worlder"
+}

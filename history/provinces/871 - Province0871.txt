@@ -1,12 +1,11 @@
-# 871 - Province0871
+# 871 - Tarabba
 
 # County Title
-title = c_province0871
+title = c_tarabba
 
 # Settlements
 max_settlements = 3
-b_barony0871` = tribal
-b_barony0871a = temple
+b_tarabba = tribal
 
 # Misc
 culture = uncultured_swine

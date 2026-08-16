@@ -1,12 +1,11 @@
-# 653 - Province0653
+# 653 - Atravis
 
 # County Title
-title = c_province0653
+title = c_atravis
 
 # Settlements
 max_settlements = 3
-b_barony0653` = tribal
-b_barony0653a = temple
+b_atravis = tribal
 
 # Misc
 culture = uncultured_swine

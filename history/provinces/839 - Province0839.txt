@@ -1,12 +1,11 @@
-# 839 - Province0839
+# 839 - Denab
 
 # County Title
-title = c_province0839
+title = c_denab
 
 # Settlements
 max_settlements = 3
-b_barony0839` = tribal
-b_barony0839a = temple
+b_denab = tribal
 
 # Misc
 culture = uncultured_swine

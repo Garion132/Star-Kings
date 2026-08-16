@@ -613,3 +613,103 @@
 		death=yes
 	}
 }
+60250 = {
+	name= "Frane" 
+	dynasty = 106 #Rutan
+	religion = pagan
+	culture = rutanian
+	912.1.1={
+		birth=yes
+	}
+	989.1.1={
+		death=yes
+	}
+}
+60251 = {
+	name= "Leed" 
+	dynasty = 106 #Rutan
+	religion = pagan
+	culture = rutanian
+	father = 60250
+	939.1.1={
+		birth=yes
+	}
+	1019.1.1={
+		death=yes
+	}
+}
+60252 = {
+	name= "Taroon" 
+	dynasty = 106 #Rutan
+	religion = pagan
+	culture = rutanian
+	father = 60250
+	941.1.1={
+		birth=yes
+	}
+	1023.1.1={
+		death=yes
+	}
+}
+60260 = {
+	name= "Candobar" 
+	dynasty = 107 #Inglet
+	religion = pagan
+	culture = sluissi
+	912.1.1={
+		birth=yes
+	}
+	989.1.1={
+		death=yes
+	}
+}
+60270 = {
+	name= "Tion" 
+	dynasty = 108 #Medon
+	religion = pagan
+	culture = pau_an
+	522.1.1={
+		birth=yes
+	}
+	1102.1.1={
+		death=yes
+	}
+}
+60271 = {
+	name= "Telan" 
+	dynasty = 108 #Medon
+	religion = pagan
+	culture = pau_an
+	father = 60270 #not comfirmed
+	712.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+60280 = {
+	name= "Ebareebaveebeedee" 
+	#dynasty = 
+	religion = pagan
+	culture = squib
+	933.1.1={
+		birth=yes
+	}
+	1009.1.1={
+		death=yes
+	}
+}
+60290 = {
+	name= "Chandra" 
+	dynasty = 110 #Hobat
+	religion = pagan
+	culture = ithorian
+	female = yes
+	933.1.1={
+		birth=yes
+	}
+	1020.1.1={
+		death=yes
+	}
+}

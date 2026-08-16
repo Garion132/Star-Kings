@@ -1,12 +1,11 @@
-# 542 - Province0542
+# 542 - Dorlo
 
 # County Title
-title = c_province0542
+title = c_dorlo
 
 # Settlements
 max_settlements = 5
-b_barony0542` = tribal
-b_barony0542a = temple
+b_dorlo = tribal
 
 # Misc
 culture = uncultured_swine

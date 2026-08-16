@@ -1,15 +1,14 @@
-# 803 - Province0803
+# 803 - Skor
 
 # County Title
-title = c_province0803
+title = c_skor
 
 # Settlements
 max_settlements = 3
-b_barony0803` = tribal
-b_barony0803a = temple
+b_skor = tribal
 
 # Misc
-culture = uncultured_swine
+culture = squib
 religion = pagan
 
 # History

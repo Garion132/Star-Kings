@@ -1,12 +1,11 @@
-# 487 - Province0487
+# 487 - Pitann
 
 # County Title
-title = c_province0487
+title = c_pitann
 
 # Settlements
 max_settlements = 1
-b_barony0487` = tribal
-b_barony0487a = temple
+b_pitann = tribal
 
 # Misc
 culture = uncultured_swine

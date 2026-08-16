@@ -1,12 +1,11 @@
-# 570 - Province0570
+# 570 - Tosste
 
 # County Title
-title = c_province0570
+title = c_tosste
 
 # Settlements
 max_settlements = 1
-b_barony0570` = tribal
-b_barony0570a = temple
+b_tosste = tribal
 
 # Misc
 culture = uncultured_swine

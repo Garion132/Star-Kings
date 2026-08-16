@@ -1,12 +1,11 @@
-# 460 - Province0460
+# 460 - Tantra
 
 # County Title
-title = c_province0460
+title = c_tantra
 
 # Settlements
 max_settlements = 3
-b_barony0460` = tribal
-b_barony0460a = temple
+b_tantra = tribal
 
 # Misc
 culture = uncultured_swine
